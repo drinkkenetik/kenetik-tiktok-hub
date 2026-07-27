@@ -126,6 +126,12 @@
   ],
   "adReads": [
     {
+      "angle": "You found it first",
+      "why": "Put your audience onto brain fuel before it's everywhere. Frame ketones as the next wellness wave, the one people ride early the way they did with collagen, gut health, and prebiotic soda. Your audience follows you to find what's next.",
+      "example": "Caffeine-free brain fuel is a brand-new category. The creators who break it early are the ones who benefit most.",
+      "icon": "first"
+    },
+    {
       "angle": "The 2pm fix",
       "why": "Open on the problem your audience is living: the foggy, checked-out afternoon where you reread the same line and reach for another coffee. Then land the reframe. That's not tiredness, it's your brain running low on fuel. Kenetik is the fix, 12g of ketones for clear focus that holds all afternoon.",
       "example": "Cold open on the 2pm wall, the fog, the reread sentence, then Kenetik as the brain fuel that clears it. Problem first, product as the solution.",
@@ -160,12 +166,6 @@
       "why": "A personal, honest story about what changed when you stopped white-knuckling the afternoon on caffeine: steadier focus, no jitters, no 2pm crash. Land the reframe, you didn't lose focus, you swapped the stimulant for real brain fuel.",
       "example": "A first-person “I quit caffeine, here's what changed” story, steadier days, no crash, with Kenetik as the brain fuel you swapped in. @tyler.slone289 ran it and it converted.",
       "icon": "no-coffee"
-    },
-    {
-      "angle": "You found it first",
-      "why": "Put your audience onto brain fuel before it's everywhere. Frame ketones as the next wellness wave, the one people ride early the way they did with collagen, gut health, and prebiotic soda. Your audience follows you to find what's next.",
-      "example": "Caffeine-free brain fuel is a brand-new category. The creators who break it early are the ones who benefit most.",
-      "icon": "first"
     }
   ],
   "liveVideos": [
