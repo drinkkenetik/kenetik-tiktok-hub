@@ -1,6 +1,6 @@
 {
   "_comment": "Creator Hub live data. Auto-refreshed weekly by /creator-hub-refresh (EUKA-verified). Editorial fields (mission, perks, dos/donts, clips, discordUrl, formEndpoint, assets) are hand-editable.",
-  "updated": "July 20, 2026",
+  "updated": "July 27, 2026",
   "heroHeadline": "Everyone needs brain fuel. Help us put it on the map.",
   "heroGmv": "~$465K in TikTok Shop GMV and counting. The #1 brain fuel brand on TikTok Shop.",
   "discordUrl": "https://discord.com/invite/MXf39eMgTY",
@@ -220,7 +220,7 @@
     {
       "handle": "@kenetik",
       "primary": "$1,060",
-      "secondary": "316K views",
+      "secondary": "414K views",
       "angle": "From our channel",
       "href": "https://tiktok.com/@kenetik/video/7551800944049147191",
       "thumb": "https://database.euka.ai/storage/v1/object/public/creator_videos_photos/7551800944049147191.webp",
@@ -256,7 +256,7 @@
     {
       "handle": "@kenetik",
       "primary": "$350",
-      "secondary": "124K views",
+      "secondary": "195K views",
       "angle": "Real life",
       "rank": "6",
       "age": "10mo ago",
