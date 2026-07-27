@@ -98,7 +98,7 @@
     {
       "n": "1",
       "title": "Know the product",
-      "desc": "Get why Kenetik wins before you post: premium, caffeine-free brain fuel, the opposite of an energy drink. Know the story and the proof so your content lands and stays on-brand.",
+      "desc": "Get why Kenetik wins before you post. It's metabolic brain fuel: the fix for the foggy, crash-at-2pm afternoon, powered by 12g of ketones and zero caffeine. Know the problem it solves and the proof behind it so your content lands and stays on-brand.",
       "cta": "What is Kenetik",
       "href": "#about"
     },
@@ -126,22 +126,16 @@
   ],
   "adReads": [
     {
-      "angle": "Not an energy drink",
-      "why": "Hold your usual energy drink next to Kenetik and read the labels: 200mg caffeine and 39g sugar versus 0, 0, and 12g ketones. The point is that Kenetik is the opposite of an energy drink, not a healthier one. You're leaving the category, not upgrading it.",
-      "example": "Read the labels side by side: a typical energy drink runs ~200mg caffeine and 39g sugar. Kenetik is 0 caffeine, 0 sugar, 12g ketones. Frame it as the replacement, never a “healthier energy drink.”",
-      "icon": "no-bolt"
-    },
-    {
-      "angle": "“I quit caffeine”",
-      "why": "A personal, honest transformation, what changed once you dropped caffeine for good. Steadier days, no jitters, no 2pm crash. Land the reframe: quitting caffeine didn't cost you focus, you just swapped the stimulant for brain fuel.",
-      "example": "A first-person “I quit caffeine, here's what changed” story, steadier days, no crash, with Kenetik as the brain fuel you swapped in. @tyler.slone289 ran it and it converted.",
+      "angle": "The 2pm fix",
+      "why": "Open on the problem your audience is living: the foggy, checked-out afternoon where you reread the same line and reach for another coffee. Then land the reframe. That's not tiredness, it's your brain running low on fuel. Kenetik is the fix, 12g of ketones for clear focus that holds all afternoon.",
+      "example": "Cold open on the 2pm wall, the fog, the reread sentence, then Kenetik as the brain fuel that clears it. Problem first, product as the solution.",
       "icon": "no-coffee"
     },
     {
-      "angle": "Trusted creator owners",
-      "why": "The names your audience already trusts, Roman Atwood, Cleetus McFarland, Matt Hughes, creators with real communities leading the charge on brain health. Their likeness pulls views and belief a cold ad never could.",
-      "example": "Roman Atwood, Cleetus McFarland, Matt Hughes.",
-      "icon": "verified"
+      "angle": "Under-fueled, not lazy",
+      "why": "A quick listicle that names the signs of a brain running low on fuel: you reread everything, you start five things and finish none, you feel it in your body by 5pm. Then reframe it as a fuel problem, not a discipline problem, and land Kenetik as the brain fuel that fixes it.",
+      "example": "Three signs your brain is under-fueled, not lazy, then the brain-fuel swap. Identity-callout format that stops the scroll.",
+      "icon": "no-bolt"
     },
     {
       "angle": "Fits your daily routine",
@@ -150,10 +144,22 @@
       "icon": "routine"
     },
     {
+      "angle": "Trusted creator owners",
+      "why": "The names your audience already trusts, Roman Atwood, Cleetus McFarland, Matt Hughes, creators with real communities leading the charge on brain health. Their likeness pulls views and belief a cold ad never could.",
+      "example": "Roman Atwood, Cleetus McFarland, Matt Hughes.",
+      "icon": "verified"
+    },
+    {
       "angle": "Taste reaction",
       "why": "Everyone's first question about a healthy drink is whether it actually tastes good. Answer it head-on. A real, unscripted first sip, your honest reaction, the flavor call-out. It kills the biggest objection before it's raised, and it makes people want to try it themselves.",
       "example": "@be.lush leaned into the taste, and that honest first-sip reaction drove $9,430 in real TikTok Shop revenue.",
       "icon": "taste"
+    },
+    {
+      "angle": "I quit the afternoon coffee",
+      "why": "A personal, honest story about what changed when you stopped white-knuckling the afternoon on caffeine: steadier focus, no jitters, no 2pm crash. Land the reframe, you didn't lose focus, you swapped the stimulant for real brain fuel.",
+      "example": "A first-person “I quit caffeine, here's what changed” story, steadier days, no crash, with Kenetik as the brain fuel you swapped in. @tyler.slone289 ran it and it converted.",
+      "icon": "no-coffee"
     },
     {
       "angle": "You found it first",
@@ -174,10 +180,10 @@
       "rank": "1",
       "age": "11mo ago",
       "why": "A creator amplifying a Kenetik owner's core message, that running on the wrong fuel makes you feel like garbage, and Kenetik is different. Borrowing a trusted owner's framing gave it instant credibility, and it became our biggest single video.",
-      "hook": "Feel like garbage? It's the fuel you're putting in. Kenetik is the real thing, not another energy drink.",
+      "hook": "Feel like garbage? It's the fuel you're running on. Kenetik is real brain fuel, the clean fuel your brain actually wants.",
       "sellingPoints": [
         "The owner's message: garbage fuel in, garbage out.",
-        "Kenetik is real fuel, not an energy drink.",
+        "Kenetik is real brain fuel, clean fuel for your brain.",
         "No crash, no jitters, just steady focus."
       ]
     },
@@ -230,9 +236,9 @@
       "why": "Our own channel: a partner unveils Kenetik as a new tool for your toolbox, with announcement energy.",
       "hook": "Today I'm going to introduce you to a brand new tool for your toolbox.",
       "sellingPoints": [
-        "Out to disrupt the energy drink market.",
+        "Out to build a new category: brain fuel.",
         "Caffeine-free and sugar-free, and you still feel great.",
-        "Clean energy, no caffeine needed."
+        "Clean brain fuel, no caffeine needed."
       ]
     },
     {
@@ -246,7 +252,7 @@
       "rank": "5",
       "age": "10mo ago",
       "why": "An enthusiastic, relatable monologue: what she reaches for instead of the usual energy drinks.",
-      "hook": "Need energy right now? What I'm not reaching for is the garbage everyone's drinking.",
+      "hook": "Need to lock in right now? Here's the brain fuel I reach for.",
       "sellingPoints": [
         "Three ingredients, all natural.",
         "The flavors are out of this world.",
@@ -286,18 +292,18 @@
       "cat": "Functional",
       "hook": "“This really puts it into perspective” label comparison",
       "gmv": "~$23K",
-      "spin": "“Here's what I stopped putting in my body.” Hold an energy drink next to Kenetik and read the labels: 200mg caffeine, 39g sugar, versus 0, 0, and 12g ketones.",
+      "spin": "“Here's the brain fuel I run on now.” Read Kenetik's label out loud, 12g ketones, zero sugar, zero caffeine, and let the numbers land it as brain fuel.",
       "href": "https://www.tiktok.com/@az_momlife/video/7655397131263429918",
       "thumb": "https://database.euka.ai/storage/v1/object/public/creator_videos_photos/7655397131263429918.webp",
       "why": "She holds the product up and reads the real label numbers back to back, then lands on the shocker (124g of sugar). The this-for-this rhythm makes the math impossible to un-see. @az_momlife ran the exact format for two different brands and it converted both times, proof it's the format, not the creator.",
-      "caveat": "Borrow the label-comparison rhythm. Stick to our proof set and the caffeine and sugar contrast, no health claims."
+      "caveat": "Borrow the label-read rhythm. Keep it to our proof set and the brain-fuel story, no health claims and no energy-drink framing."
     },
     {
       "brand": "Nello",
       "cat": "Calm / focus drink",
       "hook": "“You do NOT drink this before…” warning",
       "gmv": "~$115K",
-      "spin": "“Do not reach for another energy drink until you've seen this.”",
+      "spin": "“Before you push through another foggy afternoon, watch this.”",
       "href": "https://tiktok.com/@hkapproved/video/7617192215911124238",
       "thumb": "https://database.euka.ai/storage/v1/object/public/creator_videos_photos/7617192215911124238.webp",
       "why": "A pattern-interrupt that stops the scroll in the first second by telling you NOT to do something. Curiosity forces the watch, and it works for a functional drink exactly like ours.",
@@ -308,7 +314,7 @@
       "cat": "Hydration",
       "hook": "The relatable-problem callout",
       "gmv": "~$26K",
-      "spin": "“If you drink water all day and still hit a wall by 2pm, it isn't hydration. It's fuel.”",
+      "spin": "“If you drink water all day and still hit a wall by 2pm, it isn't hydration. It's brain fuel.”",
       "href": "https://tiktok.com/@tru_cru/video/7653192218005540110",
       "thumb": "https://database.euka.ai/storage/v1/object/public/creator_videos_photos/7653192218005540110.webp",
       "why": "Opens on a problem the viewer is already living, then reframes the cause in the same breath. Naming the exact frustration in the first line is what makes them stay for the fix.",
@@ -319,7 +325,7 @@
       "cat": "Calm / focus drink",
       "hook": "“Things I wish I knew before…” story",
       "gmv": "~$72K",
-      "spin": "“Things I wish I knew before I quit energy drinks.”",
+      "spin": "“Things I wish I knew before I found brain fuel.”",
       "href": "https://tiktok.com/@chaosonthecoast_/video/7559593716642532663",
       "thumb": "https://database.euka.ai/storage/v1/object/public/creator_videos_photos/7559593716642532663.webp",
       "why": "A listicle wrapped in a personal story. 'Things I wish I knew' pulls the viewer in and gives them a reason to save and share. Low-lift to shoot, high on relatability.",
@@ -330,7 +336,7 @@
       "cat": "K-beauty",
       "hook": "“How is this even legal?” curiosity",
       "gmv": "~$80K",
-      "spin": "“How is a caffeine-free drink keeping me this dialed in?”",
+      "spin": "“How is a little can keeping my brain this dialed in all afternoon?”",
       "href": "https://tiktok.com/@cakedfinds/video/7655929538240679198",
       "thumb": "assets/teardown-medicube.jpg",
       "why": "A provocative curiosity hook that dares you to keep watching. 'How is this even legal' implies a result so good it feels against the rules. A pure open loop.",
@@ -349,15 +355,17 @@
     }
   ],
   "dos": [
+    "Say “brain fuel” at least once in every video, non-negotiable. It's the category we're building together, so plant it every time. Say it your way: “brain fuel,” “metabolic brain fuel,” “brain fuel drink,” or “fuel for your brain.”",
     "Win the first 2 seconds. The hook is the whole game.",
+    "Lead with what Kenetik IS and the problem it solves, brain fuel for the foggy, crash-at-2pm afternoon. Never lead with what it's not.",
     "Convert through story and shared experience, not a discount. We're premium.",
     "Keep it raw and real. One take, your voice. Polished reads like an ad and kills it.",
-    "Talk from personal experience: caffeine-free, 12g ketones, no crash, tastes good, no jitters.",
+    "Talk from personal experience: the 2pm fog lifting, steady focus all afternoon, 12g of ketones, no crash, no jitters, and it tastes good.",
     "Show the can in the scene, in hand, in the bag, on the desk, never on a pedestal.",
     "Put your code in the caption and a pinned comment. Tag @Kenetik."
   ],
   "donts": [
-    "Don't call Kenetik an energy drink. It's the thing you're replacing. “Energy drink killer” is the only exception.",
+    "Kenetik is brain fuel, so never label it an energy drink, and don't frame it against that category at all. Lead with what it is and the problem it solves.",
     "Don't make health or medical claims. No “treats,” “cures,” “clinically proven,” or conditions. Personal experience only.",
     "Don't lead with a discount or “X% off.”",
     "Don't read a stiff script, and don't over-polish."
@@ -412,7 +420,7 @@
   "faqs": [
     {
       "q": "What is Kenetik?",
-      "a": "Kenetik is said like the word “kinetic” (kih-NET-ik). It's caffeine-free brain fuel: real clarity and focus with zero caffeine, zero sugar, nothing artificial, and 12 grams of ketones. It's the opposite of an energy drink: calm, clear energy with no jitters and no crash."
+      "a": "Kenetik is said like the word “kinetic” (kih-NET-ik). It's metabolic brain fuel: clear focus for the moments your brain would normally fog out or crash, powered by 12 grams of ketones with zero caffeine, zero sugar, and nothing artificial. Calm, clear energy, no jitters and no 2pm crash."
     },
     {
       "q": "So what actually is a ketone?",
@@ -428,7 +436,7 @@
     },
     {
       "q": "What can I say, and what should I avoid?",
-      "a": "Talk from your own experience: caffeine-free, 12 grams of ketones, no jitters, no crash, tastes good, steady focus. Keep every line experiential. Don't make health or medical claims like treats, cures, or clinically proven, and never call Kenetik an energy drink. It's the energy drink killer."
+      "a": "Talk from your own experience: steady focus, no 2pm crash, 12 grams of ketones, no jitters, caffeine-free, and it tastes good. Keep every line experiential, and make sure you say “brain fuel” at least once. Don't make health or medical claims like treats, cures, or clinically proven, and never call Kenetik an energy drink. It's metabolic brain fuel, the fix for the foggy afternoon, not another stimulant."
     },
     {
       "q": "Does it have caffeine? What's in it?",
@@ -448,14 +456,15 @@
     }
   ],
   "sayThis": [
-    "Caffeine-free, sugar-free, 12g ketones, nothing artificial.",
     "Brain fuel. Metabolic brain fuel. The category we're building.",
     "Calm, clear focus with no jitters and no 2pm crash.",
+    "The fix for the foggy, checked-out afternoon.",
+    "12g ketones, caffeine-free, sugar-free, nothing artificial.",
     "How it makes YOU feel, in your own words.",
-    "The opposite of an energy drink, what you reach for instead.",
     "Bioidentical D-BHB ketones."
   ],
   "notThat": [
+    "Don't frame Kenetik against the energy-drink category at all. Lead with brain fuel and the problem it solves.",
     "“Energy drink,” even “a healthier energy drink.”",
     "“Treats,” “cures,” “prevents,” or any health condition.",
     "“Clinically proven.” (We say “clinically studied.”)",
