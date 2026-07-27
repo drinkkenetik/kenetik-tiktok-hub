@@ -2,7 +2,7 @@
   "_comment": "Creator Hub live data. Auto-refreshed weekly by /creator-hub-refresh (EUKA-verified). Editorial fields (mission, perks, dos/donts, clips, discordUrl, formEndpoint, assets) are hand-editable.",
   "updated": "July 20, 2026",
   "heroHeadline": "Everyone needs brain fuel. Help us put it on the map.",
-  "heroGmv": "~$465K in TikTok Shop GMV and counting. The #1 ketone brand on TikTok Shop.",
+  "heroGmv": "~$465K in TikTok Shop GMV and counting. The #1 brain fuel brand on TikTok Shop.",
   "discordUrl": "https://discord.com/invite/MXf39eMgTY",
   "formEndpoint": "",
   "assets": {},
@@ -127,7 +127,7 @@
   "adReads": [
     {
       "angle": "You found it first",
-      "why": "Put your audience onto brain fuel before it's everywhere. Frame ketones as the next wellness wave, the one people ride early the way they did with collagen, gut health, and prebiotic soda. Your audience follows you to find what's next.",
+      "why": "Put your audience onto brain fuel before it's everywhere. Frame brain fuel as the next wellness wave, the one people ride early the way they did with collagen, gut health, and prebiotic soda. Your audience follows you to find what's next.",
       "example": "Caffeine-free brain fuel is a brand-new category. The creators who break it early are the ones who benefit most.",
       "icon": "first"
     },
@@ -185,7 +185,7 @@
       "handle": "@be.lush",
       "primary": "$9,430",
       "secondary": "482K views",
-      "angle": "Ketones + focus",
+      "angle": "Brain fuel + focus",
       "href": "https://tiktok.com/@be.lush/video/7545964105744534839",
       "thumb": "https://database.euka.ai/storage/v1/object/public/creator_videos_photos/7545964105744534839.webp",
       "note": "First-person on why she runs on ketones instead of caffeine.",
@@ -312,7 +312,7 @@
       "href": "https://tiktok.com/@tru_cru/video/7653192218005540110",
       "thumb": "https://database.euka.ai/storage/v1/object/public/creator_videos_photos/7653192218005540110.webp",
       "why": "Opens on a problem the viewer is already living, then reframes the cause in the same breath. Naming the exact frustration in the first line is what makes them stay for the fix.",
-      "caveat": "Borrow the relatable-problem open. Keep the reframe to caffeine and ketones, no hydration or medical claims."
+      "caveat": "Borrow the relatable-problem open. Keep the reframe to the brain-fuel problem, no hydration or medical claims."
     },
     {
       "brand": "Nello",
@@ -418,7 +418,7 @@
     },
     {
       "q": "So what actually is a ketone?",
-      "a": "Ketones (say it “KEE-tones”) are a clean fuel your body makes on its own when it runs low on carbs, and your brain can run on them without caffeine or sugar. The catch with most ketone drinks is they taste rough and are hard to get down. Kenetik uses bioidentical D-BHB, the same ketone your body makes, at a real 12-gram dose, in a can that actually tastes good. The right ketone, a real dose, and a taste you'll actually finish is what sets Kenetik apart from the competition."
+      "a": "Ketones (say it “KEE-tones”) are a clean fuel your body makes on its own when it runs low on carbs, and your brain can run on them without caffeine or sugar. The catch is that most versions taste rough and are hard to get down. Kenetik uses bioidentical D-BHB, the same ketone your body makes, at a real 12-gram dose, in a can that actually tastes good. The right ketone, a real dose, and a taste you'll actually finish is what sets Kenetik apart from the competition."
     },
     {
       "q": "How do I earn commission?",
