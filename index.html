@@ -31,6 +31,7 @@
 .hero-text{padding:clamp(40px,6vw,80px) clamp(20px,4vw,56px);justify-content:center;}@media(max-width:640px){.hero-text{padding:24px 20px 40px;justify-content:flex-start;}}.oneline{display:inline-flex;align-items:center;gap:16px;}@media(max-width:640px){.oneline{display:flex;flex-direction:column;align-items:flex-start;gap:8px;}}
 @media(max-width:640px){.hero-media{order:-1;min-height:300px;}.hero-text{padding-top:20px;}}
 .hero-frame{inset:clamp(16px,2vw,40px);}@media(max-width:640px){.hero-frame{inset:4px 6px 10px 6px;}.hero-media{min-height:270px;}}
+  @media(max-width:560px){.hub-sub{display:none;}.hdr-btn{padding:10px 12px !important;font-size:12px;}}
 </style>
 </head>
 <body>
@@ -40,9 +41,9 @@
   <div class="wrap" style="padding:14px 20px;display:flex;align-items:center;justify-content:space-between;gap:16px;">
     <a href="#top" style="display:flex;align-items:center;gap:10px;color:#16161D;">
       <span style="font-weight:700;font-size:18px;letter-spacing:-.01em;">KENETIK</span>
-      <span style="font-size:11px;font-weight:600;letter-spacing:.12em;text-transform:uppercase;color:#5A5B66;border-left:1px solid #E7E8EC;padding-left:10px;white-space:nowrap;">Creator Hub</span>
+      <span class="hub-sub" style="font-size:11px;font-weight:600;letter-spacing:.12em;text-transform:uppercase;color:#5A5B66;border-left:1px solid #E7E8EC;padding-left:10px;white-space:nowrap;">Creator Hub</span>
     </a>
-    <a data-discord class="btn" href="#join" style="background:#1E1230;color:#fff;padding:11px 16px;white-space:nowrap;flex-shrink:0;">Join Discord</a>
+    <div style="display:flex;align-items:center;gap:8px;flex-shrink:0;"><a class="btn hdr-btn" href="/hooks" style="background:linear-gradient(90deg,#D0148C,#7A2BD0);color:#fff;padding:11px 16px;white-space:nowrap;">Hook Library</a><a data-discord class="btn hdr-btn" href="#join" style="background:#1E1230;color:#fff;padding:11px 16px;white-space:nowrap;">Join Discord</a></div>
   </div>
   <nav id="nav" class="wrap" style="padding:0 12px;display:flex;gap:2px;overflow-x:auto;white-space:nowrap;border-top:1px solid #F0F1F4;"></nav>
 </header>
