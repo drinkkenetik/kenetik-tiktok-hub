@@ -10,6 +10,7 @@ body{margin:0;font-family:'Futura','Century Gothic','Trebuchet MS','Segoe UI',sa
 .side{width:262px;flex:0 0 262px;background:var(--plum);color:#fff;position:sticky;top:0;height:100vh;overflow-y:auto;padding:0 0 24px;}
 .brand{padding:22px 20px 6px;font-weight:800;letter-spacing:3px;font-size:20px;}
 .brand small{display:block;letter-spacing:2px;font-size:10px;font-weight:400;color:#CFCBDA;margin-top:4px;}
+.hint{display:none;}
 .stripe{height:4px;background:linear-gradient(90deg,var(--berry) 0 33%,var(--violet) 33% 66%,var(--blue) 66% 100%);margin:12px 0 8px;}
 .tab{display:flex;justify-content:space-between;align-items:center;width:100%;text-align:left;background:none;border:0;border-left:3px solid transparent;color:#CFCBDA;font:inherit;font-size:13.5px;padding:11px 18px;cursor:pointer;}
 .tab:hover{color:#fff;background:rgba(255,255,255,.05);}
@@ -42,6 +43,7 @@ ul.run b{color:var(--ink);} ul.run b.dont{color:var(--bad);}
 <body><div class="wrap">
 <nav class="side">
   <div class="brand">KENETIK<small>TIKTOK HOOK LIBRARY</small></div>
+  <div class="hint">Swipe for more →</div>
   <div class="stripe"></div>
   <div class="tabs"><button class="tab active" onclick="showTab(0,'general')" id="tab0"><span>General — All Creators</span><em></em></button><button class="tab" onclick="showTab(1,'biohackers')" id="tab1"><span>Biohackers / Productivity</span><em></em></button><button class="tab" onclick="showTab(2,'brain-health')" id="tab2"><span>Brain Health / Longevity</span><em> 🧠</em></button><button class="tab" onclick="showTab(3,'women-18-30')" id="tab3"><span>Women 18–30 / Wellness</span><em> 🧠</em></button><button class="tab" onclick="showTab(4,'women-40-menopause')" id="tab4"><span>Women 40+ / Menopause</span><em> 🧠</em></button><button class="tab" onclick="showTab(5,'fitness-moms')" id="tab5"><span>Fitness Moms / Active 40+</span><em></em></button><button class="tab" onclick="showTab(6,'nurses')" id="tab6"><span>Nurses / Healthcare</span><em></em></button><button class="tab" onclick="showTab(7,'entrepreneurs')" id="tab7"><span>Entrepreneurs / Family</span><em></em></button><button class="tab" onclick="showTab(8,'blue-collar')" id="tab8"><span>Blue Collar / First Responders</span><em></em></button><button class="tab" onclick="showTab(9,'gaming')" id="tab9"><span>Gaming</span><em></em></button><button class="tab" onclick="showTab(10,'fitness-gym')" id="tab10"><span>Fitness / Gym</span><em> 🧠</em></button><button class="tab" onclick="showTab(11,'hyrox')" id="tab11"><span>HYROX / Hybrid</span><em> 🧠</em></button><button class="tab" onclick="showTab(12,'ultra')" id="tab12"><span>Ultra / Do Hard Things</span><em> 🧠</em></button><button class="tab" onclick="showTab(13,'cycling-endurance')" id="tab13"><span>Cycling / Endurance</span><em> 🧠</em></button><button class="tab" onclick="showTab(14,'golf')" id="tab14"><span>Golf</span><em></em></button><button class="tab" onclick="showTab(15,'racing')" id="tab15"><span>Racing / Gearheads</span><em></em></button></div>
 </nav>
