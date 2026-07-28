@@ -8,6 +8,10 @@
   "assets": {},
   "navLinks": [
     {
+      "label": "Hook Library ↗",
+      "href": "/hooks"
+    },
+    {
       "label": "What is Kenetik",
       "href": "#about"
     },
