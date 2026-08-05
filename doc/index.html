@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Kenetik — Dr Disrespect Hooks</title>
+<meta name="robots" content="noindex">
+<style>
+:root{--ink:#16161D;--ink2:#5A5B66;--muted:#9A9BA6;--berry:#D0148C;--violet:#7A2BD0;--blue:#2E6BE6;--plum:#1E1230;--panel:#F5F6F8;--line:#E6E6EA;--amberbg:#FDEEE0;--amberbd:#F5821F;--bad:#E0322B;}
+*{box-sizing:border-box;}
+body{margin:0;font-family:'Futura','Century Gothic','Trebuchet MS','Segoe UI',sans-serif;color:var(--ink);background:#fff;}
+.wrap{display:flex;min-height:100vh;}
+.side{width:262px;flex:0 0 262px;background:var(--plum);color:#fff;position:sticky;top:0;height:100vh;overflow-y:auto;padding:0 0 24px;}
+.brand{padding:22px 20px 6px;font-weight:800;letter-spacing:3px;font-size:20px;}
+.brand small{display:block;letter-spacing:2px;font-size:10px;font-weight:400;color:#CFCBDA;margin-top:4px;}
+.hint{display:none;}
+.backlink{display:inline-block;font-size:10px;letter-spacing:1.2px;text-transform:uppercase;color:#E9E4F2;font-weight:700;margin-bottom:14px;text-decoration:none;padding:6px 12px;border:1px solid rgba(208,20,140,.55);border-radius:999px;background:rgba(208,20,140,.12);transition:background .15s ease,border-color .15s ease,color .15s ease,box-shadow .15s ease;}
+.backlink:hover{background:#D0148C;border-color:#D0148C;color:#fff;box-shadow:0 2px 10px rgba(208,20,140,.35);}
+.backlink:active{transform:translateY(1px);}
+.brand .wordmark{color:#fff;text-decoration:none;display:block;line-height:1;}
+.stripe{height:4px;background:linear-gradient(90deg,var(--berry) 0 33%,var(--violet) 33% 66%,var(--blue) 66% 100%);margin:12px 0 8px;}
+.tab{display:flex;justify-content:space-between;align-items:center;width:100%;text-align:left;background:none;border:0;border-left:3px solid transparent;color:#CFCBDA;font:inherit;font-size:13.5px;padding:11px 18px;cursor:pointer;}
+.tab:hover{color:#fff;background:rgba(255,255,255,.05);}
+.tab.active{color:#fff;font-weight:700;border-left-color:var(--berry);background:rgba(208,20,140,.14);}
+.tab em{font-style:normal;color:var(--berry);font-size:12px;}
+.main{flex:1;min-width:0;padding:34px 46px 60px;max-width:900px;}
+.panel{display:none;} .panel.show{display:block;}
+.strip{height:5px;width:100%;background:linear-gradient(90deg,var(--berry) 0 33%,var(--violet) 33% 66%,var(--blue) 66% 100%);border-radius:2px;margin-bottom:16px;}
+h1{font-size:26px;margin:0 0 4px;letter-spacing:.2px;}
+.sub{color:var(--ink2);font-size:13.5px;margin-bottom:20px;}
+.eyebrow{color:var(--berry);font-weight:700;font-size:11px;letter-spacing:2.5px;text-transform:uppercase;margin:26px 0 10px;}
+.northstar{background:var(--panel);border-left:5px solid var(--berry);padding:13px 16px;border-radius:2px;}
+.northstar p{margin:0;font-size:14.5px;line-height:1.5;color:var(--ink2);} .northstar b{color:var(--ink);}
+.amber{background:#FBEAF4;border-left:5px solid var(--berry);padding:11px 16px;border-radius:2px;margin-top:14px;}
+.amber-label{color:var(--berry);font-weight:700;font-size:11px;letter-spacing:1.5px;text-transform:uppercase;margin-bottom:5px;}
+.amber p{margin:0;font-size:13.5px;line-height:1.5;color:var(--ink2);} .amber b{color:var(--ink);}
+.hooks{border-top:1px solid var(--line);}
+.hook{display:flex;gap:16px;padding:14px 4px;border-bottom:1px solid var(--line);}
+.hook:nth-child(even){background:var(--panel);}
+.hnum{flex:0 0 34px;color:var(--berry);font-weight:800;font-size:19px;text-align:right;}
+.htxt{font-size:15px;font-weight:700;line-height:1.4;color:var(--ink);}
+.hmeta{font-size:12px;font-style:italic;color:var(--ink2);margin-top:5px;}
+ul.run{list-style:none;padding:0;margin:6px 0 0;}
+ul.run li{position:relative;padding:6px 0 6px 20px;font-size:13.5px;line-height:1.5;color:var(--ink2);}
+ul.run li:before{content:"•";position:absolute;left:2px;color:var(--berry);font-weight:700;}
+ul.run b{color:var(--ink);} ul.run b.dont{color:var(--bad);}
+.foot{margin-top:34px;padding-top:12px;border-top:1px solid var(--line);color:var(--muted);font-size:11px;}
+@media(max-width:760px){.wrap{flex-direction:column;}.side{position:sticky;top:0;z-index:30;flex:0 0 auto;width:100%;height:auto;overflow:visible;padding:0 0 6px;box-shadow:0 3px 10px rgba(0,0,0,.18);}.brand{padding:10px 16px 2px;font-size:15px;letter-spacing:2px;}.brand small{font-size:8px;margin-top:2px;}.stripe{margin:6px 0 0;}.tabs{display:flex;overflow-x:auto;-webkit-overflow-scrolling:touch;scrollbar-width:none;}.tabs::-webkit-scrollbar{display:none;}.tab{flex:0 0 auto;width:auto;white-space:nowrap;border-left:0;border-bottom:3px solid transparent;padding:11px 15px;}.tab:hover{background:none;}.tab.active{border-left:0;border-bottom-color:var(--berry);background:rgba(208,20,140,.16);}.tab em{margin-left:5px;}.main{padding:20px 18px 50px;}.hint{display:block;position:absolute;top:52px;right:16px;font-size:9.5px;letter-spacing:1.3px;text-transform:uppercase;color:#CFCBDA;opacity:.9;z-index:6;}.side::after{content:"›";position:absolute;right:0;bottom:6px;height:46px;width:56px;background:linear-gradient(90deg,rgba(30,18,48,0),var(--plum) 70%);pointer-events:none;z-index:5;color:#CFCBDA;font-size:20px;font-weight:700;display:flex;align-items:center;justify-content:flex-end;padding-right:13px;}}
+</style></head>
+<body><div class="wrap">
+<nav class="side">
+  <div class="brand"><a class="backlink" href="/">← Creator Hub</a><a class="wordmark" href="/">KENETIK</a><small>DR DISRESPECT · HOOK LIBRARY</small></div>
+  <div class="hint">Swipe for more →</div>
+  <div class="stripe"></div>
+  <div class="tabs"><button class="tab active" onclick="showTab(0,'start-here')" id="tab0"><span>Start Here</span><em></em></button><button class="tab" onclick="showTab(1,'streaming')" id="tab1"><span>Streaming</span><em></em></button><button class="tab" onclick="showTab(2,'raspberry-lychee')" id="tab2"><span>Raspberry Lychee</span><em></em></button></div>
+</nav>
+<main class="main">
+<section class="panel show" id="panel0" data-slug="start-here"><div class="strip"></div><h1>Start Here — the brief</h1><div class="sub">Curated for Dr Disrespect</div><div class="eyebrow">The goal</div><div class="northstar"><p>We are testing hooks for your streams and clips. The first few seconds decide whether a viewer stays, so drop these at the top of a clip or work them into a stream moment. We will watch what lands and lean into the winners.</p></div><div class="eyebrow">What Kenetik is</div><div class="northstar"><p>Kenetik is metabolic brain fuel: clean, caffeine-free focus. It is the edge that keeps your mind sharp and fast when it matters. Lead with the win or the moment, then bring in Kenetik as the fuel behind it.</p></div><div class="eyebrow">Your lane</div><div class="northstar"><p>Dominance. A clear, fast mind wins the gunfight, the clutch, the twelve-hour grind. Kenetik is the fuel behind that focus. Stay in character, stay larger than life, and let the clarity be your edge.</p></div><div class="eyebrow">The tabs</div><div class="northstar"><p>Streaming has your core hooks. Raspberry Lychee has hooks for the new flavor launch. Pick what fits the moment.</p></div><div class="eyebrow">One rule</div><div class="northstar"><p>No medical claims. Kenetik does not cure, treat, or fix anything. Keep it to focus, feel, and winning. That is also TikTok Shop’s rule.</p></div><div class="eyebrow">Let’s go</div><div class="northstar"><p>Clear mind. Clean fuel. Dominate. That is the Kenetik way.</p></div></section>
+<section class="panel" id="panel1" data-slug="streaming"><div class="strip"></div><h1>Dr Disrespect hooks — Streaming</h1><div class="sub">10 hooks to test &nbsp;·&nbsp; STREAMING / DOMINATION</div><div class="eyebrow">The north star</div><div class="northstar"><p>This is Dr Disrespect: gamer, streamer, champion who competes to dominate. The angle is simple: a clear, fast mind is the edge that wins, and Kenetik is the clean, caffeine-free brain fuel behind it. Lean into the larger-than-life persona, tie the clarity to winning, and keep Kenetik as the fuel, not the story. No medical claims.</p></div><div class="eyebrow">The hooks</div><div class="hooks"><div class="hook"><div class="hnum">01</div><div class="hbody"><div class="htxt">“The Two-Time does not get out-aimed. A clear head is the edge, and this is what I run on. Caffeine-free brain fuel.”</div><div class="hmeta">Flex / dominance  ·  Stream intro or to-cam  ·  Gamers</div></div></div><div class="hook"><div class="hnum">02</div><div class="hbody"><div class="htxt">“Speed. Violence. Momentum. None of it matters if your mind is a step behind. This keeps mine razor sharp.”</div><div class="hmeta">Persona / brain fuel  ·  To-cam  ·  Gamers</div></div></div><div class="hook"><div class="hnum">03</div><div class="hbody"><div class="htxt">“Every lobby is mine to dominate. The difference is focus, and focus is fuel. Say hello to Kenetik.”</div><div class="hmeta">Flex / category  ·  Mid-stream  ·  Gamers</div></div></div><div class="hook"><div class="hnum">04</div><div class="hbody"><div class="htxt">“You want to know how I stay locked in for a twelve-hour stream? It is not caffeine. It is brain fuel.”</div><div class="hmeta">Open loop / brain fuel  ·  To-cam  ·  Streamers</div></div></div><div class="hook"><div class="hnum">05</div><div class="hbody"><div class="htxt">“The clearest mind wins the gunfight. Simple as that. I fuel mine with Kenetik.”</div><div class="hmeta">Flex / clarity is the edge  ·  Clip intro  ·  Gamers</div></div></div><div class="hook"><div class="hnum">06</div><div class="hbody"><div class="htxt">“Champions do not crash at hour six. I stay sharp start to finish. No caffeine, no crash.”</div><div class="hmeta">Endurance / stream stamina  ·  Mid-stream  ·  Streamers</div></div></div><div class="hook"><div class="hnum">07</div><div class="hbody"><div class="htxt">“Everyone is chasing the next energy drink. I fuel the one thing that actually wins games. My brain.”</div><div class="hmeta">Category stake / contrast  ·  To-cam  ·  Gamers</div></div></div><div class="hook"><div class="hnum">08</div><div class="hbody"><div class="htxt">“Welcome to the Arena. The mind that stays clear is the mind that dominates. Kenetik keeps mine clear.”</div><div class="hmeta">Persona / brand belief  ·  Stream intro  ·  Gamers</div></div></div><div class="hook"><div class="hnum">09</div><div class="hbody"><div class="htxt">“Dominance starts in the mind. I keep mine sharp with clean, caffeine-free brain fuel. Now back to work.”</div><div class="hmeta">Identity / brand belief  ·  To-cam  ·  Gamers</div></div></div><div class="hook"><div class="hnum">10</div><div class="hbody"><div class="htxt">“New challenger in the lobby? Good. A fueled brain is a faster brain, and mine is fueled. Let’s go.”</div><div class="hmeta">Flex / edge  ·  Mid-stream  ·  Gamers</div></div></div></div></section>
+<section class="panel" id="panel2" data-slug="raspberry-lychee"><div class="strip"></div><h1>Dr Disrespect hooks — Raspberry Lychee</h1><div class="sub">8 hooks to test &nbsp;·&nbsp; RASPBERRY LYCHEE (new flavor)</div><div class="eyebrow">The north star</div><div class="northstar"><p>Raspberry Lychee is Kenetik’s new can flavor. Play it like a champion trying the newest gear: taste it, react big, and let people know it sells out fast. Keep the dominant persona, lead with taste, and Kenetik as the fuel of champions.</p></div><div class="eyebrow">The hooks</div><div class="hooks"><div class="hook"><div class="hnum">01</div><div class="hbody"><div class="htxt">“New flavor just dropped. Raspberry Lychee. Even the Two-Time approves. Taste it before it is gone.”</div><div class="hmeta">Drop / persona  ·  First-sip on stream  ·  Broad</div></div></div><div class="hook"><div class="hnum">02</div><div class="hbody"><div class="htxt">“Raspberry Lychee. The best tasting brain fuel in the Arena. This is what dominance tastes like.”</div><div class="hmeta">Taste / flex  ·  First-sip  ·  Broad</div></div></div><div class="hook"><div class="hnum">03</div><div class="hbody"><div class="htxt">“New Kenetik flavor: Raspberry Lychee. Clean, caffeine-free, and it slaps. Fueling up for the grind.”</div><div class="hmeta">Taste + brain fuel  ·  Mid-stream  ·  Gamers</div></div></div><div class="hook"><div class="hnum">04</div><div class="hbody"><div class="htxt">“They dropped a new flavor and it is a problem for my opponents. Raspberry Lychee. Locked in and loving it.”</div><div class="hmeta">Flex / taste  ·  To-cam  ·  Gamers</div></div></div><div class="hook"><div class="hnum">05</div><div class="hbody"><div class="htxt">“Raspberry Lychee is here and it will sell out fast. Champions move first. Go.”</div><div class="hmeta">Scarcity / persona  ·  To-cam  ·  FOMO</div></div></div><div class="hook"><div class="hnum">06</div><div class="hbody"><div class="htxt">“Cracking the new Raspberry Lychee mid-stream. Tastes elite. Head stays clear. Back to dominating.”</div><div class="hmeta">First-sip reaction  ·  Mid-stream  ·  Gamers</div></div></div><div class="hook"><div class="hnum">07</div><div class="hbody"><div class="htxt">“New flavor test: Raspberry Lychee. Verdict? Undefeated. Caffeine-free brain fuel that actually tastes good.”</div><div class="hmeta">Reaction / taste  ·  First-sip  ·  Broad</div></div></div><div class="hook"><div class="hnum">08</div><div class="hbody"><div class="htxt">“Raspberry Lychee dropped. Grab it before the lobby does. This is the fuel of champions.”</div><div class="hmeta">Scarcity / close  ·  To-cam  ·  Broad</div></div></div></div></section>
+</main>
+</div>
+<script>
+function showTab(i,slug){
+  document.querySelectorAll('.panel').forEach(function(p){p.classList.remove('show');});
+  document.querySelectorAll('.tab').forEach(function(t){t.classList.remove('active');});
+  document.getElementById('panel'+i).classList.add('show');
+  document.getElementById('tab'+i).classList.add('active');
+  if(slug){history.replaceState(null,'','#'+slug);}
+  var at=document.getElementById('tab'+i);
+  if(at&&at.scrollIntoView){at.scrollIntoView({inline:'center',block:'nearest'});}
+  window.scrollTo(0,0);
+}
+(function(){
+  var h=(location.hash||'').replace('#','').toLowerCase();
+  if(!h) return;
+  var panels=document.querySelectorAll('.panel');
+  for(var i=0;i<panels.length;i++){ if(panels[i].getAttribute('data-slug')===h){ showTab(i,h); break; } }
+})();
+(function(){
+  if(location.hash) return;
+  if(!(window.matchMedia && window.matchMedia('(max-width:760px)').matches)) return;
+  var t=document.querySelector('.tabs');
+  if(!t || t.scrollWidth <= t.clientWidth+8) return;
+  setTimeout(function(){ t.scrollTo({left:72,behavior:'smooth'});
+    setTimeout(function(){ t.scrollTo({left:0,behavior:'smooth'}); }, 620); }, 550);
+})();
+</script>
+</body></html>
