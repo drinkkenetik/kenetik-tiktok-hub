@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
-<title>Kenetik — Hooks to Test</title>
+<title>Kenetik — Creator Playbook</title>
 <meta name="robots" content="noindex">
 <style>
-:root{--ink:#16161D;--ink2:#5A5B66;--muted:#9A9BA6;--berry:#D0148C;--violet:#7A2BD0;--blue:#2E6BE6;--plum:#1E1230;--panel:#F5F6F8;--line:#E6E6EA;--amberbg:#FDEEE0;--amberbd:#F5821F;--bad:#E0322B;}
+:root{--ink:#16161D;--ink2:#5A5B66;--muted:#9A9BA6;--berry:#D0148C;--violet:#7A2BD0;--blue:#2E6BE6;--plum:#1E1230;--panel:#F5F6F8;--line:#E6E6EA;--bad:#E0322B;}
 *{box-sizing:border-box;}
 body{margin:0;font-family:'Futura','Century Gothic','Trebuchet MS','Segoe UI',sans-serif;color:var(--ink);background:#fff;}
 .wrap{display:flex;min-height:100vh;}
@@ -19,7 +19,6 @@ body{margin:0;font-family:'Futura','Century Gothic','Trebuchet MS','Segoe UI',sa
 .tab{display:flex;justify-content:space-between;align-items:center;width:100%;text-align:left;background:none;border:0;border-left:3px solid transparent;color:#CFCBDA;font:inherit;font-size:13.5px;padding:11px 18px;cursor:pointer;}
 .tab:hover{color:#fff;background:rgba(255,255,255,.05);}
 .tab.active{color:#fff;font-weight:700;border-left-color:var(--berry);background:rgba(208,20,140,.14);}
-.tab em{font-style:normal;color:var(--berry);font-size:12px;}
 .main{flex:1;min-width:0;padding:34px 46px 60px;max-width:900px;}
 .panel{display:none;} .panel.show{display:block;}
 .strip{height:5px;width:100%;background:linear-gradient(90deg,var(--berry) 0 33%,var(--violet) 33% 66%,var(--blue) 66% 100%);border-radius:2px;margin-bottom:16px;}
@@ -28,33 +27,161 @@ h1{font-size:26px;margin:0 0 4px;letter-spacing:.2px;}
 .eyebrow{color:var(--berry);font-weight:700;font-size:11px;letter-spacing:2.5px;text-transform:uppercase;margin:26px 0 10px;}
 .northstar{background:var(--panel);border-left:5px solid var(--berry);padding:13px 16px;border-radius:2px;}
 .northstar p{margin:0;font-size:14.5px;line-height:1.5;color:var(--ink2);} .northstar b{color:var(--ink);}
-.amber{background:#FBEAF4;border-left:5px solid var(--berry);padding:11px 16px;border-radius:2px;margin-top:14px;}
-.amber-label{color:var(--berry);font-weight:700;font-size:11px;letter-spacing:1.5px;text-transform:uppercase;margin-bottom:5px;}
-.amber p{margin:0;font-size:13.5px;line-height:1.5;color:var(--ink2);} .amber b{color:var(--ink);}
-.hooks{border-top:1px solid var(--line);}
+.pk{color:var(--ink2);font-size:13.5px;margin:0 0 12px;}
+.formula{display:flex;flex-direction:column;gap:10px;}
+.step{display:flex;gap:14px;align-items:flex-start;background:var(--panel);border-left:5px solid var(--berry);padding:12px 16px;border-radius:2px;}
+.step .sn{flex:0 0 26px;height:26px;border-radius:50%;background:var(--berry);color:#fff;font-weight:800;font-size:14px;display:flex;align-items:center;justify-content:center;margin-top:1px;}
+.step b{font-size:14.5px;color:var(--ink);}
+.step p{margin:3px 0 0;font-size:13.5px;line-height:1.5;color:var(--ink2);}
+.cards{display:flex;flex-direction:column;gap:12px;}
+.card{display:block;width:100%;text-align:left;cursor:pointer;background:#fff;border:1px solid var(--line);border-left:5px solid var(--berry);border-radius:4px;padding:16px 18px;font:inherit;transition:box-shadow .15s ease,transform .1s ease,border-color .15s ease;}
+.card:hover{box-shadow:0 4px 16px rgba(208,20,140,.18);border-color:var(--berry);}
+.card:active{transform:translateY(1px);}
+.card .ct{font-size:17px;font-weight:800;color:var(--ink);}
+.card .cd{font-size:13.5px;line-height:1.5;color:var(--ink2);margin:5px 0 9px;}
+.card .cgo{font-size:12px;font-weight:700;letter-spacing:1px;text-transform:uppercase;color:var(--berry);}
+.hooks{border-top:1px solid var(--line);margin-top:4px;}
 .hook{display:flex;gap:16px;padding:14px 4px;border-bottom:1px solid var(--line);}
 .hook:nth-child(even){background:var(--panel);}
 .hnum{flex:0 0 34px;color:var(--berry);font-weight:800;font-size:19px;text-align:right;}
 .htxt{font-size:15px;font-weight:700;line-height:1.4;color:var(--ink);}
 .hmeta{font-size:12px;font-style:italic;color:var(--ink2);margin-top:5px;}
-ul.run{list-style:none;padding:0;margin:6px 0 0;}
-ul.run li{position:relative;padding:6px 0 6px 20px;font-size:13.5px;line-height:1.5;color:var(--ink2);}
-ul.run li:before{content:"•";position:absolute;left:2px;color:var(--berry);font-weight:700;}
-ul.run b{color:var(--ink);} ul.run b.dont{color:var(--bad);}
+.amber{background:#FBEAF4;border-left:5px solid var(--berry);padding:12px 16px;border-radius:2px;margin-top:20px;}
+.amber-label{color:var(--berry);font-weight:700;font-size:11px;letter-spacing:1.5px;text-transform:uppercase;margin-bottom:5px;}
+.amber p{margin:0;font-size:13.5px;line-height:1.5;color:var(--ink2);} .amber b{color:var(--ink);}
 .foot{margin-top:34px;padding-top:12px;border-top:1px solid var(--line);color:var(--muted);font-size:11px;}
-@media(max-width:760px){.wrap{flex-direction:column;}.side{position:sticky;top:0;z-index:30;flex:0 0 auto;width:100%;height:auto;overflow:visible;padding:0 0 6px;box-shadow:0 3px 10px rgba(0,0,0,.18);}.brand{padding:10px 16px 2px;font-size:15px;letter-spacing:2px;}.brand small{font-size:8px;margin-top:2px;}.stripe{margin:6px 0 0;}.tabs{display:flex;overflow-x:auto;-webkit-overflow-scrolling:touch;scrollbar-width:none;}.tabs::-webkit-scrollbar{display:none;}.tab{flex:0 0 auto;width:auto;white-space:nowrap;border-left:0;border-bottom:3px solid transparent;padding:11px 15px;}.tab:hover{background:none;}.tab.active{border-left:0;border-bottom-color:var(--berry);background:rgba(208,20,140,.16);}.tab em{margin-left:5px;}.main{padding:20px 18px 50px;}.hint{display:block;position:absolute;top:52px;right:16px;font-size:9.5px;letter-spacing:1.3px;text-transform:uppercase;color:#CFCBDA;opacity:.9;z-index:6;}.side::after{content:"›";position:absolute;right:0;bottom:6px;height:46px;width:56px;background:linear-gradient(90deg,rgba(30,18,48,0),var(--plum) 70%);pointer-events:none;z-index:5;color:#CFCBDA;font-size:20px;font-weight:700;display:flex;align-items:center;justify-content:flex-end;padding-right:13px;}}
+@media(max-width:760px){.wrap{flex-direction:column;}.side{position:sticky;top:0;z-index:30;flex:0 0 auto;width:100%;height:auto;overflow:visible;padding:0 0 6px;box-shadow:0 3px 10px rgba(0,0,0,.18);}.brand{padding:10px 16px 2px;font-size:15px;letter-spacing:2px;}.brand small{font-size:8px;margin-top:2px;}.stripe{margin:6px 0 0;}.tabs{display:flex;overflow-x:auto;-webkit-overflow-scrolling:touch;scrollbar-width:none;}.tabs::-webkit-scrollbar{display:none;}.tab{flex:0 0 auto;width:auto;white-space:nowrap;border-left:0;border-bottom:3px solid transparent;padding:11px 15px;}.tab:hover{background:none;}.tab.active{border-left:0;border-bottom-color:var(--berry);background:rgba(208,20,140,.16);}.main{padding:20px 18px 50px;}.hint{display:block;position:absolute;top:52px;right:16px;font-size:9.5px;letter-spacing:1.3px;text-transform:uppercase;color:#CFCBDA;opacity:.9;z-index:6;}.side::after{content:"\203A";position:absolute;right:0;bottom:6px;height:46px;width:56px;background:linear-gradient(90deg,rgba(30,18,48,0),var(--plum) 70%);pointer-events:none;z-index:5;color:#CFCBDA;font-size:20px;font-weight:700;display:flex;align-items:center;justify-content:flex-end;padding-right:13px;}}
 </style></head>
 <body><div class="wrap">
 <nav class="side">
-  <div class="brand"><a class="backlink" href="/">← Creator Hub</a><a class="wordmark" href="/">KENETIK</a><small>HOOKS TO TEST</small></div>
-  <div class="hint">Swipe for more →</div>
+  <div class="brand"><a class="backlink" href="/">&larr; Creator Hub</a><a class="wordmark" href="/">KENETIK</a><small>CREATOR PLAYBOOK</small></div>
+  <div class="hint">Swipe for more &rarr;</div>
   <div class="stripe"></div>
-  <div class="tabs"><button class="tab active" onclick="showTab(0,'start-here')" id="tab0"><span>Start Here</span><em></em></button><button class="tab" onclick="showTab(1,'focus-productivity')" id="tab1"><span>Focus & Productivity</span><em></em></button><button class="tab" onclick="showTab(2,'calm-focus')" id="tab2"><span>Calm, Clear Focus</span><em></em></button><button class="tab" onclick="showTab(3,'endurance')" id="tab3"><span>Endurance & Competition</span><em></em></button></div>
+  <div class="tabs"><button class="tab active" onclick="showTab(0,'start-here')" id="tab0"><span>Start Here</span></button><button class="tab" onclick="showTab(1,'focus-productivity')" id="tab1"><span>Productivity &amp; Deep Work</span></button><button class="tab" onclick="showTab(2,'calm-focus')" id="tab2"><span>Calm, Clear Focus</span></button><button class="tab" onclick="showTab(3,'endurance')" id="tab3"><span>Athletes &amp; Competition</span></button></div>
 </nav>
-<main class="main"><section class="panel show" id="panel0" data-slug="start-here"><div class="strip"></div><h1>Start Here — the brief</h1><div class="sub">Read this first, then pick your audience above</div><div class="eyebrow">The goal</div><div class="northstar"><p>We are testing hooks. The first 1 to 3 seconds of a video decide whether someone keeps watching, so we want to find the opening lines that make people stop scrolling for Kenetik. Your job is simple: try these hooks at the very start of your videos and see what lands.</p></div><div class="eyebrow">What Kenetik is</div><div class="northstar"><p>Kenetik is metabolic brain fuel: clean, caffeine-free focus. The winning angle is always the same. Lead with the person’s problem, or the moment they feel it, then bring in Kenetik as the fix. Never open with caffeine or ketones. Open with the feeling.</p></div><div class="eyebrow">How this page works</div><div class="northstar"><p>There are three audience tabs above: Focus & Productivity, Calm Clear Focus, and Endurance & Competition. Pick the one that best fits the people who follow you. Each tab has a short set of hooks to test, with a quick video idea under every one.</p></div><div class="eyebrow">How to use the hooks</div><div class="northstar"><p>Open your video with the hook in the first 1 to 3 seconds. Say it straight to camera, or put it as bold text on screen, then go into your Kenetik moment. Test a few different hooks and lean into the ones that get the most watch time and comments.</p></div><div class="eyebrow">What makes a hook work</div><div class="northstar"><p>Hook first, no warmup. Keep it native and real, like a post, not an ad. Name a specific moment your audience actually feels. And let Kenetik arrive as the answer, not the opening line.</p></div><div class="eyebrow">Ready to go</div><div class="northstar"><p>Pick your audience tab above and start testing. Post what feels natural to you, tag us, and we will amplify what performs.</p></div></section>
-<section class="panel" id="panel1" data-slug="focus-productivity"><div class="strip"></div><h1>Hooks to test — Focus & Productivity</h1><div class="sub">8 hooks to test &nbsp;·&nbsp; FOR THE FOCUS-DRIVEN CROWD</div><div class="eyebrow">Who you’re talking to</div><div class="northstar"><p>You are talking to people who live by their focus: professionals, founders, students, anyone whose work depends on a clear head. Their pain is the afternoon slump, too many tabs, and running out of steam late in the day. What lands is naming that exact moment, then showing Kenetik as the fix. Kenetik is clean, caffeine-free brain fuel, so always lead with the person’s problem, then the fix.</p></div><div class="eyebrow">How to use these hooks</div><div class="northstar"><p>The goal is simple: test these lines as the opening hook of your video, the first 1 to 3 seconds, and see which ones make people stop scrolling. Say it straight to camera, or put it as bold text on screen, then go into your Kenetik moment. Pick a few, try them, and lean into the ones that land. Each hook has a quick video idea underneath to get you started.</p></div><div class="eyebrow">The hooks to test</div><div class="hooks"><div class="hook"><div class="hnum">01</div><div class="hbody"><div class="htxt">“Too many tabs open?”</div><div class="hmeta">Video idea: Open on a cluttered desktop or messy desk, say the line, then crack a Kenetik and lock into one task.</div></div></div><div class="hook"><div class="hnum">02</div><div class="hbody"><div class="htxt">“Hit the 2PM wall again?”</div><div class="hmeta">Video idea: Film yourself fading mid-afternoon, say the line, then show the Kenetik reset and getting back to work.</div></div></div><div class="hook"><div class="hnum">03</div><div class="hbody"><div class="htxt">“Rereading the same line?”</div><div class="hmeta">Video idea: Point at your screen rereading the same sentence, say the line, then Kenetik and a focused work montage.</div></div></div><div class="hook"><div class="hnum">04</div><div class="hbody"><div class="htxt">“Get your afternoon back”</div><div class="hmeta">Video idea: Split the day: foggy at 2pm, dialed in after Kenetik. Say the line as the payoff.</div></div></div><div class="hook"><div class="hnum">05</div><div class="hbody"><div class="htxt">“Make hour 8 feel like hour 1”</div><div class="hmeta">Video idea: Time-lapse a long work day and end sharp instead of drained, with the line as your caption.</div></div></div><div class="hook"><div class="hnum">06</div><div class="hbody"><div class="htxt">“Same you at 8am and 8pm”</div><div class="hmeta">Video idea: Morning you vs night you, both sharp. Line as on-screen text over a day-in-the-life.</div></div></div><div class="hook"><div class="hnum">07</div><div class="hbody"><div class="htxt">“Three time zones this week?”</div><div class="hmeta">Video idea: Airport or hotel-room POV, say the line, Kenetik for clean focus with no crash.</div></div></div><div class="hook"><div class="hnum">08</div><div class="hbody"><div class="htxt">“Everyone sees the problem, you see it through”</div><div class="hmeta">Video idea: Confident to-camera about staying locked in on the hard stuff, line as the closer over your work.</div></div></div></div></section>
-<section class="panel" id="panel2" data-slug="calm-focus"><div class="strip"></div><h1>Hooks to test — Calm, Clear Focus</h1><div class="sub">8 hooks to test &nbsp;·&nbsp; FOR THE CAFFEINE-SWAP CROWD</div><div class="eyebrow">Who you’re talking to</div><div class="northstar"><p>You are talking to people who run hot on caffeine and it is backfiring: wired but foggy, jittery, bad sleep. They want a calm, clear head without the crash, and they are open to a better daily ritual. What lands is the wired-but-tired feeling, the switch off coffee, and treating your brain well. Kenetik is always caffeine-free and clean, so keep it calm and human.</p></div><div class="eyebrow">How to use these hooks</div><div class="northstar"><p>The goal is simple: test these lines as the opening hook of your video, the first 1 to 3 seconds, and see which ones make people stop scrolling. Say it straight to camera, or put it as bold text on screen, then go into your Kenetik moment. Pick a few, try them, and lean into the ones that land. Each hook has a quick video idea underneath to get you started.</p></div><div class="eyebrow">The hooks to test</div><div class="hooks"><div class="hook"><div class="hnum">01</div><div class="hbody"><div class="htxt">“Too wired to think straight?”</div><div class="hmeta">Video idea: Film the jittery, over-caffeinated moment, say the line, then the calm Kenetik swap.</div></div></div><div class="hook"><div class="hnum">02</div><div class="hbody"><div class="htxt">“Brain fog? Fog off.”</div><div class="hmeta">Video idea: Punchy to-camera: say it, then show your clear-headed reset with Kenetik.</div></div></div><div class="hook"><div class="hnum">03</div><div class="hbody"><div class="htxt">“Your fourth coffee won’t save this afternoon”</div><div class="hmeta">Video idea: Show a pile of empty coffee cups, say the line, swap in a Kenetik.</div></div></div><div class="hook"><div class="hnum">04</div><div class="hbody"><div class="htxt">“Coffee spikes. Ketones fuel.”</div><div class="hmeta">Video idea: Simple side-by-side: coffee crash vs steady Kenetik. Line as the hook or caption.</div></div></div><div class="hook"><div class="hnum">05</div><div class="hbody"><div class="htxt">“A clear head, handed back to you”</div><div class="hmeta">Video idea: Foggy, stressed open, then a calm exhale after Kenetik. Line as the payoff.</div></div></div><div class="hook"><div class="hnum">06</div><div class="hbody"><div class="htxt">“Meet your brain’s best friend”</div><div class="hmeta">Video idea: Introduce the can like you are introducing a friend, then a real first-sip reaction.</div></div></div><div class="hook"><div class="hnum">07</div><div class="hbody"><div class="htxt">“Spa day for your brain”</div><div class="hmeta">Video idea: Cozy, calm, treat-yourself setting. Say the line while you sip.</div></div></div><div class="hook"><div class="hnum">08</div><div class="hbody"><div class="htxt">“Cool, calm, and Kenetik”</div><div class="hmeta">Video idea: Confident, calm to-camera. Line as your sign-off over a clear-focus moment.</div></div></div></div></section>
-<section class="panel" id="panel3" data-slug="endurance"><div class="strip"></div><h1>Hooks to test — Endurance & Competition</h1><div class="sub">8 hooks to test &nbsp;·&nbsp; FOR ATHLETES & COMPETITORS</div><div class="eyebrow">Who you’re talking to</div><div class="northstar"><p>You are talking to athletes and competitors: endurance, combat, motorsports, anyone whose mind has to hold up when the body is spent. Their truth is that focus fails before the legs do. What lands is naming that mental fade and staying sharp under pressure. Keep it about focus and edge, and keep Kenetik as the clean, caffeine-free fuel behind it.</p></div><div class="eyebrow">How to use these hooks</div><div class="northstar"><p>The goal is simple: test these lines as the opening hook of your video, the first 1 to 3 seconds, and see which ones make people stop scrolling. Say it straight to camera, or put it as bold text on screen, then go into your Kenetik moment. Pick a few, try them, and lean into the ones that land. Each hook has a quick video idea underneath to get you started.</p></div><div class="eyebrow">The hooks to test</div><div class="hooks"><div class="hook"><div class="hnum">01</div><div class="hbody"><div class="htxt">“At 200 mph, the clearest mind wins”</div><div class="hmeta">Video idea: Fast-paced race or training b-roll, say the line, Kenetik as how you stay sharp.</div></div></div><div class="hook"><div class="hnum">02</div><div class="hbody"><div class="htxt">“The legs are fine. The focus isn’t.”</div><div class="hmeta">Video idea: Mid-effort footage where you are gassed, say the line, then the focus fix.</div></div></div><div class="hook"><div class="hnum">03</div><div class="hbody"><div class="htxt">“Brain quits before the legs do”</div><div class="hmeta">Video idea: Deep in a hard session, say the line, show how you fuel your head.</div></div></div><div class="hook"><div class="hnum">04</div><div class="hbody"><div class="htxt">“Stay sharp when you’re gassed”</div><div class="hmeta">Video idea: Sweaty post-effort to-camera, line then Kenetik.</div></div></div><div class="hook"><div class="hnum">05</div><div class="hbody"><div class="htxt">“Cold plunge for the body. Kenetik for the mind.”</div><div class="hmeta">Video idea: Recovery scene like an ice bath or stretch, pair it with a Kenetik. Line as the concept.</div></div></div><div class="hook"><div class="hnum">06</div><div class="hbody"><div class="htxt">“Recover like you trained”</div><div class="hmeta">Video idea: Post-workout recovery routine with Kenetik in it. Line as the caption.</div></div></div><div class="hook"><div class="hnum">07</div><div class="hbody"><div class="htxt">“Game-Day Starter”</div><div class="hmeta">Video idea: Pre-competition ritual, crack a Kenetik as part of the warmup. Line on screen.</div></div></div><div class="hook"><div class="hnum">08</div><div class="hbody"><div class="htxt">“Cognitive endurance”</div><div class="hmeta">Video idea: Long-effort montage, line as bold text over the grind, Kenetik as the fuel.</div></div></div></div></section>
+<main class="main">
+
+<section class="panel show" id="panel0" data-slug="start-here">
+  <div class="strip"></div>
+  <h1>Start here</h1>
+  <div class="sub">Pick the audience that sounds most like your followers, then make one simple video.</div>
+
+  <div class="eyebrow">The idea</div>
+  <div class="northstar"><p>Every great Kenetik video does three things: it <b>hooks your audience</b>, names a <b>problem they feel</b>, and shows <b>Kenetik as the fix</b>. That is the whole play.</p></div>
+
+  <div class="eyebrow">The video formula</div>
+  <div class="formula">
+    <div class="step"><span class="sn">1</span><div><b>Hook them</b><p>Open in the first 1 to 3 seconds with a line that stops your people mid-scroll.</p></div></div>
+    <div class="step"><span class="sn">2</span><div><b>Name the problem</b><p>Call out the real moment they feel it: the foggy afternoon, the coffee crash, the mind fading late.</p></div></div>
+    <div class="step"><span class="sn">3</span><div><b>Kenetik is the answer</b><p>Bring in Kenetik as clean, caffeine-free brain fuel, shown for real. You drinking it, your honest take.</p></div></div>
+  </div>
+
+  <div class="eyebrow">Pick your audience</div>
+  <p class="pk">Tap the one that sounds most like the people who follow you. It takes you straight to that playbook.</p>
+  <div class="cards">
+    <button class="card" onclick="showTab(1,'focus-productivity')">
+      <div class="ct">Productivity &amp; Deep Work</div>
+      <div class="cd">Your crowd lives by their focus: founders, professionals, students, anyone who needs to lock in and get real work done.</div>
+      <div class="cgo">Pick this &rarr;</div>
+    </button>
+    <button class="card" onclick="showTab(2,'calm-focus')">
+      <div class="ct">Calm, Clear Focus</div>
+      <div class="cd">Your crowd runs hot on coffee and energy drinks and it is backfiring. They want a clear head without the edge or the crash.</div>
+      <div class="cgo">Pick this &rarr;</div>
+    </button>
+    <button class="card" onclick="showTab(3,'endurance')">
+      <div class="ct">Athletes &amp; Competition</div>
+      <div class="cd">Your crowd competes: endurance, combat, motorsports, the gym. They know the mind gives out before the body does.</div>
+      <div class="cgo">Pick this &rarr;</div>
+    </button>
+  </div>
+  <div class="foot">Kenetik is metabolic brain fuel. Clean, caffeine-free focus. Lead with the person and the problem, and let Kenetik arrive as the answer.</div>
+</section>
+
+<section class="panel" id="panel1" data-slug="focus-productivity">
+  <div class="strip"></div>
+  <h1>Productivity &amp; Deep Work</h1>
+  <div class="sub">For creators whose audience lives by their focus</div>
+
+  <div class="eyebrow">Who you are talking to</div>
+  <div class="northstar"><p>Founders, professionals, students, anyone whose work depends on a clear head. Their pain is the afternoon slump, too many tabs, and running out of steam before the day is done. When you name that exact moment and show Kenetik as the fix, it lands.</p></div>
+
+  <div class="eyebrow">What a great video covers</div>
+  <div class="formula">
+    <div class="step"><span class="sn">1</span><div><b>Hook</b><p>Open in the first 1 to 3 seconds with a line below, or your own.</p></div></div>
+    <div class="step"><span class="sn">2</span><div><b>The problem</b><p>Show the foggy, scattered, running-on-empty moment your audience knows.</p></div></div>
+    <div class="step"><span class="sn">3</span><div><b>Kenetik as the fix</b><p>Crack a Kenetik and show the reset. Clean, caffeine-free brain fuel, your real reaction.</p></div></div>
+    <div class="step"><span class="sn">4</span><div><b>Close it</b><p>One simple reason to try it (caffeine-free, 12g of ketones) and your code or link.</p></div></div>
+  </div>
+
+  <div class="eyebrow">5 hooks to riff on</div>
+  <div class="hooks">
+    <div class="hook"><div class="hnum">01</div><div class="hbody"><div class="htxt">"Your brain is the one tool you never fuel."</div><div class="hmeta">Video idea: Reach for coffee, stop, grab a Kenetik instead, then lock into deep work.</div></div></div>
+    <div class="hook"><div class="hnum">02</div><div class="hbody"><div class="htxt">"The work isn't the hard part. Staying focused on it is."</div><div class="hmeta">Video idea: Sit down to a big task, say the line, show the Kenetik reset and a heads-down montage.</div></div></div>
+    <div class="hook"><div class="hnum">03</div><div class="hbody"><div class="htxt">"Make hour 8 feel like hour 1."</div><div class="hmeta">Video idea: Time-lapse a long work day and finish sharp instead of drained, line as on-screen text.</div></div></div>
+    <div class="hook"><div class="hnum">04</div><div class="hbody"><div class="htxt">"I stopped pushing through the afternoon and started fueling for it."</div><div class="hmeta">Video idea: Fading mid-afternoon, say the line, crack a Kenetik, back to it sharp.</div></div></div>
+    <div class="hook"><div class="hnum">05</div><div class="hbody"><div class="htxt">"Clear head, on demand. This is the caffeine-free brain fuel I run on."</div><div class="hmeta">Video idea: Straight to camera with the can, then a focused work moment.</div></div></div>
+  </div>
+
+  <div class="amber"><div class="amber-label">Make it yours</div><p>These are not scripts. Say them in your voice, to your people, your way. The best videos feel like you, not an ad. Just make sure it <b>hooks</b>, names the <b>problem</b>, and lands on <b>Kenetik as the answer</b>.</p></div>
+</section>
+
+<section class="panel" id="panel2" data-slug="calm-focus">
+  <div class="strip"></div>
+  <h1>Calm, Clear Focus</h1>
+  <div class="sub">For creators whose audience wants focus without the caffeine edge</div>
+
+  <div class="eyebrow">Who you are talking to</div>
+  <div class="northstar"><p>People who run hot on coffee and energy drinks and it is backfiring: wired but foggy, restless, bad sleep. They want a calm, clear head without the crash, and they are open to a better daily ritual. Name the wired-but-tired feeling, then show Kenetik as the clean, caffeine-free swap.</p></div>
+
+  <div class="eyebrow">What a great video covers</div>
+  <div class="formula">
+    <div class="step"><span class="sn">1</span><div><b>Hook</b><p>Open in the first 1 to 3 seconds with a line below, or your own.</p></div></div>
+    <div class="step"><span class="sn">2</span><div><b>The problem</b><p>Show the over-caffeinated, restless, crashing moment your audience knows.</p></div></div>
+    <div class="step"><span class="sn">3</span><div><b>Kenetik as the fix</b><p>Make the swap on camera. Clean, caffeine-free brain fuel, your honest first-sip reaction.</p></div></div>
+    <div class="step"><span class="sn">4</span><div><b>Close it</b><p>One simple reason to try it (caffeine-free, 12g of ketones) and your code or link.</p></div></div>
+  </div>
+
+  <div class="eyebrow">5 hooks to riff on</div>
+  <div class="hooks">
+    <div class="hook"><div class="hnum">01</div><div class="hbody"><div class="htxt">"Coffee makes some people sharp. The rest of us, it just makes anxious."</div><div class="hmeta">Video idea: The restless, over-caffeinated moment, say the line, then the calm Kenetik swap.</div></div></div>
+    <div class="hook"><div class="hnum">02</div><div class="hbody"><div class="htxt">"Wired but tired is a fuel problem, not a you problem."</div><div class="hmeta">Video idea: Say it to camera, then show the steady, clear-headed reset with Kenetik.</div></div></div>
+    <div class="hook"><div class="hnum">03</div><div class="hbody"><div class="htxt">"I wanted focus without the edge. My brain just needed cleaner fuel."</div><div class="hmeta">Video idea: Swap the energy drink for a Kenetik, honest first-sip reaction.</div></div></div>
+    <div class="hook"><div class="hnum">04</div><div class="hbody"><div class="htxt">"Meet your brain's best friend."</div><div class="hmeta">Video idea: Introduce the can like you are introducing a friend, real reaction.</div></div></div>
+    <div class="hook"><div class="hnum">05</div><div class="hbody"><div class="htxt">"Steady focus, no crash. Caffeine-free brain fuel for people coffee doesn't love back."</div><div class="hmeta">Video idea: Coffee jitters versus a calm Kenetik moment, line as the payoff.</div></div></div>
+  </div>
+
+  <div class="amber"><div class="amber-label">Make it yours</div><p>These are not scripts. Say them in your voice, to your people, your way. The best videos feel like you, not an ad. Just make sure it <b>hooks</b>, names the <b>problem</b>, and lands on <b>Kenetik as the answer</b>.</p></div>
+</section>
+
+<section class="panel" id="panel3" data-slug="endurance">
+  <div class="strip"></div>
+  <h1>Athletes &amp; Competition</h1>
+  <div class="sub">For creators whose audience competes</div>
+
+  <div class="eyebrow">Who you are talking to</div>
+  <div class="northstar"><p>Athletes and competitors: endurance, combat, motorsports, the gym, anyone whose mind has to hold up when the body is spent. Their truth is that focus fails before the legs do. Name that mental fade and staying sharp under pressure, and keep Kenetik as the clean, caffeine-free fuel behind it.</p></div>
+
+  <div class="eyebrow">What a great video covers</div>
+  <div class="formula">
+    <div class="step"><span class="sn">1</span><div><b>Hook</b><p>Open in the first 1 to 3 seconds with a line below, or your own.</p></div></div>
+    <div class="step"><span class="sn">2</span><div><b>The problem</b><p>Show the moment the mind gasses out before the body does.</p></div></div>
+    <div class="step"><span class="sn">3</span><div><b>Kenetik as the fix</b><p>Show how you fuel your head. Clean, caffeine-free brain fuel, in your real routine.</p></div></div>
+    <div class="step"><span class="sn">4</span><div><b>Close it</b><p>One simple reason to try it (caffeine-free, 12g of ketones) and your code or link.</p></div></div>
+  </div>
+
+  <div class="eyebrow">5 hooks to riff on</div>
+  <div class="hooks">
+    <div class="hook"><div class="hnum">01</div><div class="hbody"><div class="htxt">"Your body doesn't quit first. Your mind does."</div><div class="hmeta">Video idea: Mid-effort and gassed, say the line, then show how you fuel your head.</div></div></div>
+    <div class="hook"><div class="hnum">02</div><div class="hbody"><div class="htxt">"Late in the game, focus is the first thing to go."</div><div class="hmeta">Video idea: Deep in a hard session, say the line, Kenetik as the fix.</div></div></div>
+    <div class="hook"><div class="hnum">03</div><div class="hbody"><div class="htxt">"The clearest mind wins. Everyone else is just holding on."</div><div class="hmeta">Video idea: Fast training or race b-roll, line, then Kenetik.</div></div></div>
+    <div class="hook"><div class="hnum">04</div><div class="hbody"><div class="htxt">"Train the body all you want. A gassed brain still loses."</div><div class="hmeta">Video idea: Post-training to camera, line, crack a Kenetik.</div></div></div>
+    <div class="hook"><div class="hnum">05</div><div class="hbody"><div class="htxt">"Stay sharp when you're spent. Caffeine-free brain fuel for the back half."</div><div class="hmeta">Video idea: Pre-competition or recovery ritual with Kenetik, line on screen.</div></div></div>
+  </div>
+
+  <div class="amber"><div class="amber-label">Make it yours</div><p>These are not scripts. Say them in your voice, to your people, your way. The best videos feel like you, not an ad. Just make sure it <b>hooks</b>, names the <b>problem</b>, and lands on <b>Kenetik as the answer</b>.</p></div>
+</section>
+
 </main>
 </div>
 <script>
