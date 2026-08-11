@@ -51,6 +51,20 @@ h1{font-size:26px;margin:0 0 4px;letter-spacing:.2px;}
 .amber p{margin:0;font-size:13.5px;line-height:1.5;color:var(--ink2);} .amber b{color:var(--ink);}
 .foot{margin-top:34px;padding-top:12px;border-top:1px solid var(--line);color:var(--muted);font-size:11px;}
 @media(max-width:760px){.wrap{flex-direction:column;}.side{position:sticky;top:0;z-index:30;flex:0 0 auto;width:100%;height:auto;overflow:visible;padding:0 0 6px;box-shadow:0 3px 10px rgba(0,0,0,.18);}.brand{padding:10px 16px 2px;font-size:15px;letter-spacing:2px;}.brand small{font-size:8px;margin-top:2px;}.stripe{margin:6px 0 0;}.tabs{display:flex;overflow-x:auto;-webkit-overflow-scrolling:touch;scrollbar-width:none;}.tabs::-webkit-scrollbar{display:none;}.tab{flex:0 0 auto;width:auto;white-space:nowrap;border-left:0;border-bottom:3px solid transparent;padding:11px 15px;}.tab:hover{background:none;}.tab.active{border-left:0;border-bottom-color:var(--berry);background:rgba(208,20,140,.16);}.main{padding:20px 18px 50px;}.hint{display:block;position:absolute;top:52px;right:16px;font-size:9.5px;letter-spacing:1.3px;text-transform:uppercase;color:#CFCBDA;opacity:.9;z-index:6;}.side::after{content:"\203A";position:absolute;right:0;bottom:6px;height:46px;width:56px;background:linear-gradient(90deg,rgba(30,18,48,0),var(--plum) 70%);pointer-events:none;z-index:5;color:#CFCBDA;font-size:20px;font-weight:700;display:flex;align-items:center;justify-content:flex-end;padding-right:13px;}}
+.twocol{display:flex;gap:14px;align-items:stretch;}
+.pillar{flex:1 1 0;min-width:0;border-radius:4px;padding:14px 16px;}
+.pillar h4{margin:0 0 8px;font-size:12px;letter-spacing:1.5px;text-transform:uppercase;font-weight:800;}
+.pillar p{margin:0;font-size:13.5px;line-height:1.5;color:var(--ink2);}
+.pillar.pos{background:var(--panel);border-top:4px solid var(--berry);}
+.pillar.pos h4{color:var(--berry);}
+.pillar.neg{background:#FBE7E6;border-top:4px solid var(--bad);}
+.pillar.neg h4{color:var(--bad);}
+.pillar ul{list-style:none;margin:0;padding:0;}
+.pillar li{position:relative;padding:6px 0 6px 22px;font-size:13.5px;line-height:1.45;color:var(--ink2);}
+.pillar.pos li:before{content:"\2713";position:absolute;left:0;color:var(--berry);font-weight:800;}
+.pillar.neg li:before{content:"\2717";position:absolute;left:0;color:var(--bad);font-weight:800;}
+.pillar li b{color:var(--ink);}
+@media(max-width:760px){.twocol{flex-direction:column;}}
 </style></head>
 <body><div class="wrap">
 <nav class="side">
@@ -94,6 +108,42 @@ h1{font-size:26px;margin:0 0 4px;letter-spacing:.2px;}
       <div class="cd">Your crowd competes: endurance, combat, motorsports, the gym. They know the mind gives out before the body does.</div>
       <div class="cgo">Pick this &rarr;</div>
     </button>
+  </div>
+
+  <div class="eyebrow">What Kenetik is (and isn't)</div>
+  <div class="twocol">
+    <div class="pillar pos">
+      <h4>What Kenetik is</h4>
+      <p>Metabolic brain fuel: clean, caffeine-free focus in a can or a shot. Steady, calm clarity that lasts, without the crash. 12g of ketones, caffeine-free, sugar-free, nothing artificial. Always lead with the person's problem or the moment they feel it, then bring in Kenetik as the fix.</p>
+    </div>
+    <div class="pillar neg">
+      <h4>What Kenetik is NOT</h4>
+      <p>Not an energy drink, a pre-workout, or a supplement. It is a category of its own, so don't label it as any of those. The hard rule: no medical claims. It does not cure, treat, or fix anything, and it is never tied to anxiety, ADHD, focus disorders, brain injury, concussions, or disease. Keep everything to how it feels: clean, calm focus.</p>
+    </div>
+  </div>
+
+  <div class="eyebrow">Do's and don'ts</div>
+  <div class="twocol">
+    <div class="pillar pos">
+      <h4>Do</h4>
+      <ul>
+        <li>Say <b>"brain fuel"</b> at least once, every video.</li>
+        <li>Open on the problem or the feeling in the first 1 to 3 seconds.</li>
+        <li>Keep it real and native, like a post, not an ad.</li>
+        <li>Show yourself actually drinking it.</li>
+        <li>Stick to how it feels: clean, calm, clear focus.</li>
+      </ul>
+    </div>
+    <div class="pillar neg">
+      <h4>Don't</h4>
+      <ul>
+        <li>Open with caffeine or ketones. They come after the hook.</li>
+        <li>Call it an energy drink, pre-workout, or supplement.</li>
+        <li>Make medical claims or tie it to any condition, injury, or disease.</li>
+        <li>Over-produce it or make it feel like a commercial.</li>
+        <li>Stack the whole pitch into the opener.</li>
+      </ul>
+    </div>
   </div>
   <div class="foot">Kenetik is metabolic brain fuel. Clean, caffeine-free focus. Lead with the person and the problem, and let Kenetik arrive as the answer.</div>
 </section>
