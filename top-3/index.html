@@ -1,0 +1,292 @@
+<!DOCTYPE html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Kenetik — Make Your First 3 Videos</title>
+<meta name="robots" content="noindex">
+<style>
+:root{--ink:#16161D;--ink2:#5A5B66;--muted:#9A9BA6;--berry:#D0148C;--violet:#7A2BD0;--blue:#2E6BE6;--plum:#1E1230;--panel:#F5F6F8;--line:#E6E6EA;--bad:#E0322B;}
+*{box-sizing:border-box;}
+body{margin:0;font-family:'Futura','Century Gothic','Trebuchet MS','Segoe UI',sans-serif;color:var(--ink);background:#fff;}
+.wrap{display:flex;min-height:100vh;}
+.side{width:262px;flex:0 0 262px;background:var(--plum);color:#fff;position:sticky;top:0;height:100vh;overflow-y:auto;padding:0 0 24px;}
+.brand{padding:22px 20px 6px;font-weight:800;letter-spacing:3px;font-size:20px;}
+.brand small{display:block;letter-spacing:2px;font-size:10px;font-weight:400;color:#CFCBDA;margin-top:4px;}
+.hint{display:none;}
+.backlink{display:inline-block;font-size:10px;letter-spacing:1.2px;text-transform:uppercase;color:#E9E4F2;font-weight:700;margin-bottom:14px;text-decoration:none;padding:6px 12px;border:1px solid rgba(208,20,140,.55);border-radius:999px;background:rgba(208,20,140,.12);transition:background .15s ease,border-color .15s ease,color .15s ease,box-shadow .15s ease;}
+.backlink:hover{background:#D0148C;border-color:#D0148C;color:#fff;box-shadow:0 2px 10px rgba(208,20,140,.35);}
+.backlink:active{transform:translateY(1px);}
+.brand .wordmark{color:#fff;text-decoration:none;display:block;line-height:1;}
+.stripe{height:4px;background:linear-gradient(90deg,var(--berry) 0 33%,var(--violet) 33% 66%,var(--blue) 66% 100%);margin:12px 0 8px;}
+.tab{display:flex;justify-content:space-between;align-items:center;width:100%;text-align:left;background:none;border:0;border-left:3px solid transparent;color:#CFCBDA;font:inherit;font-size:13.5px;padding:11px 18px;cursor:pointer;}
+.tab:hover{color:#fff;background:rgba(255,255,255,.05);}
+.tab.active{color:#fff;font-weight:700;border-left-color:var(--berry);background:rgba(208,20,140,.14);}
+.main{flex:1;min-width:0;padding:34px 54px 60px;max-width:1160px;margin:0 auto;}
+.panel{display:none;} .panel.show{display:block;}
+.strip{height:5px;width:100%;background:linear-gradient(90deg,var(--berry) 0 33%,var(--violet) 33% 66%,var(--blue) 66% 100%);border-radius:2px;margin-bottom:16px;}
+h1{font-size:26px;margin:0 0 4px;letter-spacing:.2px;}
+.sub{color:var(--ink2);font-size:13.5px;margin-bottom:20px;}
+.eyebrow{color:var(--berry);font-weight:700;font-size:11px;letter-spacing:2.5px;text-transform:uppercase;margin:26px 0 10px;}
+.northstar{background:var(--panel);border-left:5px solid var(--berry);padding:13px 16px;border-radius:2px;}
+.northstar p{margin:0;font-size:14.5px;line-height:1.5;color:var(--ink2);} .northstar b{color:var(--ink);}
+.pk{color:var(--ink2);font-size:13.5px;margin:0 0 12px;}
+.formula{display:flex;flex-direction:column;gap:10px;}
+.step{display:flex;gap:14px;align-items:flex-start;background:var(--panel);border-left:5px solid var(--berry);padding:12px 16px;border-radius:2px;}
+.step .sn{flex:0 0 26px;height:26px;border-radius:50%;background:var(--berry);color:#fff;font-weight:800;font-size:14px;display:flex;align-items:center;justify-content:center;margin-top:1px;}
+.step b{font-size:14.5px;color:var(--ink);}
+.step p{margin:3px 0 0;font-size:13.5px;line-height:1.5;color:var(--ink2);}
+.cards{display:flex;flex-direction:column;gap:12px;}
+.card{display:block;width:100%;text-align:left;cursor:pointer;background:#fff;border:1px solid var(--line);border-left:5px solid var(--berry);border-radius:4px;padding:16px 18px;font:inherit;transition:box-shadow .15s ease,transform .1s ease,border-color .15s ease;}
+.card:hover{box-shadow:0 4px 16px rgba(208,20,140,.18);border-color:var(--berry);}
+.card:active{transform:translateY(1px);}
+.card .ct{font-size:17px;font-weight:800;color:var(--ink);}
+.card .cd{font-size:13.5px;line-height:1.5;color:var(--ink2);margin:5px 0 9px;}
+.card .cgo{font-size:12px;font-weight:700;letter-spacing:1px;text-transform:uppercase;color:var(--berry);}
+.hooks{border-top:1px solid var(--line);margin-top:4px;}
+.hook{display:flex;gap:16px;padding:14px 4px;border-bottom:1px solid var(--line);}
+.hook:nth-child(even){background:var(--panel);}
+.hnum{flex:0 0 34px;color:var(--berry);font-weight:800;font-size:19px;text-align:right;}
+.htxt{font-size:15px;font-weight:700;line-height:1.4;color:var(--ink);}
+.hmeta{font-size:12px;font-style:italic;color:var(--ink2);margin-top:5px;}
+.hwhy{font-size:13px;line-height:1.55;color:var(--ink2);margin-top:7px;padding-left:11px;border-left:2px solid var(--line);}
+.amber{background:#FBEAF4;border-left:5px solid var(--berry);padding:12px 16px;border-radius:2px;margin-top:20px;}
+.amber-label{color:var(--berry);font-weight:700;font-size:11px;letter-spacing:1.5px;text-transform:uppercase;margin-bottom:5px;}
+.amber p{margin:0;font-size:13.5px;line-height:1.5;color:var(--ink2);} .amber b{color:var(--ink);}
+.foot{margin-top:34px;padding-top:12px;border-top:1px solid var(--line);color:var(--muted);font-size:11px;}
+@media(max-width:760px){.wrap{flex-direction:column;}.side{position:sticky;top:0;z-index:30;flex:0 0 auto;width:100%;height:auto;overflow:visible;padding:0 0 6px;box-shadow:0 3px 10px rgba(0,0,0,.18);}.brand{padding:10px 16px 2px;font-size:15px;letter-spacing:2px;}.brand small{font-size:8px;margin-top:2px;}.stripe{margin:6px 0 0;}.tabs{display:flex;overflow-x:auto;-webkit-overflow-scrolling:touch;scrollbar-width:none;}.tabs::-webkit-scrollbar{display:none;}.tab{flex:0 0 auto;width:auto;white-space:nowrap;border-left:0;border-bottom:3px solid transparent;padding:11px 15px;}.tab:hover{background:none;}.tab.active{border-left:0;border-bottom-color:var(--berry);background:rgba(208,20,140,.16);}.main{padding:20px 18px 50px;}.hint{display:block;position:absolute;top:52px;right:16px;font-size:9.5px;letter-spacing:1.3px;text-transform:uppercase;color:#CFCBDA;opacity:.9;z-index:6;}.side::after{content:"\203A";position:absolute;right:0;bottom:6px;height:46px;width:56px;background:linear-gradient(90deg,rgba(30,18,48,0),var(--plum) 70%);pointer-events:none;z-index:5;color:#CFCBDA;font-size:20px;font-weight:700;display:flex;align-items:center;justify-content:flex-end;padding-right:13px;}}
+.twocol{display:flex;gap:14px;align-items:stretch;}
+.pillar{flex:1 1 0;min-width:0;border-radius:4px;padding:14px 16px;}
+.pillar h4{margin:0 0 8px;font-size:12px;letter-spacing:1.5px;text-transform:uppercase;font-weight:800;}
+.pillar p{margin:0;font-size:13.5px;line-height:1.5;color:var(--ink2);}
+.pillar.pos{background:var(--panel);border-top:4px solid var(--berry);}
+.pillar.pos h4{color:var(--berry);}
+.pillar.neg{background:#FBE7E6;border-top:4px solid var(--bad);}
+.pillar.neg h4{color:var(--bad);}
+.pillar ul{list-style:none;margin:0;padding:0;}
+.pillar li{position:relative;padding:6px 0 6px 22px;font-size:13.5px;line-height:1.45;color:var(--ink2);}
+.pillar.pos li:before{content:"\2713";position:absolute;left:0;color:var(--berry);font-weight:800;}
+.pillar.neg li:before{content:"\2717";position:absolute;left:0;color:var(--bad);font-weight:800;}
+.pillar li b{color:var(--ink);}
+@media(max-width:760px){.twocol{flex-direction:column;}}
+.recap{margin-top:40px;background:linear-gradient(135deg,#FBEAF4,#F1ECFA);border:1px solid var(--line);border-radius:10px;padding:22px 24px;}.recap h3{margin:0 0 9px;font-size:19px;color:var(--ink);letter-spacing:.2px;}.recap p{margin:0;font-size:14.5px;line-height:1.6;color:var(--ink2);}.recap b{color:var(--ink);}
+</style></head>
+<body><div class="wrap">
+<nav class="side">
+  <div class="brand"><a class="backlink" href="/">&larr; Creator Hub</a><a class="wordmark" href="/">KENETIK</a><small>MAKE YOUR FIRST 3</small></div>
+  <div class="hint">Swipe for more &rarr;</div>
+  <div class="stripe"></div>
+  <div class="tabs"><button class="tab active" onclick="showTab(0,'start-here')" id="tab0"><span>Start Here</span></button><button class="tab" onclick="showTab(1,'video-1')" id="tab1"><span>Video 1 &mdash; The Doubt</span></button><button class="tab" onclick="showTab(2,'video-2')" id="tab2"><span>Video 2 &mdash; The First Sip</span></button><button class="tab" onclick="showTab(3,'video-3')" id="tab3"><span>Video 3 &mdash; Two Cans</span></button><button class="tab" onclick="showTab(4,'before-you-post')" id="tab4"><span>Before You Post</span></button></div>
+</nav>
+<main class="main">
+
+<section class="panel show" id="panel0" data-slug="start-here">
+  <div class="strip"></div>
+  <h1>Make your first three videos</h1>
+  <div class="sub">Three hooks, three videos, about an hour of filming. This page walks you through all of it.</div>
+
+  <div class="eyebrow">Why only three</div>
+  <div class="northstar"><p>We have tested thousands of Kenetik videos on TikTok Shop, and three hooks pull away from everything else. Rather than hand you a library and hope, we are asking for <b>one video on each</b>. Same product, three different openings. Whichever one your audience responds to is the one we put real budget behind, and <b>top videos graduate into our paid ads, where you earn commission again</b>.</p></div>
+
+  <div class="eyebrow">What Kenetik is (and isn't)</div>
+  <div class="twocol">
+    <div class="pillar pos">
+      <h4>What Kenetik is</h4>
+      <p>Metabolic brain fuel: clean, caffeine-free focus in a can or a shot. Steady, calm clarity that lasts, without the crash. 12g of ketones, caffeine-free, sugar-free, nothing artificial. Always lead with the person's problem or the moment they feel it, then bring in Kenetik as the fix.</p>
+    </div>
+    <div class="pillar neg">
+      <h4>What Kenetik is NOT</h4>
+      <p>Not an energy drink, a pre-workout, or a supplement. It is a category of its own, so don't label it as any of those. The hard rule: no medical claims. It does not cure, treat, or fix anything, and it is never tied to anxiety, ADHD, focus disorders, brain injury, concussions, or disease. Keep everything to how it feels: clean, calm focus.</p>
+    </div>
+  </div>
+
+  <div class="eyebrow">Do's and don'ts</div>
+  <div class="twocol">
+    <div class="pillar pos">
+      <h4>Do</h4>
+      <ul>
+        <li>Say <b>"brain fuel"</b> at least once, every video.</li>
+        <li>Open on the problem or the feeling in the first 1 to 3 seconds.</li>
+        <li>Say <b>"tap the orange cart"</b> out loud before you finish.</li>
+        <li>Show yourself actually drinking it.</li>
+        <li>Keep it real and native, like a post, not an ad.</li>
+      </ul>
+    </div>
+    <div class="pillar neg">
+      <h4>Don't</h4>
+      <ul>
+        <li>Open with caffeine or ketones. They come after the hook.</li>
+        <li>Call it an energy drink, pre-workout, or supplement.</li>
+        <li>Make medical claims or tie it to any condition, injury, or disease.</li>
+        <li>Lead with the discount or over-produce it like a commercial.</li>
+        <li>Open on <b>"I cut out energy drinks"</b>. It is our worst performer.</li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="eyebrow">Your three videos</div>
+  <p class="pk">Tap any one to get the hook, the reason it works, and the shot plan.</p>
+  <div class="cards">
+    <button class="card" onclick="showTab(1,'video-1')">
+      <div class="ct">Video 1 &mdash; The Doubt</div>
+      <div class="cd">You admit you did not think it would work. Our single highest-converting hook, and the easiest of the three to film.</div>
+      <div class="cgo">Start here &rarr;</div>
+    </button>
+    <button class="card" onclick="showTab(2,'video-2')">
+      <div class="ct">Video 2 &mdash; The First Sip</div>
+      <div class="cd">Your real reaction to the taste, on camera. Taste is our highest-converting theme at 16%.</div>
+      <div class="cgo">Film this one &rarr;</div>
+    </button>
+    <button class="card" onclick="showTab(3,'video-3')">
+      <div class="ct">Video 3 &mdash; Two Cans</div>
+      <div class="cd">Your old drink in one hand, Kenetik in the other. Read the labels out loud and let the cans argue.</div>
+      <div class="cgo">Film this one &rarr;</div>
+    </button>
+  </div>
+
+  <div class="amber"><div class="amber-label">One thing to know before you start</div><p>These are not scripts. Say them in your voice, to your people. What matters is that each video <b>opens differently</b> from the other two, because the whole point is finding out which opening your audience responds to. Same can, same story, three different first lines.</p></div>
+</section>
+
+<section class="panel" id="panel1" data-slug="video-1">
+  <div class="strip"></div>
+  <h1>Video 1 &mdash; The Doubt</h1>
+  <div class="sub">You thought it was nonsense. Then you tried it.</div>
+
+  <div class="eyebrow">The hook</div>
+  <div class="northstar"><p><b>"I have tried a lot of things that did nothing. I did not expect this one to be different."</b></p></div>
+
+  <div class="eyebrow">Or riff on these</div>
+  <div class="hooks">
+    <div class="hook"><div class="hnum">01</div><div class="hbody"><div class="htxt">&ldquo;I wasn't expecting to like these as much as I do.&rdquo;</div><div class="hmeta">The shortest version. Works as on-screen text over a plain shot.</div></div></div>
+    <div class="hook"><div class="hnum">02</div><div class="hbody"><div class="htxt">&ldquo;I genuinely thought this was going to be another thing I tried once and forgot about.&rdquo;</div><div class="hmeta">Longer, more conversational. Good if you talk to camera a lot.</div></div></div>
+  </div>
+
+  <div class="eyebrow">Why this one works</div>
+  <div class="northstar"><p>Leading with your own doubt disarms theirs. The viewer's first thought about any product like this is <b>"that probably does nothing"</b>, and if you say it before they do, you are on their side of the screen instead of the brand's. In our paid data this framing returns <b>roughly ten times</b> what our weakest hook does, and it is the same structure behind a $127k video for another brand we audited. It is the strongest signal we have.</p></div>
+
+  <div class="eyebrow">The shot plan</div>
+  <div class="formula">
+    <div class="step"><span class="sn">1</span><div><b>Open on the doubt</b><p>To camera, first 1 to 3 seconds. Say the line like you mean it, because you probably did think that.</p></div></div>
+    <div class="step"><span class="sn">2</span><div><b>Say what you expected</b><p>One sentence. What you assumed it would be, or what has let you down before.</p></div></div>
+    <div class="step"><span class="sn">3</span><div><b>What actually happened</b><p>Your honest experience. Where you were, what you were doing, what you noticed. Keep it to how it felt.</p></div></div>
+    <div class="step"><span class="sn">4</span><div><b>Close</b><p>Caffeine-free brain fuel, 12g of ketones, and <b>"tap the orange cart"</b> out loud.</p></div></div>
+  </div>
+
+  <div class="amber"><div class="amber-label">Watch out on this one</div><p>The doubt has to be real. A performed eye-roll reads instantly as an ad and kills the whole thing. If you were never skeptical, say what you actually thought instead. And keep it to <b>your own experience</b> &mdash; never say the product treats, fixes, or cures anything.</p></div>
+</section>
+
+<section class="panel" id="panel2" data-slug="video-2">
+  <div class="strip"></div>
+  <h1>Video 2 &mdash; The First Sip</h1>
+  <div class="sub">Your real face, the first time you taste it.</div>
+
+  <div class="eyebrow">The hook</div>
+  <div class="northstar"><p><b>"I did not think a ketone drink could taste like this. Watch my face."</b></p></div>
+
+  <div class="eyebrow">Or riff on these</div>
+  <div class="hooks">
+    <div class="hook"><div class="hnum">01</div><div class="hbody"><div class="htxt">&ldquo;Zero caffeine, zero sugar, 12 grams of ketones &mdash; and it tastes like this?&rdquo;</div><div class="hmeta">Numbers first, taste as the payoff. The question mark is what makes it a hook.</div></div></div>
+    <div class="hook"><div class="hnum">02</div><div class="hbody"><div class="htxt">&ldquo;Everything healthy tastes like punishment. I was ready for that. Watch.&rdquo;</div><div class="hmeta">Sets the expectation low so the reaction does the work.</div></div></div>
+  </div>
+
+  <div class="eyebrow">Why this one works</div>
+  <div class="northstar"><p>Taste is the one objection every ketone drink has to clear, so clearing it on camera removes the only real reason someone hesitates. It is our <b>highest-converting theme at 16%</b>, earning around <b>$82 a video against $18</b> for our weakest. Genuine surprise cannot be scripted, which is exactly why it converts &mdash; the viewer can tell the difference and rewards it.</p></div>
+
+  <div class="eyebrow">The shot plan</div>
+  <div class="formula">
+    <div class="step"><span class="sn">1</span><div><b>Set the expectation low</b><p>First 1 to 3 seconds. Say what you assumed a ketone drink would taste like.</p></div></div>
+    <div class="step"><span class="sn">2</span><div><b>Crack it on camera</b><p>Close-up. Do not cut away. The sound of the can opening is part of it.</p></div></div>
+    <div class="step"><span class="sn">3</span><div><b>Film your actual first sip</b><p>Genuinely your first, if you can. Do not rehearse it and do not film take four.</p></div></div>
+    <div class="step"><span class="sn">4</span><div><b>Close</b><p>Name the flavor, say caffeine-free brain fuel, and <b>"tap the orange cart"</b> out loud.</p></div></div>
+  </div>
+
+  <div class="amber"><div class="amber-label">Watch out on this one</div><p>Film it before you have tried the flavor, or the surprise is gone. If you have already had it, use a flavor you have not opened yet. A performed reaction is obvious and it is the fastest way to lose the comments.</p></div>
+</section>
+
+<section class="panel" id="panel3" data-slug="video-3">
+  <div class="strip"></div>
+  <h1>Video 3 &mdash; Two Cans</h1>
+  <div class="sub">Your old drink in one hand. Kenetik in the other.</div>
+
+  <div class="eyebrow">The hook</div>
+  <div class="northstar"><p><b>"Two cans. One is 200 milligrams of caffeine and 39 grams of sugar. This one is zero, zero, and 12 grams of ketones."</b></p></div>
+
+  <div class="eyebrow">Or riff on these</div>
+  <div class="hooks">
+    <div class="hook"><div class="hnum">01</div><div class="hbody"><div class="htxt">&ldquo;Read the back of both of these with me.&rdquo;</div><div class="hmeta">Slower, more curious. Let the labels carry it.</div></div></div>
+    <div class="hook"><div class="hnum">02</div><div class="hbody"><div class="htxt">&ldquo;Same size can. Completely different thing inside.&rdquo;</div><div class="hmeta">Good if you would rather not read numbers out loud.</div></div></div>
+  </div>
+
+  <div class="eyebrow">Why this one works</div>
+  <div class="northstar"><p>Two objects in frame do the arguing for you, and the viewer reaches the conclusion themselves instead of being told. That is why it beats any claim-led read. It is our <b>best-performing format</b> and we have barely touched it &mdash; run roughly <b>19 times in 5,000 videos</b> &mdash; while two of the biggest brands on TikTok Shop use it as their hero format.</p></div>
+
+  <div class="eyebrow">The shot plan</div>
+  <div class="formula">
+    <div class="step"><span class="sn">1</span><div><b>Both cans in frame</b><p>First 1 to 3 seconds, one in each hand. Do not explain yet, just hold them up.</p></div></div>
+    <div class="step"><span class="sn">2</span><div><b>Read the numbers slowly</b><p>One shocking figure beats four. Take your time on the sugar number.</p></div></div>
+    <div class="step"><span class="sn">3</span><div><b>Say which one you reach for now</b><p>And why, in your own words. This is where you show up, not the labels.</p></div></div>
+    <div class="step"><span class="sn">4</span><div><b>Close</b><p>Caffeine-free brain fuel, and <b>"tap the orange cart"</b> out loud.</p></div></div>
+  </div>
+
+  <div class="amber"><div class="amber-label">Watch out on this one</div><p>Compare the numbers, never the brand. Do not name the other drink, do not say it is bad for you, and do not suggest it is unsafe. You are showing two labels and letting people read them. That is the whole move, and it is the part that keeps it fair.</p></div>
+</section>
+
+<section class="panel" id="panel4" data-slug="before-you-post">
+  <div class="strip"></div>
+  <h1>Before you post</h1>
+  <div class="sub">Two minutes of checks that are worth more than another hour of filming.</div>
+
+  <div class="eyebrow">The one line most people forget</div>
+  <div class="northstar"><p>Say <b>"tap the orange cart"</b> out loud. It is the strongest single signal in our entire shop data: videos that say it convert at <b>43% against about 10%</b> for everything else, and earn roughly <b>$210 a video against $25 to $35</b>. Only <b>37 of our 3,326 videos</b> have ever said it. It costs you one second.</p></div>
+
+  <div class="eyebrow">Run through this on each video</div>
+  <div class="formula">
+    <div class="step"><span class="sn">1</span><div><b>Does it open on a feeling, not an ingredient?</b><p>If the first line contains "ketones" or "caffeine", move it later.</p></div></div>
+    <div class="step"><span class="sn">2</span><div><b>Did you say "brain fuel" at least once?</b><p>This is the category we are building. It only works if everyone says it.</p></div></div>
+    <div class="step"><span class="sn">3</span><div><b>Did you say "tap the orange cart"?</b><p>Out loud, not just on screen.</p></div></div>
+    <div class="step"><span class="sn">4</span><div><b>Are all three openings different?</b><p>If two of your videos start the same way, you have only run one test.</p></div></div>
+    <div class="step"><span class="sn">5</span><div><b>Any medical language?</b><p>Nothing about treating, curing, fixing, or any condition. Keep it to how it felt.</p></div></div>
+  </div>
+
+  <div class="eyebrow">What happens next</div>
+  <div class="twocol">
+    <div class="pillar pos">
+      <h4>On TikTok Shop</h4>
+      <p>You earn commission on every sale your videos drive. First-wave creator content gets the strongest push from TikTok, so posting all three close together works better than spacing them out over a month.</p>
+    </div>
+    <div class="pillar pos">
+      <h4>Then in our paid ads</h4>
+      <p>Whichever of your three performs best can graduate into our paid media, where it earns you commission a second time. That is the reason we ask for three different openings rather than three versions of one.</p>
+    </div>
+  </div>
+
+  <div class="recap"><h3>The bottom line</h3><p>Three videos, three different first lines. <b>The doubt</b>, <b>the first sip</b>, and <b>two cans</b>. Every one of them opens on something a person feels, brings in Kenetik as <b>caffeine-free brain fuel</b>, and closes on <b>"tap the orange cart"</b> out loud. Post them close together, keep them honest, and let us find out which opening your audience actually responds to.</p></div>
+
+  <div class="foot">Kenetik Creator Hub &middot; Hook performance drawn from Kenetik TikTok Shop data and audited competitor accounts. Figures are directional, not guarantees.</div>
+</section>
+
+</main></div>
+<script>
+function showTab(i,slug){
+  document.querySelectorAll('.panel').forEach(function(p){p.classList.remove('show');});
+  document.querySelectorAll('.tab').forEach(function(t){t.classList.remove('active');});
+  document.getElementById('panel'+i).classList.add('show');
+  document.getElementById('tab'+i).classList.add('active');
+  if(slug){history.replaceState(null,'','#'+slug);}
+  var at=document.getElementById('tab'+i);
+  if(at&&at.scrollIntoView){at.scrollIntoView({inline:'center',block:'nearest'});}
+  window.scrollTo(0,0);
+}
+(function(){
+  var h=(location.hash||'').replace('#','').toLowerCase();
+  if(!h) return;
+  var panels=document.querySelectorAll('.panel');
+  for(var i=0;i<panels.length;i++){ if(panels[i].getAttribute('data-slug')===h){ showTab(i,h); break; } }
+})();
+(function(){
+  if(location.hash) return;
+  if(!(window.matchMedia && window.matchMedia('(max-width:760px)').matches)) return;
+  var t=document.querySelector('.tabs');
+  if(!t || t.scrollWidth <= t.clientWidth+8) return;
+  setTimeout(function(){ t.scrollTo({left:72,behavior:'smooth'});
+    setTimeout(function(){ t.scrollTo({left:0,behavior:'smooth'}); }, 620); }, 550);
+})();
+</script>
+</body></html>
