@@ -1,6 +1,6 @@
 {
   "_comment": "Creator Hub live data. Auto-refreshed weekly by /creator-hub-refresh (EUKA-verified). Editorial fields (mission, perks, dos/donts, clips, discordUrl, formEndpoint, assets) are hand-editable.",
-  "updated": "August 17, 2026",
+  "updated": "September 1, 2026",
   "heroHeadline": "Everyone needs brain fuel. Help us put it on the map.",
   "heroGmv": "~$465K in TikTok Shop GMV and counting. The #1 brain fuel brand on TikTok Shop.",
   "discordUrl": "https://discord.com/invite/MXf39eMgTY",
@@ -222,57 +222,57 @@
       ]
     },
     {
-      "handle": "@kenetik",
-      "primary": "$1,060",
-      "secondary": "414K views",
-      "angle": "From our channel",
-      "href": "https://tiktok.com/@kenetik/video/7551800944049147191",
-      "thumb": "https://database.euka.ai/storage/v1/object/public/creator_videos_photos/7551800944049147191.webp",
-      "note": "Our own channel: a partner appreciation moment that doubled as product proof.",
+      "handle": "@healthy.lifestyle.vibe",
+      "primary": "$729",
+      "secondary": "33K views",
+      "angle": "Plain and useful",
+      "href": "https://tiktok.com/@healthy.lifestyle.vibe/video/7665560221292465439",
+      "thumb": "https://database.euka.ai/storage/v1/object/public/creator_videos_photos/7665560221292465439.webp",
+      "note": "The least clever hook we have and one of the best performing.",
       "rank": "4",
-      "age": "10mo ago",
-      "why": "Our own channel: a partner unveils Kenetik as a new tool for your toolbox, with announcement energy.",
-      "hook": "Today I'm going to introduce you to a brand new tool for your toolbox.",
+      "age": "6 weeks ago",
+      "why": "No turn of phrase, no story, just what you get for your money. It is the plainest opening on this page and one of the highest returning, which is worth knowing on a day when you do not have a story to tell.",
+      "hook": "You get 24 cans in this four flavor variety pack.",
       "sellingPoints": [
-        "Out to build a new category: brain fuel.",
-        "Caffeine-free and sugar-free, and you still feel great.",
-        "Clean brain fuel, no caffeine needed."
+        "24 cans, four flavors: Watermelon Lime, Blackberry Lemonade, Strawberry Peach, Pineapple Passionfruit.",
+        "60 calories, zero caffeine, zero sugar.",
+        "Fasting friendly."
       ]
     },
     {
-      "handle": "@from.mud.to.beauty",
-      "primary": "$688",
-      "secondary": "19K views",
-      "angle": "Focus + clarity",
-      "href": "https://tiktok.com/@from.mud.to.beauty/video/7548900264716111135",
-      "thumb": "https://database.euka.ai/storage/v1/object/public/creator_videos_photos/7548900264716111135.webp",
-      "note": "Straight-to-camera on the focus and clarity she gets from ketones.",
+      "handle": "@thededicateddad",
+      "primary": "$312",
+      "secondary": "12K views",
+      "angle": "Real, named scarcity",
+      "href": "https://tiktok.com/@thededicateddad/video/7674092193027493151",
+      "thumb": "https://database.euka.ai/storage/v1/object/public/creator_videos_photos/7674092193027493151.webp",
+      "note": "Scarcity that is actually true, on the newest flavor.",
       "rank": "5",
-      "age": "11mo ago",
-      "why": "An enthusiastic, relatable monologue: what she reaches for instead of the usual energy drinks.",
-      "hook": "Need to lock in right now? Here's the brain fuel I reach for.",
+      "age": "2 weeks ago",
+      "why": "Scarcity works here because it is true. Golden Pear really did sell out in four weeks, so the urgency is a fact rather than a sales line. Vague urgency returns about a fifth of this.",
+      "hook": "If these sell out anywhere as quick as these did, you might not even get these before you see this video.",
       "sellingPoints": [
-        "Three ingredients, all natural.",
-        "The flavors are out of this world.",
-        "Clean and simple."
+        "Metabolic brain fuel, caffeine-free.",
+        "12g of ketones.",
+        "The new flavor, while it lasts."
       ]
     },
     {
       "handle": "@kenetik",
-      "primary": "$350",
-      "secondary": "195K views",
-      "angle": "Real life",
+      "primary": "$194",
+      "secondary": "2.6K views",
+      "angle": "From our channel",
+      "href": "https://tiktok.com/@kenetik/video/7673198140786363661",
+      "thumb": "https://database.euka.ai/storage/v1/object/public/creator_videos_photos/7673198140786363661.webp",
+      "note": "Our best returning hook of the month.",
       "rank": "6",
-      "age": "8mo ago",
-      "href": "https://tiktok.com/@kenetik/video/7576725456347614519",
-      "thumb": "https://database.euka.ai/storage/v1/object/public/creator_videos_photos/7576725456347614519.webp",
-      "note": "Roman on staying locked in through the chaos of everyday life.",
-      "why": "Our own channel again: a slice of life from Roman showing Kenetik fitting into a loud, chaotic day. Real life beats a polished ad, and it pulled 124K views.",
-      "hook": "My life is loud. It's chaotic. This is how I stay locked in through it.",
+      "age": "3 weeks ago",
+      "why": "The single best returning opening we ran this month. A named flavor, a real timeframe, and a restock that gives the viewer a reason to act today rather than later.",
+      "hook": "Golden Pear sold out in just 4 weeks, so we bumped the Raspberry Lychee launch up by five.",
       "sellingPoints": [
-        "Fits a real, busy day, not a studio.",
-        "Caffeine-free, so no jitters in the chaos.",
-        "Steady focus when everything's happening at once."
+        "Golden Pear sold out in four weeks and is back on the shop.",
+        "Raspberry Lychee launched five weeks early because of it.",
+        "12g of ketones, caffeine-free."
       ]
     }
   ],
@@ -355,6 +355,7 @@
   "dos": [
     "Say “brain fuel” at least once in every video, non-negotiable. It's the category we're building together, so plant it every time. Say it your way: “brain fuel,” “metabolic brain fuel,” “brain fuel drink,” or “fuel for your brain.”",
     "Win the first 2 seconds. The hook is the whole game.",
+    "Say “tap the orange cart” out loud before you finish. Videos that say it convert at 43% against about 10% for everything else, and almost nobody does it.",
     "Lead with what Kenetik IS and the problem it solves, brain fuel for the foggy, crash-at-2pm afternoon. Never lead with what it's not.",
     "Convert through story and shared experience, not a discount. We're premium.",
     "Keep it raw and real. One take, your voice. Polished reads like an ad and kills it.",
