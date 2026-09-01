@@ -67,26 +67,48 @@ h1{font-size:26px;margin:0 0 4px;letter-spacing:.2px;}
 .pillar li b{color:var(--ink);}
 @media(max-width:760px){.twocol{flex-direction:column;}}
 .recap{margin-top:40px;background:linear-gradient(135deg,#FBEAF4,#F1ECFA);border:1px solid var(--line);border-radius:10px;padding:22px 24px;}.recap h3{margin:0 0 9px;font-size:19px;color:var(--ink);letter-spacing:.2px;}.recap p{margin:0;font-size:14.5px;line-height:1.6;color:var(--ink2);}.recap b{color:var(--ink);}
-</style></head>
+</style><style>
+.side{position:sticky;}
+.tab{text-decoration:none;}
+.panel{display:block !important;}
+.sec{scroll-margin-top:20px;padding-top:6px;}
+.divider{height:1px;background:var(--line);margin:38px 0 30px;}
+.roi{display:inline-block;background:var(--berry);color:#fff;font-weight:800;font-size:12px;letter-spacing:.5px;padding:4px 10px;border-radius:999px;vertical-align:middle;margin-left:8px;}
+.roi.warn{background:var(--ink2);}
+.wins{display:grid;grid-template-columns:repeat(auto-fill,minmax(178px,1fr));gap:14px;}
+.win{display:block;text-decoration:none;color:inherit;border:1px solid var(--line);border-radius:6px;overflow:hidden;background:#fff;transition:box-shadow .15s ease,border-color .15s ease,transform .1s ease;}
+.win:hover{box-shadow:0 6px 20px rgba(208,20,140,.18);border-color:var(--berry);}
+.win:active{transform:translateY(1px);}
+.win img{display:block;width:100%;aspect-ratio:9/16;object-fit:cover;background:var(--panel);}
+.win .wb{padding:11px 12px 13px;}
+.win .wtag{font-size:10px;letter-spacing:1.4px;text-transform:uppercase;font-weight:800;color:var(--berry);}
+.win .wq{font-size:13px;line-height:1.42;color:var(--ink);font-weight:700;margin:6px 0 7px;}
+.win .wm{font-size:11.5px;color:var(--ink2);display:flex;justify-content:space-between;align-items:center;gap:6px;}
+.win .wm b{color:var(--berry);font-size:12.5px;}
+@media(max-width:760px){.wins{grid-template-columns:repeat(auto-fill,minmax(150px,1fr));gap:11px;}}
+</style>
+</head>
 <body><div class="wrap">
 <nav class="side">
   <div class="brand"><a class="backlink" href="/">&larr; Creator Hub</a><a class="wordmark" href="/">KENETIK</a><small>MAKE YOUR FIRST 3</small></div>
   <div class="hint">Swipe for more &rarr;</div>
   <div class="stripe"></div>
-  <div class="tabs"><button class="tab active" onclick="showTab(0,'start-here')" id="tab0"><span>Start Here</span></button><button class="tab" onclick="showTab(1,'video-1')" id="tab1"><span>Video 1 &mdash; The Sellout</span></button><button class="tab" onclick="showTab(2,'video-2')" id="tab2"><span>Video 2 &mdash; The Honest Take</span></button><button class="tab" onclick="showTab(3,'video-3')" id="tab3"><span>Video 3 &mdash; Best Flavor Yet</span></button><button class="tab" onclick="showTab(4,'before-you-post')" id="tab4"><span>Before You Post</span></button></div>
+  <div class="tabs"><a class="tab" href="#start"><span>Start Here</span></a><a class="tab" href="#winners"><span>What's Working</span></a><a class="tab" href="#video-1"><span>Video 1 &mdash; The Sellout</span></a><a class="tab" href="#video-2"><span>Video 2 &mdash; The Honest Take</span></a><a class="tab" href="#video-3"><span>Video 3 &mdash; Best Flavor Yet</span></a><a class="tab" href="#before-you-post"><span>Before You Post</span></a></div>
 </nav>
 <main class="main">
 
-<section class="panel show" id="panel0" data-slug="start-here">
+<section class="panel">
+
+<div class="sec" id="start">
   <div class="strip"></div>
   <h1>Make your first three videos</h1>
-  <div class="sub">Three hooks, three videos, about an hour of filming. This page walks you through all of it.</div>
+  <div class="sub">Three hooks, three videos, about an hour of filming. Everything you need is on this page.</div>
 
   <div class="eyebrow">Why only three</div>
   <div class="northstar"><p>We put ad money behind creator videos and watch what comes back. Three opening lines are pulling ahead right now, so rather than hand you a library and hope, we are asking for <b>one video on each</b>. Same product, three different openings. Whichever one your audience responds to is the one we put more budget behind, and <b>top videos graduate into our paid ads, where you earn commission again</b>.</p></div>
 
   <div class="eyebrow">Where these came from</div>
-  <div class="amber"><div class="amber-label">Read this bit</div><p>These three are ranked on <b>real ad spend and real return</b> from our TikTok Shop campaigns in August 2026, using the <b>spoken opening line</b> of each video, not the caption. Roughly $1,700 of spend sits behind the numbers below. <b>Sample sizes are small, between one and three videos per hook</b>, so treat this as the best read we have rather than settled fact. We refresh it monthly.</p></div>
+  <div class="amber"><div class="amber-label">Read this bit</div><p>These three are ranked on <b>what actually came back</b> from our TikTok Shop ad campaigns in August 2026, using the <b>spoken opening line</b> of each video, not the caption. <b>Sample sizes are small, between one and three videos per hook</b>, so treat this as the best read we have rather than settled fact. We refresh it monthly.</p></div>
 
   <div class="eyebrow">What Kenetik is (and isn't)</div>
   <div class="twocol">
@@ -115,41 +137,53 @@ h1{font-size:26px;margin:0 0 4px;letter-spacing:.2px;}
     <div class="pillar neg">
       <h4>Don't</h4>
       <ul>
-        <li><b>Don't build the video around energy drinks.</b> Our worst performer, 0.25x return on $244 of spend.</li>
-        <li><b>Don't use vague urgency</b> like "still in stock, barely." 0.19x on $283.</li>
+        <li><b>Don't build the video around energy drinks.</b> Our worst performer by some distance.</li>
+        <li><b>Don't use vague urgency</b> like "still in stock, barely." It returns about a fifth of what a real, named sellout does.</li>
         <li>Open with caffeine or ketones. They come after the hook.</li>
         <li>Call it an energy drink, pre-workout, or supplement.</li>
         <li>Make medical claims or tie it to any condition, injury, or disease.</li>
       </ul>
     </div>
   </div>
+</div>
 
-  <div class="eyebrow">Your three videos</div>
-  <p class="pk">Tap any one to get the hook, the numbers behind it, and the shot plan.</p>
-  <div class="cards">
-    <button class="card" onclick="showTab(1,'video-1')">
-      <div class="ct">Video 1 &mdash; The Sellout</div>
-      <div class="cd">A flavor genuinely ran out, and it might happen again. Our best performer by a distance and the one with the most money behind it.</div>
-      <div class="cgo">1.60x return &rarr;</div>
-    </button>
-    <button class="card" onclick="showTab(2,'video-2')">
-      <div class="ct">Video 2 &mdash; The Honest Take</div>
-      <div class="cd">You level with your audience instead of reviewing at them. Promising, on a small sample.</div>
-      <div class="cgo">1.25x return &rarr;</div>
-    </button>
-    <button class="card" onclick="showTab(3,'video-3')">
-      <div class="ct">Video 3 &mdash; Best Flavor Yet</div>
-      <div class="cd">The taste angle. About breaking even so far, and the one we most need more data on.</div>
-      <div class="cgo">0.97x return &rarr;</div>
-    </button>
+<div class="divider"></div>
+
+<div class="sec" id="winners">
+  <h1>What's working right now</h1>
+  <div class="sub">Real Kenetik videos from August, and what each one opened with. Tap any to watch.</div>
+
+  <div class="eyebrow">The winners</div>
+  <div class="wins">
+    <a class="win" href="https://www.tiktok.com/@kenetik/video/7673198140786363661" target="_blank" rel="noopener">
+      <img src="https://database.euka.ai/storage/v1/object/public/creator_videos_photos/7673198140786363661.webp" alt="Kenetik video" loading="lazy">
+      <div class="wb"><div class="wtag">The Sellout</div><div class="wq">&ldquo;Golden Pear sold out in just 4 weeks&hellip;&rdquo;</div><div class="wm"><span>@kenetik</span><b>2.19x</b></div></div>
+    </a>
+    <a class="win" href="https://www.tiktok.com/@kenetik/video/7678367989313506591" target="_blank" rel="noopener">
+      <img src="https://database.euka.ai/storage/v1/object/public/creator_videos_photos/7678367989313506591.webp" alt="Kenetik video" loading="lazy">
+      <div class="wb"><div class="wtag">Best Flavor Yet</div><div class="wq">&ldquo;The reviews are in, and it's our best one yet.&rdquo;</div><div class="wm"><span>@kenetik</span><b>1.65x</b></div></div>
+    </a>
+    <a class="win" href="https://www.tiktok.com/@thededicateddad/video/7674092193027493151" target="_blank" rel="noopener">
+      <img src="https://database.euka.ai/storage/v1/object/public/creator_videos_photos/7674092193027493151.webp" alt="Creator video" loading="lazy">
+      <div class="wb"><div class="wtag">The Sellout</div><div class="wq">&ldquo;If these sell out as quick as these did, you might not even get them.&rdquo;</div><div class="wm"><span>@thededicateddad</span><b>1.28x</b></div></div>
+    </a>
+    <a class="win" href="https://www.tiktok.com/@shawnsfinds_/video/7678039004167687455" target="_blank" rel="noopener">
+      <img src="https://database.euka.ai/storage/v1/object/public/creator_videos_photos/7678039004167687455.webp" alt="Creator video" loading="lazy">
+      <div class="wb"><div class="wtag">The Honest Take</div><div class="wq">&ldquo;I'm just gonna be honest, these are genuinely some of the best caffeine-free focus drinks out right now.&rdquo;</div><div class="wm"><span>@shawnsfinds_</span><b>1.25x</b></div></div>
+    </a>
+    <a class="win" href="https://www.tiktok.com/@kenetik/video/7671695328881560845" target="_blank" rel="noopener">
+      <img src="https://database.euka.ai/storage/v1/object/public/creator_videos_photos/7671695328881560845.webp" alt="Kenetik video" loading="lazy">
+      <div class="wb"><div class="wtag">Best Flavor Yet</div><div class="wq">&ldquo;We just launched this today and it is our best flavor yet.&rdquo;</div><div class="wm"><span>@kenetik</span><b>1.16x</b></div></div>
+    </a>
   </div>
 
-  <div class="amber"><div class="amber-label">One thing to know before you start</div><p>These are not scripts. Say them in your voice, to your people. What matters is that each video <b>opens differently</b> from the other two, because the whole point is finding out which opening your audience responds to. Same can, same story, three different first lines.</p></div>
-</section>
+  <div class="amber"><div class="amber-label">What to notice</div><p>Some of these are ours and some are creators'. It genuinely does not matter which. <b>Every single one opens on something true and specific</b>, a flavor that ran out, an honest opinion, a launch. None of them opens on ketones, and none of them opens on a discount.</p></div>
+</div>
 
-<section class="panel" id="panel1" data-slug="video-1">
-  <div class="strip"></div>
-  <h1>Video 1 &mdash; The Sellout</h1>
+<div class="divider"></div>
+
+<div class="sec" id="video-1">
+  <h1>Video 1 &mdash; The Sellout <span class="roi">1.60x</span></h1>
   <div class="sub">It ran out once. It can run out again.</div>
 
   <div class="eyebrow">The hook</div>
@@ -162,7 +196,7 @@ h1{font-size:26px;margin:0 0 4px;letter-spacing:.2px;}
   </div>
 
   <div class="eyebrow">Why this one works</div>
-  <div class="northstar"><p><b>1.60x return on $468 of ad spend</b>, across two videos. That is the highest return of any opening we tested in August, and it carries the most spend, which makes it the number we trust most on this page. Scarcity works here because it is <b>true</b>: Golden Pear really did sell out in four weeks, and the Raspberry Lychee launch really was pulled forward because of it.</p></div>
+  <div class="northstar"><p>The best return of any opening we tested in August, and the one with the most behind it, which makes it the number we trust most on this page. Scarcity works here because it is <b>true</b>: Golden Pear really did sell out in four weeks, and the Raspberry Lychee launch really was pulled forward because of it.</p></div>
 
   <div class="eyebrow">The shot plan</div>
   <div class="formula">
@@ -172,12 +206,13 @@ h1{font-size:26px;margin:0 0 4px;letter-spacing:.2px;}
     <div class="step"><span class="sn">4</span><div><b>Close</b><p>Say <b>"tap the orange cart"</b> out loud.</p></div></div>
   </div>
 
-  <div class="amber"><div class="amber-label">Watch out on this one</div><p><b>It has to be specific and it has to be true.</b> This is the sharpest thing in our data: a real sellout, named, with a real timeframe, returned <b>1.60x</b>. Vague urgency like "still in stock, barely" returned <b>0.19x on $283 of spend</b>. Same idea, eight times worse, because one is a fact and the other is a sales line people have heard a thousand times. Never invent a sellout.</p></div>
-</section>
+  <div class="amber"><div class="amber-label">Watch out on this one</div><p><b>It has to be specific and it has to be true.</b> This is the sharpest thing in our data: a real sellout, named, with a real timeframe, is our best performer. Vague urgency like "still in stock, barely" returns roughly <b>a fifth</b> of that. Same idea, eight times worse, because one is a fact and the other is a sales line people have heard a thousand times. Never invent a sellout.</p></div>
+</div>
 
-<section class="panel" id="panel2" data-slug="video-2">
-  <div class="strip"></div>
-  <h1>Video 2 &mdash; The Honest Take</h1>
+<div class="divider"></div>
+
+<div class="sec" id="video-2">
+  <h1>Video 2 &mdash; The Honest Take <span class="roi">1.25x</span></h1>
   <div class="sub">You level with people instead of reviewing at them.</div>
 
   <div class="eyebrow">The hook</div>
@@ -190,7 +225,7 @@ h1{font-size:26px;margin:0 0 4px;letter-spacing:.2px;}
   </div>
 
   <div class="eyebrow">Why this one works</div>
-  <div class="northstar"><p><b>1.25x return</b>, and it works because "let me be honest with you" is a different social move from a review. You are talking to one person, not an audience, and the viewer can hear the difference. <b>Small sample, one video, $66 of spend</b>, so this is a promising signal rather than a proven one. That is part of why we want you to run it.</p></div>
+  <div class="northstar"><p>"Let me be honest with you" is a different social move from a review. You are talking to one person, not an audience, and the viewer can hear the difference. <b>This one is on a small sample, a single video</b>, so it is a promising signal rather than a proven one. That is part of why we want you to run it.</p></div>
 
   <div class="eyebrow">The shot plan</div>
   <div class="formula">
@@ -201,11 +236,12 @@ h1{font-size:26px;margin:0 0 4px;letter-spacing:.2px;}
   </div>
 
   <div class="amber"><div class="amber-label">Watch out on this one</div><p>Honesty is the whole mechanism, so a performed version of it is worse than not doing it at all. If there is something you would change about the product, saying so <b>makes the rest more believable</b>, not less. And keep it to your own experience. Never say it treats, fixes, or cures anything.</p></div>
-</section>
+</div>
 
-<section class="panel" id="panel3" data-slug="video-3">
-  <div class="strip"></div>
-  <h1>Video 3 &mdash; Best Flavor Yet</h1>
+<div class="divider"></div>
+
+<div class="sec" id="video-3">
+  <h1>Video 3 &mdash; Best Flavor Yet <span class="roi warn">0.97x</span></h1>
   <div class="sub">The taste angle, and the one we most need your data on.</div>
 
   <div class="eyebrow">The hook</div>
@@ -218,7 +254,7 @@ h1{font-size:26px;margin:0 0 4px;letter-spacing:.2px;}
   </div>
 
   <div class="eyebrow">Why this one is here, honestly</div>
-  <div class="northstar"><p><b>0.97x return across three videos and $135 of spend.</b> That is roughly breaking even, and it is the weakest of the three on current numbers. It stays on the list because taste is the one objection every ketone drink has to clear, and because two of those three videos were profitable while one returned nothing. <b>We do not have enough data to know which version works.</b> That is genuinely why we want you to run it.</p></div>
+  <div class="northstar"><p>This one is <b>about breaking even</b>, and it is the weakest of the three on current numbers. It stays on the list because taste is the one objection every ketone drink has to clear, and because two of the three videos we ran were profitable while one returned nothing. <b>We do not have enough data to know which version works.</b> That is genuinely why we want you to run it.</p></div>
 
   <div class="eyebrow">The shot plan</div>
   <div class="formula">
@@ -229,10 +265,11 @@ h1{font-size:26px;margin:0 0 4px;letter-spacing:.2px;}
   </div>
 
   <div class="amber"><div class="amber-label">Watch out on this one</div><p>Film it before you have tried the flavor, or the surprise is gone. If you have already had it, use one you have not opened yet. A performed reaction is obvious and it is the fastest way to lose the comments.</p></div>
-</section>
+</div>
 
-<section class="panel" id="panel4" data-slug="before-you-post">
-  <div class="strip"></div>
+<div class="divider"></div>
+
+<div class="sec" id="before-you-post">
   <h1>Before you post</h1>
   <div class="sub">Two minutes of checks that are worth more than another hour of filming.</div>
 
@@ -263,34 +300,10 @@ h1{font-size:26px;margin:0 0 4px;letter-spacing:.2px;}
 
   <div class="recap"><h3>The bottom line</h3><p>Three videos, three different first lines. <b>The sellout</b>, <b>the honest take</b>, and <b>best flavor yet</b>. Every one of them opens on something real, brings in Kenetik as <b>caffeine-free brain fuel</b>, and closes on <b>"tap the orange cart"</b> out loud. Post them close together, keep them true, and let us find out which opening your audience actually responds to.</p></div>
 
-  <div class="foot">Kenetik Creator Hub &middot; Hook performance from TikTok Shop GMV Max ad spend and attributed revenue, August 2026, classified on each video's spoken opening line. Between one and three videos per hook, so figures are directional and not guarantees. Last updated 31 August 2026.</div>
+  <div class="foot">Kenetik Creator Hub &middot; Hook performance from our TikTok Shop ad campaigns, August 2026, classified on each video's spoken opening line. Between one and three videos per hook, so figures are directional and not guarantees. Last updated 31 August 2026.</div>
+</div>
+
 </section>
 
 </main></div>
-<script>
-function showTab(i,slug){
-  document.querySelectorAll('.panel').forEach(function(p){p.classList.remove('show');});
-  document.querySelectorAll('.tab').forEach(function(t){t.classList.remove('active');});
-  document.getElementById('panel'+i).classList.add('show');
-  document.getElementById('tab'+i).classList.add('active');
-  if(slug){history.replaceState(null,'','#'+slug);}
-  var at=document.getElementById('tab'+i);
-  if(at&&at.scrollIntoView){at.scrollIntoView({inline:'center',block:'nearest'});}
-  window.scrollTo(0,0);
-}
-(function(){
-  var h=(location.hash||'').replace('#','').toLowerCase();
-  if(!h) return;
-  var panels=document.querySelectorAll('.panel');
-  for(var i=0;i<panels.length;i++){ if(panels[i].getAttribute('data-slug')===h){ showTab(i,h); break; } }
-})();
-(function(){
-  if(location.hash) return;
-  if(!(window.matchMedia && window.matchMedia('(max-width:760px)').matches)) return;
-  var t=document.querySelector('.tabs');
-  if(!t || t.scrollWidth <= t.clientWidth+8) return;
-  setTimeout(function(){ t.scrollTo({left:72,behavior:'smooth'});
-    setTimeout(function(){ t.scrollTo({left:0,behavior:'smooth'}); }, 620); }, 550);
-})();
-</script>
 </body></html>
