@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Kenetik: For Roman</title>
+<meta name="robots" content="noindex">
+<style>
+:root{--ink:#16161D;--ink2:#5A5B66;--muted:#9A9BA6;--berry:#D0148C;--violet:#7A2BD0;--blue:#2E6BE6;--plum:#1E1230;--panel:#F5F6F8;--line:#E6E6EA;}
+*{box-sizing:border-box;}
+body{margin:0;font-family:'Futura','Century Gothic','Trebuchet MS','Segoe UI',sans-serif;color:var(--ink);background:#fff;-webkit-font-smoothing:antialiased;}
+.wrap{max-width:920px;margin:0 auto;padding:0 24px;}
+.hero{background:var(--plum);color:#fff;padding:78px 0 66px;}
+.strip{height:6px;background:linear-gradient(90deg,var(--berry) 0 33%,var(--violet) 33% 66%,var(--blue) 66% 100%);}
+.kicker{font-size:12px;letter-spacing:3px;text-transform:uppercase;color:#C9A9F0;font-weight:700;margin-bottom:22px;}
+h1{font-size:clamp(38px,7vw,74px);line-height:1.02;letter-spacing:-.02em;margin:0 0 26px;font-weight:800;}
+.hero p{font-size:clamp(17px,2.2vw,21px);line-height:1.5;color:#D8D2E6;max-width:34ch;margin:0;font-weight:300;}
+section{padding:66px 0;}
+section.alt{background:var(--panel);}
+h2{font-size:clamp(27px,4vw,44px);line-height:1.06;letter-spacing:-.015em;margin:0 0 18px;font-weight:800;}
+.lede{font-size:clamp(16px,2vw,19px);line-height:1.55;color:var(--ink2);max-width:52ch;margin:0 0 34px;font-weight:300;}
+.eyebrow{font-size:11.5px;letter-spacing:2.6px;text-transform:uppercase;color:var(--berry);font-weight:800;margin-bottom:16px;}
+.big{font-size:clamp(46px,9vw,92px);font-weight:800;letter-spacing:-.03em;line-height:1;color:var(--berry);}
+.biglabel{font-size:13.5px;color:var(--ink2);margin-top:6px;}
+.stats{display:flex;flex-wrap:wrap;gap:clamp(28px,6vw,72px);margin:0 0 34px;}
+.quote{font-size:clamp(22px,3.4vw,34px);line-height:1.28;font-weight:700;border-left:6px solid var(--berry);padding:4px 0 4px 22px;margin:0 0 20px;letter-spacing:-.01em;}
+.moment{display:flex;gap:clamp(18px,3vw,32px);padding:32px 0;border-top:1px solid var(--line);align-items:flex-start;}
+.moment:last-child{border-bottom:1px solid var(--line);}
+.mn{flex:0 0 auto;font-size:clamp(30px,5vw,52px);font-weight:800;color:var(--berry);line-height:1;letter-spacing:-.02em;min-width:1.6em;}
+.mt{font-size:clamp(20px,2.8vw,28px);font-weight:800;line-height:1.15;margin:0 0 10px;letter-spacing:-.01em;}
+.md{font-size:16px;line-height:1.6;color:var(--ink2);margin:0 0 10px;font-weight:300;}
+.mp{font-size:12.5px;font-weight:700;color:var(--berry);letter-spacing:.4px;}
+.vids{display:grid;grid-template-columns:repeat(auto-fit,minmax(210px,1fr));gap:16px;margin-top:8px;}
+.v{display:block;text-decoration:none;color:inherit;border:1px solid var(--line);border-radius:8px;overflow:hidden;background:#fff;transition:box-shadow .15s ease,border-color .15s ease,transform .1s ease;}
+.v:hover{box-shadow:0 8px 26px rgba(208,20,140,.2);border-color:var(--berry);}
+.v:active{transform:translateY(1px);}
+.v img{display:block;width:100%;aspect-ratio:9/16;object-fit:cover;background:var(--panel);}
+.vb{padding:14px 15px 16px;}
+.vq{font-size:14.5px;font-weight:700;line-height:1.35;margin-bottom:9px;}
+.vm{font-size:12px;color:var(--ink2);display:flex;justify-content:space-between;gap:8px;}
+.vm b{color:var(--berry);}
+.never{display:flex;flex-direction:column;gap:14px;margin-top:8px;}
+.never div{font-size:clamp(17px,2.3vw,22px);font-weight:700;line-height:1.3;padding-left:36px;position:relative;}
+.never div:before{content:"\2717";position:absolute;left:0;top:0;color:var(--berry);font-size:.9em;}
+.do{display:flex;flex-direction:column;gap:16px;}
+.do div{font-size:16.5px;line-height:1.5;color:var(--ink2);padding-left:34px;position:relative;font-weight:300;}
+.do div:before{content:"\2713";position:absolute;left:0;top:0;color:var(--berry);font-weight:800;font-size:1.05em;}
+.do b{color:var(--ink);font-weight:800;}
+.close{background:var(--plum);color:#fff;padding:64px 0;}
+.close h2{color:#fff;}
+.close p{font-size:clamp(17px,2.2vw,21px);line-height:1.5;color:#D8D2E6;max-width:44ch;margin:0;font-weight:300;}
+.foot{padding:26px 0 46px;color:var(--muted);font-size:11.5px;}
+@media(max-width:600px){.moment{flex-direction:column;gap:10px;}.mn{min-width:0;}}
+</style></head>
+<body>
+
+<div class="strip"></div>
+<div class="hero"><div class="wrap">
+  <div class="kicker">Kenetik &middot; for Roman</div>
+  <h1>None of your best videos were ads.</h1>
+  <p>So we are not going to ask you to make one. This page is just what is working right now, so you know a good moment when you are already living it.</p>
+</div></div>
+
+<section><div class="wrap">
+  <div class="eyebrow">Start with your own numbers</div>
+  <h2>Your biggest one opened with five words.</h2>
+  <div class="quote">&ldquo;My guy, one second. I want to show you something.&rdquo;</div>
+  <p class="lede">That is the whole hook. No script, no read, no pitch. It is the second highest earning video in the entire account.</p>
+  <div class="stats">
+    <div><div class="big">4.6M</div><div class="biglabel">views</div></div>
+    <div><div class="big">$10.1k</div><div class="biglabel">in sales</div></div>
+    <div><div class="big">119k</div><div class="biglabel">likes</div></div>
+  </div>
+  <p class="lede">Every one of your best clips is you talking, not selling. <b>&ldquo;My life is loud. It&rsquo;s chaotic.&rdquo;</b> <b>&ldquo;You don&rsquo;t actually need to be hyped up all the time.&rdquo;</b> Those are yours, and they are the ones that move.</p>
+  <div class="vids">
+    <a class="v" href="https://www.tiktok.com/@kenetik/video/7506226615542877486" target="_blank" rel="noopener">
+      <img src="https://database.euka.ai/storage/v1/object/public/creator_videos_photos/7506226615542877486.jpg" alt="" loading="lazy">
+      <div class="vb"><div class="vq">&ldquo;My guy, one second.&rdquo;</div><div class="vm"><span>4.6M views</span><b>$10.1k</b></div></div></a>
+    <a class="v" href="https://www.tiktok.com/@kenetik/video/7576725456347614519" target="_blank" rel="noopener">
+      <img src="https://database.euka.ai/storage/v1/object/public/creator_videos_photos/7576725456347614519.webp" alt="" loading="lazy">
+      <div class="vb"><div class="vq">&ldquo;My life is loud. It&rsquo;s chaotic.&rdquo;</div><div class="vm"><span>195k views</span><b>$350</b></div></div></a>
+    <a class="v" href="https://www.tiktok.com/@kenetik/video/7467222708917439786" target="_blank" rel="noopener">
+      <img src="https://database.euka.ai/storage/v1/object/public/creator_videos_photos/7467222708917439786.webp" alt="" loading="lazy">
+      <div class="vb"><div class="vq">Big Blackberry Lemonade guy.</div><div class="vm"><span>267k views</span><b>6k likes</b></div></div></a>
+  </div>
+</div></section>
+
+<section class="alt"><div class="wrap">
+  <div class="eyebrow">Five moments worth keeping in the edit</div>
+  <h2>You are already filming these.</h2>
+  <p class="lede">Nothing here needs setting up. These are things that happen anyway. If one of them happens while the camera is rolling, let it breathe for a few seconds and we will find it.</p>
+
+  <div class="moment"><div class="mn">1</div><div>
+    <div class="mt">The first sip of something new</div>
+    <div class="md">A flavor lands and you crack it on camera. Your real face, first time. That is it. Do not tell us it is good, just let us watch you find out.</div>
+    <div class="mp">Taste is our highest converting theme</div></div></div>
+
+  <div class="moment"><div class="mn">2</div><div>
+    <div class="mt">When it&rsquo;s gone</div>
+    <div class="md">Somebody took the last one. The fridge is empty. Golden Pear sold out in four weeks and you could not get any. That frustration on camera is worth more than a good review.</div>
+    <div class="mp">Our single best performing angle right now</div></div></div>
+
+  <div class="moment"><div class="mn">3</div><div>
+    <div class="mt">The loud hour</div>
+    <div class="md">Your line, not ours. The part of the day where it is chaos and you reach for something. You do not have to explain why. Reaching for it is the whole shot.</div>
+    <div class="mp">Your own clip on this did 195k views</div></div></div>
+
+  <div class="moment"><div class="mn">4</div><div>
+    <div class="mt">Finding it in the wild</div>
+    <div class="md">A can on a QuikTrip shelf. A stranger holding one. Somebody in the shop who already drinks it and had no idea you are involved. Those land because nobody can fake them.</div>
+    <div class="mp">Retail moments convert on your account</div></div></div>
+
+  <div class="moment"><div class="mn">5</div><div>
+    <div class="mt">One honest sentence</div>
+    <div class="md">Not a review. One line about what you actually think, said once, then move on with the vlog. &ldquo;You don&rsquo;t need to be hyped up all the time&rdquo; was one sentence and we are still using it.</div>
+    <div class="mp">Highest return of anything you have said on camera</div></div></div>
+</div></section>
+
+<section><div class="wrap">
+  <div class="eyebrow">The only three asks</div>
+  <h2>So we can actually cut it.</h2>
+  <div class="do">
+    <div><b>Say &ldquo;brain fuel&rdquo; once.</b> Not the whole spiel, just those two words somewhere. It is the category we are building, and it lets a clip stand on its own when we pull it out of a 20 minute vlog.</div>
+    <div><b>Keep the can in frame for a beat.</b> Not held up like a commercial. Just visible, on the desk, in your hand, in the truck.</div>
+    <div><b>Let the moment run.</b> The two seconds after a real reaction are usually the part we want. Do not cut it tight.</div>
+  </div>
+</div></section>
+
+<section class="alt"><div class="wrap">
+  <div class="eyebrow">Our end of it</div>
+  <h2>What we will never send you.</h2>
+  <div class="never">
+    <div>A script</div>
+    <div>An ad read</div>
+    <div>A list of talking points to hit</div>
+    <div>A deadline for a post</div>
+  </div>
+  <p class="lede" style="margin-top:30px;">You live your life and film it like you always have. We watch, we clip the Kenetik moments, and we put money behind the ones that work. That is the arrangement, and it is working because none of it looks like an ad.</p>
+</div></section>
+
+<div class="close"><div class="wrap">
+  <h2>Just keep being on camera.</h2>
+  <p>Everything above already happens in a normal week of yours. The only difference is knowing which ten seconds we are hoping you keep.</p>
+</div></div>
+
+<div class="wrap"><div class="foot">Kenetik &middot; For Roman Atwood. Figures from TikTok Shop attributed sales and views, September 2026. Refreshed as the numbers move.</div></div>
+
+</body></html>
