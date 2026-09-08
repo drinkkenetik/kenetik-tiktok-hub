@@ -1,0 +1,184 @@
+<!DOCTYPE html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Kenetik: For Noah</title>
+<meta name="robots" content="noindex">
+<style>
+:root{--ink:#16161D;--ink2:#5A5B66;--muted:#9A9BA6;--berry:#D0148C;--violet:#7A2BD0;--blue:#2E6BE6;--plum:#1E1230;--panel:#F5F6F8;--line:#E6E6EA;}
+*{box-sizing:border-box;}
+body{margin:0;font-family:'Futura','Century Gothic','Trebuchet MS','Segoe UI',sans-serif;color:var(--ink);background:#fff;-webkit-font-smoothing:antialiased;}
+.wrap{max-width:920px;margin:0 auto;padding:0 24px;}
+.hero{background:var(--plum);color:#fff;padding:78px 0 66px;}
+.strip{height:6px;background:linear-gradient(90deg,var(--berry) 0 33%,var(--violet) 33% 66%,var(--blue) 66% 100%);}
+.kicker{font-size:12px;letter-spacing:3px;text-transform:uppercase;color:#C9A9F0;font-weight:700;margin-bottom:22px;}
+h1{font-size:clamp(38px,7vw,74px);line-height:1.02;letter-spacing:-.02em;margin:0 0 26px;font-weight:800;}
+.hero p{font-size:clamp(17px,2.2vw,21px);line-height:1.5;color:#D8D2E6;max-width:34ch;margin:0;font-weight:300;}
+section{padding:66px 0;}
+section.alt{background:var(--panel);}
+h2{font-size:clamp(27px,4vw,44px);line-height:1.06;letter-spacing:-.015em;margin:0 0 18px;font-weight:800;}
+.lede{font-size:clamp(16px,2vw,19px);line-height:1.55;color:var(--ink2);max-width:52ch;margin:0 0 34px;font-weight:300;}
+.eyebrow{font-size:11.5px;letter-spacing:2.6px;text-transform:uppercase;color:var(--berry);font-weight:800;margin-bottom:16px;}
+.big{font-size:clamp(46px,9vw,92px);font-weight:800;letter-spacing:-.03em;line-height:1;color:var(--berry);}
+.biglabel{font-size:13.5px;color:var(--ink2);margin-top:6px;}
+.stats{display:flex;flex-wrap:wrap;gap:clamp(28px,6vw,72px);margin:0 0 34px;}
+.quote{font-size:clamp(22px,3.4vw,34px);line-height:1.28;font-weight:700;border-left:6px solid var(--berry);padding:4px 0 4px 22px;margin:0 0 20px;letter-spacing:-.01em;}
+.moment{display:flex;gap:clamp(18px,3vw,32px);padding:32px 0;border-top:1px solid var(--line);align-items:flex-start;}
+.moment:last-child{border-bottom:1px solid var(--line);}
+.mn{flex:0 0 auto;font-size:clamp(30px,5vw,52px);font-weight:800;color:var(--berry);line-height:1;letter-spacing:-.02em;min-width:1.6em;}
+.mt{font-size:clamp(20px,2.8vw,28px);font-weight:800;line-height:1.15;margin:0 0 10px;letter-spacing:-.01em;}
+.md{font-size:16px;line-height:1.6;color:var(--ink2);margin:0 0 10px;font-weight:300;}
+.mp{font-size:12.5px;font-weight:700;color:var(--berry);letter-spacing:.4px;}
+.vids{display:grid;grid-template-columns:repeat(auto-fit,minmax(210px,1fr));gap:16px;margin-top:8px;}
+.v{display:block;text-decoration:none;color:inherit;border:1px solid var(--line);border-radius:8px;overflow:hidden;background:#fff;transition:box-shadow .15s ease,border-color .15s ease,transform .1s ease;}
+.v:hover{box-shadow:0 8px 26px rgba(208,20,140,.2);border-color:var(--berry);}
+.v:active{transform:translateY(1px);}
+.v img{display:block;width:100%;aspect-ratio:9/16;object-fit:cover;background:var(--panel);}
+.vb{padding:14px 15px 16px;}
+.vq{font-size:14.5px;font-weight:700;line-height:1.35;margin-bottom:9px;}
+.vm{font-size:12px;color:var(--ink2);display:flex;justify-content:space-between;gap:8px;}
+.vm b{color:var(--berry);}
+.never{display:flex;flex-direction:column;gap:14px;margin-top:8px;}
+.never div{font-size:clamp(17px,2.3vw,22px);font-weight:700;line-height:1.3;padding-left:36px;position:relative;}
+.never div:before{content:"\2717";position:absolute;left:0;top:0;color:var(--berry);font-size:.9em;}
+.do{display:flex;flex-direction:column;gap:16px;}
+.do div{font-size:16.5px;line-height:1.5;color:var(--ink2);padding-left:34px;position:relative;font-weight:300;}
+.do div:before{content:"\2713";position:absolute;left:0;top:0;color:var(--berry);font-weight:800;font-size:1.05em;}
+.do b{color:var(--ink);font-weight:800;}
+.close{background:var(--plum);color:#fff;padding:64px 0;}
+.close h2{color:#fff;}
+.close p{font-size:clamp(17px,2.2vw,21px);line-height:1.5;color:#D8D2E6;max-width:44ch;margin:0;font-weight:300;}
+.foot{padding:26px 0 46px;color:var(--muted);font-size:11.5px;}
+@media(max-width:600px){.moment{flex-direction:column;gap:10px;}.mn{min-width:0;}}
+
+.phr{border-top:1px solid var(--line);padding:26px 0;}
+.phr:last-of-type{border-bottom:1px solid var(--line);}
+.pq{font-size:clamp(20px,3vw,30px);font-weight:800;line-height:1.2;letter-spacing:-.012em;margin:0 0 9px;}
+.pn{font-size:15px;line-height:1.55;color:var(--ink2);font-weight:300;margin:0;}
+.pn b{color:var(--berry);font-weight:800;}
+.warnbox{background:#fff;border:2px solid var(--berry);border-radius:10px;padding:28px 30px;margin-top:38px;}
+.warnbox .wl{font-size:11.5px;letter-spacing:2.4px;text-transform:uppercase;color:var(--berry);font-weight:800;margin-bottom:14px;}
+.warnbox .wq{font-size:clamp(19px,2.7vw,27px);font-weight:800;line-height:1.22;margin:0 0 12px;letter-spacing:-.012em;}
+.warnbox p{font-size:15.5px;line-height:1.55;color:var(--ink2);margin:0;font-weight:300;}
+.warnbox p b{color:var(--ink);font-weight:800;}
+
+a.phr{display:flex;gap:20px;align-items:flex-start;text-decoration:none;color:inherit;transition:opacity .15s ease,transform .1s ease;}
+a.phr:hover{opacity:.72;}
+a.phr:active{transform:translateY(1px);}
+a.phr .th{flex:0 0 84px;width:84px;aspect-ratio:9/16;border-radius:7px;object-fit:cover;background:var(--panel);border:1px solid var(--line);}
+.pw{font-size:12px;font-weight:800;letter-spacing:.9px;text-transform:uppercase;color:var(--berry);margin-top:9px;}
+@media(max-width:600px){a.phr .th{flex:0 0 62px;width:62px;}a.phr{gap:14px;}}
+
+a.moment{display:flex;gap:clamp(16px,2.6vw,26px);align-items:flex-start;text-decoration:none;color:inherit;transition:opacity .15s ease,transform .1s ease;}
+a.moment:hover{opacity:.74;}
+a.moment:active{transform:translateY(1px);}
+a.moment .mth{flex:0 0 92px;width:92px;aspect-ratio:9/16;border-radius:8px;object-fit:cover;background:#fff;border:1px solid var(--line);}
+.mw{font-size:12px;font-weight:800;letter-spacing:.9px;text-transform:uppercase;color:var(--berry);margin-top:11px;}
+@media(max-width:600px){a.moment{flex-wrap:wrap;gap:14px;}a.moment .mn{flex:0 0 auto;}a.moment .mth{flex:0 0 68px;width:68px;}a.moment>div:last-child{flex:1 1 100%;}}
+</style></head>
+</head>
+<body>
+
+<div class="strip"></div>
+<div class="hero"><div class="wrap">
+  <div class="kicker">Kenetik &middot; for Noah</div>
+  <h1>Brain fuel does not have a voice your age yet.</h1>
+  <p>Your dad proved it sells. Nobody has made it make sense to people who are still building something. That part is open, and it is yours to take.</p>
+</div></div>
+
+<section><div class="wrap">
+  <div class="eyebrow">Start with what already worked</div>
+  <h2>His three biggest ones were not ads.</h2>
+  <div class="quote">&ldquo;My guy, one second. I want to show you something.&rdquo;</div>
+  <p class="lede">Five words, no script, no read. It is the second highest earning video in the whole account. The pattern across everything of his that moved is the same: he was talking, not selling.</p>
+  <div class="stats">
+    <div><div class="big">4.6M</div><div class="biglabel">views on that one</div></div>
+    <div><div class="big">$10.1k</div><div class="biglabel">in sales from it</div></div>
+    <div><div class="big">14.4x</div><div class="biglabel">best return he has had</div></div>
+  </div>
+  <p class="lede">The 14.4x was one sentence in the middle of a vlog. <b>&ldquo;You don&rsquo;t actually need to be hyped up all the time.&rdquo;</b> He said it once and moved on, and we are still running it.</p>
+  <div class="vids">
+    <a class="v" href="https://www.tiktok.com/@kenetik/video/7506226615542877486" target="_blank" rel="noopener">
+      <img src="https://database.euka.ai/storage/v1/object/public/creator_videos_photos/7506226615542877486.jpg" alt="" loading="lazy">
+      <div class="vb"><div class="vq">&ldquo;My guy, one second.&rdquo;</div><div class="vm"><span>4.6M views</span><b>$10.1k</b></div></div></a>
+    <a class="v" href="https://www.tiktok.com/@kenetik/video/7586728539513228558" target="_blank" rel="noopener">
+      <img src="https://database.euka.ai/storage/v1/object/public/creator_videos_photos/7586728539513228558.webp" alt="" loading="lazy">
+      <div class="vb"><div class="vq">&ldquo;You don&rsquo;t need to be hyped up all the time.&rdquo;</div><div class="vm"><span>one sentence</span><b>14.4x</b></div></div></a>
+    <a class="v" href="https://www.tiktok.com/@kenetik/video/7576725456347614519" target="_blank" rel="noopener">
+      <img src="https://database.euka.ai/storage/v1/object/public/creator_videos_photos/7576725456347614519.webp" alt="" loading="lazy">
+      <div class="vb"><div class="vq">&ldquo;My life is loud. It&rsquo;s chaotic.&rdquo;</div><div class="vm"><span>195k views</span><b>$350</b></div></div></a>
+  </div>
+  <div class="warnbox">
+    <div class="wl">Why you are not just running his playbook</div>
+    <p class="wq">Eight in ten of the people watching you are between 18 and 34.</p>
+    <p>His works because he is an owner vouching for something. <b>Yours will work because your audience is watching you build, and you drink it while you do it.</b> Same product, completely different reason to believe you.</p>
+  </div>
+</div></section>
+
+<section class="alt"><div class="wrap">
+  <div class="eyebrow">Two a month, pick any of these</div>
+  <h2>The moments we can clip.</h2>
+  <p class="lede">These are the organic ones. No code, no link, no sell, and nothing here needs staging. If one happens while the camera is rolling, let it run a few seconds longer and we will find it.</p>
+  <p class="lede">One thing separates a clip we can use from set dressing: <b>one honest sentence, said out loud, that stands up on its own.</b> A can on the desk is a prop. A can in your hand while you say what you actually think is a clip.</p>
+
+  <div class="moment"><div class="mn">1</div><div><div class="mt">Hour four of the edit</div><div class="md">The part where the ideas stop coming and everything takes twice as long. You are not tired, it has just gone quiet. Reach for it on camera and say one line about why. You do not have to explain the science.</div><div class="mp">This is the hour your audience is in too</div></div></div>
+  <a class="moment" href="https://www.tiktok.com/@kenetik/video/7678367989313506591" target="_blank" rel="noopener"><div class="mn">2</div><img class="mth" src="https://database.euka.ai/storage/v1/object/public/creator_videos_photos/7678367989313506591.webp" alt="" loading="lazy"><div><div class="mt">The first sip of a new one</div><div class="md">A flavour lands, you crack it, we watch your real face find out. Do not tell us it is good. Let it happen.</div><div class="mp">Taste is our highest converting theme</div><div class="mw">Watch &rarr; @kenetik &middot; 1.65x</div></div></a>
+  <a class="moment" href="https://www.tiktok.com/@thededicateddad/video/7674092193027493151" target="_blank" rel="noopener"><div class="mn">3</div><img class="mth" src="https://database.euka.ai/storage/v1/object/public/creator_videos_photos/7674092193027493151.webp" alt="" loading="lazy"><div><div class="mt">When it is gone</div><div class="md">Somebody took the last one. The fridge is empty. That frustration on camera is worth more than a good review, because nobody can fake being annoyed.</div><div class="mp">Our best performing angle right now</div><div class="mw">Watch &rarr; @thededicateddad &middot; 1.28x</div></div></a>
+  <a class="moment" href="https://www.tiktok.com/@.outdoorsdad/video/7678176777495153951" target="_blank" rel="noopener"><div class="mn">4</div><img class="mth" src="https://database.euka.ai/storage/v1/object/public/creator_videos_photos/7678176777495153951.webp" alt="" loading="lazy"><div><div class="mt">Out in real life</div><div class="md">Not a kitchen counter. In the car, on the way to a shoot, in somebody else&rsquo;s hand, on a shelf you walked past. Those land because they cannot be staged.</div><div class="mp">Best return of anything running this week</div><div class="mw">Watch &rarr; @.outdoorsdad &middot; 3.28x</div></div></a>
+</div></section>
+
+<section><div class="wrap">
+  <div class="eyebrow">Two a month, thirty to sixty seconds</div>
+  <h2>The two you actually script.</h2>
+  <p class="lede">These go inside a long video, anywhere in the first third. Code NOAH out loud, link in the description. How you deliver it is entirely yours. Both angles below are already proven, so treat them as the spine and not the script.</p>
+
+  <div class="moment"><div class="mn">1</div><div><div class="mt">The switch, already made</div><div class="md">Report a decision you already took, in the past tense. What you cut down on, and the brain fuel that replaced it. Both halves out loud, because the version that only names what you quit leaves people with nothing to move to. This is our strongest hook family and the only one winning on TikTok Shop and in our paid ads at the same time.</div><div class="mp">3.9x &middot; strongest thing we run</div></div></div>
+  <div class="moment"><div class="mn">2</div><div><div class="mt">The hour your brain goes quiet</div><div class="md">Film it when it is actually happening. Open on the distinction: not tired, just flat. Then say why. Your brain is underfuelled rather than short of a stimulant, and more of a stimulant does not fuel anything. Hold it for a second before you bring the can in.</div><div class="mp">Holds 42% of everyone who starts it, the highest we have</div></div></div>
+
+  <p class="lede" style="margin-top:34px;">Close both by saying <b>shop now</b> out loud, not just on screen. It is the line that gets dropped most often and the one that costs the most when it goes.</p>
+</div></section>
+
+<section class="alt"><div class="wrap">
+  <div class="eyebrow">The language that is landing</div>
+  <h2>What is actually selling right now.</h2>
+  <p class="lede">Not a list to hit. This is the wording that keeps showing up in the videos that convert, so you can see it. Tap any to watch. If it sounds like something you would say anyway, it is yours.</p>
+
+  <a class="phr" href="https://www.tiktok.com/@thededicateddad/video/7654353736990575902" target="_blank" rel="noopener"><img class="th" src="https://database.euka.ai/storage/v1/object/public/creator_videos_photos/7654353736990575902.webp" alt="" loading="lazy"><div><p class="pq">&ldquo;The energy drink killers.&rdquo;</p><p class="pn">Our single best return in three months. It works because he is <b>reporting what other people call it</b> rather than making the claim himself. Nobody argues with a rumour. One rule if you use it: the same video has to land on brain fuel out loud, or you have said what it beat without saying what it is.</p><div class="pw">Watch &rarr; @thededicateddad &middot; 8.3x</div></div></a>
+  <a class="phr" href="https://www.tiktok.com/@tyler.slone289/video/7509458618811518238" target="_blank" rel="noopener"><img class="th" src="https://database.euka.ai/storage/v1/object/public/creator_videos_photos/7509458618811518238.webp" alt="" loading="lazy"><div><p class="pq">&ldquo;I don&rsquo;t have a crash in the afternoon anymore.&rdquo;</p><p class="pn">No adjectives, no pitch, just a guy describing his day. It has earned <b>about three thousand dollars</b> on its own.</p><div class="pw">Watch &rarr; @tyler.slone289 &middot; $3.0k</div></div></a>
+  <a class="phr" href="https://www.tiktok.com/@thededicateddad/video/7674092193027493151" target="_blank" rel="noopener"><img class="th" src="https://database.euka.ai/storage/v1/object/public/creator_videos_photos/7674092193027493151.webp" alt="" loading="lazy"><div><p class="pq">&ldquo;Zero caffeine, and the ketones are what replace it.&rdquo;</p><p class="pn">The one bit of the science that keeps landing. Said in a sentence, never a lecture. It answers the question everybody has before they ask it.</p><div class="pw">Watch &rarr; @thededicateddad &middot; 1.28x</div></div></a>
+  <a class="phr" href="https://www.tiktok.com/@shawnsfinds_/video/7678039004167687455" target="_blank" rel="noopener"><img class="th" src="https://database.euka.ai/storage/v1/object/public/creator_videos_photos/7678039004167687455.webp" alt="" loading="lazy"><div><p class="pq">&ldquo;I&rsquo;m just gonna be honest.&rdquo;</p><p class="pn">Four words that change how the next thing is heard. It reads as talking to one person instead of to an audience, and <b>viewers can hear the difference.</b></p><div class="pw">Watch &rarr; @shawnsfinds_ &middot; 1.25x</div></div></a>
+
+  <div class="warnbox">
+    <div class="wl">The two that do not work</div>
+    <p class="wq">&ldquo;Energy drinks won&rsquo;t do it. Stop drinking them.&rdquo;</p>
+    <p><b>Our worst opening, by a distance.</b> Strange, because the best one is also about energy drinks. The difference is who is talking. Repeating what people already say lands. Telling someone to quit the thing in their hand does not.</p>
+    <p style="margin-top:16px;"><b>And never open on the discount.</b> Deal-led content is the worst performing thing we make. The code belongs at the end of an integration and nowhere at all in an organic one.</p>
+  </div>
+</div></section>
+
+<section><div class="wrap">
+  <div class="eyebrow">The only three asks</div>
+  <h2>So we can actually cut it.</h2>
+  <div class="do">
+    <div><b>Say &ldquo;brain fuel&rdquo; once.</b> Not the whole spiel, just those two words somewhere. It is the category we are building, and it is what lets a clip stand on its own when we pull it out of a twenty minute video.</div>
+    <div><b>Keep the can in frame for a beat.</b> Not held up like a commercial. Visible. On the desk, in your hand, in the cup holder.</div>
+    <div><b>Let the moment run.</b> The two seconds after a real reaction are usually the part we want. Do not cut it tight.</div>
+  </div>
+</div></section>
+
+<section class="alt"><div class="wrap">
+  <div class="eyebrow">The guardrails, and there are only two</div>
+  <h2>What we will never ask you to say.</h2>
+  <div class="never">
+    <div>That it fixes, treats or cures anything</div>
+    <div>That it is an energy drink, a pre-workout or a supplement</div>
+  </div>
+  <p class="lede" style="margin-top:30px;">Saying what caffeine did to you is completely fine and it is usually the best part of the video. Wired, jittery, could not sleep, all of it. Just never put Kenetik on the other side of it as the cure. Beyond that: caffeine-free, sugar-free, twelve grams of ketones, clarity and focus. That is the whole approved list and everything else is your own experience.</p>
+</div></section>
+
+<div class="close"><div class="wrap">
+  <h2>You are early to this on purpose.</h2>
+  <p>Your dad got here first and proved the thing sells. What has not happened yet is somebody making brain fuel make sense to people who are still figuring it out. Four moments a month and two you script, and that is the category taking a shape it does not have yet.</p>
+</div></div>
+
+<div class="wrap"><div class="foot">Kenetik &middot; For Noah Atwood. Code NOAH &middot; drinkkenetik.com/NOAH. Figures from TikTok Shop attributed sales and Meta ad returns, September 2026. Refreshed as the numbers move.</div></div>
+
+</body></html>
