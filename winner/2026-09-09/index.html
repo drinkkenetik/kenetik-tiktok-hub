@@ -1,0 +1,185 @@
+<!DOCTYPE html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Kenetik: Creator of the Week</title>
+<meta name="robots" content="noindex">
+<style>
+:root{--ink:#16161D;--ink2:#5A5B66;--muted:#9A9BA6;--berry:#D0148C;--violet:#7A2BD0;--blue:#2E6BE6;--plum:#1E1230;--panel:#F5F6F8;--line:#E6E6EA;}
+*{box-sizing:border-box;}
+body{margin:0;font-family:'Futura','Century Gothic','Trebuchet MS','Segoe UI',sans-serif;color:var(--ink);background:#fff;-webkit-font-smoothing:antialiased;}
+.wrap{max-width:920px;margin:0 auto;padding:0 24px;}
+.hero{background:var(--plum);color:#fff;padding:78px 0 66px;}
+.strip{height:6px;background:linear-gradient(90deg,var(--berry) 0 33%,var(--violet) 33% 66%,var(--blue) 66% 100%);}
+.kicker{font-size:12px;letter-spacing:3px;text-transform:uppercase;color:#C9A9F0;font-weight:700;margin-bottom:22px;}
+h1{font-size:clamp(38px,7vw,74px);line-height:1.02;letter-spacing:-.02em;margin:0 0 26px;font-weight:800;}
+.hero p{font-size:clamp(17px,2.2vw,21px);line-height:1.5;color:#D8D2E6;max-width:34ch;margin:0;font-weight:300;}
+section{padding:66px 0;}
+section.alt{background:var(--panel);}
+h2{font-size:clamp(27px,4vw,44px);line-height:1.06;letter-spacing:-.015em;margin:0 0 18px;font-weight:800;}
+.lede{font-size:clamp(16px,2vw,19px);line-height:1.55;color:var(--ink2);max-width:52ch;margin:0 0 34px;font-weight:300;}
+.eyebrow{font-size:11.5px;letter-spacing:2.6px;text-transform:uppercase;color:var(--berry);font-weight:800;margin-bottom:16px;}
+.big{font-size:clamp(46px,9vw,92px);font-weight:800;letter-spacing:-.03em;line-height:1;color:var(--berry);}
+.biglabel{font-size:13.5px;color:var(--ink2);margin-top:6px;}
+.stats{display:flex;flex-wrap:wrap;gap:clamp(28px,6vw,72px);margin:0 0 34px;}
+.quote{font-size:clamp(22px,3.4vw,34px);line-height:1.28;font-weight:700;border-left:6px solid var(--berry);padding:4px 0 4px 22px;margin:0 0 20px;letter-spacing:-.01em;}
+.moment{display:flex;gap:clamp(18px,3vw,32px);padding:32px 0;border-top:1px solid var(--line);align-items:flex-start;}
+.moment:last-child{border-bottom:1px solid var(--line);}
+.mn{flex:0 0 auto;font-size:clamp(30px,5vw,52px);font-weight:800;color:var(--berry);line-height:1;letter-spacing:-.02em;min-width:1.6em;}
+.mt{font-size:clamp(20px,2.8vw,28px);font-weight:800;line-height:1.15;margin:0 0 10px;letter-spacing:-.01em;}
+.md{font-size:16px;line-height:1.6;color:var(--ink2);margin:0 0 10px;font-weight:300;}
+.mp{font-size:12.5px;font-weight:700;color:var(--berry);letter-spacing:.4px;}
+.vids{display:grid;grid-template-columns:repeat(auto-fit,minmax(210px,1fr));gap:16px;margin-top:8px;}
+.v{display:block;text-decoration:none;color:inherit;border:1px solid var(--line);border-radius:8px;overflow:hidden;background:#fff;transition:box-shadow .15s ease,border-color .15s ease,transform .1s ease;}
+.v:hover{box-shadow:0 8px 26px rgba(208,20,140,.2);border-color:var(--berry);}
+.v:active{transform:translateY(1px);}
+.v img{display:block;width:100%;aspect-ratio:9/16;object-fit:cover;background:var(--panel);}
+.vb{padding:14px 15px 16px;}
+.vq{font-size:14.5px;font-weight:700;line-height:1.35;margin-bottom:9px;}
+.vm{font-size:12px;color:var(--ink2);display:flex;justify-content:space-between;gap:8px;}
+.vm b{color:var(--berry);}
+.never{display:flex;flex-direction:column;gap:14px;margin-top:8px;}
+.never div{font-size:clamp(17px,2.3vw,22px);font-weight:700;line-height:1.3;padding-left:36px;position:relative;}
+.never div:before{content:"\2717";position:absolute;left:0;top:0;color:var(--berry);font-size:.9em;}
+.do{display:flex;flex-direction:column;gap:16px;}
+.do div{font-size:16.5px;line-height:1.5;color:var(--ink2);padding-left:34px;position:relative;font-weight:300;}
+.do div:before{content:"\2713";position:absolute;left:0;top:0;color:var(--berry);font-weight:800;font-size:1.05em;}
+.do b{color:var(--ink);font-weight:800;}
+.close{background:var(--plum);color:#fff;padding:64px 0;}
+.close h2{color:#fff;}
+.close p{font-size:clamp(17px,2.2vw,21px);line-height:1.5;color:#D8D2E6;max-width:44ch;margin:0;font-weight:300;}
+.foot{padding:26px 0 46px;color:var(--muted);font-size:11.5px;}
+@media(max-width:600px){.moment{flex-direction:column;gap:10px;}.mn{min-width:0;}}
+
+.phr{border-top:1px solid var(--line);padding:26px 0;}
+.phr:last-of-type{border-bottom:1px solid var(--line);}
+.pq{font-size:clamp(20px,3vw,30px);font-weight:800;line-height:1.2;letter-spacing:-.012em;margin:0 0 9px;}
+.pn{font-size:15px;line-height:1.55;color:var(--ink2);font-weight:300;margin:0;}
+.pn b{color:var(--berry);font-weight:800;}
+.warnbox{background:#fff;border:2px solid var(--berry);border-radius:10px;padding:28px 30px;margin-top:38px;}
+.warnbox .wl{font-size:11.5px;letter-spacing:2.4px;text-transform:uppercase;color:var(--berry);font-weight:800;margin-bottom:14px;}
+.warnbox .wq{font-size:clamp(19px,2.7vw,27px);font-weight:800;line-height:1.22;margin:0 0 12px;letter-spacing:-.012em;}
+.warnbox p{font-size:15.5px;line-height:1.55;color:var(--ink2);margin:0;font-weight:300;}
+.warnbox p b{color:var(--ink);font-weight:800;}
+
+a.phr{display:flex;gap:20px;align-items:flex-start;text-decoration:none;color:inherit;transition:opacity .15s ease,transform .1s ease;}
+a.phr:hover{opacity:.72;}
+a.phr:active{transform:translateY(1px);}
+a.phr .th{flex:0 0 84px;width:84px;aspect-ratio:9/16;border-radius:7px;object-fit:cover;background:var(--panel);border:1px solid var(--line);}
+.pw{font-size:12px;font-weight:800;letter-spacing:.9px;text-transform:uppercase;color:var(--berry);margin-top:9px;}
+@media(max-width:600px){a.phr .th{flex:0 0 62px;width:62px;}a.phr{gap:14px;}}
+
+a.moment{display:flex;gap:clamp(16px,2.6vw,26px);align-items:flex-start;text-decoration:none;color:inherit;transition:opacity .15s ease,transform .1s ease;}
+a.moment:hover{opacity:.74;}
+a.moment:active{transform:translateY(1px);}
+a.moment .mth{flex:0 0 92px;width:92px;aspect-ratio:9/16;border-radius:8px;object-fit:cover;background:#fff;border:1px solid var(--line);}
+.mw{font-size:12px;font-weight:800;letter-spacing:.9px;text-transform:uppercase;color:var(--berry);margin-top:11px;}
+@media(max-width:600px){a.moment{flex-wrap:wrap;gap:14px;}a.moment .mn{flex:0 0 auto;}a.moment .mth{flex:0 0 68px;width:68px;}a.moment>div:last-child{flex:1 1 100%;}}
+</style></head>
+<style>
+.rec{display:flex;gap:clamp(18px,3vw,32px);padding:30px 0;border-top:1px solid var(--line);align-items:flex-start;}
+.rec:last-of-type{border-bottom:1px solid var(--line);}
+.rn{flex:0 0 auto;font-size:clamp(26px,4.5vw,42px);font-weight:800;color:var(--berry);line-height:1;min-width:1.5em;}
+.rt{font-size:clamp(18px,2.5vw,25px);font-weight:800;line-height:1.18;margin:0 0 8px;letter-spacing:-.01em;}
+.rd{font-size:15.5px;line-height:1.6;color:var(--ink2);margin:0;font-weight:300;}
+.rd b{color:var(--ink);font-weight:800;}
+.trybe{background:var(--plum);color:#fff;padding:58px 0;}
+.trybe h2{color:#fff;}
+.trybe .lede{color:#D8D2E6;}
+.trybe .eyebrow{color:#C9A9F0;}
+.trybe .big{color:#fff;}
+.trybe .biglabel{color:#C9A9F0;}
+.hero .wk{font-size:12.5px;letter-spacing:1.6px;text-transform:uppercase;color:#C9A9F0;font-weight:700;margin-top:26px;}
+</style>
+</head>
+<body>
+
+<div class="strip"></div>
+<div class="hero"><div class="wrap">
+  <div class="kicker">Kenetik &middot; creator of the week</div>
+  <h1>$508 from one video.</h1>
+  <p>@thededicateddad posted this on 15 August. It is still selling three weeks later, and it is the best performing creator video we have had all month. Here is the line he opened with and how to run the same idea in your own voice.</p>
+  <div class="wk">Week of 9 September 2026</div>
+</div></div>
+
+<section><div class="wrap">
+  <div class="eyebrow">The numbers</div>
+  <h2>What it actually did.</h2>
+  <div class="stats">
+    <div><div class="big">$508</div><div class="biglabel">in attributed sales</div></div>
+    <div><div class="big">12</div><div class="biglabel">packs sold</div></div>
+    <div><div class="big">20.6k</div><div class="biglabel">views</div></div>
+  </div>
+  <p class="lede"><b>$291 of that came in the last three weeks alone</b>, which is the part worth noticing. A good video keeps earning long after you have moved on to the next one.</p>
+  <div class="vids">
+    <a class="v" href="https://www.tiktok.com/@thededicateddad/video/7674092193027493151" target="_blank" rel="noopener">
+      <img src="https://database.euka.ai/storage/v1/object/public/creator_videos_photos/7674092193027493151.webp" alt="" loading="lazy">
+      <div class="vb"><div class="vq">Watch the winner</div><div class="vm"><span>@thededicateddad</span><b>$508</b></div></div></a>
+    <a class="v" href="https://www.tiktok.com/@thededicateddad/video/7654353736990575902" target="_blank" rel="noopener">
+      <img src="https://database.euka.ai/storage/v1/object/public/creator_videos_photos/7654353736990575902.webp" alt="" loading="lazy">
+      <div class="vb"><div class="vq">Same creator, our best hook ever</div><div class="vm"><span>@thededicateddad</span><b>8.3x</b></div></div></a>
+  </div>
+</div></section>
+
+<section class="alt"><div class="wrap">
+  <div class="eyebrow">The hook</div>
+  <h2>Nine seconds decided it.</h2>
+  <div class="quote">&ldquo;If these sell out anywhere as quick as these did, then you might not even get these before you see this video.&rdquo;</div>
+  <p class="lede">That is the whole opener. No product name, no ingredients, no pitch. Later in the video he lands the other half: <b>metabolic brain fuel, caffeine-free.</b></p>
+</div></section>
+
+<section><div class="wrap">
+  <div class="eyebrow">Why it worked</div>
+  <h2>Three things, and you can copy all three.</h2>
+
+  <div class="rec"><div class="rn">1</div><div><div class="rt">It gives you a reason to move now</div><p class="rd">Not &ldquo;this is good.&rdquo; <b>&ldquo;You might miss it.&rdquo;</b> That is the difference between a review and a reason. Reviews get watched. Reasons get bought.</p></div></div>
+  <div class="rec"><div class="rn">2</div><div><div class="rt">It is true</div><p class="rd">Golden Pear genuinely sold out in four weeks. He is not manufacturing pressure, he is reporting something that happened. <b>Viewers can hear the difference</b> and the comments will tell you when they do.</p></div></div>
+  <div class="rec"><div class="rn">3</div><div><div class="rt">He still says what it is</div><p class="rd">Scarcity gets the attention. <b>Brain fuel tells them what they are actually buying.</b> Skip that half and you have hyped a mystery, which is why the openers that never name the category stall out.</p></div></div>
+</div></section>
+
+<section class="alt"><div class="wrap">
+  <div class="eyebrow">Your turn</div>
+  <h2>How to run this in your own voice.</h2>
+  <p class="lede">Do not copy his words. Copy the shape. The words have to be yours or it reads as a read.</p>
+
+  <div class="rec"><div class="rn">1</div><div><div class="rt">Open on the risk of missing it</div><p class="rd">First three seconds, your own phrasing, before you say anything about ketones or caffeine. Those come later.</p></div></div>
+  <div class="rec"><div class="rn">2</div><div><div class="rt">Get the can on camera</div><p class="rd">In your hand, not on a pedestal. Crack it if it is sealed. The sound is part of it.</p></div></div>
+  <div class="rec"><div class="rn">3</div><div><div class="rt">Say brain fuel out loud, once</div><p class="rd">Every video. It is the category we are building and it only works if everybody says it.</p></div></div>
+  <div class="rec"><div class="rn">4</div><div><div class="rt">One honest line about why you drink it</div><p class="rd">Not a list of features. One sentence that would still make sense if somebody clipped it out on its own.</p></div></div>
+  <div class="rec"><div class="rn">5</div><div><div class="rt">Say shop now out loud</div><p class="rd">Out loud, not just on screen. This is the step that gets dropped most often and it costs the most when it goes.</p></div></div>
+
+  <div class="warnbox">
+    <div class="wl">The one rule</div>
+    <p class="wq">Never invent a sellout.</p>
+    <p><b>Golden Pear is the only flavor that has ever sold out</b>, so it is the only one you can say it about. Raspberry Lychee is limited edition, which is true and is plenty. A shortage nobody can verify gets called out in the comments, and that costs you more than the video earns.</p>
+  </div>
+</div></section>
+
+<div class="trybe"><div class="wrap">
+  <div class="eyebrow">What a winning post unlocks</div>
+  <h2>The best videos get invited to TRYBE.</h2>
+  <p class="lede">When a TikTok Shop video performs, we do not just leave it there. We invite the creator into TRYBE and run that same video as a paid ad on Meta, and <b>you earn commission on those sales separately</b>, on top of what the video already makes you on TikTok Shop.</p>
+  <p class="lede">Same video. Two places earning. Nothing extra to film.</p>
+  <div class="stats" style="margin-top:34px;">
+    <div><div class="big">12</div><div class="biglabel">creators already earning on both sides</div></div>
+    <div><div class="big">36</div><div class="biglabel">creator videos running as ads right now</div></div>
+  </div>
+  <p class="lede" style="margin-top:8px;">The fastest way in is not a bigger following. It is making something close to what is already converting. That is the entire reason this page exists.</p>
+</div></div>
+
+<section><div class="wrap">
+  <div class="eyebrow">Before you post</div>
+  <h2>Two things we will never ask you to say.</h2>
+  <div class="never">
+    <div>That it fixes, treats or cures anything</div>
+    <div>That it is an energy drink, a pre-workout or a supplement</div>
+  </div>
+  <p class="lede" style="margin-top:30px;">Saying what caffeine did to you is fine and it is usually the best part of the video. Wired, jittery, could not sleep, all of it. Just never put Kenetik on the other side of it as the cure. Beyond that: caffeine-free, sugar-free, 12 grams of ketones, clarity and focus.</p>
+</div></section>
+
+<div class="close"><div class="wrap">
+  <h2>New winner every week.</h2>
+  <p>We pick the best performing creator video, break down why it worked, and show you how to run it yourself. If yours is next, this page is where it goes.</p>
+</div></div>
+
+<div class="wrap"><div class="foot">Kenetik &middot; Creator of the Week &middot; 9 September 2026. Sales figures are TikTok Shop attributed GMV through 6 September. Past performance is not a guarantee of what any individual video will earn.</div></div>
+
+</body></html>
