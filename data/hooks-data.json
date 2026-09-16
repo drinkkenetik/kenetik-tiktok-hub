@@ -34,7 +34,7 @@
         "checked_on": "2026-09-11",
         "passed": true,
         "broken": [],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0002": {
@@ -58,7 +58,7 @@
         "checked_on": "2026-09-11",
         "passed": true,
         "broken": [],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0003": {
@@ -82,7 +82,7 @@
         "checked_on": "2026-09-11",
         "passed": true,
         "broken": [],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0004": {
@@ -106,7 +106,7 @@
         "checked_on": "2026-09-11",
         "passed": true,
         "broken": [],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0005": {
@@ -130,7 +130,7 @@
         "checked_on": "2026-09-11",
         "passed": true,
         "broken": [],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0006": {
@@ -154,7 +154,7 @@
         "checked_on": "2026-09-11",
         "passed": true,
         "broken": [],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0007": {
@@ -178,7 +178,7 @@
         "checked_on": "2026-09-11",
         "passed": true,
         "broken": [],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0008": {
@@ -202,7 +202,7 @@
         "checked_on": "2026-09-11",
         "passed": true,
         "broken": [],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0009": {
@@ -226,7 +226,7 @@
         "checked_on": "2026-09-11",
         "passed": true,
         "broken": [],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0010": {
@@ -267,7 +267,7 @@
         "checked_on": "2026-09-11",
         "passed": true,
         "broken": [],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0011": {
@@ -308,7 +308,7 @@
         "checked_on": "2026-09-11",
         "passed": true,
         "broken": [],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0012": {
@@ -340,7 +340,7 @@
         "checked_on": "2026-09-11",
         "passed": true,
         "broken": [],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0013": {
@@ -372,7 +372,7 @@
         "checked_on": "2026-09-11",
         "passed": true,
         "broken": [],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0014": {
@@ -404,7 +404,7 @@
         "checked_on": "2026-09-11",
         "passed": true,
         "broken": [],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0015": {
@@ -445,7 +445,7 @@
         "checked_on": "2026-09-11",
         "passed": true,
         "broken": [],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0016": {
@@ -486,7 +486,7 @@
         "checked_on": "2026-09-11",
         "passed": true,
         "broken": [],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0017": {
@@ -527,7 +527,7 @@
         "checked_on": "2026-09-11",
         "passed": true,
         "broken": [],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0018": {
@@ -568,7 +568,7 @@
         "checked_on": "2026-09-11",
         "passed": true,
         "broken": [],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0019": {
@@ -600,7 +600,7 @@
         "checked_on": "2026-09-11",
         "passed": true,
         "broken": [],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0020": {
@@ -627,7 +627,7 @@
         "checked_on": "2026-09-11",
         "passed": true,
         "broken": [],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0021": {
@@ -654,7 +654,7 @@
         "checked_on": "2026-09-11",
         "passed": true,
         "broken": [],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0022": {
@@ -681,7 +681,7 @@
         "checked_on": "2026-09-11",
         "passed": true,
         "broken": [],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0023": {
@@ -708,7 +708,7 @@
         "checked_on": "2026-09-11",
         "passed": true,
         "broken": [],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0024": {
@@ -735,7 +735,7 @@
         "checked_on": "2026-09-11",
         "passed": true,
         "broken": [],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0025": {
@@ -762,7 +762,7 @@
         "checked_on": "2026-09-11",
         "passed": true,
         "broken": [],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0026": {
@@ -789,7 +789,7 @@
         "checked_on": "2026-09-11",
         "passed": true,
         "broken": [],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0027": {
@@ -816,7 +816,7 @@
         "checked_on": "2026-09-11",
         "passed": true,
         "broken": [],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0028": {
@@ -845,7 +845,7 @@
         "broken": [
           "caffeine_named_more_than_once"
         ],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0029": {
@@ -872,7 +872,7 @@
         "checked_on": "2026-09-11",
         "passed": true,
         "broken": [],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0030": {
@@ -899,7 +899,7 @@
         "checked_on": "2026-09-11",
         "passed": true,
         "broken": [],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0031": {
@@ -926,7 +926,7 @@
         "checked_on": "2026-09-11",
         "passed": true,
         "broken": [],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0032": {
@@ -953,7 +953,7 @@
         "checked_on": "2026-09-11",
         "passed": true,
         "broken": [],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0033": {
@@ -980,7 +980,7 @@
         "checked_on": "2026-09-11",
         "passed": true,
         "broken": [],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0034": {
@@ -1007,7 +1007,7 @@
         "checked_on": "2026-09-11",
         "passed": true,
         "broken": [],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0035": {
@@ -1036,7 +1036,7 @@
         "broken": [
           "caffeine_named_more_than_once"
         ],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0036": {
@@ -1063,7 +1063,7 @@
         "checked_on": "2026-09-11",
         "passed": true,
         "broken": [],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0037": {
@@ -1090,7 +1090,7 @@
         "checked_on": "2026-09-11",
         "passed": true,
         "broken": [],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0038": {
@@ -1117,7 +1117,7 @@
         "checked_on": "2026-09-11",
         "passed": true,
         "broken": [],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0039": {
@@ -1144,7 +1144,7 @@
         "checked_on": "2026-09-11",
         "passed": true,
         "broken": [],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0040": {
@@ -1171,7 +1171,7 @@
         "checked_on": "2026-09-11",
         "passed": true,
         "broken": [],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0041": {
@@ -1198,7 +1198,7 @@
         "checked_on": "2026-09-11",
         "passed": true,
         "broken": [],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0042": {
@@ -1225,7 +1225,7 @@
         "checked_on": "2026-09-11",
         "passed": true,
         "broken": [],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0043": {
@@ -1252,7 +1252,7 @@
         "checked_on": "2026-09-11",
         "passed": true,
         "broken": [],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0044": {
@@ -1279,7 +1279,7 @@
         "checked_on": "2026-09-11",
         "passed": true,
         "broken": [],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0045": {
@@ -1306,7 +1306,7 @@
         "checked_on": "2026-09-11",
         "passed": true,
         "broken": [],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0046": {
@@ -1333,7 +1333,7 @@
         "checked_on": "2026-09-11",
         "passed": true,
         "broken": [],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0047": {
@@ -1360,7 +1360,7 @@
         "checked_on": "2026-09-11",
         "passed": true,
         "broken": [],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0048": {
@@ -1387,7 +1387,7 @@
         "checked_on": "2026-09-11",
         "passed": true,
         "broken": [],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0049": {
@@ -1414,7 +1414,7 @@
         "checked_on": "2026-09-11",
         "passed": true,
         "broken": [],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0050": {
@@ -1441,7 +1441,7 @@
         "checked_on": "2026-09-11",
         "passed": true,
         "broken": [],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0051": {
@@ -1468,7 +1468,7 @@
         "checked_on": "2026-09-11",
         "passed": true,
         "broken": [],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0052": {
@@ -1495,7 +1495,7 @@
         "checked_on": "2026-09-11",
         "passed": true,
         "broken": [],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0053": {
@@ -1522,7 +1522,7 @@
         "checked_on": "2026-09-11",
         "passed": true,
         "broken": [],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0054": {
@@ -1549,7 +1549,7 @@
         "checked_on": "2026-09-11",
         "passed": true,
         "broken": [],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0055": {
@@ -1576,7 +1576,7 @@
         "checked_on": "2026-09-11",
         "passed": true,
         "broken": [],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0056": {
@@ -1605,7 +1605,7 @@
         "broken": [
           "caffeine_named_more_than_once"
         ],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0057": {
@@ -1641,7 +1641,7 @@
         "checked_on": "2026-09-11",
         "passed": true,
         "broken": [],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0058": {
@@ -1668,7 +1668,7 @@
         "checked_on": "2026-09-11",
         "passed": true,
         "broken": [],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0059": {
@@ -1695,7 +1695,7 @@
         "checked_on": "2026-09-11",
         "passed": true,
         "broken": [],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0060": {
@@ -1722,7 +1722,7 @@
         "checked_on": "2026-09-11",
         "passed": true,
         "broken": [],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0061": {
@@ -1749,7 +1749,7 @@
         "checked_on": "2026-09-11",
         "passed": true,
         "broken": [],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0062": {
@@ -1776,7 +1776,7 @@
         "checked_on": "2026-09-11",
         "passed": true,
         "broken": [],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0063": {
@@ -1803,7 +1803,7 @@
         "checked_on": "2026-09-11",
         "passed": true,
         "broken": [],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0064": {
@@ -1830,7 +1830,7 @@
         "checked_on": "2026-09-11",
         "passed": true,
         "broken": [],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0065": {
@@ -1857,7 +1857,7 @@
         "checked_on": "2026-09-11",
         "passed": true,
         "broken": [],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0066": {
@@ -1884,7 +1884,7 @@
         "checked_on": "2026-09-11",
         "passed": true,
         "broken": [],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0067": {
@@ -1913,7 +1913,7 @@
         "broken": [
           "caffeine_named_more_than_once"
         ],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0068": {
@@ -1949,7 +1949,7 @@
         "checked_on": "2026-09-11",
         "passed": true,
         "broken": [],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0069": {
@@ -1976,7 +1976,7 @@
         "checked_on": "2026-09-11",
         "passed": true,
         "broken": [],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0070": {
@@ -2003,7 +2003,7 @@
         "checked_on": "2026-09-11",
         "passed": true,
         "broken": [],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0071": {
@@ -2030,7 +2030,7 @@
         "checked_on": "2026-09-11",
         "passed": true,
         "broken": [],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0072": {
@@ -2057,7 +2057,7 @@
         "checked_on": "2026-09-11",
         "passed": true,
         "broken": [],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0073": {
@@ -2084,7 +2084,7 @@
         "checked_on": "2026-09-11",
         "passed": true,
         "broken": [],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0074": {
@@ -2111,7 +2111,7 @@
         "checked_on": "2026-09-11",
         "passed": true,
         "broken": [],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0075": {
@@ -2138,7 +2138,7 @@
         "checked_on": "2026-09-11",
         "passed": true,
         "broken": [],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0076": {
@@ -2165,7 +2165,7 @@
         "checked_on": "2026-09-11",
         "passed": true,
         "broken": [],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0077": {
@@ -2201,7 +2201,7 @@
         "checked_on": "2026-09-11",
         "passed": true,
         "broken": [],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0078": {
@@ -2228,7 +2228,7 @@
         "checked_on": "2026-09-11",
         "passed": true,
         "broken": [],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0079": {
@@ -2255,7 +2255,7 @@
         "checked_on": "2026-09-11",
         "passed": true,
         "broken": [],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0080": {
@@ -2282,7 +2282,7 @@
         "checked_on": "2026-09-11",
         "passed": true,
         "broken": [],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0081": {
@@ -2309,7 +2309,7 @@
         "checked_on": "2026-09-11",
         "passed": true,
         "broken": [],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0082": {
@@ -2336,7 +2336,7 @@
         "checked_on": "2026-09-11",
         "passed": true,
         "broken": [],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0083": {
@@ -2363,7 +2363,7 @@
         "checked_on": "2026-09-11",
         "passed": true,
         "broken": [],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0084": {
@@ -2390,7 +2390,7 @@
         "checked_on": "2026-09-11",
         "passed": true,
         "broken": [],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0085": {
@@ -2417,7 +2417,7 @@
         "checked_on": "2026-09-11",
         "passed": true,
         "broken": [],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0086": {
@@ -2444,7 +2444,7 @@
         "checked_on": "2026-09-11",
         "passed": true,
         "broken": [],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0087": {
@@ -2480,7 +2480,7 @@
         "checked_on": "2026-09-11",
         "passed": true,
         "broken": [],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0088": {
@@ -2507,7 +2507,7 @@
         "checked_on": "2026-09-11",
         "passed": true,
         "broken": [],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0089": {
@@ -2534,7 +2534,7 @@
         "checked_on": "2026-09-11",
         "passed": true,
         "broken": [],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0090": {
@@ -2561,7 +2561,7 @@
         "checked_on": "2026-09-11",
         "passed": true,
         "broken": [],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0091": {
@@ -2588,7 +2588,7 @@
         "checked_on": "2026-09-11",
         "passed": true,
         "broken": [],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0092": {
@@ -2615,7 +2615,7 @@
         "checked_on": "2026-09-11",
         "passed": true,
         "broken": [],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0093": {
@@ -2642,7 +2642,7 @@
         "checked_on": "2026-09-11",
         "passed": true,
         "broken": [],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0094": {
@@ -2669,7 +2669,7 @@
         "checked_on": "2026-09-11",
         "passed": true,
         "broken": [],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0095": {
@@ -2696,7 +2696,7 @@
         "checked_on": "2026-09-11",
         "passed": true,
         "broken": [],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0096": {
@@ -2725,7 +2725,7 @@
         "broken": [
           "caffeine_named_more_than_once"
         ],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0097": {
@@ -2761,7 +2761,7 @@
         "checked_on": "2026-09-11",
         "passed": true,
         "broken": [],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0098": {
@@ -2788,7 +2788,7 @@
         "checked_on": "2026-09-11",
         "passed": true,
         "broken": [],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0099": {
@@ -2815,7 +2815,7 @@
         "checked_on": "2026-09-11",
         "passed": true,
         "broken": [],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0100": {
@@ -2842,7 +2842,7 @@
         "checked_on": "2026-09-11",
         "passed": true,
         "broken": [],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0101": {
@@ -2869,7 +2869,7 @@
         "checked_on": "2026-09-11",
         "passed": true,
         "broken": [],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0102": {
@@ -2896,7 +2896,7 @@
         "checked_on": "2026-09-11",
         "passed": true,
         "broken": [],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0103": {
@@ -2923,7 +2923,7 @@
         "checked_on": "2026-09-11",
         "passed": true,
         "broken": [],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0104": {
@@ -2950,7 +2950,7 @@
         "checked_on": "2026-09-11",
         "passed": true,
         "broken": [],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0105": {
@@ -2977,7 +2977,7 @@
         "checked_on": "2026-09-11",
         "passed": true,
         "broken": [],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0106": {
@@ -3006,7 +3006,7 @@
         "broken": [
           "caffeine_named_more_than_once"
         ],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0107": {
@@ -3042,7 +3042,7 @@
         "checked_on": "2026-09-11",
         "passed": true,
         "broken": [],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0108": {
@@ -3069,7 +3069,7 @@
         "checked_on": "2026-09-11",
         "passed": true,
         "broken": [],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0109": {
@@ -3096,7 +3096,7 @@
         "checked_on": "2026-09-11",
         "passed": true,
         "broken": [],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0110": {
@@ -3123,7 +3123,7 @@
         "checked_on": "2026-09-11",
         "passed": true,
         "broken": [],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0111": {
@@ -3150,7 +3150,7 @@
         "checked_on": "2026-09-11",
         "passed": true,
         "broken": [],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0112": {
@@ -3177,7 +3177,7 @@
         "checked_on": "2026-09-11",
         "passed": true,
         "broken": [],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0113": {
@@ -3204,7 +3204,7 @@
         "checked_on": "2026-09-11",
         "passed": true,
         "broken": [],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0114": {
@@ -3231,7 +3231,7 @@
         "checked_on": "2026-09-11",
         "passed": true,
         "broken": [],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0115": {
@@ -3258,7 +3258,7 @@
         "checked_on": "2026-09-11",
         "passed": true,
         "broken": [],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0116": {
@@ -3285,7 +3285,7 @@
         "checked_on": "2026-09-11",
         "passed": true,
         "broken": [],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0117": {
@@ -3321,7 +3321,7 @@
         "checked_on": "2026-09-11",
         "passed": true,
         "broken": [],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0118": {
@@ -3348,7 +3348,7 @@
         "checked_on": "2026-09-11",
         "passed": true,
         "broken": [],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0119": {
@@ -3375,7 +3375,7 @@
         "checked_on": "2026-09-11",
         "passed": true,
         "broken": [],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0120": {
@@ -3402,7 +3402,7 @@
         "checked_on": "2026-09-11",
         "passed": true,
         "broken": [],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0121": {
@@ -3429,7 +3429,7 @@
         "checked_on": "2026-09-11",
         "passed": true,
         "broken": [],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0122": {
@@ -3456,7 +3456,7 @@
         "checked_on": "2026-09-11",
         "passed": true,
         "broken": [],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0123": {
@@ -3483,7 +3483,7 @@
         "checked_on": "2026-09-11",
         "passed": true,
         "broken": [],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0124": {
@@ -3510,7 +3510,7 @@
         "checked_on": "2026-09-11",
         "passed": true,
         "broken": [],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0125": {
@@ -3537,7 +3537,7 @@
         "checked_on": "2026-09-11",
         "passed": true,
         "broken": [],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0126": {
@@ -3564,7 +3564,7 @@
         "checked_on": "2026-09-11",
         "passed": true,
         "broken": [],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0127": {
@@ -3600,7 +3600,7 @@
         "checked_on": "2026-09-11",
         "passed": true,
         "broken": [],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0128": {
@@ -3627,7 +3627,7 @@
         "checked_on": "2026-09-11",
         "passed": true,
         "broken": [],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0129": {
@@ -3654,7 +3654,7 @@
         "checked_on": "2026-09-11",
         "passed": true,
         "broken": [],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0130": {
@@ -3681,7 +3681,7 @@
         "checked_on": "2026-09-11",
         "passed": true,
         "broken": [],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0131": {
@@ -3708,7 +3708,7 @@
         "checked_on": "2026-09-11",
         "passed": true,
         "broken": [],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0132": {
@@ -3735,7 +3735,7 @@
         "checked_on": "2026-09-11",
         "passed": true,
         "broken": [],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0133": {
@@ -3762,7 +3762,7 @@
         "checked_on": "2026-09-11",
         "passed": true,
         "broken": [],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0134": {
@@ -3789,7 +3789,7 @@
         "checked_on": "2026-09-11",
         "passed": true,
         "broken": [],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0135": {
@@ -3816,7 +3816,7 @@
         "checked_on": "2026-09-11",
         "passed": true,
         "broken": [],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0136": {
@@ -3843,7 +3843,7 @@
         "checked_on": "2026-09-11",
         "passed": true,
         "broken": [],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0137": {
@@ -3879,7 +3879,7 @@
         "checked_on": "2026-09-11",
         "passed": true,
         "broken": [],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0138": {
@@ -3906,7 +3906,7 @@
         "checked_on": "2026-09-11",
         "passed": true,
         "broken": [],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0139": {
@@ -3933,7 +3933,7 @@
         "checked_on": "2026-09-11",
         "passed": true,
         "broken": [],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0140": {
@@ -3960,7 +3960,7 @@
         "checked_on": "2026-09-11",
         "passed": true,
         "broken": [],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0141": {
@@ -3987,7 +3987,7 @@
         "checked_on": "2026-09-11",
         "passed": true,
         "broken": [],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0142": {
@@ -4014,7 +4014,7 @@
         "checked_on": "2026-09-11",
         "passed": true,
         "broken": [],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0143": {
@@ -4041,7 +4041,7 @@
         "checked_on": "2026-09-11",
         "passed": true,
         "broken": [],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0144": {
@@ -4068,7 +4068,7 @@
         "checked_on": "2026-09-11",
         "passed": true,
         "broken": [],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0145": {
@@ -4095,7 +4095,7 @@
         "checked_on": "2026-09-11",
         "passed": true,
         "broken": [],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0146": {
@@ -4122,7 +4122,7 @@
         "checked_on": "2026-09-11",
         "passed": true,
         "broken": [],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0147": {
@@ -4149,7 +4149,7 @@
         "checked_on": "2026-09-11",
         "passed": true,
         "broken": [],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0148": {
@@ -4176,7 +4176,7 @@
         "checked_on": "2026-09-11",
         "passed": true,
         "broken": [],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0149": {
@@ -4203,7 +4203,7 @@
         "checked_on": "2026-09-11",
         "passed": true,
         "broken": [],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0150": {
@@ -4230,7 +4230,7 @@
         "checked_on": "2026-09-11",
         "passed": true,
         "broken": [],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0151": {
@@ -4257,7 +4257,7 @@
         "checked_on": "2026-09-11",
         "passed": true,
         "broken": [],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0152": {
@@ -4284,7 +4284,7 @@
         "checked_on": "2026-09-11",
         "passed": true,
         "broken": [],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0153": {
@@ -4311,7 +4311,7 @@
         "checked_on": "2026-09-11",
         "passed": true,
         "broken": [],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0154": {
@@ -4338,7 +4338,7 @@
         "checked_on": "2026-09-11",
         "passed": true,
         "broken": [],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0155": {
@@ -4365,7 +4365,7 @@
         "checked_on": "2026-09-11",
         "passed": true,
         "broken": [],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0156": {
@@ -4401,7 +4401,7 @@
         "checked_on": "2026-09-11",
         "passed": true,
         "broken": [],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0157": {
@@ -4428,7 +4428,7 @@
         "checked_on": "2026-09-11",
         "passed": true,
         "broken": [],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0158": {
@@ -4455,7 +4455,7 @@
         "checked_on": "2026-09-11",
         "passed": true,
         "broken": [],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0159": {
@@ -4482,7 +4482,7 @@
         "checked_on": "2026-09-11",
         "passed": true,
         "broken": [],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0160": {
@@ -4509,7 +4509,7 @@
         "checked_on": "2026-09-11",
         "passed": true,
         "broken": [],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0161": {
@@ -4536,7 +4536,7 @@
         "checked_on": "2026-09-11",
         "passed": true,
         "broken": [],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0162": {
@@ -4563,7 +4563,7 @@
         "checked_on": "2026-09-11",
         "passed": true,
         "broken": [],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0163": {
@@ -4590,7 +4590,7 @@
         "checked_on": "2026-09-11",
         "passed": true,
         "broken": [],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0164": {
@@ -4617,7 +4617,7 @@
         "checked_on": "2026-09-11",
         "passed": true,
         "broken": [],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0165": {
@@ -4644,7 +4644,7 @@
         "checked_on": "2026-09-11",
         "passed": true,
         "broken": [],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0166": {
@@ -4680,7 +4680,7 @@
         "checked_on": "2026-09-11",
         "passed": true,
         "broken": [],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0167": {
@@ -4707,7 +4707,7 @@
         "checked_on": "2026-09-11",
         "passed": true,
         "broken": [],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0168": {
@@ -4734,7 +4734,7 @@
         "checked_on": "2026-09-11",
         "passed": true,
         "broken": [],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0169": {
@@ -4761,7 +4761,7 @@
         "checked_on": "2026-09-11",
         "passed": true,
         "broken": [],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0170": {
@@ -4788,7 +4788,7 @@
         "checked_on": "2026-09-11",
         "passed": true,
         "broken": [],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0171": {
@@ -4815,7 +4815,7 @@
         "checked_on": "2026-09-11",
         "passed": true,
         "broken": [],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0172": {
@@ -4842,7 +4842,7 @@
         "checked_on": "2026-09-11",
         "passed": true,
         "broken": [],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0173": {
@@ -4869,7 +4869,7 @@
         "checked_on": "2026-09-11",
         "passed": true,
         "broken": [],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0174": {
@@ -4896,7 +4896,7 @@
         "checked_on": "2026-09-11",
         "passed": true,
         "broken": [],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0175": {
@@ -4923,7 +4923,7 @@
         "checked_on": "2026-09-11",
         "passed": true,
         "broken": [],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0176": {
@@ -4959,7 +4959,7 @@
         "checked_on": "2026-09-11",
         "passed": true,
         "broken": [],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0177": {
@@ -4986,7 +4986,7 @@
         "checked_on": "2026-09-11",
         "passed": true,
         "broken": [],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0178": {
@@ -5013,7 +5013,7 @@
         "checked_on": "2026-09-11",
         "passed": true,
         "broken": [],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0179": {
@@ -5040,7 +5040,7 @@
         "checked_on": "2026-09-11",
         "passed": true,
         "broken": [],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0180": {
@@ -5067,7 +5067,7 @@
         "checked_on": "2026-09-11",
         "passed": true,
         "broken": [],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0181": {
@@ -5094,7 +5094,7 @@
         "checked_on": "2026-09-11",
         "passed": true,
         "broken": [],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0182": {
@@ -5121,7 +5121,7 @@
         "checked_on": "2026-09-11",
         "passed": true,
         "broken": [],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0183": {
@@ -5148,7 +5148,7 @@
         "checked_on": "2026-09-11",
         "passed": true,
         "broken": [],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0184": {
@@ -5175,7 +5175,7 @@
         "checked_on": "2026-09-11",
         "passed": true,
         "broken": [],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0185": {
@@ -5204,7 +5204,7 @@
         "broken": [
           "caffeine_named_more_than_once"
         ],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0186": {
@@ -5240,7 +5240,7 @@
         "checked_on": "2026-09-11",
         "passed": true,
         "broken": [],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0187": {
@@ -5267,7 +5267,7 @@
         "checked_on": "2026-09-11",
         "passed": true,
         "broken": [],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0188": {
@@ -5294,7 +5294,7 @@
         "checked_on": "2026-09-11",
         "passed": true,
         "broken": [],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0189": {
@@ -5321,7 +5321,7 @@
         "checked_on": "2026-09-11",
         "passed": true,
         "broken": [],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0190": {
@@ -5348,7 +5348,7 @@
         "checked_on": "2026-09-11",
         "passed": true,
         "broken": [],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0191": {
@@ -5375,7 +5375,7 @@
         "checked_on": "2026-09-11",
         "passed": true,
         "broken": [],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0192": {
@@ -5402,7 +5402,7 @@
         "checked_on": "2026-09-11",
         "passed": true,
         "broken": [],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0193": {
@@ -5429,7 +5429,7 @@
         "checked_on": "2026-09-11",
         "passed": true,
         "broken": [],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0194": {
@@ -5456,7 +5456,7 @@
         "checked_on": "2026-09-11",
         "passed": true,
         "broken": [],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0195": {
@@ -5485,7 +5485,7 @@
         "broken": [
           "caffeine_named_more_than_once"
         ],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0196": {
@@ -5521,7 +5521,7 @@
         "checked_on": "2026-09-11",
         "passed": true,
         "broken": [],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0197": {
@@ -5548,7 +5548,7 @@
         "checked_on": "2026-09-11",
         "passed": true,
         "broken": [],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0198": {
@@ -5575,7 +5575,7 @@
         "checked_on": "2026-09-11",
         "passed": true,
         "broken": [],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0199": {
@@ -5602,7 +5602,7 @@
         "checked_on": "2026-09-11",
         "passed": true,
         "broken": [],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0200": {
@@ -5629,7 +5629,7 @@
         "checked_on": "2026-09-11",
         "passed": true,
         "broken": [],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0201": {
@@ -5656,7 +5656,7 @@
         "checked_on": "2026-09-11",
         "passed": true,
         "broken": [],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0202": {
@@ -5683,7 +5683,7 @@
         "checked_on": "2026-09-11",
         "passed": true,
         "broken": [],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0203": {
@@ -5710,7 +5710,7 @@
         "checked_on": "2026-09-11",
         "passed": true,
         "broken": [],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0204": {
@@ -5737,7 +5737,7 @@
         "checked_on": "2026-09-11",
         "passed": true,
         "broken": [],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0205": {
@@ -5766,7 +5766,7 @@
         "broken": [
           "caffeine_named_more_than_once"
         ],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0206": {
@@ -5802,7 +5802,7 @@
         "checked_on": "2026-09-11",
         "passed": true,
         "broken": [],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0207": {
@@ -5829,7 +5829,7 @@
         "checked_on": "2026-09-11",
         "passed": true,
         "broken": [],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0208": {
@@ -5856,7 +5856,7 @@
         "checked_on": "2026-09-11",
         "passed": true,
         "broken": [],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0209": {
@@ -5883,7 +5883,7 @@
         "checked_on": "2026-09-11",
         "passed": true,
         "broken": [],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0210": {
@@ -5910,7 +5910,7 @@
         "checked_on": "2026-09-11",
         "passed": true,
         "broken": [],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0211": {
@@ -5937,7 +5937,7 @@
         "checked_on": "2026-09-11",
         "passed": true,
         "broken": [],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0212": {
@@ -5964,7 +5964,7 @@
         "checked_on": "2026-09-11",
         "passed": true,
         "broken": [],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0213": {
@@ -5991,7 +5991,7 @@
         "checked_on": "2026-09-11",
         "passed": true,
         "broken": [],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0214": {
@@ -6018,7 +6018,7 @@
         "checked_on": "2026-09-11",
         "passed": true,
         "broken": [],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0215": {
@@ -6045,7 +6045,7 @@
         "checked_on": "2026-09-11",
         "passed": true,
         "broken": [],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0216": {
@@ -6081,7 +6081,7 @@
         "checked_on": "2026-09-11",
         "passed": true,
         "broken": [],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0217": {
@@ -6108,7 +6108,7 @@
         "checked_on": "2026-09-11",
         "passed": true,
         "broken": [],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0218": {
@@ -6135,7 +6135,7 @@
         "checked_on": "2026-09-11",
         "passed": true,
         "broken": [],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0219": {
@@ -6162,7 +6162,7 @@
         "checked_on": "2026-09-11",
         "passed": true,
         "broken": [],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0220": {
@@ -6189,7 +6189,7 @@
         "checked_on": "2026-09-11",
         "passed": true,
         "broken": [],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0221": {
@@ -6216,7 +6216,7 @@
         "checked_on": "2026-09-11",
         "passed": true,
         "broken": [],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0222": {
@@ -6243,7 +6243,7 @@
         "checked_on": "2026-09-11",
         "passed": true,
         "broken": [],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0223": {
@@ -6270,7 +6270,7 @@
         "checked_on": "2026-09-11",
         "passed": true,
         "broken": [],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0224": {
@@ -6297,7 +6297,7 @@
         "checked_on": "2026-09-11",
         "passed": true,
         "broken": [],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0225": {
@@ -6324,7 +6324,7 @@
         "checked_on": "2026-09-11",
         "passed": true,
         "broken": [],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0226": {
@@ -6360,7 +6360,7 @@
         "checked_on": "2026-09-11",
         "passed": true,
         "broken": [],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0227": {
@@ -6387,7 +6387,7 @@
         "checked_on": "2026-09-11",
         "passed": true,
         "broken": [],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0228": {
@@ -6416,7 +6416,7 @@
         "broken": [
           "caffeine_named_more_than_once"
         ],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0229": {
@@ -6443,7 +6443,7 @@
         "checked_on": "2026-09-11",
         "passed": true,
         "broken": [],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0230": {
@@ -6470,7 +6470,7 @@
         "checked_on": "2026-09-11",
         "passed": true,
         "broken": [],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0231": {
@@ -6497,7 +6497,7 @@
         "checked_on": "2026-09-11",
         "passed": true,
         "broken": [],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0232": {
@@ -6524,7 +6524,7 @@
         "checked_on": "2026-09-11",
         "passed": true,
         "broken": [],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0233": {
@@ -6551,7 +6551,7 @@
         "checked_on": "2026-09-11",
         "passed": true,
         "broken": [],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0234": {
@@ -6578,7 +6578,7 @@
         "checked_on": "2026-09-11",
         "passed": true,
         "broken": [],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0235": {
@@ -6607,7 +6607,7 @@
         "broken": [
           "em_dash"
         ],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0236": {
@@ -6645,7 +6645,7 @@
         "broken": [
           "em_dash"
         ],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0237": {
@@ -6672,7 +6672,7 @@
         "checked_on": "2026-09-11",
         "passed": true,
         "broken": [],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0238": {
@@ -6701,7 +6701,7 @@
         "broken": [
           "em_dash"
         ],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0239": {
@@ -6728,7 +6728,7 @@
         "checked_on": "2026-09-11",
         "passed": true,
         "broken": [],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0240": {
@@ -6755,7 +6755,7 @@
         "checked_on": "2026-09-11",
         "passed": true,
         "broken": [],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0241": {
@@ -6782,7 +6782,7 @@
         "checked_on": "2026-09-11",
         "passed": true,
         "broken": [],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0242": {
@@ -6809,7 +6809,7 @@
         "checked_on": "2026-09-11",
         "passed": true,
         "broken": [],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0243": {
@@ -6836,7 +6836,7 @@
         "checked_on": "2026-09-11",
         "passed": true,
         "broken": [],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0244": {
@@ -6863,7 +6863,7 @@
         "checked_on": "2026-09-11",
         "passed": true,
         "broken": [],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0245": {
@@ -6890,7 +6890,7 @@
         "checked_on": "2026-09-11",
         "passed": true,
         "broken": [],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0246": {
@@ -6917,7 +6917,7 @@
         "checked_on": "2026-09-11",
         "passed": true,
         "broken": [],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0247": {
@@ -6944,7 +6944,7 @@
         "checked_on": "2026-09-11",
         "passed": true,
         "broken": [],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0248": {
@@ -6971,7 +6971,7 @@
         "checked_on": "2026-09-11",
         "passed": true,
         "broken": [],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0249": {
@@ -6998,7 +6998,7 @@
         "checked_on": "2026-09-11",
         "passed": true,
         "broken": [],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0250": {
@@ -7025,7 +7025,7 @@
         "checked_on": "2026-09-11",
         "passed": true,
         "broken": [],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0251": {
@@ -7052,7 +7052,7 @@
         "checked_on": "2026-09-11",
         "passed": true,
         "broken": [],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0252": {
@@ -7079,7 +7079,7 @@
         "checked_on": "2026-09-11",
         "passed": true,
         "broken": [],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0253": {
@@ -7106,7 +7106,7 @@
         "checked_on": "2026-09-11",
         "passed": true,
         "broken": [],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0254": {
@@ -7133,7 +7133,7 @@
         "checked_on": "2026-09-11",
         "passed": true,
         "broken": [],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0255": {
@@ -7160,7 +7160,7 @@
         "checked_on": "2026-09-11",
         "passed": true,
         "broken": [],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0256": {
@@ -7187,7 +7187,7 @@
         "checked_on": "2026-09-11",
         "passed": true,
         "broken": [],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0257": {
@@ -7214,7 +7214,7 @@
         "checked_on": "2026-09-11",
         "passed": true,
         "broken": [],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0258": {
@@ -7241,7 +7241,7 @@
         "checked_on": "2026-09-11",
         "passed": true,
         "broken": [],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0259": {
@@ -7268,7 +7268,7 @@
         "checked_on": "2026-09-11",
         "passed": true,
         "broken": [],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0260": {
@@ -7295,7 +7295,7 @@
         "checked_on": "2026-09-11",
         "passed": true,
         "broken": [],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0261": {
@@ -7322,7 +7322,7 @@
         "checked_on": "2026-09-11",
         "passed": true,
         "broken": [],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0262": {
@@ -7349,7 +7349,7 @@
         "checked_on": "2026-09-11",
         "passed": true,
         "broken": [],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0263": {
@@ -7376,7 +7376,7 @@
         "checked_on": "2026-09-11",
         "passed": true,
         "broken": [],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0264": {
@@ -7403,7 +7403,7 @@
         "checked_on": "2026-09-11",
         "passed": true,
         "broken": [],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0265": {
@@ -7430,7 +7430,7 @@
         "checked_on": "2026-09-11",
         "passed": true,
         "broken": [],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0266": {
@@ -7457,7 +7457,7 @@
         "checked_on": "2026-09-11",
         "passed": true,
         "broken": [],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0267": {
@@ -7484,7 +7484,7 @@
         "checked_on": "2026-09-11",
         "passed": true,
         "broken": [],
-        "needs_devon": false
+        "carries_claim": false
       }
     },
     "h-0268": {
@@ -7511,7 +7511,7 @@
         "checked_on": "2026-09-11",
         "passed": true,
         "broken": [],
-        "needs_devon": false
+        "carries_claim": false
       }
     }
   },
