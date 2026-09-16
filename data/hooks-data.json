@@ -10726,6 +10726,7 @@
     }
   ],
   "changes_pending": [],
+  "decisions": [],
   "grandfathered": [
     {
       "where": "hooks.h-0061.why",
@@ -10772,12 +10773,6 @@
     {
       "where": "hooks.h-0076.why",
       "rule": "em_dash",
-      "since": "2026-09-11",
-      "note": "already live on the hub when the store was extracted 2026-09-16; the rule binds every new and every edited row from that day"
-    },
-    {
-      "where": "hooks.h-0076.why",
-      "rule": "off_category_identity",
       "since": "2026-09-11",
       "note": "already live on the hub when the store was extracted 2026-09-16; the rule binds every new and every edited row from that day"
     },
@@ -11076,12 +11071,6 @@
       "note": "already live on the hub when the store was extracted 2026-09-16; the rule binds every new and every edited row from that day"
     },
     {
-      "where": "tabs.brain-health.audience",
-      "rule": "off_category_identity",
-      "since": "2026-09-11",
-      "note": "already live on the hub when the store was extracted 2026-09-16; the rule binds every new and every edited row from that day"
-    },
-    {
       "where": "tabs.brain-health.dos[0]",
       "rule": "em_dash",
       "since": "2026-09-11",
@@ -11090,12 +11079,6 @@
     {
       "where": "tabs.biohackers.title",
       "rule": "em_dash",
-      "since": "2026-09-11",
-      "note": "already live on the hub when the store was extracted 2026-09-16; the rule binds every new and every edited row from that day"
-    },
-    {
-      "where": "tabs.biohackers.audience",
-      "rule": "off_category_identity",
       "since": "2026-09-11",
       "note": "already live on the hub when the store was extracted 2026-09-16; the rule binds every new and every edited row from that day"
     },
@@ -11112,20 +11095,8 @@
       "note": "already live on the hub when the store was extracted 2026-09-16; the rule binds every new and every edited row from that day"
     },
     {
-      "where": "tabs.blue-collar.audience",
-      "rule": "off_category_identity",
-      "since": "2026-09-11",
-      "note": "already live on the hub when the store was extracted 2026-09-16; the rule binds every new and every edited row from that day"
-    },
-    {
       "where": "tabs.fitness-moms.title",
       "rule": "em_dash",
-      "since": "2026-09-11",
-      "note": "already live on the hub when the store was extracted 2026-09-16; the rule binds every new and every edited row from that day"
-    },
-    {
-      "where": "tabs.fitness-moms.audience",
-      "rule": "off_category_identity",
       "since": "2026-09-11",
       "note": "already live on the hub when the store was extracted 2026-09-16; the rule binds every new and every edited row from that day"
     },
@@ -11142,12 +11113,6 @@
       "note": "already live on the hub when the store was extracted 2026-09-16; the rule binds every new and every edited row from that day"
     },
     {
-      "where": "tabs.gearheads.audience",
-      "rule": "off_category_identity",
-      "since": "2026-09-11",
-      "note": "already live on the hub when the store was extracted 2026-09-16; the rule binds every new and every edited row from that day"
-    },
-    {
       "where": "tabs.entrepreneurs.title",
       "rule": "em_dash",
       "since": "2026-09-11",
@@ -11160,20 +11125,8 @@
       "note": "already live on the hub when the store was extracted 2026-09-16; the rule binds every new and every edited row from that day"
     },
     {
-      "where": "tabs.entrepreneurs.audience",
-      "rule": "off_category_identity",
-      "since": "2026-09-11",
-      "note": "already live on the hub when the store was extracted 2026-09-16; the rule binds every new and every edited row from that day"
-    },
-    {
       "where": "tabs.fitness-gym.title",
       "rule": "em_dash",
-      "since": "2026-09-11",
-      "note": "already live on the hub when the store was extracted 2026-09-16; the rule binds every new and every edited row from that day"
-    },
-    {
-      "where": "tabs.fitness-gym.audience",
-      "rule": "off_category_identity",
       "since": "2026-09-11",
       "note": "already live on the hub when the store was extracted 2026-09-16; the rule binds every new and every edited row from that day"
     },
@@ -11196,12 +11149,6 @@
       "note": "already live on the hub when the store was extracted 2026-09-16; the rule binds every new and every edited row from that day"
     },
     {
-      "where": "tabs.women-40-menopause.audience",
-      "rule": "off_category_identity",
-      "since": "2026-09-11",
-      "note": "already live on the hub when the store was extracted 2026-09-16; the rule binds every new and every edited row from that day"
-    },
-    {
       "where": "tabs.women-40-menopause.dos[0]",
       "rule": "em_dash",
       "since": "2026-09-11",
@@ -11210,12 +11157,6 @@
     {
       "where": "tabs.women-18-30.title",
       "rule": "em_dash",
-      "since": "2026-09-11",
-      "note": "already live on the hub when the store was extracted 2026-09-16; the rule binds every new and every edited row from that day"
-    },
-    {
-      "where": "tabs.women-18-30.audience",
-      "rule": "off_category_identity",
       "since": "2026-09-11",
       "note": "already live on the hub when the store was extracted 2026-09-16; the rule binds every new and every edited row from that day"
     },
@@ -11232,20 +11173,8 @@
       "note": "already live on the hub when the store was extracted 2026-09-16; the rule binds every new and every edited row from that day"
     },
     {
-      "where": "tabs.racing.audience",
-      "rule": "off_category_identity",
-      "since": "2026-09-11",
-      "note": "already live on the hub when the store was extracted 2026-09-16; the rule binds every new and every edited row from that day"
-    },
-    {
       "where": "tabs.racing.dos[0]",
       "rule": "em_dash",
-      "since": "2026-09-11",
-      "note": "already live on the hub when the store was extracted 2026-09-16; the rule binds every new and every edited row from that day"
-    },
-    {
-      "where": "tabs.racing.layout[4].text",
-      "rule": "off_category_identity",
       "since": "2026-09-11",
       "note": "already live on the hub when the store was extracted 2026-09-16; the rule binds every new and every edited row from that day"
     },
@@ -11258,12 +11187,6 @@
     {
       "where": "tabs.nurses.title",
       "rule": "em_dash",
-      "since": "2026-09-11",
-      "note": "already live on the hub when the store was extracted 2026-09-16; the rule binds every new and every edited row from that day"
-    },
-    {
-      "where": "tabs.nurses.audience",
-      "rule": "off_category_identity",
       "since": "2026-09-11",
       "note": "already live on the hub when the store was extracted 2026-09-16; the rule binds every new and every edited row from that day"
     },
@@ -11286,12 +11209,6 @@
       "note": "already live on the hub when the store was extracted 2026-09-16; the rule binds every new and every edited row from that day"
     },
     {
-      "where": "tabs.gaming.audience",
-      "rule": "off_category_identity",
-      "since": "2026-09-11",
-      "note": "already live on the hub when the store was extracted 2026-09-16; the rule binds every new and every edited row from that day"
-    },
-    {
       "where": "tabs.gen-z.title",
       "rule": "em_dash",
       "since": "2026-09-11",
@@ -11300,12 +11217,6 @@
     {
       "where": "tabs.gen-z.audience",
       "rule": "em_dash",
-      "since": "2026-09-11",
-      "note": "already live on the hub when the store was extracted 2026-09-16; the rule binds every new and every edited row from that day"
-    },
-    {
-      "where": "tabs.gen-z.audience",
-      "rule": "off_category_identity",
       "since": "2026-09-11",
       "note": "already live on the hub when the store was extracted 2026-09-16; the rule binds every new and every edited row from that day"
     },
@@ -11334,12 +11245,6 @@
       "note": "already live on the hub when the store was extracted 2026-09-16; the rule binds every new and every edited row from that day"
     },
     {
-      "where": "tabs.mma.audience",
-      "rule": "off_category_identity",
-      "since": "2026-09-11",
-      "note": "already live on the hub when the store was extracted 2026-09-16; the rule binds every new and every edited row from that day"
-    },
-    {
       "where": "tabs.mma.layout[4].text",
       "rule": "em_dash",
       "since": "2026-09-11",
@@ -11358,20 +11263,8 @@
       "note": "already live on the hub when the store was extracted 2026-09-16; the rule binds every new and every edited row from that day"
     },
     {
-      "where": "tabs.golf.audience",
-      "rule": "off_category_identity",
-      "since": "2026-09-11",
-      "note": "already live on the hub when the store was extracted 2026-09-16; the rule binds every new and every edited row from that day"
-    },
-    {
       "where": "tabs.first-responders.title",
       "rule": "em_dash",
-      "since": "2026-09-11",
-      "note": "already live on the hub when the store was extracted 2026-09-16; the rule binds every new and every edited row from that day"
-    },
-    {
-      "where": "tabs.first-responders.audience",
-      "rule": "off_category_identity",
       "since": "2026-09-11",
       "note": "already live on the hub when the store was extracted 2026-09-16; the rule binds every new and every edited row from that day"
     },
@@ -11400,12 +11293,6 @@
       "note": "already live on the hub when the store was extracted 2026-09-16; the rule binds every new and every edited row from that day"
     },
     {
-      "where": "tabs.cycling-endurance.audience",
-      "rule": "off_category_identity",
-      "since": "2026-09-11",
-      "note": "already live on the hub when the store was extracted 2026-09-16; the rule binds every new and every edited row from that day"
-    },
-    {
       "where": "tabs.cycling-endurance.dos[0]",
       "rule": "em_dash",
       "since": "2026-09-11",
@@ -11424,12 +11311,6 @@
       "note": "already live on the hub when the store was extracted 2026-09-16; the rule binds every new and every edited row from that day"
     },
     {
-      "where": "tabs.ultra.audience",
-      "rule": "off_category_identity",
-      "since": "2026-09-11",
-      "note": "already live on the hub when the store was extracted 2026-09-16; the rule binds every new and every edited row from that day"
-    },
-    {
       "where": "tabs.ultra.dos[0]",
       "rule": "em_dash",
       "since": "2026-09-11",
@@ -11438,12 +11319,6 @@
     {
       "where": "tabs.hyrox.title",
       "rule": "em_dash",
-      "since": "2026-09-11",
-      "note": "already live on the hub when the store was extracted 2026-09-16; the rule binds every new and every edited row from that day"
-    },
-    {
-      "where": "tabs.hyrox.audience",
-      "rule": "off_category_identity",
       "since": "2026-09-11",
       "note": "already live on the hub when the store was extracted 2026-09-16; the rule binds every new and every edited row from that day"
     },
@@ -11468,12 +11343,6 @@
     {
       "where": "tabs.price.title",
       "rule": "em_dash",
-      "since": "2026-09-11",
-      "note": "already live on the hub when the store was extracted 2026-09-16; the rule binds every new and every edited row from that day"
-    },
-    {
-      "where": "tabs.price.audience",
-      "rule": "off_category_identity",
       "since": "2026-09-11",
       "note": "already live on the hub when the store was extracted 2026-09-16; the rule binds every new and every edited row from that day"
     },
@@ -11895,16 +11764,19 @@
       "hooks[].why"
     ],
     "_machine_fields": [
+      "rules_version",
       "top_now",
       "hooks[].proof",
       "hooks[].rules",
       "hooks[].source",
       "changes_pending",
       "tabs[].angles",
-      "grandfathered"
+      "grandfathered",
+      "decisions"
     ],
     "unknown_is_never_zero": "A line no video has been read against carries UNKNOWN on every proof field and says so in its own how.",
-    "_who_writes_what": "The turn (scripts/flywheel_turn.py through scripts/cs_helpers/flywheel_hub.py) writes top_now and hooks[].proof on every run, and nothing else. updated and rules_version are editorial: a machine refresh must never restate a date a person set. The console's deliberate write lane writes changes_pending and the decisions behind it."
+    "_who_writes_what": "The turn (scripts/flywheel_turn.py through scripts/cs_helpers/flywheel_hub.py) writes top_now, hooks[].proof, hooks[].rules and rules_version on every run, and changes_pending on a decide run, and nothing else. `updated` stays editorial: a machine refresh must never restate a date a person set. rules_version MOVED from editorial to machine on 2026-09-16 (workplan 7-3): it was editorial only because nothing wrote it, and every publish now re-runs the rule reader over every row against the current references and stamps what the rules were. The console's deliberate write lane (kind hook_swap) is the only writer that moves a placement: it applies one approved swap, appends the receipt to decisions and stamps hooks[].entered.",
+    "_a_proposal_is_never_an_edit": "A line the turn proposes is added to hooks{} with no placement and named in changes_pending; the gate accepts an unplaced line, because a proposed, a declined and a displaced line are all legitimately on no tab, and it refuses a placement that points at no line. Only an approval on the console puts it on a tab, in the place of the row named in `out`."
   },
   "_extraction": {
     "source": "kenetik-tiktok-hub hooks/index.html",
