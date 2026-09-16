@@ -1,5 +1,5 @@
 {
-  "_comment": "Creator Hub live data. Auto-refreshed weekly by /creator-hub-refresh (EUKA-verified). Editorial fields (mission, perks, dos/donts, clips, discordUrl, formEndpoint, assets) are hand-editable.",
+  "_comment": "Creator Hub live data, the store for tiktok.drinkkenetik.com. It lives in kenetik-growth-system at data/creator-flywheel/creator-hub.json and is mirrored to this repo by .github/workflows/hooks-hub-publish.yml; never edit the copy in the hub repo. The figures on each featured video (primary, secondary, age) and the updated date are written by the Monday turn from what sold; the roster changes only when Nick approves a change on the console. Every other field is editorial and hand-edited, in the growth system, by the people whose words they are.",
   "updated": "September 10, 2026",
   "heroHeadline": "Everyone needs brain fuel. Help us put it on the map.",
   "heroGmv": "~$465K in TikTok Shop GMV and counting. The #1 brain fuel brand on TikTok Shop.",
@@ -173,6 +173,7 @@
       "secondary": "1.34M views",
       "angle": "The fuel reframe",
       "href": "https://tiktok.com/@2brothersepoxy/video/7538575914821602574",
+      "euka_video_id": "7538575914821602574",
       "thumb": "https://database.euka.ai/storage/v1/object/public/creator_videos_photos/7538575914821602574.webp",
       "note": "A creator carried Roman's message: fuel your body with garbage and you'll feel like garbage. Kenetik is the real thing.",
       "rank": "1",
@@ -191,6 +192,7 @@
       "secondary": "482K views",
       "angle": "Brain fuel + focus",
       "href": "https://tiktok.com/@be.lush/video/7545964105744534839",
+      "euka_video_id": "7545964105744534839",
       "thumb": "https://database.euka.ai/storage/v1/object/public/creator_videos_photos/7545964105744534839.webp",
       "note": "First-person on why she runs on ketones instead of caffeine.",
       "rank": "2",
@@ -209,6 +211,7 @@
       "secondary": "100K views",
       "angle": "I quit energy drinks",
       "href": "https://tiktok.com/@tyler.slone289/video/7566379846733991198",
+      "euka_video_id": "7566379846733991198",
       "thumb": "https://database.euka.ai/storage/v1/object/public/creator_videos_photos/7566379846733991198.webp",
       "note": "Quit-caffeine transformation: “haven't had an energy drink in months, for good reason.”",
       "rank": "3",
@@ -227,6 +230,7 @@
       "secondary": "40K views",
       "angle": "Plain and useful",
       "href": "https://tiktok.com/@healthy.lifestyle.vibe/video/7665560221292465439",
+      "euka_video_id": "7665560221292465439",
       "thumb": "https://database.euka.ai/storage/v1/object/public/creator_videos_photos/7665560221292465439.webp",
       "note": "The least clever hook we have and one of the best performing.",
       "rank": "4",
@@ -245,6 +249,7 @@
       "secondary": "21K views",
       "angle": "Real, named scarcity",
       "href": "https://tiktok.com/@thededicateddad/video/7674092193027493151",
+      "euka_video_id": "7674092193027493151",
       "thumb": "https://database.euka.ai/storage/v1/object/public/creator_videos_photos/7674092193027493151.webp",
       "note": "Scarcity that is actually true, on the newest flavor.",
       "rank": "5",
@@ -263,6 +268,7 @@
       "secondary": "2.6K views",
       "angle": "From our channel",
       "href": "https://tiktok.com/@kenetik/video/7673198140786363661",
+      "euka_video_id": "7673198140786363661",
       "thumb": "https://database.euka.ai/storage/v1/object/public/creator_videos_photos/7673198140786363661.webp",
       "note": "Our best returning hook of the month.",
       "rank": "6",
@@ -470,5 +476,63 @@
     "“Reduces inflammation,” “antioxidant,” or disease claims.",
     "Hard stats like “focus up 20%” or “brain activity up X%.”",
     "Promises or guarantees, and don't lead with a discount."
+  ],
+  "grandfathered": [
+    {
+      "where": "adReads[4].example",
+      "rule": "a_dollar_figure",
+      "found_on": "2026-09-16",
+      "text": "@be.lush leaned into the taste, and that honest first-sip reaction drove $9,430 in real TikTok Shop revenue.",
+      "detail": "carries '$9,430 in re'; the public hub shows counts and multiples about money, and the only dollar figures on it are the revenue chip on a featured video and the GMV headline"
+    },
+    {
+      "where": "dos[2]",
+      "rule": "cart_language",
+      "found_on": "2026-09-16",
+      "text": "Say \u201ctap the orange cart\u201d out loud before you finish. Videos that say it convert at 43% against about 10% for everything else, and almost nobody does it.",
+      "detail": "names \"cart\", and the close we use out loud is \"shop now\", because a winning clip re-runs as an ad where there is no cart"
+    },
+    {
+      "where": "teardowns[0].gmv",
+      "rule": "a_dollar_figure",
+      "found_on": "2026-09-16",
+      "text": "~$23K",
+      "detail": "carries '$23K'; the public hub shows counts and multiples about money, and the only dollar figures on it are the revenue chip on a featured video and the GMV headline"
+    },
+    {
+      "where": "teardowns[1].gmv",
+      "rule": "a_dollar_figure",
+      "found_on": "2026-09-16",
+      "text": "~$115K",
+      "detail": "carries '$115K'; the public hub shows counts and multiples about money, and the only dollar figures on it are the revenue chip on a featured video and the GMV headline"
+    },
+    {
+      "where": "teardowns[2].gmv",
+      "rule": "a_dollar_figure",
+      "found_on": "2026-09-16",
+      "text": "~$26K",
+      "detail": "carries '$26K'; the public hub shows counts and multiples about money, and the only dollar figures on it are the revenue chip on a featured video and the GMV headline"
+    },
+    {
+      "where": "teardowns[3].gmv",
+      "rule": "a_dollar_figure",
+      "found_on": "2026-09-16",
+      "text": "~$72K",
+      "detail": "carries '$72K'; the public hub shows counts and multiples about money, and the only dollar figures on it are the revenue chip on a featured video and the GMV headline"
+    },
+    {
+      "where": "teardowns[4].gmv",
+      "rule": "a_dollar_figure",
+      "found_on": "2026-09-16",
+      "text": "~$80K",
+      "detail": "carries '$80K'; the public hub shows counts and multiples about money, and the only dollar figures on it are the revenue chip on a featured video and the GMV headline"
+    },
+    {
+      "where": "teardowns[5].gmv",
+      "rule": "a_dollar_figure",
+      "found_on": "2026-09-16",
+      "text": "~$35K",
+      "detail": "carries '$35K'; the public hub shows counts and multiples about money, and the only dollar figures on it are the revenue chip on a featured video and the GMV headline"
+    }
   ]
 }
