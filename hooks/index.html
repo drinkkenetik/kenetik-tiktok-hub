@@ -168,6 +168,37 @@ function inWords(iso){
 
 function isFigure(v){ return typeof v === 'number' && isFinite(v); }
 
+var COUNT_WORDS = ['no','one','two','three','four','five','six','seven','eight','nine','ten',
+  'eleven','twelve'];
+function inWordsCount(n){ return COUNT_WORDS[n] || String(n); }
+
+/* How long the figures cover, in the page's own words, taken from the window the writer stamped
+   on the top hooks block. One window, one sentence: the page never names a period of its own. */
+function windowWeeks(){
+  var w = (DATA.top_now || {}).window || {};
+  var a = /^(\d{4})-(\d{2})-(\d{2})$/.exec(String(w.start || ''));
+  var b = /^(\d{4})-(\d{2})-(\d{2})$/.exec(String(w.end || ''));
+  if(!a || !b) return '';
+  var days = Math.round((Date.parse(w.end) - Date.parse(w.start)) / 86400000) + 1;
+  if(!(days > 0)) return '';
+  var weeks = Math.round(days / 7);
+  return weeks === 1 ? ' in the last week' : (' in the last ' + inWordsCount(weeks) + ' weeks');
+}
+
+/* THE ONE SENTENCE A FIGURE IS ALLOWED TO BE ON THIS PAGE (design direction §7): counts and
+   multiples, never dollars. The store carries revenue for the console; nothing here reads it,
+   and a test asserts this script never names that field. */
+function proofWords(proof){
+  var sold = proof.converting_videos;
+  if(!isFigure(sold)) return null;
+  if(sold === 0) return 'No sales off this line' + windowWeeks();
+  var people = isFigure(proof.distinct_creators) && proof.distinct_creators > 0
+    ? (' for ' + inWordsCount(proof.distinct_creators)
+       + (proof.distinct_creators === 1 ? ' creator' : ' creators'))
+    : '';
+  return 'Sold ' + sold + (sold === 1 ? ' time' : ' times') + people + windowWeeks();
+}
+
 /* A tab may word a line it shares with another tab differently. One line keeps one id and one
    set of figures; the tab's own wording is applied on top of it here. */
 function placedHook(tab, id){
@@ -205,6 +236,7 @@ function badges(hook){
   var src = hook.source || {};
   var proof = hook.proof || {};
   var out = [];
+  var words = proofWords(proof);
   if(src.kind === 'quoted'){
     var who = src.creator ? ('Said by ' + src.creator) : 'Said out loud';
     if(src.video_url){
@@ -212,13 +244,10 @@ function badges(hook){
     } else {
       out.push('<span class="hbadge quoted">' + esc(who) + '</span>');
     }
-    out.push('<span class="hbadge">' + (isFigure(proof.converting_videos)
-      ? esc('Sold ' + proof.converting_videos + ' times off this line')
-      : 'not read yet') + '</span>');
+    out.push('<span class="hbadge">' + (words ? esc(words) : 'not read yet') + '</span>');
   } else {
-    out.push('<span class="hbadge untested">' + (isFigure(proof.converting_videos)
-      ? esc('Sold ' + proof.converting_videos + ' times off this line')
-      : 'Untested') + '</span>');
+    out.push('<span class="hbadge' + (words ? '' : ' untested') + '">'
+      + (words ? esc(words) : 'Untested') + '</span>');
   }
   return '<div class="hbadges">' + out.join('') + '</div>';
 }
@@ -285,8 +314,10 @@ function renderPicker(cards){
   }).join('') + '</div></div>';
 }
 
-/* The Start Here top hooks, once the weekly writer fills them. Until then this draws nothing
-   and the Top 3 tab shows its own hooks exactly as it does today. */
+/* The Start Here top hooks, written every turn by the machine from what actually sold (N1).
+   Drawn on Start Here, which is where every TikTok Shop creator lands, and on the Top 3 tab.
+   Until the writer fills the block this draws nothing and both tabs show their own hooks
+   exactly as they do today. */
 function renderTopNow(tab){
   var top = DATA.top_now || {};
   var rows = top.rows || [];
@@ -294,9 +325,8 @@ function renderTopNow(tab){
   var window_ = top.window || {};
   var items = rows.map(function(r){
     var hook = placedHook(tab, r.hook_id);
-    var figure = isFigure(r.converting_videos)
-      ? ('Sold ' + r.converting_videos + ' times, ' + (isFigure(r.creators) ? r.creators : 'several') + ' creators')
-      : 'not read yet';
+    var figure = proofWords({converting_videos: r.converting_videos,
+                             distinct_creators: r.creators}) || 'not read yet';
     return '<li><b>' + rich(hook.text || r.hook_id) + '</b> ' + esc(figure) + '</li>';
   });
   return '<div class="eyebrow">Converting best right now</div>'
@@ -383,7 +413,8 @@ function render(){
       + '" id="tab' + i + '"><span>' + esc(t.label) + '</span><em></em></button>';
   }).join('');
   document.getElementById('main').innerHTML = tabs.map(function(t, i){
-    var body = (t.slug === 'top-3' ? renderTopNow(t) : '') + renderBlocks(t, layoutFor(t)) + renderFoot();
+    var topNow = (t.slug === 'top-3' || t.slug === 'start-here') ? renderTopNow(t) : '';
+    var body = topNow + renderBlocks(t, layoutFor(t)) + renderFoot();
     return '<section class="panel' + (i === 0 ? ' show' : '') + '" id="panel' + i + '" data-slug="' + attr(t.slug) + '">'
       + '<div class="strip"></div>' + body + '</section>';
   }).join('');

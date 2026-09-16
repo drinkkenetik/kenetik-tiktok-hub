@@ -11607,6 +11607,7 @@
     "what": "The hooks hub's content. One store, read by hub/hooks/index.html through the mirror the publish workflow writes. The page holds no copy of its own.",
     "hooks_are_a_library": "hook_id is frozen for the life of a line so proof accrues to the line, not to a copy of it; a tab holds an ordered list of placements (hook_ids).",
     "_editorial_fields": [
+      "updated",
       "tabs[].label",
       "tabs[].title",
       "tabs[].sub",
@@ -11626,7 +11627,6 @@
       "hooks[].why"
     ],
     "_machine_fields": [
-      "updated",
       "top_now",
       "hooks[].proof",
       "hooks[].rules",
@@ -11635,7 +11635,8 @@
       "tabs[].angles",
       "grandfathered"
     ],
-    "unknown_is_never_zero": "A line no video has been read against carries UNKNOWN on every proof field and says so in its own how."
+    "unknown_is_never_zero": "A line no video has been read against carries UNKNOWN on every proof field and says so in its own how.",
+    "_who_writes_what": "The turn (scripts/flywheel_turn.py through scripts/cs_helpers/flywheel_hub.py) writes top_now and hooks[].proof on every run, and nothing else. updated and rules_version are editorial: a machine refresh must never restate a date a person set. The console's deliberate write lane writes changes_pending and the decisions behind it."
   },
   "_extraction": {
     "source": "kenetik-tiktok-hub hooks/index.html",
