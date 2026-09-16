@@ -1,6 +1,6 @@
 {
   "_comment": "Creator Hub live data, the store for tiktok.drinkkenetik.com. It lives in kenetik-growth-system at data/creator-flywheel/creator-hub.json and is mirrored to this repo by .github/workflows/hooks-hub-publish.yml; never edit the copy in the hub repo. The figures on each featured video (primary, secondary, age) and the updated date are written by the Monday turn from what sold; the roster changes only when Nick approves a change on the console. Every other field is editorial and hand-edited, in the growth system, by the people whose words they are.",
-  "updated": "September 10, 2026",
+  "updated": "September 15, 2026",
   "heroHeadline": "Everyone needs brain fuel. Help us put it on the map.",
   "heroGmv": "~$465K in TikTok Shop GMV and counting. The #1 brain fuel brand on TikTok Shop.",
   "discordUrl": "https://discord.com/invite/MXf39eMgTY",
@@ -184,7 +184,8 @@
         "The owner's message: garbage fuel in, garbage out.",
         "Kenetik is real brain fuel, clean fuel for your brain.",
         "No crash, no jitters, just steady focus."
-      ]
+      ],
+      "figures_as_of": "September 10, 2026"
     },
     {
       "handle": "@be.lush",
@@ -203,7 +204,8 @@
         "Your brain actually prefers ketones.",
         "The old problem was taste. Now there's a clean way to get them.",
         "Sustained energy and sharper focus, the things we all want."
-      ]
+      ],
+      "figures_as_of": "September 10, 2026"
     },
     {
       "handle": "@tyler.slone289",
@@ -222,19 +224,20 @@
         "Zero sugar, zero caffeine, fasting friendly.",
         "The flavors are dialed in now.",
         "Grab a case and try it."
-      ]
+      ],
+      "figures_as_of": "September 10, 2026"
     },
     {
       "handle": "@healthy.lifestyle.vibe",
-      "primary": "$831",
-      "secondary": "40K views",
+      "primary": "$877",
+      "secondary": "42K views",
       "angle": "Plain and useful",
       "href": "https://tiktok.com/@healthy.lifestyle.vibe/video/7665560221292465439",
       "euka_video_id": "7665560221292465439",
       "thumb": "https://database.euka.ai/storage/v1/object/public/creator_videos_photos/7665560221292465439.webp",
       "note": "The least clever hook we have and one of the best performing.",
       "rank": "4",
-      "age": "7 weeks ago",
+      "age": "2mo ago",
       "why": "No turn of phrase, no story, just what you get for your money. It is the plainest opening on this page and one of the highest returning, which is worth knowing on a day when you do not have a story to tell.",
       "hook": "You get 24 cans in this four flavor variety pack.",
       "sellingPoints": [
@@ -245,8 +248,8 @@
     },
     {
       "handle": "@thededicateddad",
-      "primary": "$508",
-      "secondary": "21K views",
+      "primary": "$712",
+      "secondary": "23K views",
       "angle": "Real, named scarcity",
       "href": "https://tiktok.com/@thededicateddad/video/7674092193027493151",
       "euka_video_id": "7674092193027493151",
@@ -264,7 +267,7 @@
     },
     {
       "handle": "@kenetik",
-      "primary": "$194",
+      "primary": "$397",
       "secondary": "2.6K views",
       "angle": "From our channel",
       "href": "https://tiktok.com/@kenetik/video/7673198140786363661",
@@ -272,7 +275,7 @@
       "thumb": "https://database.euka.ai/storage/v1/object/public/creator_videos_photos/7673198140786363661.webp",
       "note": "Our best returning hook of the month.",
       "rank": "6",
-      "age": "4 weeks ago",
+      "age": "5 weeks ago",
       "why": "The single best returning opening we ran this month. A named flavor, a real timeframe, and a restock that gives the viewer a reason to act today rather than later.",
       "hook": "Golden Pear sold out in just 4 weeks, so we bumped the Raspberry Lychee launch up by five.",
       "sellingPoints": [
@@ -489,7 +492,7 @@
       "where": "dos[2]",
       "rule": "cart_language",
       "found_on": "2026-09-16",
-      "text": "Say \u201ctap the orange cart\u201d out loud before you finish. Videos that say it convert at 43% against about 10% for everything else, and almost nobody does it.",
+      "text": "Say “tap the orange cart” out loud before you finish. Videos that say it convert at 43% against about 10% for everything else, and almost nobody does it.",
       "detail": "names \"cart\", and the close we use out loud is \"shop now\", because a winning clip re-runs as an ad where there is no cart"
     },
     {
