@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "updated": "2026-09-11",
+  "updated": "2026-09-18",
   "written_by": "scripts/hooks_hub_extract.py for the first write; the Monday turn writes the machine fields from 7-2 and people write the editorial fields by hand",
   "rules_version": "hooks-config@4402e2a7 · claims-list@daffab0b · reader@138f4b17",
   "footer": "Kenetik Creator Hub · Hook performance from our TikTok Shop and Meta ad campaigns, measured on each video's spoken opening line. Refreshed weekly. Figures are past performance and not a guarantee of what any individual video will earn.",
@@ -7583,7 +7583,7 @@
         },
         {
           "block": "stamp",
-          "text": "Updated 11 September 2026",
+          "text": "Updated 18 September 2026",
           "note": "· refreshed weekly"
         },
         {
@@ -7674,9 +7674,9 @@
                   "image": "https://database.euka.ai/storage/v1/object/public/creator_videos_photos/7674092193027493151.webp",
                   "image_alt": "Creator video",
                   "tag": "A real deadline",
-                  "quote": "“If these sell out as quick as the last ones did, you might not even get them.”",
+                  "quote": "“If these sell out anywhere as quick as these did, you might not even get these before you see this video.”",
                   "handle": "@thededicateddad",
-                  "figure": "$547"
+                  "figure": "$608"
                 },
                 {
                   "url": "https://www.tiktok.com/@kenetik/video/7673198140786363661",
@@ -11468,7 +11468,7 @@
       },
       {
         "block": "stamp",
-        "text": "Updated 11 September 2026",
+        "text": "Updated 18 September 2026",
         "note": "· rolling 90-day window"
       },
       {
@@ -11490,16 +11490,16 @@
             "tag": "Says exactly what you get",
             "quote": "“Not six, not twelve. You get 24.”",
             "handle": "@healthy.lifestyle.vibe",
-            "figure": "$831"
+            "figure": "$951"
           },
           {
             "url": "https://www.tiktok.com/@be.lush/video/7581321236278562062",
             "image": "https://database.euka.ai/storage/v1/object/public/creator_videos_photos/7581321236278562062.webp",
             "image_alt": "Creator video",
             "tag": "The switch",
-            "quote": "“If you’ve been wanting to get off the caffeine and on the ketones, now’s the time.”",
+            "quote": "“If you’ve been wanting to get off the caffeine and on the ketones, now’s the time to do it.”",
             "handle": "@be.lush",
-            "figure": "$340"
+            "figure": "$305"
           },
           {
             "url": "https://www.tiktok.com/@.outdoorsdad/video/7678176777495153951",

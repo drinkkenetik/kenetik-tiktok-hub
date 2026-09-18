@@ -1,6 +1,6 @@
 {
   "_comment": "Creator Hub live data, the store for tiktok.drinkkenetik.com. It lives in kenetik-growth-system at data/creator-flywheel/creator-hub.json and is mirrored to this repo by .github/workflows/hooks-hub-publish.yml; never edit the copy in the hub repo. The figures on each featured video (primary, secondary, age) and the updated date are written by the Monday turn from what sold; the roster changes only when Nick approves a change on the console. Every other field is editorial and hand-edited, in the growth system, by the people whose words they are.",
-  "updated": "September 16, 2026",
+  "updated": "September 18, 2026",
   "heroHeadline": "Everyone needs brain fuel. Help us put it on the map.",
   "heroGmv": "~$465K in TikTok Shop GMV and counting. The #1 brain fuel brand on TikTok Shop.",
   "discordUrl": "https://discord.com/invite/MXf39eMgTY",
@@ -257,7 +257,7 @@
       "note": "Scarcity that is actually true, on the newest flavor.",
       "rank": "5",
       "age": "5 weeks ago",
-      "why": "Scarcity works here because it is true. Golden Pear really did sell out in four weeks, so the urgency is a fact rather than a sales line. Vague urgency returns about a fifth of this.",
+      "why": "Scarcity works here because it is true. Golden Pear really did sell out in four weeks, so the urgency is a fact rather than a sales line.",
       "hook": "If these sell out anywhere as quick as these did, you might not even get these before you see this video.",
       "sellingPoints": [
         "Metabolic brain fuel, caffeine-free.",
@@ -364,7 +364,7 @@
   "dos": [
     "Say “brain fuel” at least once in every video, non-negotiable. It's the category we're building together, so plant it every time. Say it your way: “brain fuel,” “metabolic brain fuel,” “brain fuel drink,” or “fuel for your brain.”",
     "Win the first 2 seconds. The hook is the whole game.",
-    "Say “tap the orange cart” out loud before you finish. Videos that say it convert at 43% against about 10% for everything else, and almost nobody does it.",
+    "Say “shop now” out loud before you finish. Saying your close rather than only putting it on screen is one of the strongest signals we have, and it is the one phrase that still works when your video re-runs as an ad.",
     "Lead with what Kenetik IS and the problem it solves, brain fuel for the foggy, crash-at-2pm afternoon. Never lead with what it's not.",
     "Convert through story and shared experience, not a discount. We're premium.",
     "Keep it raw and real. One take, your voice. Polished reads like an ad and kills it.",
@@ -487,13 +487,6 @@
       "found_on": "2026-09-16",
       "text": "@be.lush leaned into the taste, and that honest first-sip reaction drove $9,430 in real TikTok Shop revenue.",
       "detail": "carries '$9,430 in re'; the public hub shows counts and multiples about money, and the only dollar figures on it are the revenue chip on a featured video and the GMV headline"
-    },
-    {
-      "where": "dos[2]",
-      "rule": "cart_language",
-      "found_on": "2026-09-16",
-      "text": "Say “tap the orange cart” out loud before you finish. Videos that say it convert at 43% against about 10% for everything else, and almost nobody does it.",
-      "detail": "names \"cart\", and the close we use out loud is \"shop now\", because a winning clip re-runs as an ad where there is no cart"
     },
     {
       "where": "teardowns[0].gmv",
