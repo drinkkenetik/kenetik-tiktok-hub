@@ -7513,6 +7513,62 @@
         "broken": [],
         "carries_claim": false
       }
+    },
+    "h-0269": {
+      "hook_id": "h-0269",
+      "text": "So I've run some numbers on Kenetik. It replaces my $6 energy drink, replaces my 2 cups of coffee in the morning, and actually gives me the focus that I paid fo",
+      "source": {
+        "kind": "quoted",
+        "creator": "7494533211920566194",
+        "euka_video_id": "7684367075699166495",
+        "video_url": "https://www.tiktok.com/@healthy.lifestyle.vibe/video/7684367075699166495",
+        "verified_against": "transcript",
+        "verified_on": "2026-09-20",
+        "convention": "a line a creator said, read off their own transcript rather than the caption under the video",
+        "how": "quoted from a video that sold inside the proof window"
+      },
+      "proof": {
+        "videos_made": "UNKNOWN",
+        "converting_videos": "UNKNOWN",
+        "distinct_creators": "UNKNOWN",
+        "revenue_usd": "UNKNOWN",
+        "as_of": "2026-09-20",
+        "how": "no video has been read against this line yet"
+      },
+      "rules": {
+        "checked_on": "2026-09-20",
+        "passed": true,
+        "broken": [],
+        "carries_claim": false
+      }
+    },
+    "h-0270": {
+      "hook_id": "h-0270",
+      "text": "Tired of feeling scattered by 2 or 3 o'clock in the afternoon? For me, that's usually when my brain starts to shut down and I check out. So I reach for Kenetik",
+      "source": {
+        "kind": "quoted",
+        "creator": "7496093747417025089",
+        "euka_video_id": "7685520510037413133",
+        "video_url": "https://www.tiktok.com/@unstablegenius64/video/7685520510037413133",
+        "verified_against": "transcript",
+        "verified_on": "2026-09-20",
+        "convention": "a line a creator said, read off their own transcript rather than the caption under the video",
+        "how": "quoted from a video that sold inside the proof window"
+      },
+      "proof": {
+        "videos_made": "UNKNOWN",
+        "converting_videos": "UNKNOWN",
+        "distinct_creators": "UNKNOWN",
+        "revenue_usd": "UNKNOWN",
+        "as_of": "2026-09-20",
+        "how": "no video has been read against this line yet"
+      },
+      "rules": {
+        "checked_on": "2026-09-20",
+        "passed": true,
+        "broken": [],
+        "carries_claim": false
+      }
     }
   },
   "tabs": [
@@ -10725,7 +10781,106 @@
       ]
     }
   ],
-  "changes_pending": [],
+  "changes_pending": [
+    {
+      "kind": "hook_swap",
+      "tab": "top-3",
+      "in": "h-0269",
+      "out": "h-0009",
+      "owner": "nick",
+      "since": "2026-09-20",
+      "evidence": {
+        "in": {
+          "text": "So I've run some numbers on Kenetik. It replaces my $6 energy drink, replaces my 2 cups of coffee in the morning, and actually gives me the focus that I paid fo",
+          "source": {
+            "kind": "quoted",
+            "creator": "7494533211920566194",
+            "euka_video_id": "7684367075699166495",
+            "video_url": "https://www.tiktok.com/@healthy.lifestyle.vibe/video/7684367075699166495",
+            "verified_against": "transcript",
+            "verified_on": "2026-09-20",
+            "convention": "a line a creator said, read off their own transcript rather than the caption under the video",
+            "how": "quoted from a video that sold inside the proof window"
+          },
+          "proof": {
+            "converting_videos": 3,
+            "creators": 1,
+            "revenue_usd": 111.77,
+            "window": {
+              "start": "2026-08-24",
+              "end": "2026-09-20"
+            }
+          },
+          "rules": {
+            "passed": true,
+            "broken": [],
+            "carries_claim": false,
+            "how": "This line breaks no rule.",
+            "checked_on": "2026-09-20"
+          }
+        },
+        "out": {
+          "text": "“I have tried all of them. This is the one I keep going back to.”",
+          "proof": {
+            "converting_videos": "UNKNOWN"
+          },
+          "why": "no video has been read against it yet, and an unread line is the weakest a tab has",
+          "position": 8
+        },
+        "verified": "transcript",
+        "how": "A creator said this line on 3 videos that sold between 2026-08-24 and 2026-09-20, and no line on the hub matched it. It would take the place of the weakest line on this tab, which is there because no video has been read against it yet, and an unread line is the weakest a tab has."
+      }
+    },
+    {
+      "kind": "hook_swap",
+      "tab": "general",
+      "in": "h-0270",
+      "out": "h-0019",
+      "owner": "nick",
+      "since": "2026-09-20",
+      "evidence": {
+        "in": {
+          "text": "Tired of feeling scattered by 2 or 3 o'clock in the afternoon? For me, that's usually when my brain starts to shut down and I check out. So I reach for Kenetik",
+          "source": {
+            "kind": "quoted",
+            "creator": "7496093747417025089",
+            "euka_video_id": "7685520510037413133",
+            "video_url": "https://www.tiktok.com/@unstablegenius64/video/7685520510037413133",
+            "verified_against": "transcript",
+            "verified_on": "2026-09-20",
+            "convention": "a line a creator said, read off their own transcript rather than the caption under the video",
+            "how": "quoted from a video that sold inside the proof window"
+          },
+          "proof": {
+            "converting_videos": 1,
+            "creators": 1,
+            "revenue_usd": 59.88,
+            "window": {
+              "start": "2026-08-24",
+              "end": "2026-09-20"
+            }
+          },
+          "rules": {
+            "passed": true,
+            "broken": [],
+            "carries_claim": false,
+            "how": "This line breaks no rule.",
+            "checked_on": "2026-09-20"
+          }
+        },
+        "out": {
+          "text": "“You know that feeling where the word is right there but your brain will not grab it?”",
+          "proof": {
+            "converting_videos": "UNKNOWN"
+          },
+          "why": "no video has been read against it yet, and an unread line is the weakest a tab has",
+          "position": 9
+        },
+        "verified": "transcript",
+        "how": "A creator said this line on one video that sold between 2026-08-24 and 2026-09-20, and no line on the hub matched it. It would take the place of the weakest line on this tab, which is there because no video has been read against it yet, and an unread line is the weakest a tab has."
+      }
+    }
+  ],
   "decisions": [],
   "grandfathered": [
     {
