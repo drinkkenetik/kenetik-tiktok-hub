@@ -7528,12 +7528,12 @@
         "how": "quoted from a video that sold inside the proof window"
       },
       "proof": {
-        "videos_made": "UNKNOWN",
-        "converting_videos": "UNKNOWN",
-        "distinct_creators": "UNKNOWN",
-        "revenue_usd": "UNKNOWN",
-        "as_of": "2026-09-20",
-        "how": "no video has been read against this line yet"
+        "videos_made": 7,
+        "converting_videos": 3,
+        "distinct_creators": 1,
+        "revenue_usd": 111.77,
+        "as_of": "2026-09-21",
+        "how": "Counted from the videos whose spoken opening matched this line and were posted between 2026-08-25 and 2026-09-21. One creator so far."
       },
       "rules": {
         "checked_on": "2026-09-20",
@@ -7556,12 +7556,12 @@
         "how": "quoted from a video that sold inside the proof window"
       },
       "proof": {
-        "videos_made": "UNKNOWN",
-        "converting_videos": "UNKNOWN",
-        "distinct_creators": "UNKNOWN",
-        "revenue_usd": "UNKNOWN",
-        "as_of": "2026-09-20",
-        "how": "no video has been read against this line yet"
+        "videos_made": 9,
+        "converting_videos": 1,
+        "distinct_creators": 1,
+        "revenue_usd": 59.88,
+        "as_of": "2026-09-21",
+        "how": "Counted from the videos whose spoken opening matched this line and were posted between 2026-08-25 and 2026-09-21. One creator so far."
       },
       "rules": {
         "checked_on": "2026-09-20",
