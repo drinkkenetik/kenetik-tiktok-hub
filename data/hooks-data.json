@@ -7585,11 +7585,11 @@
       },
       "proof": {
         "videos_made": "UNKNOWN",
-        "converting_videos": 6,
-        "distinct_creators": 1,
-        "revenue_usd": 11246.74,
-        "as_of": "2026-09-23",
-        "how": "read from the flywheel winners, the videos that returned money in the window 2026-07-04 to 2026-09-16: TikTok Shop GMV attributed to the video plus the Meta conversion value on the ad that carries it."
+        "converting_videos": "UNKNOWN",
+        "distinct_creators": "UNKNOWN",
+        "revenue_usd": "UNKNOWN",
+        "as_of": "2026-09-22",
+        "how": "no video has been read against this line yet"
       },
       "rules": {
         "checked_on": "2026-09-23",
@@ -7613,11 +7613,11 @@
       },
       "proof": {
         "videos_made": "UNKNOWN",
-        "converting_videos": 1,
-        "distinct_creators": 1,
-        "revenue_usd": 807.44,
-        "as_of": "2026-09-23",
-        "how": "read from the flywheel winners, the videos that returned money in the window 2026-07-04 to 2026-09-16: TikTok Shop GMV attributed to the video plus the Meta conversion value on the ad that carries it."
+        "converting_videos": "UNKNOWN",
+        "distinct_creators": "UNKNOWN",
+        "revenue_usd": "UNKNOWN",
+        "as_of": "2026-09-22",
+        "how": "no video has been read against this line yet"
       },
       "rules": {
         "checked_on": "2026-09-23",
@@ -7641,11 +7641,11 @@
       },
       "proof": {
         "videos_made": "UNKNOWN",
-        "converting_videos": 1,
-        "distinct_creators": 1,
-        "revenue_usd": 399.78,
-        "as_of": "2026-09-23",
-        "how": "read from the flywheel winners, the videos that returned money in the window 2026-07-04 to 2026-09-16: TikTok Shop GMV attributed to the video plus the Meta conversion value on the ad that carries it."
+        "converting_videos": "UNKNOWN",
+        "distinct_creators": "UNKNOWN",
+        "revenue_usd": "UNKNOWN",
+        "as_of": "2026-09-22",
+        "how": "no video has been read against this line yet"
       },
       "rules": {
         "checked_on": "2026-09-23",
@@ -7668,12 +7668,12 @@
         "how": "a creator said this line on camera in THIS video; taken from the video's own transcript in the Euka video record (its opening line), lightly trimmed and punctuated, the brand name spelled correctly where the transcript mis-heard it"
       },
       "proof": {
-        "videos_made": "UNKNOWN",
+        "videos_made": 1,
         "converting_videos": 1,
         "distinct_creators": 1,
         "revenue_usd": 167.35,
-        "as_of": "2026-09-23",
-        "how": "read from the flywheel winners, the videos that returned money in the window 2026-07-04 to 2026-09-16: TikTok Shop GMV attributed to the video plus the Meta conversion value on the ad that carries it."
+        "as_of": "2026-09-22",
+        "how": "Counted from the videos whose spoken opening matched this line and were posted between 2026-08-26 and 2026-09-22. One creator so far."
       },
       "rules": {
         "checked_on": "2026-09-23",
@@ -7697,11 +7697,11 @@
       },
       "proof": {
         "videos_made": "UNKNOWN",
-        "converting_videos": 1,
-        "distinct_creators": 1,
-        "revenue_usd": 157.12,
-        "as_of": "2026-09-23",
-        "how": "read from the flywheel winners, the videos that returned money in the window 2026-07-04 to 2026-09-16: TikTok Shop GMV attributed to the video plus the Meta conversion value on the ad that carries it."
+        "converting_videos": "UNKNOWN",
+        "distinct_creators": "UNKNOWN",
+        "revenue_usd": "UNKNOWN",
+        "as_of": "2026-09-22",
+        "how": "no video has been read against this line yet"
       },
       "rules": {
         "checked_on": "2026-09-23",
@@ -7725,11 +7725,11 @@
       },
       "proof": {
         "videos_made": "UNKNOWN",
-        "converting_videos": 1,
-        "distinct_creators": 1,
-        "revenue_usd": 98.2,
-        "as_of": "2026-09-23",
-        "how": "read from the flywheel winners, the videos that returned money in the window 2026-07-04 to 2026-09-16: TikTok Shop GMV attributed to the video plus the Meta conversion value on the ad that carries it."
+        "converting_videos": "UNKNOWN",
+        "distinct_creators": "UNKNOWN",
+        "revenue_usd": "UNKNOWN",
+        "as_of": "2026-09-22",
+        "how": "no video has been read against this line yet"
       },
       "rules": {
         "checked_on": "2026-09-23",
@@ -7753,11 +7753,11 @@
       },
       "proof": {
         "videos_made": "UNKNOWN",
-        "converting_videos": 1,
-        "distinct_creators": 1,
-        "revenue_usd": 59.88,
-        "as_of": "2026-09-23",
-        "how": "read from the flywheel winners, the videos that returned money in the window 2026-07-04 to 2026-09-16: TikTok Shop GMV attributed to the video plus the Meta conversion value on the ad that carries it."
+        "converting_videos": "UNKNOWN",
+        "distinct_creators": "UNKNOWN",
+        "revenue_usd": "UNKNOWN",
+        "as_of": "2026-09-22",
+        "how": "no video has been read against this line yet"
       },
       "rules": {
         "checked_on": "2026-09-23",
@@ -7781,11 +7781,11 @@
       },
       "proof": {
         "videos_made": "UNKNOWN",
-        "converting_videos": 1,
-        "distinct_creators": 1,
-        "revenue_usd": 50.9,
-        "as_of": "2026-09-23",
-        "how": "read from the flywheel winners, the videos that returned money in the window 2026-07-04 to 2026-09-16: TikTok Shop GMV attributed to the video plus the Meta conversion value on the ad that carries it."
+        "converting_videos": "UNKNOWN",
+        "distinct_creators": "UNKNOWN",
+        "revenue_usd": "UNKNOWN",
+        "as_of": "2026-09-22",
+        "how": "no video has been read against this line yet"
       },
       "rules": {
         "checked_on": "2026-09-23",
@@ -7808,12 +7808,12 @@
         "how": "a creator said this line on camera in THIS video; taken from the video's own transcript in the Euka video record (its opening line), lightly trimmed and punctuated, the brand name spelled correctly where the transcript mis-heard it"
       },
       "proof": {
-        "videos_made": "UNKNOWN",
+        "videos_made": 1,
         "converting_videos": 1,
         "distinct_creators": 1,
         "revenue_usd": 50.89,
-        "as_of": "2026-09-23",
-        "how": "read from the flywheel winners, the videos that returned money in the window 2026-07-04 to 2026-09-16: TikTok Shop GMV attributed to the video plus the Meta conversion value on the ad that carries it."
+        "as_of": "2026-09-22",
+        "how": "Counted from the videos whose spoken opening matched this line and were posted between 2026-08-26 and 2026-09-22. One creator so far."
       },
       "rules": {
         "checked_on": "2026-09-23",
@@ -7837,11 +7837,11 @@
       },
       "proof": {
         "videos_made": "UNKNOWN",
-        "converting_videos": 1,
-        "distinct_creators": 1,
-        "revenue_usd": 34.93,
-        "as_of": "2026-09-23",
-        "how": "read from the flywheel winners, the videos that returned money in the window 2026-07-04 to 2026-09-16: TikTok Shop GMV attributed to the video plus the Meta conversion value on the ad that carries it."
+        "converting_videos": "UNKNOWN",
+        "distinct_creators": "UNKNOWN",
+        "revenue_usd": "UNKNOWN",
+        "as_of": "2026-09-22",
+        "how": "no video has been read against this line yet"
       },
       "rules": {
         "checked_on": "2026-09-23",
@@ -7864,12 +7864,12 @@
         "how": "a creator said this line on camera; taken from the video's TRYBE transcript and lightly cleaned where the transcript ran on or cut off mid word"
       },
       "proof": {
-        "videos_made": "UNKNOWN",
-        "converting_videos": 5,
-        "distinct_creators": 1,
-        "revenue_usd": 905.09,
-        "as_of": "2026-09-23",
-        "how": "read from the flywheel winners, the videos that returned money in the window 2026-07-04 to 2026-09-16: TikTok Shop GMV attributed to the video plus the Meta conversion value on the ad that carries it."
+        "videos_made": 8,
+        "converting_videos": 0,
+        "distinct_creators": 0,
+        "revenue_usd": 0.0,
+        "as_of": "2026-09-22",
+        "how": "Counted from the videos whose spoken opening matched this line and were posted between 2026-08-26 and 2026-09-22."
       },
       "rules": {
         "checked_on": "2026-09-23",
@@ -7892,12 +7892,12 @@
         "how": "a creator said this line on camera; taken from the video's TRYBE transcript and lightly cleaned where the transcript ran on or cut off mid word"
       },
       "proof": {
-        "videos_made": "UNKNOWN",
-        "converting_videos": 1,
-        "distinct_creators": 1,
-        "revenue_usd": 50.89,
-        "as_of": "2026-09-23",
-        "how": "read from the flywheel winners, the videos that returned money in the window 2026-07-04 to 2026-09-16: TikTok Shop GMV attributed to the video plus the Meta conversion value on the ad that carries it."
+        "videos_made": 2,
+        "converting_videos": 0,
+        "distinct_creators": 0,
+        "revenue_usd": 0.0,
+        "as_of": "2026-09-22",
+        "how": "Counted from the videos whose spoken opening matched this line and were posted between 2026-08-26 and 2026-09-22."
       },
       "rules": {
         "checked_on": "2026-09-23",
@@ -7921,11 +7921,11 @@
       },
       "proof": {
         "videos_made": "UNKNOWN",
-        "converting_videos": 1,
-        "distinct_creators": 1,
-        "revenue_usd": 157.12,
-        "as_of": "2026-09-23",
-        "how": "read from the flywheel winners, the videos that returned money in the window 2026-07-04 to 2026-09-16: TikTok Shop GMV attributed to the video plus the Meta conversion value on the ad that carries it."
+        "converting_videos": "UNKNOWN",
+        "distinct_creators": "UNKNOWN",
+        "revenue_usd": "UNKNOWN",
+        "as_of": "2026-09-22",
+        "how": "no video has been read against this line yet"
       },
       "rules": {
         "checked_on": "2026-09-23",
