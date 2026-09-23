@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "updated": "2026-09-18",
+  "updated": "2026-09-23",
   "written_by": "scripts/hooks_hub_extract.py for the first write; the Monday turn writes the machine fields from 7-2 and people write the editorial fields by hand",
   "rules_version": "hooks-config@4402e2a7 · claims-list@daffab0b · reader@138f4b17",
   "footer": "Kenetik Creator Hub · Hook performance from our TikTok Shop and Meta ad campaigns, measured on each video's spoken opening line. Refreshed weekly. Figures are past performance and not a guarantee of what any individual video will earn.",
@@ -7569,6 +7569,286 @@
         "broken": [],
         "carries_claim": false
       }
+    },
+    "h-0271": {
+      "hook_id": "h-0271",
+      "text": "“So I’ve run some numbers on Kenetik. It replaces my $6 energy drink, and it replaces my 2 cups of coffee in the morning.”",
+      "angle": "The switch, counted out loud: two things you already pay for, named, and one thing standing in for both.",
+      "source": {
+        "kind": "quoted",
+        "creator": "@healthy.lifestyle.vibe",
+        "video_url": "https://www.tiktok.com/@healthy.lifestyle.vibe/video/7665560221292465439",
+        "euka_video_id": "7665560221292465439",
+        "link_label": "► watch @healthy.lifestyle.vibe",
+        "convention": "an a.hsrc link in the hook's meta line naming the creator's handle and linking their TikTok video — the page's own mark for a line a creator said",
+        "how": "a creator said this line on camera; taken from the video's TRYBE transcript and lightly trimmed where the transcript cut off mid word"
+      },
+      "proof": {
+        "videos_made": "UNKNOWN",
+        "converting_videos": 6,
+        "distinct_creators": 1,
+        "revenue_usd": 11246.74,
+        "as_of": "2026-09-23",
+        "how": "read from the flywheel winners, the videos that returned money in the window 2026-07-04 to 2026-09-16: TikTok Shop GMV attributed to the video plus the Meta conversion value on the ad that carries it."
+      },
+      "rules": {
+        "checked_on": "2026-09-23",
+        "passed": true,
+        "broken": [],
+        "carries_claim": false
+      }
+    },
+    "h-0272": {
+      "hook_id": "h-0272",
+      "text": "“These are not energy drinks. They’re brain fuel. They don’t have caffeine. They have ketones.”",
+      "angle": "Four short lines that say what it is not, then what it is, before anyone can argue.",
+      "source": {
+        "kind": "quoted",
+        "creator": "@thededicateddad",
+        "video_url": "https://www.tiktok.com/@thededicateddad/video/7674092193027493151",
+        "euka_video_id": "7674092193027493151",
+        "link_label": "► watch @thededicateddad",
+        "convention": "an a.hsrc link in the hook's meta line naming the creator's handle and linking their TikTok video — the page's own mark for a line a creator said",
+        "how": "a creator said this line on camera; taken from the video's TRYBE transcript and lightly trimmed where the transcript cut off mid word"
+      },
+      "proof": {
+        "videos_made": "UNKNOWN",
+        "converting_videos": 3,
+        "distinct_creators": 1,
+        "revenue_usd": 1009.06,
+        "as_of": "2026-09-23",
+        "how": "read from the flywheel winners, the videos that returned money in the window 2026-07-04 to 2026-09-16: TikTok Shop GMV attributed to the video plus the Meta conversion value on the ad that carries it."
+      },
+      "rules": {
+        "checked_on": "2026-09-23",
+        "passed": true,
+        "broken": [],
+        "carries_claim": false
+      }
+    },
+    "h-0273": {
+      "hook_id": "h-0273",
+      "text": "“So it’s really early, we’re getting ready for the day, and my body doesn’t want caffeine, it wants brain fuel.”",
+      "angle": "A real morning, filmed in it, with the want stated as the body’s rather than the brand’s.",
+      "source": {
+        "kind": "quoted",
+        "creator": "@roidragetts",
+        "video_url": "https://www.tiktok.com/@roidragetts/video/7667507988827016462",
+        "euka_video_id": "7667507988827016462",
+        "link_label": "► watch @roidragetts",
+        "convention": "an a.hsrc link in the hook's meta line naming the creator's handle and linking their TikTok video — the page's own mark for a line a creator said",
+        "how": "a creator said this line on camera; taken from the video's TRYBE transcript and lightly trimmed where the transcript cut off mid word"
+      },
+      "proof": {
+        "videos_made": "UNKNOWN",
+        "converting_videos": 5,
+        "distinct_creators": 1,
+        "revenue_usd": 905.09,
+        "as_of": "2026-09-23",
+        "how": "read from the flywheel winners, the videos that returned money in the window 2026-07-04 to 2026-09-16: TikTok Shop GMV attributed to the video plus the Meta conversion value on the ad that carries it."
+      },
+      "rules": {
+        "checked_on": "2026-09-23",
+        "passed": true,
+        "broken": [],
+        "carries_claim": false
+      }
+    },
+    "h-0274": {
+      "hook_id": "h-0274",
+      "text": "“Once you understand how ketones work, regular energy drinks start looking a little outdated.”",
+      "angle": "Curiosity first, comparison second, so the viewer arrives at the verdict instead of being handed it.",
+      "source": {
+        "kind": "quoted",
+        "creator": "@lifefueltv",
+        "video_url": "https://www.tiktok.com/@lifefueltv/video/7665147180268735775",
+        "euka_video_id": "7665147180268735775",
+        "link_label": "► watch @lifefueltv",
+        "convention": "an a.hsrc link in the hook's meta line naming the creator's handle and linking their TikTok video — the page's own mark for a line a creator said",
+        "how": "the creator's own line from the post copy on this video, not a transcript read; hashtags removed"
+      },
+      "proof": {
+        "videos_made": "UNKNOWN",
+        "converting_videos": 1,
+        "distinct_creators": 1,
+        "revenue_usd": 157.12,
+        "as_of": "2026-09-23",
+        "how": "read from the flywheel winners, the videos that returned money in the window 2026-07-04 to 2026-09-16: TikTok Shop GMV attributed to the video plus the Meta conversion value on the ad that carries it."
+      },
+      "rules": {
+        "checked_on": "2026-09-23",
+        "passed": true,
+        "broken": [],
+        "carries_claim": false
+      }
+    },
+    "h-0275": {
+      "hook_id": "h-0275",
+      "text": "“This is how I stay sharp all afternoon as someone who genuinely cannot do caffeine.”",
+      "angle": "Opens on the person it is for, which lets everyone who cannot do caffeine recognise themselves in the first second.",
+      "source": {
+        "kind": "quoted",
+        "creator": "@ash_lee0528",
+        "video_url": "https://www.tiktok.com/@ash_lee0528/video/7659539458366131469",
+        "euka_video_id": "7659539458366131469",
+        "link_label": "► watch @ash_lee0528",
+        "convention": "an a.hsrc link in the hook's meta line naming the creator's handle and linking their TikTok video — the page's own mark for a line a creator said",
+        "how": "a creator said this line on camera; taken from the video's TRYBE transcript and lightly trimmed where the transcript cut off mid word"
+      },
+      "proof": {
+        "videos_made": "UNKNOWN",
+        "converting_videos": 1,
+        "distinct_creators": 1,
+        "revenue_usd": 98.2,
+        "as_of": "2026-09-23",
+        "how": "read from the flywheel winners, the videos that returned money in the window 2026-07-04 to 2026-09-16: TikTok Shop GMV attributed to the video plus the Meta conversion value on the ad that carries it."
+      },
+      "rules": {
+        "checked_on": "2026-09-23",
+        "passed": true,
+        "broken": [],
+        "carries_claim": false
+      }
+    },
+    "h-0276": {
+      "hook_id": "h-0276",
+      "text": "“Roman Atwood just came out with his brand new caffeine-free drink brand called Kenetik.”",
+      "angle": "A name people already know doing the introducing, in plain news-flash phrasing.",
+      "source": {
+        "kind": "quoted",
+        "creator": "@shawnsfinds_",
+        "video_url": "https://www.tiktok.com/@shawnsfinds_/video/7678039004167687455",
+        "euka_video_id": "7678039004167687455",
+        "link_label": "► watch @shawnsfinds_",
+        "convention": "an a.hsrc link in the hook's meta line naming the creator's handle and linking their TikTok video — the page's own mark for a line a creator said",
+        "how": "a creator said this line on camera; taken from the video's TRYBE transcript and lightly trimmed where the transcript cut off mid word"
+      },
+      "proof": {
+        "videos_made": "UNKNOWN",
+        "converting_videos": 1,
+        "distinct_creators": 1,
+        "revenue_usd": 82.84,
+        "as_of": "2026-09-23",
+        "how": "read from the flywheel winners, the videos that returned money in the window 2026-07-04 to 2026-09-16: TikTok Shop GMV attributed to the video plus the Meta conversion value on the ad that carries it."
+      },
+      "rules": {
+        "checked_on": "2026-09-23",
+        "passed": true,
+        "broken": [],
+        "carries_claim": false
+      }
+    },
+    "h-0277": {
+      "hook_id": "h-0277",
+      "text": "“Tired of feeling scattered by 2 or 3 o’clock in the afternoon? For me, that’s usually when my brain starts to shut down and I check out.”",
+      "angle": "Names the exact hour of the problem, then answers it with the creator’s own experience of it.",
+      "source": {
+        "kind": "quoted",
+        "creator": "@unstablegenius64",
+        "video_url": "https://www.tiktok.com/@unstablegenius64/video/7675112056219077901",
+        "euka_video_id": "7675112056219077901",
+        "link_label": "► watch @unstablegenius64",
+        "convention": "an a.hsrc link in the hook's meta line naming the creator's handle and linking their TikTok video — the page's own mark for a line a creator said",
+        "how": "a creator said this line on camera; taken from the video's TRYBE transcript and lightly trimmed where the transcript cut off mid word"
+      },
+      "proof": {
+        "videos_made": "UNKNOWN",
+        "converting_videos": 3,
+        "distinct_creators": 1,
+        "revenue_usd": 151.7,
+        "as_of": "2026-09-23",
+        "how": "read from the flywheel winners, the videos that returned money in the window 2026-07-04 to 2026-09-16: TikTok Shop GMV attributed to the video plus the Meta conversion value on the ad that carries it."
+      },
+      "rules": {
+        "checked_on": "2026-09-23",
+        "passed": true,
+        "broken": [],
+        "carries_claim": false
+      }
+    },
+    "h-0278": {
+      "hook_id": "h-0278",
+      "text": "“I’m your standard energy drink. I have so many ingredients and you’re going to crash by noon because of the caffeine. I’m Kenetik. I’m not an energy drink.”",
+      "angle": "A two-character skit, so the contrast is played rather than argued.",
+      "source": {
+        "kind": "quoted",
+        "creator": "@doortrashdadshop",
+        "video_url": "https://www.tiktok.com/@doortrashdadshop/video/7677606012035009822",
+        "euka_video_id": "7677606012035009822",
+        "link_label": "► watch @doortrashdadshop",
+        "convention": "an a.hsrc link in the hook's meta line naming the creator's handle and linking their TikTok video — the page's own mark for a line a creator said",
+        "how": "a creator said this line on camera; taken from the video's TRYBE transcript and lightly trimmed where the transcript cut off mid word"
+      },
+      "proof": {
+        "videos_made": "UNKNOWN",
+        "converting_videos": 1,
+        "distinct_creators": 1,
+        "revenue_usd": 50.9,
+        "as_of": "2026-09-23",
+        "how": "read from the flywheel winners, the videos that returned money in the window 2026-07-04 to 2026-09-16: TikTok Shop GMV attributed to the video plus the Meta conversion value on the ad that carries it."
+      },
+      "rules": {
+        "checked_on": "2026-09-23",
+        "passed": true,
+        "broken": [],
+        "carries_claim": false
+      }
+    },
+    "h-0279": {
+      "hook_id": "h-0279",
+      "text": "“I didn’t quit energy drinks, I quit borrowing energy I had to pay back at 2pm. You see, caffeine is like a loan and the crash in the afternoon is the interest.”",
+      "angle": "One image, the loan, that explains the whole afternoon in a sentence anybody can repeat.",
+      "source": {
+        "kind": "quoted",
+        "creator": "@jeremyreviews",
+        "video_url": "https://www.tiktok.com/@jeremyreviews/video/7679663634837966110",
+        "euka_video_id": "7679663634837966110",
+        "link_label": "► watch @jeremyreviews",
+        "convention": "an a.hsrc link in the hook's meta line naming the creator's handle and linking their TikTok video — the page's own mark for a line a creator said",
+        "how": "a creator said this line on camera; taken from the video's TRYBE transcript and lightly trimmed where the transcript cut off mid word"
+      },
+      "proof": {
+        "videos_made": "UNKNOWN",
+        "converting_videos": 1,
+        "distinct_creators": 1,
+        "revenue_usd": 50.89,
+        "as_of": "2026-09-23",
+        "how": "read from the flywheel winners, the videos that returned money in the window 2026-07-04 to 2026-09-16: TikTok Shop GMV attributed to the video plus the Meta conversion value on the ad that carries it."
+      },
+      "rules": {
+        "checked_on": "2026-09-23",
+        "passed": true,
+        "broken": [],
+        "carries_claim": false
+      }
+    },
+    "h-0280": {
+      "hook_id": "h-0280",
+      "text": "“If you hand your brain this and this, it actually prefers this.”",
+      "angle": "Hands in frame, nothing to read, and the whole thing lands before a thumb can move.",
+      "source": {
+        "kind": "quoted",
+        "creator": "@pnwdad206",
+        "video_url": "https://www.tiktok.com/@pnwdad206/video/7672856549383032095",
+        "euka_video_id": "7672856549383032095",
+        "link_label": "► watch @pnwdad206",
+        "convention": "an a.hsrc link in the hook's meta line naming the creator's handle and linking their TikTok video — the page's own mark for a line a creator said",
+        "how": "a creator said this line on camera; taken from the video's TRYBE transcript and lightly trimmed where the transcript cut off mid word"
+      },
+      "proof": {
+        "videos_made": "UNKNOWN",
+        "converting_videos": 1,
+        "distinct_creators": 1,
+        "revenue_usd": 34.93,
+        "as_of": "2026-09-23",
+        "how": "read from the flywheel winners, the videos that returned money in the window 2026-07-04 to 2026-09-16: TikTok Shop GMV attributed to the video plus the Meta conversion value on the ad that carries it."
+      },
+      "rules": {
+        "checked_on": "2026-09-23",
+        "passed": true,
+        "broken": [],
+        "carries_claim": false
+      }
     }
   },
   "tabs": [
@@ -8105,9 +8385,167 @@
       ]
     },
     {
+      "slug": "top-10-now",
+      "label": "🔥 Top 10 Right Now",
+      "nav_order": 2,
+      "title": "The top 10 right now",
+      "sub": "These are the ten Kenetik videos that actually returned the most money over the last 90 days, with the line each one opened with.",
+      "hook_ids": [
+        "h-0271",
+        "h-0272",
+        "h-0273",
+        "h-0274",
+        "h-0275",
+        "h-0276",
+        "h-0277",
+        "h-0278",
+        "h-0279",
+        "h-0280"
+      ],
+      "angles": [],
+      "layout": [
+        {
+          "block": "heading"
+        },
+        {
+          "block": "sub"
+        },
+        {
+          "block": "stamp",
+          "text": "Updated 23 September 2026",
+          "note": "· refreshed weekly"
+        },
+        {
+          "block": "eyebrow",
+          "text": "What this list is"
+        },
+        {
+          "block": "northstar",
+          "text": "**Ranked on real revenue, not views.** Every number below is what the video actually returned: the TikTok Shop sales attributed to it **plus** what the same clip earned once we ran it as a paid ad. Nothing here is ranked on how it felt."
+        },
+        {
+          "block": "wins",
+          "items": [
+            {
+              "url": "https://www.tiktok.com/@healthy.lifestyle.vibe/video/7665560221292465439",
+              "image": "https://database.euka.ai/storage/v1/object/public/creator_videos_photos/7665560221292465439.webp",
+              "image_alt": "Creator video",
+              "tag": "The math out loud",
+              "quote": "“So I’ve run some numbers on Kenetik. It replaces my $6 energy drink, and it replaces my 2 cups of coffee in the morning.”",
+              "handle": "@healthy.lifestyle.vibe",
+              "figure": "$10,955"
+            },
+            {
+              "url": "https://www.tiktok.com/@thededicateddad/video/7674092193027493151",
+              "image": "https://database.euka.ai/storage/v1/object/public/creator_videos_photos/7674092193027493151.webp",
+              "image_alt": "Creator video",
+              "tag": "What it is not",
+              "quote": "“These are not energy drinks. They’re brain fuel. They don’t have caffeine. They have ketones.”",
+              "handle": "@thededicateddad",
+              "figure": "$807"
+            },
+            {
+              "url": "https://www.tiktok.com/@roidragetts/video/7667507988827016462",
+              "image": "https://database.euka.ai/storage/v1/object/public/creator_videos_photos/7667507988827016462.webp",
+              "image_alt": "Creator video",
+              "tag": "Early morning",
+              "quote": "“So it’s really early, we’re getting ready for the day, and my body doesn’t want caffeine, it wants brain fuel.”",
+              "handle": "@roidragetts",
+              "figure": "$400"
+            },
+            {
+              "url": "https://www.tiktok.com/@lifefueltv/video/7665147180268735775",
+              "image": "https://database.euka.ai/storage/v1/object/public/creator_videos_photos/7665147180268735775.webp",
+              "image_alt": "Creator video",
+              "tag": "Quiet comparison",
+              "quote": "“Once you understand how ketones work, regular energy drinks start looking a little outdated.”",
+              "handle": "@lifefueltv",
+              "figure": "$157"
+            },
+            {
+              "url": "https://www.tiktok.com/@ash_lee0528/video/7659539458366131469",
+              "image": "https://database.euka.ai/storage/v1/object/public/creator_videos_photos/7659539458366131469.webp",
+              "image_alt": "Creator video",
+              "tag": "Afternoon focus",
+              "quote": "“This is how I stay sharp all afternoon as someone who genuinely cannot do caffeine.”",
+              "handle": "@ash_lee0528",
+              "figure": "$98"
+            },
+            {
+              "url": "https://www.tiktok.com/@shawnsfinds_/video/7678039004167687455",
+              "image": "https://database.euka.ai/storage/v1/object/public/creator_videos_photos/7678039004167687455.webp",
+              "image_alt": "Creator video",
+              "tag": "Founder news",
+              "quote": "“Roman Atwood just came out with his brand new caffeine-free drink brand called Kenetik.”",
+              "handle": "@shawnsfinds_",
+              "figure": "$83"
+            },
+            {
+              "url": "https://www.tiktok.com/@unstablegenius64/video/7675112056219077901",
+              "image": "https://database.euka.ai/storage/v1/object/public/creator_videos_photos/7675112056219077901.webp",
+              "image_alt": "Creator video",
+              "tag": "The 3pm slump",
+              "quote": "“Tired of feeling scattered by 2 or 3 o’clock in the afternoon? For me, that’s usually when my brain starts to shut down and I check out.”",
+              "handle": "@unstablegenius64",
+              "figure": "$60"
+            },
+            {
+              "url": "https://www.tiktok.com/@doortrashdadshop/video/7677606012035009822",
+              "image": "https://database.euka.ai/storage/v1/object/public/creator_videos_photos/7677606012035009822.webp",
+              "image_alt": "Creator video",
+              "tag": "Two voices skit",
+              "quote": "“I’m your standard energy drink. I have so many ingredients and you’re going to crash by noon because of the caffeine. I’m Kenetik. I’m not an energy drink.”",
+              "handle": "@doortrashdadshop",
+              "figure": "$51"
+            },
+            {
+              "url": "https://www.tiktok.com/@jeremyreviews/video/7679663634837966110",
+              "image": "https://database.euka.ai/storage/v1/object/public/creator_videos_photos/7679663634837966110.webp",
+              "image_alt": "Creator video",
+              "tag": "The loan metaphor",
+              "quote": "“I didn’t quit energy drinks, I quit borrowing energy I had to pay back at 2pm. You see, caffeine is like a loan and the crash in the afternoon is the interest.”",
+              "handle": "@jeremyreviews",
+              "figure": "$51"
+            },
+            {
+              "url": "https://www.tiktok.com/@pnwdad206/video/7672856549383032095",
+              "image": "https://database.euka.ai/storage/v1/object/public/creator_videos_photos/7672856549383032095.webp",
+              "image_alt": "Creator video",
+              "tag": "Show, do not tell",
+              "quote": "“If you hand your brain this and this, it actually prefers this.”",
+              "handle": "@pnwdad206",
+              "figure": "$35"
+            }
+          ]
+        },
+        {
+          "block": "divider"
+        },
+        {
+          "block": "eyebrow",
+          "text": "The ten lines"
+        },
+        {
+          "block": "hooks",
+          "hook_ids": [
+            "h-0271",
+            "h-0272",
+            "h-0273",
+            "h-0274",
+            "h-0275",
+            "h-0276",
+            "h-0277",
+            "h-0278",
+            "h-0279",
+            "h-0280"
+          ]
+        }
+      ]
+    },
+    {
       "slug": "general",
       "label": "🎯 General — All Creators",
-      "nav_order": 2,
+      "nav_order": 3,
       "title": "TikTok hooks to test — problem-solving & brain health",
       "sub": "10 hooks to test · RANKED ON OUR OWN CONVERTING DATA",
       "audience": "**Lead with the customer's problem and brain health — not caffeine, not ketones.** Kenetik is metabolic brain fuel, the category we own. Ketones are the mechanism and the credibility; caffeine-free is the twist. Neither leads the hook. Every line below opens on the problem or outcome in the first two seconds, and borrows a proven structure from our cross-brand TikTok audits. The promise underneath all of it: clarity and focus on demand, your best hours, back.",
@@ -8225,7 +8663,7 @@
     {
       "slug": "flavor-drops",
       "label": "🆕 New Flavor Drops",
-      "nav_order": 3,
+      "nav_order": 4,
       "title": "TikTok hooks to test — new flavor drops",
       "sub": "10 hooks to test · NEW FLAVOR DROPS (any flavor)",
       "audience": "New flavor drops are a moment, so lead with the excitement and the taste, then let the scarcity do the work: Kenetik flavors sell out fast, and that urgency is real. Keep the brain-fuel core in frame so it never reads like just another flavored drink, it’s clean, caffeine-free focus that happens to taste incredible. These are written flavor-agnostic on purpose, so you can reuse them for any drop, this one or the next.",
@@ -8280,7 +8718,7 @@
     {
       "slug": "golden-pear",
       "label": "🍐 Golden Pear Restock",
-      "nav_order": 4,
+      "nav_order": 5,
       "title": "TikTok hooks to test — Golden Pear restock",
       "sub": "10 hooks to test · GOLDEN PEAR RESTOCK (sold out in ~4 weeks)",
       "audience": "Golden Pear sold out its entire first run in about four weeks, so fast it never got live on TikTok Shop. That makes this restock the first time creators can actually review it here. Lead with that scarcity and the taste, back it with real social proof (over 70,000 Kenetik customers, and thousands of Golden Pear orders in a single month), and keep the brain-fuel core in frame. Social proof, urgency, and problem solving together is the winning formula.",
@@ -8335,7 +8773,7 @@
     {
       "slug": "trx-shots",
       "label": "🥤 TRX Shots",
-      "nav_order": 5,
+      "nav_order": 6,
       "title": "TikTok hooks to test — TRX Kenetik shots",
       "sub": "10 hooks to test · TRX SHOTS (portable brain fuel for training)",
       "audience": "This is the TRX x Kenetik Lemon-Lime shot, not the can. The audience is TRX trainers, their clients, and active people who train hard. Two angles carry it: the shot format (portable and convenient, throw it in your gym bag, one quick shot before or during training) and focus as the edge (a clear, sharp mind is what holds up when the body is tired). Lead with the training moment, keep Kenetik as the clean, caffeine-free brain fuel behind it. No medical claims.",
@@ -8391,7 +8829,7 @@
     {
       "slug": "brain-health",
       "label": "🧠 Brain Health / Longevity",
-      "nav_order": 6,
+      "nav_order": 7,
       "title": "TikTok hooks to test — brain health & longevity",
       "sub": "10 hooks to test · BRAIN HEALTH / LONGEVITY",
       "audience": "**A fast-growing crowd treats brain health like they treat physical fitness, they want to fuel and protect their mind for the long haul, not react once something feels off.** Kenetik is clean, caffeine-free brain fuel that fits a daily brain-health habit. Lead with the aspiration (take care of your brain, cognitive fitness) and the felt problem (the fog when it's under-fueled). Ketones are the mechanism, caffeine-free is the twist. Say “brain fuel” at least once, and never call Kenetik an energy drink.",
@@ -8503,7 +8941,7 @@
     {
       "slug": "biohackers",
       "label": "⚡ Biohackers / Productivity",
-      "nav_order": 7,
+      "nav_order": 8,
       "title": "TikTok hooks to test — biohackers & productivity",
       "sub": "10 hooks to test · BIOHACKERS / PRODUCTIVITY",
       "audience": "**This is Kenetik's home crowd: founders, knowledge workers, and biohackers who dial in their sleep, training, and diet, then lose the afternoon to brain fog and a fourth coffee.** Kenetik is clean, caffeine-free brain fuel built for deep work. Lead with the felt problem (the 2pm drop, the fight for focus) and the aspiration (drop into flow on command). Ketones are the mechanism and the credibility, this crowd already speaks the language, but still open on the problem or outcome. Caffeine-free is the twist. Say “brain fuel” at least once, and never call Kenetik an energy drink.",
@@ -8610,7 +9048,7 @@
     {
       "slug": "blue-collar",
       "label": "🔧 Blue Collar / Trades",
-      "nav_order": 8,
+      "nav_order": 9,
       "title": "TikTok hooks to test — blue collar & trades",
       "sub": "10 hooks to test · BLUE COLLAR / TRADES",
       "audience": "**The working man's grind: 4am starts, long shifts on the jobsite, a third energy drink by noon, and still foggy when it matters. Jittery, then crashing, and nothing left for the family at night.** Kenetik is clean, caffeine-free brain fuel that keeps you sharp all shift. Lead with the felt problem (the afternoon jobsite fog, the jitters, the crash) and make brain fuel the answer. This is the Roman lane: warm, real, no-nonsense, for the guy who works with his hands. Ketones are the mechanism, caffeine-free is the twist. Say “brain fuel” at least once, and never call Kenetik an energy drink.",
@@ -8717,7 +9155,7 @@
     {
       "slug": "fitness-moms",
       "label": "👟 Fitness Moms / Active 40+",
-      "nav_order": 9,
+      "nav_order": 10,
       "title": "TikTok hooks to test — fitness moms & active 40+",
       "sub": "10 hooks to test · FITNESS MOMS / ACTIVE 40+",
       "audience": "**Active moms in their 40s are fit on the outside but fighting mom-brain and the afternoon fog on the inside, often while cutting caffeine for better sleep and calmer nerves.** Kenetik is clean, caffeine-free brain fuel that keeps her clear for her workouts and her kids. Lead with the felt problem (mom-brain, the 3pm fog) and the aspiration (strong body, clear head). Ketones are the mechanism, caffeine-free is the twist. Say “brain fuel” at least once, and never call Kenetik an energy drink.",
@@ -8824,7 +9262,7 @@
     {
       "slug": "gearheads",
       "label": "🚗 Gearheads / Garage",
-      "nav_order": 10,
+      "nav_order": 11,
       "title": "TikTok hooks to test — gearheads & garage life",
       "sub": "10 hooks to test · GEARHEADS / GARAGE",
       "audience": "**Building is a focus craft. Ten hours deep in the garage, third gas-station coffee, hands still moving but the brain's fried, and that's exactly when you round a bolt or miss a torque spec.** Kenetik is clean, caffeine-free brain fuel that keeps you dialed through a long build. Lead with the felt problem (the afternoon shop fog, the sloppy mistakes, the jitters) and make brain fuel the answer. Raw and real, filmed in the garage. Ketones are the mechanism, caffeine-free is the twist. Say “brain fuel” at least once, and never call Kenetik an energy drink.",
@@ -8931,7 +9369,7 @@
     {
       "slug": "entrepreneurs",
       "label": "💼 Entrepreneurs / Family",
-      "nav_order": 11,
+      "nav_order": 12,
       "title": "TikTok hooks to test — entrepreneurs, dads & family life",
       "sub": "10 hooks to test · ENTREPRENEURS / FAMILY",
       "audience": "**The founder-and-family grind is a mental load: run the business all day, then have nothing left for the people who matter at night. The 2pm crash, the fog, the short fuse.** Kenetik is clean, caffeine-free brain fuel that keeps you sharp for work AND present at home. Lead with the felt problem (the crash, the fog, snapping by 3pm) and make brain fuel the answer. This is Roman's lane — warm, real, family-first, not salesy. Ketones are the mechanism, caffeine-free is the twist. Say “brain fuel” at least once, and never call Kenetik an energy drink.",
@@ -9039,7 +9477,7 @@
     {
       "slug": "fitness-gym",
       "label": "💪 Fitness / Gym",
-      "nav_order": 12,
+      "nav_order": 13,
       "title": "TikTok hooks to test — fitness & gym, focus & drive",
       "sub": "10 hooks to test · FITNESS / GYM",
       "audience": "**Gym-goers know the problem: jittery before, foggy during, crashed after, over-caffeinated from pre-workout and still zoning out mid-session.** Kenetik is clean, caffeine-free brain fuel that keeps your head locked in. Lead with the felt problem (jitters, the crash, losing focus on the last set) and make brain fuel the answer. Ketones are the mechanism, caffeine-free is the twist. Say “brain fuel” at least once, and never call Kenetik an energy drink or a pre-workout.",
@@ -9152,7 +9590,7 @@
     {
       "slug": "women-40-menopause",
       "label": "🌿 Women 40+ / Menopause",
-      "nav_order": 13,
+      "nav_order": 14,
       "title": "TikTok hooks to test — women 40+, brain fog & focus",
       "sub": "10 hooks to test · WOMEN 40+ / MENOPAUSE",
       "audience": "**Women in their 40s and 50s know the fog: forgetting words, losing focus by mid-afternoon, feeling a step slower, and often cutting caffeine because it now fuels anxiety and wrecks sleep.** Kenetik is clean, caffeine-free brain fuel for exactly that. Lead with the felt problem (the fog, the forgotten word, the 2pm dip) and make brain fuel the answer. Menopause is the relatable life-stage context, never a medical claim. Ketones are the mechanism, caffeine-free is the twist. Say “brain fuel” at least once, and never call Kenetik an energy drink.",
@@ -9265,7 +9703,7 @@
     {
       "slug": "women-18-30",
       "label": "🌸 Women 18–30 / Wellness",
-      "nav_order": 14,
+      "nav_order": 15,
       "title": "TikTok hooks to test — young women, wellness & a clear head",
       "sub": "10 hooks to test · WOMEN 18–30 / WELLNESS",
       "audience": "**This audience is wellness-fluent and burnout-aware: the 2pm fog, the caffeine jitters, protecting their peace, wanting to feel calm and clear, not wired and scattered.** Kenetik is clean, caffeine-free brain fuel that fits right into that. Lead with the felt problem (the fog, the spiral, the crash) and the aspirational outcome (calm, clear, that-girl focus). Trendy and native to TikTok, but the promise stays honest. Ketones are the mechanism, caffeine-free is the twist. Say “brain fuel” at least once, and never call Kenetik an energy drink.",
@@ -9378,7 +9816,7 @@
     {
       "slug": "racing",
       "label": "🏁 Racing / Motorsports",
-      "nav_order": 15,
+      "nav_order": 16,
       "title": "TikTok hooks to test — racing & motorsports",
       "sub": "10 hooks to test · RACING / MOTORSPORTS",
       "audience": "**Racing is a mental game at 200 miles an hour. The driver who keeps a clear head reads the track, hits the marks, and stays calm when it gets chaotic. And the grind around it, the 4am calls and the long race weekends, is just as much mental as physical.** Kenetik is clean, caffeine-free brain fuel for the mental side of racing. Lead with the felt problem (foggy on the early call, mind drifting deep in a stint, nerves before the green) and make brain fuel the answer. This is Cleetus's lane: raw, real, filmed at the track. Ketones are the mechanism, caffeine-free is the twist. Say “brain fuel” at least once, and never call Kenetik an energy drink.",
@@ -9490,7 +9928,7 @@
     {
       "slug": "nurses",
       "label": "🩺 Nurses / Healthcare",
-      "nav_order": 16,
+      "nav_order": 17,
       "title": "TikTok hooks to test — nurse creators",
       "sub": "10 hooks to test · NURSES / HEALTHCARE",
       "audience": "**Nurses know the grind better than anyone: 12-hour shifts, nights, three coffees deep and still foggy at 3am, then wired when it's finally time to sleep.** Kenetik is clean, caffeine-free brain fuel that keeps her head clear through a shift. Lead with the felt problem (the 3am fog, the crash, the wall at hour 8) and make brain fuel the answer. Real, in her own voice, in scrubs. Ketones are the mechanism, caffeine-free is the twist. Say “brain fuel” at least once, and never call Kenetik an energy drink.",
@@ -9597,7 +10035,7 @@
     {
       "slug": "gaming",
       "label": "🎮 Gaming",
-      "nav_order": 17,
+      "nav_order": 18,
       "title": "TikTok hooks to test — gaming, brain fuel & focus",
       "sub": "10 hooks to test · GAMING",
       "audience": "**Gaming runs on caffeinated energy drinks — and the two things they cause, jitters and the mid-session crash, are exactly what wreck aim and focus.** Kenetik is the clean fix. Lead with the gamer's problem (the 4-hour fade, shaky hands in the clutch, brain fog deep in a session) and make brain fuel the answer. Ketones are the mechanism, caffeine-free is the twist, neither leads. Say “brain fuel” at least once, and never call Kenetik an energy drink.",
@@ -9705,7 +10143,7 @@
     {
       "slug": "gen-z",
       "label": "🔥 Gen-Z / Brain Maxxing",
-      "nav_order": 18,
+      "nav_order": 19,
       "title": "TikTok hooks to test — Gen-Z & brain maxxing",
       "sub": "10 hooks to test · GEN-Z / BRAIN MAXXING",
       "audience": "**Gen-Z optimizes everything — sleep, gym, skin, focus. “Brain maxxing” is the next frontier, and it's the one nobody actually fuels: most of this crowd runs on energy drinks and 47 tabs of brain rot.** Kenetik is clean, caffeine-free brain fuel that fits the self-optimization mindset. Lead with the felt problem (brain rot, the 2pm doom scroll, can't lock in) and the aspirational outcome (locked in, sharp, main-character focus). Trend-native, but the promise stays honest. Ketones are the mechanism, caffeine-free is the twist. Say “brain fuel” at least once, and never call Kenetik an energy drink.",
@@ -9817,7 +10255,7 @@
     {
       "slug": "mma",
       "label": "🥊 MMA / Combat Sports",
-      "nav_order": 19,
+      "nav_order": 20,
       "title": "TikTok hooks to test — MMA & combat sports",
       "sub": "10 hooks to test · MMA / COMBAT SPORTS",
       "audience": "**Fighting is a chess match before it's a brawl — the fighter who keeps a clear head reads the exchange, and the one who fades mentally gets caught. The difference now: we can back it with the research.** Kenetik is clean, caffeine-free brain fuel for the mental side of the fight game, and every hook below rests on a real Kenetik claim with a human study behind it. Lead with the fighter's problem — foggy in the late rounds, fried deep in camp, fight-week nerves — then brain fuel is the answer. Ketones are the mechanism and the credibility; caffeine-free + Informed Sport Certified is the trust. Say “brain fuel” at least once, keep the approved framing (“helps me stay sharp,” not “makes me faster”), and never call Kenetik an energy drink.",
@@ -9929,7 +10367,7 @@
     {
       "slug": "golf",
       "label": "⛳ Golf",
-      "nav_order": 20,
+      "nav_order": 21,
       "title": "TikTok hooks to test — golf, brain fuel & focus",
       "sub": "10 hooks to test · GOLF",
       "audience": "**Golf is a focus sport, and the caffeine most golfers run on gives them the two things that ruin a round: the shakes over a putt and a crash on the back nine.** Kenetik is the clean fix. Lead with the golfer's problem (the back-nine fade, jittery hands over a four-footer, checking out mentally by 15) and make brain fuel the answer. Ketones are the mechanism, caffeine-free is the twist, neither leads. Say “brain fuel” at least once, and never call Kenetik an energy drink.",
@@ -10037,7 +10475,7 @@
     {
       "slug": "first-responders",
       "label": "🚑 First Responders",
-      "nav_order": 21,
+      "nav_order": 22,
       "title": "TikTok hooks to test — first responders",
       "sub": "10 hooks to test · FIRST RESPONDERS",
       "audience": "**First responders run on adrenaline and caffeine: 24-hour shifts, 3am calls, and a head that has to be clear the second the tones drop. Then wired when it is finally time to sleep.** Kenetik is clean, caffeine-free brain fuel that keeps your head clear through a shift. Lead with the felt problem (the 3am fog, the crash mid-shift, wired after) and make brain fuel the answer. Real, in the bay or the rig, honest. Ketones are the mechanism, caffeine-free is the twist. Say “brain fuel” at least once, and never call Kenetik an energy drink.",
@@ -10164,7 +10602,7 @@
     {
       "slug": "cycling-endurance",
       "label": "🚴 Cycling / Endurance",
-      "nav_order": 22,
+      "nav_order": 23,
       "title": "TikTok hooks to test — cycling & endurance",
       "sub": "10 hooks to test · CYCLING / ENDURANCE",
       "audience": "**Endurance is a brain sport. The head goes before the legs, and the caffeine in most gels wires you, hits your gut, and trashes your sleep.** Kenetik is clean brain fuel for the long-effort mind. Lead with the cognitive problem (the fog late in a ride, the calls getting sloppy, the mind quitting before the legs) and make brain fuel the answer. Ketones are the mechanism, caffeine-free is the twist, neither leads. Say “brain fuel” at least once, and never call Kenetik an energy drink.",
@@ -10277,7 +10715,7 @@
     {
       "slug": "ultra",
       "label": "🥾 Ultra / Do Hard Things",
-      "nav_order": 23,
+      "nav_order": 24,
       "title": "TikTok hooks to test — ultra runners & do-hard-things",
       "sub": "10 hooks to test · ULTRA / DO HARD THINGS",
       "audience": "**This crowd already lives the truth: doing hard things is a mental game before it's a physical one. Deep in the pain cave, the mind quits before the body, and the person who keeps a clear head is the one who finishes.** Kenetik is clean, caffeine-free brain fuel for exactly that. Lead with the felt problem (the fog and the negotiating mind at mile 60) and make brain fuel the answer. Ketones are the mechanism, caffeine-free is the twist. Say “brain fuel” at least once, and never call Kenetik an energy drink.",
@@ -10389,7 +10827,7 @@
     {
       "slug": "hyrox",
       "label": "🏅 HYROX / Hybrid",
-      "nav_order": 24,
+      "nav_order": 25,
       "title": "TikTok hooks to test — HYROX & hybrid athletes",
       "sub": "10 hooks to test · HYROX / HYBRID ATHLETES",
       "audience": "**Every hybrid athlete knows the truth: in the pain cave, your mind quits before your body does. Focus is the thing that goes first, and almost nobody trains it.** Kenetik is clean, caffeine-free brain fuel for exactly that. Lead with the felt problem (the fog deep in a race, the focus that unravels when you're smoked) and make brain fuel the answer. Ketones are the mechanism, caffeine-free is the twist. Say “brain fuel” at least once, and never call Kenetik an energy drink.",
@@ -10502,7 +10940,7 @@
     {
       "slug": "travel",
       "label": "✈️ Travel",
-      "nav_order": 25,
+      "nav_order": 26,
       "title": "TikTok hooks to test — Travel",
       "sub": "10 hooks to test · TRAVEL (2oz shots, Tangerine or TRX Lemon-Lime)",
       "audience": "**Travel breaks every routine you have. The 5am gate, hour six of the drive, landing at four with a meeting at five, day two of a conference where the whole room starts to fade.** The only thing on offer is usually coffee, and a 12oz can cannot come through security with you. The 2oz shot can. At two ounces it clears the TSA carry-on limit of 3.4 ounces, so it travels in the quart bag. That is a fact rather than a claim, and it is the most repeatable thing we own in this niche. **Both shot flavors are live on TikTok Shop, Tangerine and the Kenetik x TRX Lemon-Lime, so promote whichever one you actually have.** Lead with the travel moment and keep Kenetik as caffeine-free brain fuel behind it. **One hard line: we never say it fixes jet lag, tiredness or anything else.** Routine and format only, no medical claims.",
@@ -10610,7 +11048,7 @@
     {
       "slug": "price",
       "label": "💰 Getting Past Price",
-      "nav_order": 26,
+      "nav_order": 27,
       "title": "TikTok hooks to test — getting past the price hump",
       "sub": "10 hooks to test · GETTING PAST PRICE (VALUE, NOT DISCOUNTS)",
       "audience": "Kenetik is a new premium category, so for some people the price is a hump to get over before they feel why it's worth it. The play is never to discount, it's to make the value obvious. These hooks reframe the cost against what it replaces (the daily coffee, the energy drinks) and what a clear afternoon is actually worth, so the value speaks for itself. Use with any audience. If there's a live offer running, it's a fine quick close at the very end, but the video is never about the deal. Say “brain fuel” at least once, and never call Kenetik an energy drink.",
@@ -10699,7 +11137,7 @@
     {
       "slug": "partner-proof",
       "label": "🤝 Partner Proof",
-      "nav_order": 27,
+      "nav_order": 28,
       "title": "TikTok hooks to test — partner names as instant trust",
       "sub": "10 hooks to test · PARTNER PROOF (borrow a name your audience already believes)",
       "audience": "These hooks borrow trust. A name your audience already believes buys you the first two seconds, which is the hardest part. Then pivot straight to your own experience, because the name earns attention and only your story keeps it. Three rules. One name per video, never a list read like credits. Never put words in a partner’s mouth or imply they said something they did not. And never talk about anyone’s health, injuries or medical history, including Matt Hughes, no exceptions. Keep it to who they are and the fact they back the brand.",
