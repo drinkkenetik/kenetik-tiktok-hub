@@ -7849,6 +7849,90 @@
         "broken": [],
         "carries_claim": false
       }
+    },
+    "h-0281": {
+      "hook_id": "h-0281",
+      "text": "“It’s really early, we’re getting ready for the day, and my body doesn’t want caffeine. It wants brain fuel.”",
+      "angle": "The same correction, told as a morning. Says what the body wants instead of arguing with the viewer.",
+      "source": {
+        "kind": "quoted",
+        "creator": "@roidragetts",
+        "video_url": "https://www.tiktok.com/@roidragetts/video/7667507988827016462",
+        "euka_video_id": "7667507988827016462",
+        "link_label": "► watch @roidragetts",
+        "convention": "an a.hsrc link in the hook's meta line naming the creator's handle and linking their TikTok video — the page's own mark for a line a creator said",
+        "how": "a creator said this line on camera; taken from the video's TRYBE transcript and lightly cleaned where the transcript ran on or cut off mid word"
+      },
+      "proof": {
+        "videos_made": "UNKNOWN",
+        "converting_videos": 5,
+        "distinct_creators": 1,
+        "revenue_usd": 905.09,
+        "as_of": "2026-09-23",
+        "how": "read from the flywheel winners, the videos that returned money in the window 2026-07-04 to 2026-09-16: TikTok Shop GMV attributed to the video plus the Meta conversion value on the ad that carries it."
+      },
+      "rules": {
+        "checked_on": "2026-09-23",
+        "passed": true,
+        "broken": [],
+        "carries_claim": false
+      }
+    },
+    "h-0282": {
+      "hook_id": "h-0282",
+      "text": "“I didn’t quit energy drinks. I quit borrowing energy I had to pay back at 2pm.”",
+      "angle": "The correction as a trade. Names what was given up without naming what it was given up for, so the answer has somewhere to land.",
+      "source": {
+        "kind": "quoted",
+        "creator": "@jeremyreviews",
+        "video_url": "https://www.tiktok.com/@jeremyreviews/video/7679663634837966110",
+        "euka_video_id": "7679663634837966110",
+        "link_label": "► watch @jeremyreviews",
+        "convention": "an a.hsrc link in the hook's meta line naming the creator's handle and linking their TikTok video — the page's own mark for a line a creator said",
+        "how": "a creator said this line on camera; taken from the video's TRYBE transcript and lightly cleaned where the transcript ran on or cut off mid word"
+      },
+      "proof": {
+        "videos_made": "UNKNOWN",
+        "converting_videos": 1,
+        "distinct_creators": 1,
+        "revenue_usd": 50.89,
+        "as_of": "2026-09-23",
+        "how": "read from the flywheel winners, the videos that returned money in the window 2026-07-04 to 2026-09-16: TikTok Shop GMV attributed to the video plus the Meta conversion value on the ad that carries it."
+      },
+      "rules": {
+        "checked_on": "2026-09-23",
+        "passed": true,
+        "broken": [],
+        "carries_claim": false
+      }
+    },
+    "h-0283": {
+      "hook_id": "h-0283",
+      "text": "“Once you understand how ketones work, regular energy drinks start looking a little outdated.”",
+      "angle": "The calm version. No argument, just a viewer who now knows something they did not know a second ago.",
+      "source": {
+        "kind": "quoted",
+        "creator": "@lifefueltv",
+        "video_url": "https://www.tiktok.com/@lifefueltv/video/7665147180268735775",
+        "euka_video_id": "7665147180268735775",
+        "link_label": "► watch @lifefueltv",
+        "convention": "an a.hsrc link in the hook's meta line naming the creator's handle and linking their TikTok video — the page's own mark for a line a creator said",
+        "how": "a creator said this line on camera; taken from the video's TRYBE transcript and lightly cleaned where the transcript ran on or cut off mid word"
+      },
+      "proof": {
+        "videos_made": "UNKNOWN",
+        "converting_videos": 1,
+        "distinct_creators": 1,
+        "revenue_usd": 157.12,
+        "as_of": "2026-09-23",
+        "how": "read from the flywheel winners, the videos that returned money in the window 2026-07-04 to 2026-09-16: TikTok Shop GMV attributed to the video plus the Meta conversion value on the ad that carries it."
+      },
+      "rules": {
+        "checked_on": "2026-09-23",
+        "passed": true,
+        "broken": [],
+        "carries_claim": false
+      }
     }
   },
   "tabs": [
@@ -7905,9 +7989,9 @@
         "h-0004",
         "h-0005",
         "h-0006",
-        "h-0007",
-        "h-0008",
-        "h-0009"
+        "h-0281",
+        "h-0282",
+        "h-0283"
       ],
       "angles": [],
       "layout": [
@@ -7919,7 +8003,7 @@
         },
         {
           "block": "stamp",
-          "text": "Updated 18 September 2026",
+          "text": "Updated 23 September 2026",
           "note": "· refreshed weekly"
         },
         {
@@ -7936,22 +8020,22 @@
             },
             {
               "block": "northstar",
-              "text": "**These are the three openings converting best for Kenetik right now.** One about **getting off caffeine**, one about the **afternoon slump**, one about the **flavor you rate**. Any can works for any of them."
+              "text": "**These are the three openings converting best for Kenetik right now.** One about **the money it replaces**, one about the **afternoon slump**, one about **what it is not**. Any can works for any of them."
             },
             {
               "block": "formula",
               "steps": [
                 {
                   "title": "Video 1 · The Switch — you got off caffeine, and this is what replaced it",
-                  "text": "**What it is about:** the coffee or the cans you cut down on, and the brain fuel that took their place. Say both halves. Our strongest hook, and the only one winning on TikTok Shop and in our paid ads at the same time."
+                  "text": "**What it is about:** the arithmetic, said out loud. Name what you were buying, name what it cost you, and name the one thing standing in for all of it. Our strongest hook, and the only one winning on TikTok Shop and in our paid ads at the same time."
                 },
                 {
                   "title": "Video 2 · The Afternoon Slump — the 3pm fog, and why it happens",
                   "text": "**What it is about:** the hour your focus goes, and the fact that your brain is underfuelled rather than short of caffeine. Filmed mid afternoon, in the room where it actually happens. The best opening we have, so save your effort for the ending."
                 },
                 {
-                  "title": "Video 3 · Best Flavor Yet — the flavor you actually rate",
-                  "text": "**What it is about:** your honest reaction to whichever flavor is genuinely your favourite, named out loud. A real preference is what sells it."
+                  "title": "Video 3 · Not an Energy Drink · say the category out loud",
+                  "text": "**What it is about:** correcting the assumption the viewer turned up with. Say what people will take it for, take that away, and say what it actually is. The most repeated framing in our winners."
                 },
                 {
                   "title": "Say “shop now” out loud in all three",
@@ -7974,7 +8058,7 @@
             },
             {
               "block": "eyebrow",
-              "text": "How we picked these"
+              "text": "We put ad money behind creator videos and watch what comes back. These three are ranked on **what actually came back** from our TikTok Shop and Meta campaigns, measured on the **spoken opening line** rather than the caption, and the figure beside each is **what that video sold on TikTok Shop plus what the same clip returned once we ran it as a paid ad**. Whichever one your audience responds to is the one we put more budget behind, and **top videos graduate into our paid ads, where you earn commission again**."
             },
             {
               "block": "amber",
@@ -7996,7 +8080,7 @@
             },
             {
               "block": "sub",
-              "text": "Real Kenetik videos and the line each one opened with. The figure is what that video sold on TikTok Shop over the last 90 days. Tap any to watch."
+              "text": "Real Kenetik videos and the line each one opened with. The figure is what that video sold on TikTok Shop plus what the same clip returned once we ran it as a paid ad. Tap any to watch."
             },
             {
               "block": "eyebrow",
@@ -8006,56 +8090,56 @@
               "block": "wins",
               "items": [
                 {
+                  "url": "https://www.tiktok.com/@healthy.lifestyle.vibe/video/7665560221292465439",
+                  "image": "https://database.euka.ai/storage/v1/object/public/creator_videos_photos/7665560221292465439.webp",
+                  "image_alt": "Creator video",
+                  "tag": "The arithmetic, out loud",
+                  "quote": "“So I’ve run some numbers on Kenetik. It replaces my $6 energy drink, and it replaces my 2 cups of coffee in the morning.”",
+                  "handle": "@healthy.lifestyle.vibe",
+                  "figure": "$10,955"
+                },
+                {
                   "url": "https://www.tiktok.com/@thededicateddad/video/7674092193027493151",
                   "image": "https://database.euka.ai/storage/v1/object/public/creator_videos_photos/7674092193027493151.webp",
                   "image_alt": "Creator video",
-                  "tag": "A real deadline",
-                  "quote": "“If these sell out anywhere as quick as these did, you might not even get these before you see this video.”",
+                  "tag": "The category, corrected",
+                  "quote": "“These are not energy drinks. They’re brain fuel. They don’t have caffeine. They have ketones.”",
                   "handle": "@thededicateddad",
-                  "figure": "$608"
+                  "figure": "$807"
                 },
                 {
-                  "url": "https://www.tiktok.com/@kenetik/video/7673198140786363661",
-                  "image": "https://database.euka.ai/storage/v1/object/public/creator_videos_photos/7673198140786363661.webp",
-                  "image_alt": "Kenetik video",
-                  "tag": "Plain and casual",
-                  "quote": "“In case you were wondering, here’s what I’m drinking.”",
-                  "handle": "@kenetik",
-                  "figure": "$345"
-                },
-                {
-                  "url": "https://www.tiktok.com/@kenetik/video/7576725456347614519",
-                  "image": "https://database.euka.ai/storage/v1/object/public/creator_videos_photos/7576725456347614519.webp",
-                  "image_alt": "Kenetik video",
-                  "tag": "A lived moment",
-                  "quote": "“My life is loud. It’s chaotic.”",
-                  "handle": "@kenetik",
-                  "figure": "$267"
-                },
-                {
-                  "url": "https://www.tiktok.com/@thededicateddad/video/7654353736990575902",
-                  "image": "https://database.euka.ai/storage/v1/object/public/creator_videos_photos/7654353736990575902.webp",
+                  "url": "https://www.tiktok.com/@roidragetts/video/7667507988827016462",
+                  "image": "https://database.euka.ai/storage/v1/object/public/creator_videos_photos/7667507988827016462.webp",
                   "image_alt": "Creator video",
-                  "tag": "The switch",
-                  "quote": "“I finally got my hands on those drinks that everybody’s calling the energy drink killers.”",
-                  "handle": "@thededicateddad",
-                  "figure": "$137"
+                  "tag": "Same correction, told as a morning",
+                  "quote": "“It’s really early, we’re getting ready for the day, and my body doesn’t want caffeine. It wants brain fuel.”",
+                  "handle": "@roidragetts",
+                  "figure": "$400"
                 },
                 {
-                  "url": "https://www.tiktok.com/@kenetik/video/7671349062628609293",
-                  "image": "https://database.euka.ai/storage/v1/object/public/creator_videos_photos/7671349062628609293.webp",
-                  "image_alt": "Kenetik video",
-                  "tag": "Said with conviction",
-                  "quote": "“Kenetik’s new flavor is in. I am so excited about this.”",
-                  "handle": "@kenetik",
-                  "figure": "$83"
+                  "url": "https://www.tiktok.com/@lifefueltv/video/7665147180268735775",
+                  "image": "https://database.euka.ai/storage/v1/object/public/creator_videos_photos/7665147180268735775.webp",
+                  "image_alt": "Creator video",
+                  "tag": "Calm and certain",
+                  "quote": "“Once you understand how ketones work, regular energy drinks start looking a little outdated.”",
+                  "handle": "@lifefueltv",
+                  "figure": "$157"
+                },
+                {
+                  "url": "https://www.tiktok.com/@unstablegenius64/video/7675112056219077901",
+                  "image": "https://database.euka.ai/storage/v1/object/public/creator_videos_photos/7675112056219077901.webp",
+                  "image_alt": "Creator video",
+                  "tag": "The hour named plainly",
+                  "quote": "“Tired of feeling scattered by 2 or 3 o’clock in the afternoon?”",
+                  "handle": "@unstablegenius64",
+                  "figure": "$60"
                 }
               ]
             },
             {
               "block": "amber",
               "label": "What to notice",
-              "text": "Some of these are ours and some are creators'. It genuinely does not matter which. **Every single one opens on something true and specific**, a real deadline, someone plainly saying what they are drinking, a day that is genuinely chaotic, a switch already made, a launch worth being excited about. None of them opens on ketones, and none of them opens on a discount."
+              "text": "Some of these are ours and some are creators'. It genuinely does not matter which. **Every single one opens on something true and specific**, a sum anyone can check, a category named and then taken away, a morning that actually happened, a fact stated calmly, an hour of the day everybody recognises. None of them opens on a discount, and not one of them asks the viewer a question about what they drink."
             }
           ]
         },
@@ -8073,7 +8157,7 @@
             },
             {
               "block": "sub",
-              "text": "**What you got off, and what replaced it.** Any can you already drink. The strongest hook we have on either platform, and it only works if you say both halves."
+              "text": "**What it replaces, and what that was costing you.** Any can you already drink. The strongest hook we have on either platform, and it only works if you do the sum out loud."
             },
             {
               "block": "eyebrow",
@@ -8081,7 +8165,7 @@
             },
             {
               "block": "northstar",
-              "text": "**\"I used to run on three coffees before noon. I stopped, and this is the only reason it stuck.\"**"
+              "text": "**\"I ran the numbers on Kenetik. It replaces my $6 energy drink, and it replaces my 2 cups of coffee in the morning.\"**"
             },
             {
               "block": "eyebrow",
@@ -8101,7 +8185,7 @@
             },
             {
               "block": "northstar",
-              "text": "This is the highest returning hook family we have, and it wins on TikTok Shop and in our paid ads at the same time. Nothing else does both. **The versions that win all report a decision you already made.** The versions that ask the viewer a question about what they drink are our weakest performers, so state it, do not ask it."
+              "text": "This is the highest returning hook family we have, and it wins on TikTok Shop and in our paid ads at the same time. Nothing else does both. **The versions that win do the arithmetic out loud.** They name what got replaced and what it was costing, in real numbers, so the viewer can run the same sum on their own week. The versions that stay vague about the cost, or that ask the viewer a question about what they drink, are our weakest performers. Count it, do not hint at it."
             },
             {
               "block": "eyebrow",
@@ -8111,12 +8195,12 @@
               "block": "formula",
               "steps": [
                 {
-                  "title": "Open on the switch, already made",
-                  "text": "First 1 to 3 seconds, to camera. Past tense. You are reporting, not persuading."
+                  "title": "Open on the sum",
+                  "text": "First 1 to 3 seconds, to camera. Say you ran the numbers, then say them. You are reporting, not persuading."
                 },
                 {
-                  "title": "Say what your day used to look like",
-                  "text": "One concrete detail beats a list. The 2:30 refill, the third cup, the drive home."
+                  "title": "Name what you were buying, and what it cost",
+                  "text": "Real prices beat adjectives. The $6 can, the two coffees, the 2:30 refill. One line of arithmetic anyone can check."
                 },
                 {
                   "title": "Say what you switched to, by name",
@@ -8181,7 +8265,7 @@
             },
             {
               "block": "northstar",
-              "text": "**42% of the people who start this one keep watching**, the highest hold of any hook we run. It is the only hook here that beats the others on attention rather than on return. The catch is the ending: it holds people and then loses them, which is why the close matters more on this one than on either of the others. **Give the last three seconds real effort.**"
+              "text": "This is the one hook here that earns its place on attention rather than on return. It holds people and then loses them, which is why the close matters more on this one than on either of the others. **Give the last three seconds real effort.**"
             },
             {
               "block": "eyebrow",
@@ -8232,12 +8316,12 @@
           "blocks": [
             {
               "block": "heading",
-              "title": "Video 3 — Best Flavor Yet",
-              "roi": "1.6x"
+              "title": "Video 3: Not an Energy Drink",
+              "roi": "1.9x"
             },
             {
               "block": "sub",
-              "text": "**Your honest reaction to the flavor you actually rate.** Pick whichever one is genuinely your favourite and say why."
+              "text": "**Name the category out loud, then take it away.** Any can. This one corrects the assumption the viewer turned up with, in the first three seconds, before they can argue with it."
             },
             {
               "block": "eyebrow",
@@ -8245,7 +8329,7 @@
             },
             {
               "block": "northstar",
-              "text": "**\"I did not think a ketone drink could taste like this. Watch my face.\"**"
+              "text": "**\"These are not energy drinks. They're brain fuel. They don't have caffeine. They have ketones.\"**"
             },
             {
               "block": "eyebrow",
@@ -8254,9 +8338,9 @@
             {
               "block": "hooks",
               "hook_ids": [
-                "h-0007",
-                "h-0008",
-                "h-0009"
+                "h-0281",
+                "h-0282",
+                "h-0283"
               ]
             },
             {
@@ -8265,7 +8349,7 @@
             },
             {
               "block": "northstar",
-              "text": "Taste is the one thing people are unsure about before they buy, so clearing it on camera removes the last reason to hesitate. **Name whichever flavor is honestly your favourite.** A real preference is specific and slightly opinionated, and that is what makes it believable. If you have a can you have not opened yet, a genuine first sip is the strongest version of this, but it is not required."
+              "text": "It is the most repeated winning framing we have: **12 of the 50 top-earning videos open on some version of it**, and two creators have run it more than once and it keeps converting. It works because it answers the question the viewer is already asking. They have decided what this is before you say a word, and the video is over unless you correct them first."
             },
             {
               "block": "eyebrow",
@@ -8275,27 +8359,31 @@
               "block": "formula",
               "steps": [
                 {
-                  "title": "Set the expectation low",
-                  "text": "First 1 to 3 seconds. Say what you assumed a ketone drink would taste like."
+                  "title": "Open on what it is not",
+                  "text": "First 1 to 3 seconds, to camera. Say the thing people will take it for, then take that away. Short sentences, one after another, no pause for agreement."
                 },
                 {
-                  "title": "Get the can and the sip on camera",
-                  "text": "Close-up, no cutaway. If it is sealed, the sound of it opening is part of it."
+                  "title": "Say what it is instead, immediately",
+                  "text": "**Brain fuel.** Do not leave a gap between the correction and the answer. A video that only says what Kenetik is not leaves the viewer holding nothing."
                 },
                 {
-                  "title": "Say what it actually tastes like",
-                  "text": "In your words. “Good” is not a review. Compare it to something."
+                  "title": "Say what is actually in the can",
+                  "text": "12g of ketones, no caffeine. One clean sentence. This is the line that turns a claim into a fact."
+                },
+                {
+                  "title": "Hold the can while you say it",
+                  "text": "The correction lands harder when the thing being corrected is in shot."
                 },
                 {
                   "title": "Close",
-                  "text": "Name your flavor, say metabolic brain fuel, and **“shop now”** out loud."
+                  "text": "Say **“shop now”** out loud."
                 }
               ]
             },
             {
               "block": "amber",
               "label": "Watch out on this one",
-              "text": "**It has to be a flavor you actually like.** A performed reaction is obvious and it is the fastest way to lose the comments. If you have not tried one yet, film your genuine first sip and use that instead. **Only Golden Pear has ever sold out.** Never move a sellout onto a flavor it did not happen to, and never invent one."
+              "text": "**Say what it is, not only what it is not.** The correction is half a video on its own. Land on metabolic brain fuel out loud, in the same breath, every time. **Keep the ketone talk plain.** Say what is in the can and stop there. Do not tell anyone what it will do to their brain, their focus or their health, and leave conditions, diagnoses and before-and-afters out of it entirely. **Contrast the category, never a competitor.** Do not name another brand or put anyone else's drink down. The point is that this is a different kind of thing, not that theirs is bad. **Say what a stimulant did to you, not what Kenetik does for you.** Jittery, wired, could not sleep: all fine as your own reason. What we cannot do is put Kenetik on the other side of it as the treatment."
             }
           ]
         },
@@ -8374,7 +8462,7 @@
               "block": "recap",
               "heading": "The bottom line",
               "paragraphs": [
-                "Three videos, three different first lines. **getting off caffeine**, **the afternoon slump**, then **the flavor you rate**. Every one of them opens on something real, brings in Kenetik as **metabolic brain fuel**, and closes on **“shop now”** out loud. Post them close together, keep them true, and let us find out which opening your audience actually responds to."
+                "Three videos, three different first lines. **the money it replaces**, **the afternoon slump**, then **what it is not**. Every one of them opens on something real, brings in Kenetik as **metabolic brain fuel**, and closes on **“shop now”** out loud. Post them close together, keep them true, and let us find out which opening your audience actually responds to."
               ]
             },
             {
@@ -11580,12 +11668,6 @@
       "note": "already live on the hub when the store was extracted 2026-09-16; the rule binds every new and every edited row from that day"
     },
     {
-      "where": "tabs.top-3.layout[3].blocks[3].steps[2].title",
-      "rule": "em_dash",
-      "since": "2026-09-11",
-      "note": "already live on the hub when the store was extracted 2026-09-16; the rule binds every new and every edited row from that day"
-    },
-    {
       "where": "tabs.top-3.layout[7].blocks[0].title",
       "rule": "em_dash",
       "since": "2026-09-11",
@@ -11593,12 +11675,6 @@
     },
     {
       "where": "tabs.top-3.layout[9].blocks[0].title",
-      "rule": "em_dash",
-      "since": "2026-09-11",
-      "note": "already live on the hub when the store was extracted 2026-09-16; the rule binds every new and every edited row from that day"
-    },
-    {
-      "where": "tabs.top-3.layout[11].blocks[0].title",
       "rule": "em_dash",
       "since": "2026-09-11",
       "note": "already live on the hub when the store was extracted 2026-09-16; the rule binds every new and every edited row from that day"
