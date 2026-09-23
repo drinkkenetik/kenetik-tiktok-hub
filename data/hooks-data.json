@@ -7572,16 +7572,16 @@
     },
     "h-0271": {
       "hook_id": "h-0271",
-      "text": "“So I’ve run some numbers on Kenetik. It replaces my $6 energy drink, and it replaces my 2 cups of coffee in the morning.”",
-      "angle": "The switch, counted out loud: two things you already pay for, named, and one thing standing in for both.",
+      "text": "“Not six, not twelve, you get 24!”",
+      "angle": "A number ladder that lands before the product does, so the viewer counts along instead of being sold to.",
       "source": {
         "kind": "quoted",
         "creator": "@healthy.lifestyle.vibe",
         "video_url": "https://www.tiktok.com/@healthy.lifestyle.vibe/video/7665560221292465439",
         "euka_video_id": "7665560221292465439",
         "link_label": "► watch @healthy.lifestyle.vibe",
-        "convention": "an a.hsrc link in the hook's meta line naming the creator's handle and linking their TikTok video — the page's own mark for a line a creator said",
-        "how": "a creator said this line on camera; taken from the video's TRYBE transcript and lightly trimmed where the transcript cut off mid word"
+        "convention": "an a.hsrc link in the hook's meta line naming the creator's handle and linking their TikTok video, the page's own mark for a line a creator said",
+        "how": "a creator said this line on camera in THIS video; taken from the video's own transcript in the Euka video record (its opening line), lightly trimmed and punctuated, the brand name spelled correctly where the transcript mis-heard it"
       },
       "proof": {
         "videos_made": "UNKNOWN",
@@ -7600,22 +7600,22 @@
     },
     "h-0272": {
       "hook_id": "h-0272",
-      "text": "“These are not energy drinks. They’re brain fuel. They don’t have caffeine. They have ketones.”",
-      "angle": "Four short lines that say what it is not, then what it is, before anyone can argue.",
+      "text": "“If these sell out anywhere as quick as these did, then you might not even get these before you see this video.”",
+      "angle": "Scarcity told as a worry rather than a deal, in the creator’s own voice.",
       "source": {
         "kind": "quoted",
         "creator": "@thededicateddad",
         "video_url": "https://www.tiktok.com/@thededicateddad/video/7674092193027493151",
         "euka_video_id": "7674092193027493151",
         "link_label": "► watch @thededicateddad",
-        "convention": "an a.hsrc link in the hook's meta line naming the creator's handle and linking their TikTok video — the page's own mark for a line a creator said",
-        "how": "a creator said this line on camera; taken from the video's TRYBE transcript and lightly trimmed where the transcript cut off mid word"
+        "convention": "an a.hsrc link in the hook's meta line naming the creator's handle and linking their TikTok video, the page's own mark for a line a creator said",
+        "how": "a creator said this line on camera in THIS video; taken from the video's own transcript in the Euka video record (its opening line), lightly trimmed and punctuated, the brand name spelled correctly where the transcript mis-heard it"
       },
       "proof": {
         "videos_made": "UNKNOWN",
-        "converting_videos": 3,
+        "converting_videos": 1,
         "distinct_creators": 1,
-        "revenue_usd": 1009.06,
+        "revenue_usd": 807.44,
         "as_of": "2026-09-23",
         "how": "read from the flywheel winners, the videos that returned money in the window 2026-07-04 to 2026-09-16: TikTok Shop GMV attributed to the video plus the Meta conversion value on the ad that carries it."
       },
@@ -7628,22 +7628,22 @@
     },
     "h-0273": {
       "hook_id": "h-0273",
-      "text": "“So it’s really early, we’re getting ready for the day, and my body doesn’t want caffeine, it wants brain fuel.”",
-      "angle": "A real morning, filmed in it, with the want stated as the body’s rather than the brand’s.",
+      "text": "“POV: caffeine addicts anonymous meeting.”",
+      "angle": "One line that casts the viewer as a member of the group before a product appears.",
       "source": {
         "kind": "quoted",
         "creator": "@roidragetts",
         "video_url": "https://www.tiktok.com/@roidragetts/video/7667507988827016462",
         "euka_video_id": "7667507988827016462",
         "link_label": "► watch @roidragetts",
-        "convention": "an a.hsrc link in the hook's meta line naming the creator's handle and linking their TikTok video — the page's own mark for a line a creator said",
-        "how": "a creator said this line on camera; taken from the video's TRYBE transcript and lightly trimmed where the transcript cut off mid word"
+        "convention": "an a.hsrc link in the hook's meta line naming the creator's handle and linking their TikTok video, the page's own mark for a line a creator said",
+        "how": "a creator said this line on camera in THIS video; taken from the video's own transcript in the Euka video record (its opening line), lightly trimmed and punctuated, the brand name spelled correctly where the transcript mis-heard it; only the opening line is used, because the next sentence names the stimulant a second time"
       },
       "proof": {
         "videos_made": "UNKNOWN",
-        "converting_videos": 5,
+        "converting_videos": 1,
         "distinct_creators": 1,
-        "revenue_usd": 905.09,
+        "revenue_usd": 399.78,
         "as_of": "2026-09-23",
         "how": "read from the flywheel winners, the videos that returned money in the window 2026-07-04 to 2026-09-16: TikTok Shop GMV attributed to the video plus the Meta conversion value on the ad that carries it."
       },
@@ -7656,16 +7656,44 @@
     },
     "h-0274": {
       "hook_id": "h-0274",
-      "text": "“Once you understand how ketones work, regular energy drinks start looking a little outdated.”",
-      "angle": "Curiosity first, comparison second, so the viewer arrives at the verdict instead of being handed it.",
+      "text": "“Get rid of that brain fog without caffeine.”",
+      "angle": "The thing the viewer already wants, followed immediately by the part every other option gets wrong.",
+      "source": {
+        "kind": "quoted",
+        "creator": "@.outdoorsdad",
+        "video_url": "https://www.tiktok.com/@.outdoorsdad/video/7678176777495153951",
+        "euka_video_id": "7678176777495153951",
+        "link_label": "► watch @.outdoorsdad",
+        "convention": "an a.hsrc link in the hook's meta line naming the creator's handle and linking their TikTok video, the page's own mark for a line a creator said",
+        "how": "a creator said this line on camera in THIS video; taken from the video's own transcript in the Euka video record (its opening line), lightly trimmed and punctuated, the brand name spelled correctly where the transcript mis-heard it"
+      },
+      "proof": {
+        "videos_made": "UNKNOWN",
+        "converting_videos": 1,
+        "distinct_creators": 1,
+        "revenue_usd": 167.35,
+        "as_of": "2026-09-23",
+        "how": "read from the flywheel winners, the videos that returned money in the window 2026-07-04 to 2026-09-16: TikTok Shop GMV attributed to the video plus the Meta conversion value on the ad that carries it."
+      },
+      "rules": {
+        "checked_on": "2026-09-23",
+        "passed": true,
+        "broken": [],
+        "carries_claim": false
+      }
+    },
+    "h-0275": {
+      "hook_id": "h-0275",
+      "text": "“Myth vs. Fact. Energy = More Sugar.”",
+      "angle": "A claim posted as a myth, so the correction is the reason to keep watching.",
       "source": {
         "kind": "quoted",
         "creator": "@lifefueltv",
         "video_url": "https://www.tiktok.com/@lifefueltv/video/7665147180268735775",
         "euka_video_id": "7665147180268735775",
         "link_label": "► watch @lifefueltv",
-        "convention": "an a.hsrc link in the hook's meta line naming the creator's handle and linking their TikTok video — the page's own mark for a line a creator said",
-        "how": "the creator's own line from the post copy on this video, not a transcript read; hashtags removed"
+        "convention": "an a.hsrc link in the hook's meta line naming the creator's handle and linking their TikTok video, the page's own mark for a line a creator said",
+        "how": "the opening on-screen line of this video, read from the video's own transcript in the Euka video record; no one speaks on camera in this one"
       },
       "proof": {
         "videos_made": "UNKNOWN",
@@ -7682,18 +7710,18 @@
         "carries_claim": false
       }
     },
-    "h-0275": {
-      "hook_id": "h-0275",
-      "text": "“This is how I stay sharp all afternoon as someone who genuinely cannot do caffeine.”",
-      "angle": "Opens on the person it is for, which lets everyone who cannot do caffeine recognise themselves in the first second.",
+    "h-0276": {
+      "hook_id": "h-0276",
+      "text": "“Completely caffeine-free. It’s not going to leave you with the jitters that pre-workout gives you.”",
+      "angle": "Names the side effect the viewer already dreads, then removes it.",
       "source": {
         "kind": "quoted",
         "creator": "@ash_lee0528",
         "video_url": "https://www.tiktok.com/@ash_lee0528/video/7659539458366131469",
         "euka_video_id": "7659539458366131469",
         "link_label": "► watch @ash_lee0528",
-        "convention": "an a.hsrc link in the hook's meta line naming the creator's handle and linking their TikTok video — the page's own mark for a line a creator said",
-        "how": "a creator said this line on camera; taken from the video's TRYBE transcript and lightly trimmed where the transcript cut off mid word"
+        "convention": "an a.hsrc link in the hook's meta line naming the creator's handle and linking their TikTok video, the page's own mark for a line a creator said",
+        "how": "a creator said this line on camera in THIS video; taken from the video's own transcript in the Euka video record (its opening line), lightly trimmed and punctuated, the brand name spelled correctly where the transcript mis-heard it; the first seconds of this transcript are garbled by the automatic transcription, so the first clean spoken sentence is used"
       },
       "proof": {
         "videos_made": "UNKNOWN",
@@ -7710,52 +7738,24 @@
         "carries_claim": false
       }
     },
-    "h-0276": {
-      "hook_id": "h-0276",
-      "text": "“Roman Atwood just came out with his brand new caffeine-free drink brand called Kenetik.”",
-      "angle": "A name people already know doing the introducing, in plain news-flash phrasing.",
-      "source": {
-        "kind": "quoted",
-        "creator": "@shawnsfinds_",
-        "video_url": "https://www.tiktok.com/@shawnsfinds_/video/7678039004167687455",
-        "euka_video_id": "7678039004167687455",
-        "link_label": "► watch @shawnsfinds_",
-        "convention": "an a.hsrc link in the hook's meta line naming the creator's handle and linking their TikTok video — the page's own mark for a line a creator said",
-        "how": "a creator said this line on camera; taken from the video's TRYBE transcript and lightly trimmed where the transcript cut off mid word"
-      },
-      "proof": {
-        "videos_made": "UNKNOWN",
-        "converting_videos": 1,
-        "distinct_creators": 1,
-        "revenue_usd": 82.84,
-        "as_of": "2026-09-23",
-        "how": "read from the flywheel winners, the videos that returned money in the window 2026-07-04 to 2026-09-16: TikTok Shop GMV attributed to the video plus the Meta conversion value on the ad that carries it."
-      },
-      "rules": {
-        "checked_on": "2026-09-23",
-        "passed": true,
-        "broken": [],
-        "carries_claim": false
-      }
-    },
     "h-0277": {
       "hook_id": "h-0277",
-      "text": "“Tired of feeling scattered by 2 or 3 o’clock in the afternoon? For me, that’s usually when my brain starts to shut down and I check out.”",
-      "angle": "Names the exact hour of the problem, then answers it with the creator’s own experience of it.",
+      "text": "“I am so excited. My Kenetik just came in and I just poured myself a glass and I love this.”",
+      "angle": "Plain delight with nothing performed, which is why it reads as a person and not an ad.",
       "source": {
         "kind": "quoted",
         "creator": "@unstablegenius64",
         "video_url": "https://www.tiktok.com/@unstablegenius64/video/7675112056219077901",
         "euka_video_id": "7675112056219077901",
         "link_label": "► watch @unstablegenius64",
-        "convention": "an a.hsrc link in the hook's meta line naming the creator's handle and linking their TikTok video — the page's own mark for a line a creator said",
-        "how": "a creator said this line on camera; taken from the video's TRYBE transcript and lightly trimmed where the transcript cut off mid word"
+        "convention": "an a.hsrc link in the hook's meta line naming the creator's handle and linking their TikTok video, the page's own mark for a line a creator said",
+        "how": "a creator said this line on camera in THIS video; taken from the video's own transcript in the Euka video record (its opening line), lightly trimmed and punctuated, the brand name spelled correctly where the transcript mis-heard it"
       },
       "proof": {
         "videos_made": "UNKNOWN",
-        "converting_videos": 3,
+        "converting_videos": 1,
         "distinct_creators": 1,
-        "revenue_usd": 151.7,
+        "revenue_usd": 59.88,
         "as_of": "2026-09-23",
         "how": "read from the flywheel winners, the videos that returned money in the window 2026-07-04 to 2026-09-16: TikTok Shop GMV attributed to the video plus the Meta conversion value on the ad that carries it."
       },
@@ -7768,16 +7768,16 @@
     },
     "h-0278": {
       "hook_id": "h-0278",
-      "text": "“I’m your standard energy drink. I have so many ingredients and you’re going to crash by noon because of the caffeine. I’m Kenetik. I’m not an energy drink.”",
-      "angle": "A two-character skit, so the contrast is played rather than argued.",
+      "text": "“Energy drinks are NOT healthy. The fact that we drink these every day blows my mind.”",
+      "angle": "A flat verdict on the shelf first, then the disbelief that makes the viewer check their own can.",
       "source": {
         "kind": "quoted",
         "creator": "@doortrashdadshop",
         "video_url": "https://www.tiktok.com/@doortrashdadshop/video/7677606012035009822",
         "euka_video_id": "7677606012035009822",
         "link_label": "► watch @doortrashdadshop",
-        "convention": "an a.hsrc link in the hook's meta line naming the creator's handle and linking their TikTok video — the page's own mark for a line a creator said",
-        "how": "a creator said this line on camera; taken from the video's TRYBE transcript and lightly trimmed where the transcript cut off mid word"
+        "convention": "an a.hsrc link in the hook's meta line naming the creator's handle and linking their TikTok video, the page's own mark for a line a creator said",
+        "how": "a creator said this line on camera in THIS video; taken from the video's own transcript in the Euka video record (its opening line), lightly trimmed and punctuated, the brand name spelled correctly where the transcript mis-heard it"
       },
       "proof": {
         "videos_made": "UNKNOWN",
@@ -7796,16 +7796,16 @@
     },
     "h-0279": {
       "hook_id": "h-0279",
-      "text": "“I didn’t quit energy drinks, I quit borrowing energy I had to pay back at 2pm. You see, caffeine is like a loan and the crash in the afternoon is the interest.”",
-      "angle": "One image, the loan, that explains the whole afternoon in a sentence anybody can repeat.",
+      "text": "“If the caffeine of an energy drink doesn’t do it for you anymore, you need to try Kenetik.”",
+      "angle": "Speaks only to the person whose usual fix has quit on them.",
       "source": {
         "kind": "quoted",
         "creator": "@jeremyreviews",
         "video_url": "https://www.tiktok.com/@jeremyreviews/video/7679663634837966110",
         "euka_video_id": "7679663634837966110",
         "link_label": "► watch @jeremyreviews",
-        "convention": "an a.hsrc link in the hook's meta line naming the creator's handle and linking their TikTok video — the page's own mark for a line a creator said",
-        "how": "a creator said this line on camera; taken from the video's TRYBE transcript and lightly trimmed where the transcript cut off mid word"
+        "convention": "an a.hsrc link in the hook's meta line naming the creator's handle and linking their TikTok video, the page's own mark for a line a creator said",
+        "how": "a creator said this line on camera in THIS video; taken from the video's own transcript in the Euka video record (its opening line), lightly trimmed and punctuated, the brand name spelled correctly where the transcript mis-heard it"
       },
       "proof": {
         "videos_made": "UNKNOWN",
@@ -7824,16 +7824,16 @@
     },
     "h-0280": {
       "hook_id": "h-0280",
-      "text": "“If you hand your brain this and this, it actually prefers this.”",
-      "angle": "Hands in frame, nothing to read, and the whole thing lands before a thumb can move.",
+      "text": "“With that mid-afternoon crash a lot of times we go to reach for more caffeine and then we’re restless.”",
+      "angle": "The exact hour named out loud, which is when the viewer is watching.",
       "source": {
         "kind": "quoted",
         "creator": "@pnwdad206",
         "video_url": "https://www.tiktok.com/@pnwdad206/video/7672856549383032095",
         "euka_video_id": "7672856549383032095",
         "link_label": "► watch @pnwdad206",
-        "convention": "an a.hsrc link in the hook's meta line naming the creator's handle and linking their TikTok video — the page's own mark for a line a creator said",
-        "how": "a creator said this line on camera; taken from the video's TRYBE transcript and lightly trimmed where the transcript cut off mid word"
+        "convention": "an a.hsrc link in the hook's meta line naming the creator's handle and linking their TikTok video, the page's own mark for a line a creator said",
+        "how": "a creator said this line on camera in THIS video; taken from the video's own transcript in the Euka video record (its opening line), lightly trimmed and punctuated, the brand name spelled correctly where the transcript mis-heard it"
       },
       "proof": {
         "videos_made": "UNKNOWN",
@@ -8522,8 +8522,8 @@
               "url": "https://www.tiktok.com/@healthy.lifestyle.vibe/video/7665560221292465439",
               "image": "https://database.euka.ai/storage/v1/object/public/creator_videos_photos/7665560221292465439.webp",
               "image_alt": "Creator video",
-              "tag": "The math out loud",
-              "quote": "“So I’ve run some numbers on Kenetik. It replaces my $6 energy drink, and it replaces my 2 cups of coffee in the morning.”",
+              "tag": "The count, not the pitch",
+              "quote": "“Not six, not twelve, you get 24!”",
               "handle": "@healthy.lifestyle.vibe",
               "figure": "$10,955"
             },
@@ -8531,8 +8531,8 @@
               "url": "https://www.tiktok.com/@thededicateddad/video/7674092193027493151",
               "image": "https://database.euka.ai/storage/v1/object/public/creator_videos_photos/7674092193027493151.webp",
               "image_alt": "Creator video",
-              "tag": "What it is not",
-              "quote": "“These are not energy drinks. They’re brain fuel. They don’t have caffeine. They have ketones.”",
+              "tag": "Gone before you finish",
+              "quote": "“If these sell out anywhere as quick as these did, then you might not even get these before you see this video.”",
               "handle": "@thededicateddad",
               "figure": "$807"
             },
@@ -8540,17 +8540,26 @@
               "url": "https://www.tiktok.com/@roidragetts/video/7667507988827016462",
               "image": "https://database.euka.ai/storage/v1/object/public/creator_videos_photos/7667507988827016462.webp",
               "image_alt": "Creator video",
-              "tag": "Early morning",
-              "quote": "“So it’s really early, we’re getting ready for the day, and my body doesn’t want caffeine, it wants brain fuel.”",
+              "tag": "A room he puts you in",
+              "quote": "“POV: caffeine addicts anonymous meeting.”",
               "handle": "@roidragetts",
               "figure": "$400"
+            },
+            {
+              "url": "https://www.tiktok.com/@.outdoorsdad/video/7678176777495153951",
+              "image": "https://database.euka.ai/storage/v1/object/public/creator_videos_photos/7678176777495153951.webp",
+              "image_alt": "Creator video",
+              "tag": "The problem, then the missing part",
+              "quote": "“Get rid of that brain fog without caffeine.”",
+              "handle": "@.outdoorsdad",
+              "figure": "$167"
             },
             {
               "url": "https://www.tiktok.com/@lifefueltv/video/7665147180268735775",
               "image": "https://database.euka.ai/storage/v1/object/public/creator_videos_photos/7665147180268735775.webp",
               "image_alt": "Creator video",
-              "tag": "Quiet comparison",
-              "quote": "“Once you understand how ketones work, regular energy drinks start looking a little outdated.”",
+              "tag": "Myth on the screen",
+              "quote": "“Myth vs. Fact. Energy = More Sugar.”",
               "handle": "@lifefueltv",
               "figure": "$157"
             },
@@ -8558,26 +8567,17 @@
               "url": "https://www.tiktok.com/@ash_lee0528/video/7659539458366131469",
               "image": "https://database.euka.ai/storage/v1/object/public/creator_videos_photos/7659539458366131469.webp",
               "image_alt": "Creator video",
-              "tag": "Afternoon focus",
-              "quote": "“This is how I stay sharp all afternoon as someone who genuinely cannot do caffeine.”",
+              "tag": "No jitters",
+              "quote": "“Completely caffeine-free. It’s not going to leave you with the jitters that pre-workout gives you.”",
               "handle": "@ash_lee0528",
               "figure": "$98"
-            },
-            {
-              "url": "https://www.tiktok.com/@shawnsfinds_/video/7678039004167687455",
-              "image": "https://database.euka.ai/storage/v1/object/public/creator_videos_photos/7678039004167687455.webp",
-              "image_alt": "Creator video",
-              "tag": "Founder news",
-              "quote": "“Roman Atwood just came out with his brand new caffeine-free drink brand called Kenetik.”",
-              "handle": "@shawnsfinds_",
-              "figure": "$83"
             },
             {
               "url": "https://www.tiktok.com/@unstablegenius64/video/7675112056219077901",
               "image": "https://database.euka.ai/storage/v1/object/public/creator_videos_photos/7675112056219077901.webp",
               "image_alt": "Creator video",
-              "tag": "The 3pm slump",
-              "quote": "“Tired of feeling scattered by 2 or 3 o’clock in the afternoon? For me, that’s usually when my brain starts to shut down and I check out.”",
+              "tag": "The box just landed",
+              "quote": "“I am so excited. My Kenetik just came in and I just poured myself a glass and I love this.”",
               "handle": "@unstablegenius64",
               "figure": "$60"
             },
@@ -8585,8 +8585,8 @@
               "url": "https://www.tiktok.com/@doortrashdadshop/video/7677606012035009822",
               "image": "https://database.euka.ai/storage/v1/object/public/creator_videos_photos/7677606012035009822.webp",
               "image_alt": "Creator video",
-              "tag": "Two voices skit",
-              "quote": "“I’m your standard energy drink. I have so many ingredients and you’re going to crash by noon because of the caffeine. I’m Kenetik. I’m not an energy drink.”",
+              "tag": "Read the label",
+              "quote": "“Energy drinks are NOT healthy. The fact that we drink these every day blows my mind.”",
               "handle": "@doortrashdadshop",
               "figure": "$51"
             },
@@ -8594,8 +8594,8 @@
               "url": "https://www.tiktok.com/@jeremyreviews/video/7679663634837966110",
               "image": "https://database.euka.ai/storage/v1/object/public/creator_videos_photos/7679663634837966110.webp",
               "image_alt": "Creator video",
-              "tag": "The loan metaphor",
-              "quote": "“I didn’t quit energy drinks, I quit borrowing energy I had to pay back at 2pm. You see, caffeine is like a loan and the crash in the afternoon is the interest.”",
+              "tag": "When it stops working",
+              "quote": "“If the caffeine of an energy drink doesn’t do it for you anymore, you need to try Kenetik.”",
               "handle": "@jeremyreviews",
               "figure": "$51"
             },
@@ -8603,8 +8603,8 @@
               "url": "https://www.tiktok.com/@pnwdad206/video/7672856549383032095",
               "image": "https://database.euka.ai/storage/v1/object/public/creator_videos_photos/7672856549383032095.webp",
               "image_alt": "Creator video",
-              "tag": "Show, do not tell",
-              "quote": "“If you hand your brain this and this, it actually prefers this.”",
+              "tag": "Two in the afternoon",
+              "quote": "“With that mid-afternoon crash a lot of times we go to reach for more caffeine and then we’re restless.”",
               "handle": "@pnwdad206",
               "figure": "$35"
             }
