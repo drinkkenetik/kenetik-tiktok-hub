@@ -8454,8 +8454,12 @@
             {
               "block": "twocol",
               "pos": {
-                "heading": "On TikTok Shop",
-                "text": "You earn commission on every sale your videos drive. First-wave creator content gets the strongest push from TikTok, so posting all three close together works better than spacing them out over a month."
+                "heading": "On TikTok Shop and in our ads",
+                "text": "You earn commission on every sale your videos drive. First-wave creator content gets the strongest push from TikTok, so posting all three close together works better than spacing them out. And the ones that convert get run as paid ads on Facebook and Instagram, where you earn commission again on the same video."
+              },
+              "neg": {
+                "heading": "What costs you the second payday",
+                "text": "Pointing at a button in your closing line. Anything that only exists inside the TikTok app cannot be said in an ad, so a clip that says it never gets reused and the second commission never happens. “Shop now” travels everywhere, and it is the one closing line that works in both places."
               }
             },
             {
