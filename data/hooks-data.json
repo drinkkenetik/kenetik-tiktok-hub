@@ -11964,7 +11964,19 @@
           "text": "The ten questions, and what to say back"
         },
         {
-          "block": "hooks"
+          "block": "hooks",
+          "hook_ids": [
+            "h-0284",
+            "h-0285",
+            "h-0286",
+            "h-0287",
+            "h-0288",
+            "h-0289",
+            "h-0290",
+            "h-0291",
+            "h-0292",
+            "h-0293"
+          ]
         },
         {
           "block": "eyebrow",
