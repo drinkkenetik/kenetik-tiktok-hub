@@ -8216,6 +8216,276 @@
         "carries_claim": false
       },
       "angle_id_proposed": "unclassified"
+    },
+    "h-0284": {
+      "hook_id": "h-0284",
+      "text": "“What do you think your brain actually runs on?”",
+      "angle": "The opening question",
+      "format": "Video, street interview, handheld, one take",
+      "audience": "Street interviews",
+      "why": "Most people say sugar, and they are half right. **Say back:** it also runs on ketones, a fuel your body makes on its own. That one sentence is the whole idea behind brain fuel, and it gets you there without pitching anything.",
+      "source": {
+        "kind": "composed",
+        "convention": "no a.hsrc source link on this line, which is how the page marks a line a creator said; an unmarked line is recorded as composed",
+        "how": "no creator attribution is marked on this line on the page"
+      },
+      "proof": {
+        "videos_made": "UNKNOWN",
+        "converting_videos": "UNKNOWN",
+        "distinct_creators": "UNKNOWN",
+        "revenue_usd": "UNKNOWN",
+        "as_of": "2026-09-24",
+        "how": "no video has been read against this line yet"
+      },
+      "rules": {
+        "checked_on": "2026-09-24",
+        "passed": true,
+        "broken": [],
+        "carries_claim": false
+      }
+    },
+    "h-0285": {
+      "hook_id": "h-0285",
+      "text": "“How many coffees deep are you right now?”",
+      "angle": "The count they will admit to",
+      "format": "Video, street interview, handheld, one take",
+      "audience": "Street interviews",
+      "why": "Everyone answers this instantly and everyone rounds down. **Say back:** what if the focus came without the coffee? Then hand them the can. Do not say the brand name until after they have answered.",
+      "source": {
+        "kind": "composed",
+        "convention": "no a.hsrc source link on this line, which is how the page marks a line a creator said; an unmarked line is recorded as composed",
+        "how": "no creator attribution is marked on this line on the page"
+      },
+      "proof": {
+        "videos_made": "UNKNOWN",
+        "converting_videos": "UNKNOWN",
+        "distinct_creators": "UNKNOWN",
+        "revenue_usd": "UNKNOWN",
+        "as_of": "2026-09-24",
+        "how": "no video has been read against this line yet"
+      },
+      "rules": {
+        "checked_on": "2026-09-24",
+        "passed": true,
+        "broken": [],
+        "carries_claim": false
+      }
+    },
+    "h-0286": {
+      "hook_id": "h-0286",
+      "text": "“Quick one. What is a ketone?”",
+      "angle": "The word nobody knows",
+      "format": "Video, street interview, handheld, one take",
+      "audience": "Street interviews",
+      "why": "Almost nobody can answer, and that is exactly why it works. **Say back:** it is a fuel your body already makes, every night while you sleep and any time you have gone a while without eating. We put 12g of it in a can so you do not have to skip a meal to get it.",
+      "source": {
+        "kind": "composed",
+        "convention": "no a.hsrc source link on this line, which is how the page marks a line a creator said; an unmarked line is recorded as composed",
+        "how": "no creator attribution is marked on this line on the page"
+      },
+      "proof": {
+        "videos_made": "UNKNOWN",
+        "converting_videos": "UNKNOWN",
+        "distinct_creators": "UNKNOWN",
+        "revenue_usd": "UNKNOWN",
+        "as_of": "2026-09-24",
+        "how": "no video has been read against this line yet"
+      },
+      "rules": {
+        "checked_on": "2026-09-24",
+        "passed": true,
+        "broken": [],
+        "carries_claim": false
+      }
+    },
+    "h-0287": {
+      "hook_id": "h-0287",
+      "text": "“What time of day does your brain give up on you?”",
+      "angle": "Let them name the problem",
+      "format": "Video, street interview, handheld, one take",
+      "audience": "Street interviews",
+      "why": "You will hear 2pm or 3pm nearly every time. **Say back:** that is the window this was built for. When the stranger names the problem, you never have to sell it.",
+      "source": {
+        "kind": "composed",
+        "convention": "no a.hsrc source link on this line, which is how the page marks a line a creator said; an unmarked line is recorded as composed",
+        "how": "no creator attribution is marked on this line on the page"
+      },
+      "proof": {
+        "videos_made": "UNKNOWN",
+        "converting_videos": "UNKNOWN",
+        "distinct_creators": "UNKNOWN",
+        "revenue_usd": "UNKNOWN",
+        "as_of": "2026-09-24",
+        "how": "no video has been read against this line yet"
+      },
+      "rules": {
+        "checked_on": "2026-09-24",
+        "passed": true,
+        "broken": [],
+        "carries_claim": false
+      }
+    },
+    "h-0288": {
+      "hook_id": "h-0288",
+      "text": "“Be honest. Is this an energy drink?”",
+      "angle": "The correction is the content",
+      "format": "Video, street interview, handheld, one take",
+      "audience": "Street interviews",
+      "why": "Hold the can up while you ask. They will say yes, because it looks like one. **Say back:** it is not. No caffeine, no sugar. It is brain fuel, which is a different thing entirely. The moment they are wrong is the moment they pay attention.",
+      "source": {
+        "kind": "composed",
+        "convention": "no a.hsrc source link on this line, which is how the page marks a line a creator said; an unmarked line is recorded as composed",
+        "how": "no creator attribution is marked on this line on the page"
+      },
+      "proof": {
+        "videos_made": "UNKNOWN",
+        "converting_videos": "UNKNOWN",
+        "distinct_creators": "UNKNOWN",
+        "revenue_usd": "UNKNOWN",
+        "as_of": "2026-09-24",
+        "how": "no video has been read against this line yet"
+      },
+      "rules": {
+        "checked_on": "2026-09-24",
+        "passed": true,
+        "broken": [],
+        "carries_claim": false
+      }
+    },
+    "h-0289": {
+      "hook_id": "h-0289",
+      "text": "“Your body makes its own fuel while you sleep. Any idea what it is called?”",
+      "angle": "A real question with a real answer",
+      "format": "Video, street interview, handheld, one take",
+      "audience": "Street interviews",
+      "why": "This one makes people lean in rather than walk off, because it sounds like a fact they should already know. **Say back:** ketones. Kenetik is the same molecule your body makes, so your brain already knows what to do with it.",
+      "source": {
+        "kind": "composed",
+        "convention": "no a.hsrc source link on this line, which is how the page marks a line a creator said; an unmarked line is recorded as composed",
+        "how": "no creator attribution is marked on this line on the page"
+      },
+      "proof": {
+        "videos_made": "UNKNOWN",
+        "converting_videos": "UNKNOWN",
+        "distinct_creators": "UNKNOWN",
+        "revenue_usd": "UNKNOWN",
+        "as_of": "2026-09-24",
+        "how": "no video has been read against this line yet"
+      },
+      "rules": {
+        "checked_on": "2026-09-24",
+        "passed": true,
+        "broken": [],
+        "carries_claim": false
+      }
+    },
+    "h-0290": {
+      "hook_id": "h-0290",
+      "text": "“If your brain could ask you for one thing right now, what would it be?”",
+      "angle": "The one that gets the laugh",
+      "format": "Video, street interview, handheld, one take",
+      "audience": "Street interviews",
+      "why": "The funniest answers come off this question, which is what makes the clip watchable rather than educational. **Say back:** most people guess sleep. The second best answer is a fuel it can actually use.",
+      "source": {
+        "kind": "composed",
+        "convention": "no a.hsrc source link on this line, which is how the page marks a line a creator said; an unmarked line is recorded as composed",
+        "how": "no creator attribution is marked on this line on the page"
+      },
+      "proof": {
+        "videos_made": "UNKNOWN",
+        "converting_videos": "UNKNOWN",
+        "distinct_creators": "UNKNOWN",
+        "revenue_usd": "UNKNOWN",
+        "as_of": "2026-09-24",
+        "how": "no video has been read against this line yet"
+      },
+      "rules": {
+        "checked_on": "2026-09-24",
+        "passed": true,
+        "broken": [],
+        "carries_claim": false
+      }
+    },
+    "h-0291": {
+      "hook_id": "h-0291",
+      "text": "“It has no sugar and no caffeine. What do you think is actually in it?”",
+      "angle": "Framed as a riddle",
+      "format": "Video, street interview, handheld, one take",
+      "audience": "Street interviews",
+      "why": "Asking it as a puzzle makes answering feel like a game instead of an interview. **Say back:** ketones, 12g per can, the same fuel your body makes on its own. Then hand it over and let them read the label, because nobody believes a stranger holding a can.",
+      "source": {
+        "kind": "composed",
+        "convention": "no a.hsrc source link on this line, which is how the page marks a line a creator said; an unmarked line is recorded as composed",
+        "how": "no creator attribution is marked on this line on the page"
+      },
+      "proof": {
+        "videos_made": "UNKNOWN",
+        "converting_videos": "UNKNOWN",
+        "distinct_creators": "UNKNOWN",
+        "revenue_usd": "UNKNOWN",
+        "as_of": "2026-09-24",
+        "how": "no video has been read against this line yet"
+      },
+      "rules": {
+        "checked_on": "2026-09-24",
+        "passed": true,
+        "broken": [],
+        "carries_claim": false
+      }
+    },
+    "h-0292": {
+      "hook_id": "h-0292",
+      "text": "“Have you ever heard the phrase brain fuel?”",
+      "angle": "Sorts your footage instantly",
+      "format": "Video, street interview, handheld, one take",
+      "audience": "Street interviews",
+      "why": "You get two useful clips from this: the people who have heard it and the people who look at you blankly. The blank ones are the better video. **Say back:** your brain uses about a fifth of your energy at rest. Brain fuel just means feeding that part on purpose.",
+      "source": {
+        "kind": "composed",
+        "convention": "no a.hsrc source link on this line, which is how the page marks a line a creator said; an unmarked line is recorded as composed",
+        "how": "no creator attribution is marked on this line on the page"
+      },
+      "proof": {
+        "videos_made": "UNKNOWN",
+        "converting_videos": "UNKNOWN",
+        "distinct_creators": "UNKNOWN",
+        "revenue_usd": "UNKNOWN",
+        "as_of": "2026-09-24",
+        "how": "no video has been read against this line yet"
+      },
+      "rules": {
+        "checked_on": "2026-09-24",
+        "passed": true,
+        "broken": [],
+        "carries_claim": false
+      }
+    },
+    "h-0293": {
+      "hook_id": "h-0293",
+      "text": "“Alright. Would you try it?”",
+      "angle": "The closer, always film this",
+      "format": "Video, street interview, handheld, one take",
+      "audience": "Street interviews",
+      "why": "Ask it once they have heard the answer, then film the first sip and whatever face they pull. That unedited reaction is the most valuable three seconds you will shoot all day, and it is the part that travels.",
+      "source": {
+        "kind": "composed",
+        "convention": "no a.hsrc source link on this line, which is how the page marks a line a creator said; an unmarked line is recorded as composed",
+        "how": "no creator attribution is marked on this line on the page"
+      },
+      "proof": {
+        "videos_made": "UNKNOWN",
+        "converting_videos": "UNKNOWN",
+        "distinct_creators": "UNKNOWN",
+        "revenue_usd": "UNKNOWN",
+        "as_of": "2026-09-24",
+        "how": "no video has been read against this line yet"
+      },
+      "rules": {
+        "checked_on": "2026-09-24",
+        "passed": true,
+        "broken": [],
+        "carries_claim": false
+      }
     }
   },
   "tabs": [
@@ -11613,6 +11883,95 @@
             "h-0257",
             "h-0258"
           ]
+        }
+      ]
+    },
+    {
+      "slug": "street-interview",
+      "label": "🎤 Street Interviews",
+      "nav_order": 29,
+      "title": "TikTok hooks to test: street interviews",
+      "sub": "10 questions to ask · STREET INTERVIEWS",
+      "audience": "**Stopping strangers works because the viewer learns at the same speed the stranger does.** Nobody watches an explainer about ketones. Everybody watches somebody get a question wrong and then find out the answer. Your job is to ask, let them miss, and correct them in one sentence. Ask the question before you name the brand, teach exactly one thing per person, and film the first sip. Say “brain fuel” at least once, and never call Kenetik an energy drink.",
+      "formula": [
+        {
+          "title": "The question",
+          "text": "Open on the question itself in the first 1 to 3 seconds. No setup, no introducing yourself, no explaining what you are holding."
+        },
+        {
+          "title": "Their answer",
+          "text": "Let them be wrong on camera. The gap between what they guess and what is true is the entire video."
+        },
+        {
+          "title": "The correction",
+          "text": "One sentence back. Brain fuel, ketones, what your body already makes. Say \"brain fuel\" at least once and then stop talking."
+        },
+        {
+          "title": "The taste",
+          "text": "Hand it over, film the first sip and their real reaction, then your code or link."
+        }
+      ],
+      "dos": [
+        "Ask the question before you say the brand name.",
+        "Let them be wrong. That gap is the video.",
+        "Teach exactly one thing per person.",
+        "Film the first sip every single time.",
+        "Get a clear verbal yes to being filmed before you post it."
+      ],
+      "donts": [
+        "Don’t open by explaining what Kenetik is. Nobody stops for that.",
+        "Don’t correct them twice. One sentence, then move on.",
+        "Don’t script their answer or use a friend and pass them off as a stranger.",
+        "Don’t promise a result. Say what it is, not what it will do for them.",
+        "Don’t name a price or a discount on camera."
+      ],
+      "hook_ids": [
+        "h-0284",
+        "h-0285",
+        "h-0286",
+        "h-0287",
+        "h-0288",
+        "h-0289",
+        "h-0290",
+        "h-0291",
+        "h-0292",
+        "h-0293"
+      ],
+      "angles": [],
+      "layout": [
+        {
+          "block": "heading"
+        },
+        {
+          "block": "sub"
+        },
+        {
+          "block": "eyebrow",
+          "text": "Why this format works"
+        },
+        {
+          "block": "northstar"
+        },
+        {
+          "block": "eyebrow",
+          "text": "What a great one covers"
+        },
+        {
+          "block": "formula"
+        },
+        {
+          "block": "eyebrow",
+          "text": "The ten questions, and what to say back"
+        },
+        {
+          "block": "hooks"
+        },
+        {
+          "block": "eyebrow",
+          "text": "Getting it right"
+        },
+        {
+          "block": "twocol"
         }
       ]
     }
