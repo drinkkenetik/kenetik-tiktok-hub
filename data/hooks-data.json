@@ -12394,10 +12394,12 @@
       "changes_pending",
       "tabs[].angles",
       "grandfathered",
-      "decisions"
+      "decisions",
+      "tabs[top-10-now].layout[wins].items[].sales"
     ],
     "unknown_is_never_zero": "A line no video has been read against carries UNKNOWN on every proof field and says so in its own how.",
     "_who_writes_what": "The turn (scripts/flywheel_turn.py through scripts/cs_helpers/flywheel_hub.py) writes top_now, hooks[].proof, hooks[].rules and rules_version on every run, and changes_pending on a decide run, and nothing else. `updated` stays editorial: a machine refresh must never restate a date a person set. rules_version MOVED from editorial to machine on 2026-09-16 (workplan 7-3): it was editorial only because nothing wrote it, and every publish now re-runs the rule reader over every row against the current references and stamps what the rules were. The console's deliberate write lane (kind hook_swap) is the only writer that moves a placement: it applies one approved swap, appends the receipt to decisions and stamps hooks[].entered.",
+    "_wins_figure_is_machine": "A Top 10 card's figure MOVED from editorial to machine on 2026-09-24 (build-spec-angles.md Phase 1, decision 5). tabs[top-10-now].layout[wins].items[].sales is the turn's own figure for that card's video: its TikTok Shop sales and order count over the turn's window, written weekly by scripts/cs_helpers/flywheel_hub.py write_wins_figures with the same rule as every machine field (a new date alone is not a change). The renderer draws it in place of items[].figure and items[].note, which stay exactly as Nick set them and show only on a card the machine has no figure for. Nick's words on each card (tag, quote, handle) are his and the machine never writes them. No Meta figure is ever written onto this page: sales.source is always tiktok_shop, and hooks_hub_validate refuses any other source or any Meta-named figure.",
     "_a_proposal_is_never_an_edit": "A line the turn proposes is added to hooks{} with no placement and named in changes_pending; the gate accepts an unplaced line, because a proposed, a declined and a displaced line are all legitimately on no tab, and it refuses a placement that points at no line. Only an approval on the console puts it on a tab, in the place of the row named in `out`."
   },
   "_extraction": {

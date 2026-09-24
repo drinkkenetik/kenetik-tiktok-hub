@@ -288,13 +288,20 @@ function renderPillar(side, pillar, fallback){
   return '<div class="pillar ' + side + '"><h4>' + rich((pillar && pillar.heading) || '') + '</h4>' + body + '</div>';
 }
 
+/* A card's figure is the machine's when the card carries one (`sales`, that video's TikTok
+   Shop sales, written weekly by the turn), and Nick's own figure when it does not. The tag,
+   the quote and the handle are always his. The store's gate refuses any figure on this page
+   that is not TikTok Shop sales, so nothing here needs to check it again. */
 function renderWins(items){
   return '<div class="wins">' + (items || []).map(function(w){
+    var sales = (w.sales && typeof w.sales.figure === 'string') ? w.sales : null;
+    var figure = sales ? sales.figure : w.figure;
+    var note = sales ? sales.note : w.note;
     return '<a class="win" href="' + attr(w.url) + '" target="_blank" rel="noopener">'
       + '<img src="' + attr(w.image) + '" alt="' + attr(w.image_alt) + '" loading="lazy">'
       + '<div class="wb"><div class="wtag">' + rich(w.tag) + '</div><div class="wq">' + rich(w.quote) + '</div>'
-      + '<div class="wm"><span>' + esc(w.handle) + '</span><b>' + esc(w.figure) + '</b></div>'
-      + (w.note ? '<div class="wn">' + esc(w.note) + '</div>' : '')
+      + '<div class="wm"><span>' + esc(w.handle) + '</span><b>' + esc(figure) + '</b></div>'
+      + (note ? '<div class="wn">' + esc(note) + '</div>' : '')
       + '</div></a>';
   }).join('') + '</div>';
 }
