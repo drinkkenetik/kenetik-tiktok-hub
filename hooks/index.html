@@ -90,6 +90,7 @@ ul.run b{color:var(--ink);} ul.run b.dont{color:var(--bad);}
 .win .wq{font-size:13px;line-height:1.42;color:var(--ink);font-weight:700;margin:6px 0 7px;}
 .win .wm{font-size:11.5px;color:var(--ink2);display:flex;justify-content:space-between;align-items:center;gap:6px;}
 .win .wm b{color:var(--berry);font-size:12.5px;}
+.win .wn{font-size:10px;line-height:1.35;color:var(--ink2);margin-top:5px;letter-spacing:.3px;text-transform:uppercase;font-weight:700;opacity:.75;}
 @media(max-width:760px){.wins{grid-template-columns:repeat(auto-fill,minmax(150px,1fr));gap:11px;}}
 
 .fork{display:flex;gap:14px;margin:2px 0 6px;}
@@ -292,7 +293,9 @@ function renderWins(items){
     return '<a class="win" href="' + attr(w.url) + '" target="_blank" rel="noopener">'
       + '<img src="' + attr(w.image) + '" alt="' + attr(w.image_alt) + '" loading="lazy">'
       + '<div class="wb"><div class="wtag">' + rich(w.tag) + '</div><div class="wq">' + rich(w.quote) + '</div>'
-      + '<div class="wm"><span>' + esc(w.handle) + '</span><b>' + esc(w.figure) + '</b></div></div></a>';
+      + '<div class="wm"><span>' + esc(w.handle) + '</span><b>' + esc(w.figure) + '</b></div>'
+      + (w.note ? '<div class="wn">' + esc(w.note) + '</div>' : '')
+      + '</div></a>';
   }).join('') + '</div>';
 }
 

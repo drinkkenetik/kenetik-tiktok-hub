@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "updated": "2026-09-23",
+  "updated": "2026-09-24",
   "written_by": "scripts/hooks_hub_extract.py for the first write; the Monday turn writes the machine fields from 7-2 and people write the editorial fields by hand",
   "rules_version": "hooks-config@4402e2a7 · claims-list@daffab0b · reader@138f4b17",
   "footer": "Kenetik Creator Hub · Hook performance from our TikTok Shop and Meta ad campaigns, measured on each video's spoken opening line. Refreshed weekly. Figures are past performance and not a guarantee of what any individual video will earn.",
@@ -8096,7 +8096,8 @@
                   "tag": "The arithmetic, out loud",
                   "quote": "“So I’ve run some numbers on Kenetik. It replaces my $6 energy drink, and it replaces my 2 cups of coffee in the morning.”",
                   "handle": "@healthy.lifestyle.vibe",
-                  "figure": "$10,955"
+                  "figure": "$925",
+                  "note": "TikTok Shop · 12 orders"
                 },
                 {
                   "url": "https://www.tiktok.com/@thededicateddad/video/7674092193027493151",
@@ -8105,7 +8106,8 @@
                   "tag": "The category, corrected",
                   "quote": "“These are not energy drinks. They’re brain fuel. They don’t have caffeine. They have ketones.”",
                   "handle": "@thededicateddad",
-                  "figure": "$807"
+                  "figure": "$807",
+                  "note": "TikTok Shop · 17 orders"
                 },
                 {
                   "url": "https://www.tiktok.com/@roidragetts/video/7667507988827016462",
@@ -8114,7 +8116,8 @@
                   "tag": "Same correction, told as a morning",
                   "quote": "“It’s really early, we’re getting ready for the day, and my body doesn’t want caffeine. It wants brain fuel.”",
                   "handle": "@roidragetts",
-                  "figure": "$400"
+                  "figure": "$400",
+                  "note": "TikTok Shop · 8 orders"
                 },
                 {
                   "url": "https://www.tiktok.com/@lifefueltv/video/7665147180268735775",
@@ -8123,7 +8126,8 @@
                   "tag": "Calm and certain",
                   "quote": "“Once you understand how ketones work, regular energy drinks start looking a little outdated.”",
                   "handle": "@lifefueltv",
-                  "figure": "$157"
+                  "figure": "$157",
+                  "note": "TikTok Shop · 1 order"
                 },
                 {
                   "url": "https://www.tiktok.com/@unstablegenius64/video/7675112056219077901",
@@ -8132,7 +8136,8 @@
                   "tag": "The hour named plainly",
                   "quote": "“Tired of feeling scattered by 2 or 3 o’clock in the afternoon?”",
                   "handle": "@unstablegenius64",
-                  "figure": "$60"
+                  "figure": "$60",
+                  "note": "TikTok Shop · 1 order"
                 }
               ]
             },
@@ -8481,7 +8486,7 @@
       "label": "🔥 Top 10 Right Now",
       "nav_order": 2,
       "title": "The top 10 right now",
-      "sub": "These are the ten Kenetik videos that actually returned the most money over the last 90 days, with the line each one opened with.",
+      "sub": "These are the ten Kenetik videos that sold the most on TikTok Shop over the last 90 days, with the line each one opened with.",
       "hook_ids": [
         "h-0271",
         "h-0272",
@@ -8504,8 +8509,8 @@
         },
         {
           "block": "stamp",
-          "text": "Updated 23 September 2026",
-          "note": "· refreshed weekly"
+          "text": "Updated 24 September 2026",
+          "note": "· TikTok Shop sales only · refreshed weekly"
         },
         {
           "block": "eyebrow",
@@ -8513,7 +8518,7 @@
         },
         {
           "block": "northstar",
-          "text": "**Ranked on real revenue, not views.** Every number below is what the video actually returned: the TikTok Shop sales attributed to it **plus** what the same clip earned once we ran it as a paid ad. Nothing here is ranked on how it felt."
+          "text": "**Every figure here is TikTok Shop sales for that one video.** Nothing else is folded in. It is the same number you can see against the video in your own TikTok Shop dashboard, counted over the last 90 days, with the order count beside it."
         },
         {
           "block": "wins",
@@ -8525,7 +8530,8 @@
               "tag": "The count, not the pitch",
               "quote": "“Not six, not twelve, you get 24!”",
               "handle": "@healthy.lifestyle.vibe",
-              "figure": "$10,955"
+              "figure": "$925",
+              "note": "TikTok Shop · 12 orders"
             },
             {
               "url": "https://www.tiktok.com/@thededicateddad/video/7674092193027493151",
@@ -8534,7 +8540,8 @@
               "tag": "Gone before you finish",
               "quote": "“If these sell out anywhere as quick as these did, then you might not even get these before you see this video.”",
               "handle": "@thededicateddad",
-              "figure": "$807"
+              "figure": "$807",
+              "note": "TikTok Shop · 17 orders"
             },
             {
               "url": "https://www.tiktok.com/@roidragetts/video/7667507988827016462",
@@ -8543,7 +8550,8 @@
               "tag": "A room he puts you in",
               "quote": "“POV: caffeine addicts anonymous meeting.”",
               "handle": "@roidragetts",
-              "figure": "$400"
+              "figure": "$400",
+              "note": "TikTok Shop · 8 orders"
             },
             {
               "url": "https://www.tiktok.com/@.outdoorsdad/video/7678176777495153951",
@@ -8552,7 +8560,8 @@
               "tag": "The problem, then the missing part",
               "quote": "“Get rid of that brain fog without caffeine.”",
               "handle": "@.outdoorsdad",
-              "figure": "$167"
+              "figure": "$167",
+              "note": "TikTok Shop · 3 orders"
             },
             {
               "url": "https://www.tiktok.com/@lifefueltv/video/7665147180268735775",
@@ -8561,7 +8570,8 @@
               "tag": "Myth on the screen",
               "quote": "“Myth vs. Fact. Energy = More Sugar.”",
               "handle": "@lifefueltv",
-              "figure": "$157"
+              "figure": "$157",
+              "note": "TikTok Shop · 1 order"
             },
             {
               "url": "https://www.tiktok.com/@ash_lee0528/video/7659539458366131469",
@@ -8570,7 +8580,8 @@
               "tag": "No jitters",
               "quote": "“Completely caffeine-free. It’s not going to leave you with the jitters that pre-workout gives you.”",
               "handle": "@ash_lee0528",
-              "figure": "$98"
+              "figure": "$98",
+              "note": "TikTok Shop · 1 order"
             },
             {
               "url": "https://www.tiktok.com/@unstablegenius64/video/7675112056219077901",
@@ -8579,7 +8590,8 @@
               "tag": "The box just landed",
               "quote": "“I am so excited. My Kenetik just came in and I just poured myself a glass and I love this.”",
               "handle": "@unstablegenius64",
-              "figure": "$60"
+              "figure": "$60",
+              "note": "TikTok Shop · 1 order"
             },
             {
               "url": "https://www.tiktok.com/@doortrashdadshop/video/7677606012035009822",
@@ -8588,7 +8600,8 @@
               "tag": "Read the label",
               "quote": "“Energy drinks are NOT healthy. The fact that we drink these every day blows my mind.”",
               "handle": "@doortrashdadshop",
-              "figure": "$51"
+              "figure": "$51",
+              "note": "TikTok Shop · 1 order"
             },
             {
               "url": "https://www.tiktok.com/@jeremyreviews/video/7679663634837966110",
@@ -8597,7 +8610,8 @@
               "tag": "When it stops working",
               "quote": "“If the caffeine of an energy drink doesn’t do it for you anymore, you need to try Kenetik.”",
               "handle": "@jeremyreviews",
-              "figure": "$51"
+              "figure": "$51",
+              "note": "TikTok Shop · 1 order"
             },
             {
               "url": "https://www.tiktok.com/@pnwdad206/video/7672856549383032095",
@@ -8606,9 +8620,18 @@
               "tag": "Two in the afternoon",
               "quote": "“With that mid-afternoon crash a lot of times we go to reach for more caffeine and then we’re restless.”",
               "handle": "@pnwdad206",
-              "figure": "$35"
+              "figure": "$35",
+              "note": "TikTok Shop · 1 order"
             }
           ]
+        },
+        {
+          "block": "eyebrow",
+          "text": "Where TRYBE money sits"
+        },
+        {
+          "block": "northstar",
+          "text": "**TRYBE pays separately and it is not in the numbers above.** If we pick your video up and run it as a paid ad, that earns on TRYBE's own count of the sales it drove, and you will see it in TRYBE rather than here. We pay commission on what TRYBE credits you, never on what the ad platform reports, because the platform claims a far larger number than it passes through. Keeping the two apart on this page is the only way the figures above stay checkable against your own dashboard."
         },
         {
           "block": "divider"
