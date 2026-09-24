@@ -1,6 +1,6 @@
 {
   "_comment": "Creator Hub live data, the store for tiktok.drinkkenetik.com. It lives in kenetik-growth-system at data/creator-flywheel/creator-hub.json and is mirrored to this repo by .github/workflows/hooks-hub-publish.yml; never edit the copy in the hub repo. The figures on each featured video (primary, secondary, age) and the updated date are written by the Monday turn from what sold; the roster changes only when Nick approves a change on the console. Every other field is editorial and hand-edited, in the growth system, by the people whose words they are.",
-  "updated": "September 21, 2026",
+  "updated": "September 23, 2026",
   "heroHeadline": "Everyone needs brain fuel. Help us put it on the map.",
   "heroGmv": "~$465K in TikTok Shop GMV and counting. The #1 brain fuel brand on TikTok Shop.",
   "discordUrl": "https://discord.com/invite/MXf39eMgTY",
@@ -249,14 +249,14 @@
     {
       "handle": "@thededicateddad",
       "primary": "$807",
-      "secondary": "26K views",
+      "secondary": "27K views",
       "angle": "Real, named scarcity",
       "href": "https://tiktok.com/@thededicateddad/video/7674092193027493151",
       "euka_video_id": "7674092193027493151",
       "thumb": "https://database.euka.ai/storage/v1/object/public/creator_videos_photos/7674092193027493151.webp",
       "note": "Scarcity that is actually true, on the newest flavor.",
       "rank": "5",
-      "age": "5 weeks ago",
+      "age": "6 weeks ago",
       "why": "Scarcity works here because it is true. Golden Pear really did sell out in four weeks, so the urgency is a fact rather than a sales line.",
       "hook": "If these sell out anywhere as quick as these did, you might not even get these before you see this video.",
       "sellingPoints": [
