@@ -35,7 +35,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "new-drop"
     },
     "h-0002": {
       "hook_id": "h-0002",
@@ -59,7 +60,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "unclassified"
     },
     "h-0003": {
       "hook_id": "h-0003",
@@ -83,7 +85,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "caffeine-stopped-working"
     },
     "h-0004": {
       "hook_id": "h-0004",
@@ -107,7 +110,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "unclassified"
     },
     "h-0005": {
       "hook_id": "h-0005",
@@ -131,7 +135,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "unclassified"
     },
     "h-0006": {
       "hook_id": "h-0006",
@@ -155,7 +160,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "unclassified"
     },
     "h-0007": {
       "hook_id": "h-0007",
@@ -179,7 +185,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "unclassified"
     },
     "h-0008": {
       "hook_id": "h-0008",
@@ -203,7 +210,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "new-drop"
     },
     "h-0009": {
       "hook_id": "h-0009",
@@ -227,7 +235,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "unclassified"
     },
     "h-0010": {
       "hook_id": "h-0010",
@@ -268,7 +277,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "caffeine-stopped-working"
     },
     "h-0011": {
       "hook_id": "h-0011",
@@ -309,7 +319,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "new-drop"
     },
     "h-0012": {
       "hook_id": "h-0012",
@@ -341,7 +352,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "unclassified"
     },
     "h-0013": {
       "hook_id": "h-0013",
@@ -373,7 +385,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "unclassified"
     },
     "h-0014": {
       "hook_id": "h-0014",
@@ -405,7 +418,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "unclassified"
     },
     "h-0015": {
       "hook_id": "h-0015",
@@ -446,7 +460,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "caffeine-stopped-working"
     },
     "h-0016": {
       "hook_id": "h-0016",
@@ -487,7 +502,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "unclassified"
     },
     "h-0017": {
       "hook_id": "h-0017",
@@ -528,7 +544,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "unclassified"
     },
     "h-0018": {
       "hook_id": "h-0018",
@@ -569,7 +586,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "caffeine-stopped-working"
     },
     "h-0019": {
       "hook_id": "h-0019",
@@ -601,7 +619,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "unclassified"
     },
     "h-0020": {
       "hook_id": "h-0020",
@@ -628,7 +647,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "unclassified"
     },
     "h-0021": {
       "hook_id": "h-0021",
@@ -655,7 +675,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "unclassified"
     },
     "h-0022": {
       "hook_id": "h-0022",
@@ -682,7 +703,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "unclassified"
     },
     "h-0023": {
       "hook_id": "h-0023",
@@ -709,7 +731,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "unclassified"
     },
     "h-0024": {
       "hook_id": "h-0024",
@@ -736,7 +759,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "new-drop"
     },
     "h-0025": {
       "hook_id": "h-0025",
@@ -763,7 +787,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "new-drop"
     },
     "h-0026": {
       "hook_id": "h-0026",
@@ -790,7 +815,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "new-drop"
     },
     "h-0027": {
       "hook_id": "h-0027",
@@ -817,7 +843,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "new-drop"
     },
     "h-0028": {
       "hook_id": "h-0028",
@@ -846,7 +873,8 @@
           "caffeine_named_more_than_once"
         ],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "unclassified"
     },
     "h-0029": {
       "hook_id": "h-0029",
@@ -873,7 +901,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "new-drop"
     },
     "h-0030": {
       "hook_id": "h-0030",
@@ -900,7 +929,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "before-its-gone"
     },
     "h-0031": {
       "hook_id": "h-0031",
@@ -927,7 +957,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "before-its-gone"
     },
     "h-0032": {
       "hook_id": "h-0032",
@@ -954,7 +985,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "what-it-is"
     },
     "h-0033": {
       "hook_id": "h-0033",
@@ -981,7 +1013,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "before-its-gone"
     },
     "h-0034": {
       "hook_id": "h-0034",
@@ -1008,7 +1041,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "before-its-gone"
     },
     "h-0035": {
       "hook_id": "h-0035",
@@ -1037,7 +1071,8 @@
           "caffeine_named_more_than_once"
         ],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "what-it-is"
     },
     "h-0036": {
       "hook_id": "h-0036",
@@ -1064,7 +1099,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "before-its-gone"
     },
     "h-0037": {
       "hook_id": "h-0037",
@@ -1091,7 +1127,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "unclassified"
     },
     "h-0038": {
       "hook_id": "h-0038",
@@ -1118,7 +1155,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "before-its-gone"
     },
     "h-0039": {
       "hook_id": "h-0039",
@@ -1145,7 +1183,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "unclassified"
     },
     "h-0040": {
       "hook_id": "h-0040",
@@ -1172,7 +1211,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "caffeine-stopped-working"
     },
     "h-0041": {
       "hook_id": "h-0041",
@@ -1199,7 +1239,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "unclassified"
     },
     "h-0042": {
       "hook_id": "h-0042",
@@ -1226,7 +1267,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "unclassified"
     },
     "h-0043": {
       "hook_id": "h-0043",
@@ -1253,7 +1295,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "steal"
     },
     "h-0044": {
       "hook_id": "h-0044",
@@ -1280,7 +1323,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "what-it-is"
     },
     "h-0045": {
       "hook_id": "h-0045",
@@ -1307,7 +1351,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "unclassified"
     },
     "h-0046": {
       "hook_id": "h-0046",
@@ -1334,7 +1379,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "steal"
     },
     "h-0047": {
       "hook_id": "h-0047",
@@ -1361,7 +1407,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "unclassified"
     },
     "h-0048": {
       "hook_id": "h-0048",
@@ -1388,7 +1435,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "unclassified"
     },
     "h-0049": {
       "hook_id": "h-0049",
@@ -1415,7 +1463,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "caffeine-stopped-working"
     },
     "h-0050": {
       "hook_id": "h-0050",
@@ -1442,7 +1491,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "caffeine-stopped-working"
     },
     "h-0051": {
       "hook_id": "h-0051",
@@ -1469,7 +1519,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "what-it-is"
     },
     "h-0052": {
       "hook_id": "h-0052",
@@ -1496,7 +1547,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "unclassified"
     },
     "h-0053": {
       "hook_id": "h-0053",
@@ -1523,7 +1575,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "caffeine-stopped-working"
     },
     "h-0054": {
       "hook_id": "h-0054",
@@ -1550,7 +1603,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "caffeine-stopped-working"
     },
     "h-0055": {
       "hook_id": "h-0055",
@@ -1577,7 +1631,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "unclassified"
     },
     "h-0056": {
       "hook_id": "h-0056",
@@ -1606,7 +1661,8 @@
           "caffeine_named_more_than_once"
         ],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "what-it-is"
     },
     "h-0057": {
       "hook_id": "h-0057",
@@ -1642,7 +1698,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "what-it-is"
     },
     "h-0058": {
       "hook_id": "h-0058",
@@ -1669,7 +1726,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "unclassified"
     },
     "h-0059": {
       "hook_id": "h-0059",
@@ -1696,7 +1754,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "unclassified"
     },
     "h-0060": {
       "hook_id": "h-0060",
@@ -1723,7 +1782,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "unclassified"
     },
     "h-0061": {
       "hook_id": "h-0061",
@@ -1750,7 +1810,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "unclassified"
     },
     "h-0062": {
       "hook_id": "h-0062",
@@ -1777,7 +1838,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "unclassified"
     },
     "h-0063": {
       "hook_id": "h-0063",
@@ -1804,7 +1866,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "unclassified"
     },
     "h-0064": {
       "hook_id": "h-0064",
@@ -1831,7 +1894,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "unclassified"
     },
     "h-0065": {
       "hook_id": "h-0065",
@@ -1858,7 +1922,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "caffeine-stopped-working"
     },
     "h-0066": {
       "hook_id": "h-0066",
@@ -1885,7 +1950,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "unclassified"
     },
     "h-0067": {
       "hook_id": "h-0067",
@@ -1914,7 +1980,8 @@
           "caffeine_named_more_than_once"
         ],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "what-it-is"
     },
     "h-0068": {
       "hook_id": "h-0068",
@@ -1950,7 +2017,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "what-it-is"
     },
     "h-0069": {
       "hook_id": "h-0069",
@@ -1977,7 +2045,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "unclassified"
     },
     "h-0070": {
       "hook_id": "h-0070",
@@ -2004,7 +2073,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "unclassified"
     },
     "h-0071": {
       "hook_id": "h-0071",
@@ -2031,7 +2101,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "unclassified"
     },
     "h-0072": {
       "hook_id": "h-0072",
@@ -2058,7 +2129,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "unclassified"
     },
     "h-0073": {
       "hook_id": "h-0073",
@@ -2085,7 +2157,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "new-drop"
     },
     "h-0074": {
       "hook_id": "h-0074",
@@ -2112,7 +2185,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "unclassified"
     },
     "h-0075": {
       "hook_id": "h-0075",
@@ -2139,7 +2213,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "unclassified"
     },
     "h-0076": {
       "hook_id": "h-0076",
@@ -2166,7 +2241,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "unclassified"
     },
     "h-0077": {
       "hook_id": "h-0077",
@@ -2202,7 +2278,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "what-it-is"
     },
     "h-0078": {
       "hook_id": "h-0078",
@@ -2229,7 +2306,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "what-it-is"
     },
     "h-0079": {
       "hook_id": "h-0079",
@@ -2256,7 +2334,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "unclassified"
     },
     "h-0080": {
       "hook_id": "h-0080",
@@ -2283,7 +2362,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "unclassified"
     },
     "h-0081": {
       "hook_id": "h-0081",
@@ -2310,7 +2390,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "caffeine-stopped-working"
     },
     "h-0082": {
       "hook_id": "h-0082",
@@ -2337,7 +2418,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "caffeine-stopped-working"
     },
     "h-0083": {
       "hook_id": "h-0083",
@@ -2364,7 +2446,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "unclassified"
     },
     "h-0084": {
       "hook_id": "h-0084",
@@ -2391,7 +2474,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "caffeine-stopped-working"
     },
     "h-0085": {
       "hook_id": "h-0085",
@@ -2418,7 +2502,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "unclassified"
     },
     "h-0086": {
       "hook_id": "h-0086",
@@ -2445,7 +2530,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "caffeine-stopped-working"
     },
     "h-0087": {
       "hook_id": "h-0087",
@@ -2481,7 +2567,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "what-it-is"
     },
     "h-0088": {
       "hook_id": "h-0088",
@@ -2508,7 +2595,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "what-it-is"
     },
     "h-0089": {
       "hook_id": "h-0089",
@@ -2535,7 +2623,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "unclassified"
     },
     "h-0090": {
       "hook_id": "h-0090",
@@ -2562,7 +2651,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "caffeine-stopped-working"
     },
     "h-0091": {
       "hook_id": "h-0091",
@@ -2589,7 +2679,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "unclassified"
     },
     "h-0092": {
       "hook_id": "h-0092",
@@ -2616,7 +2707,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "unclassified"
     },
     "h-0093": {
       "hook_id": "h-0093",
@@ -2643,7 +2735,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "caffeine-stopped-working"
     },
     "h-0094": {
       "hook_id": "h-0094",
@@ -2670,7 +2763,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "unclassified"
     },
     "h-0095": {
       "hook_id": "h-0095",
@@ -2697,7 +2791,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "caffeine-stopped-working"
     },
     "h-0096": {
       "hook_id": "h-0096",
@@ -2726,7 +2821,8 @@
           "caffeine_named_more_than_once"
         ],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "what-it-is"
     },
     "h-0097": {
       "hook_id": "h-0097",
@@ -2762,7 +2858,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "unclassified"
     },
     "h-0098": {
       "hook_id": "h-0098",
@@ -2789,7 +2886,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "caffeine-stopped-working"
     },
     "h-0099": {
       "hook_id": "h-0099",
@@ -2816,7 +2914,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "caffeine-stopped-working"
     },
     "h-0100": {
       "hook_id": "h-0100",
@@ -2843,7 +2942,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "unclassified"
     },
     "h-0101": {
       "hook_id": "h-0101",
@@ -2870,7 +2970,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "unclassified"
     },
     "h-0102": {
       "hook_id": "h-0102",
@@ -2897,7 +2998,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "unclassified"
     },
     "h-0103": {
       "hook_id": "h-0103",
@@ -2924,7 +3026,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "caffeine-stopped-working"
     },
     "h-0104": {
       "hook_id": "h-0104",
@@ -2951,7 +3054,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "caffeine-stopped-working"
     },
     "h-0105": {
       "hook_id": "h-0105",
@@ -2978,7 +3082,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "caffeine-stopped-working"
     },
     "h-0106": {
       "hook_id": "h-0106",
@@ -3007,7 +3112,8 @@
           "caffeine_named_more_than_once"
         ],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "what-it-is"
     },
     "h-0107": {
       "hook_id": "h-0107",
@@ -3043,7 +3149,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "what-it-is"
     },
     "h-0108": {
       "hook_id": "h-0108",
@@ -3070,7 +3177,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "in-the-moment"
     },
     "h-0109": {
       "hook_id": "h-0109",
@@ -3097,7 +3205,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "unclassified"
     },
     "h-0110": {
       "hook_id": "h-0110",
@@ -3124,7 +3233,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "caffeine-stopped-working"
     },
     "h-0111": {
       "hook_id": "h-0111",
@@ -3151,7 +3261,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "unclassified"
     },
     "h-0112": {
       "hook_id": "h-0112",
@@ -3178,7 +3289,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "caffeine-stopped-working"
     },
     "h-0113": {
       "hook_id": "h-0113",
@@ -3205,7 +3317,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "caffeine-stopped-working"
     },
     "h-0114": {
       "hook_id": "h-0114",
@@ -3232,7 +3345,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "what-it-is"
     },
     "h-0115": {
       "hook_id": "h-0115",
@@ -3259,7 +3373,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "unclassified"
     },
     "h-0116": {
       "hook_id": "h-0116",
@@ -3286,7 +3401,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "caffeine-stopped-working"
     },
     "h-0117": {
       "hook_id": "h-0117",
@@ -3322,7 +3438,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "unclassified"
     },
     "h-0118": {
       "hook_id": "h-0118",
@@ -3349,7 +3466,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "caffeine-stopped-working"
     },
     "h-0119": {
       "hook_id": "h-0119",
@@ -3376,7 +3494,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "caffeine-stopped-working"
     },
     "h-0120": {
       "hook_id": "h-0120",
@@ -3403,7 +3522,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "caffeine-stopped-working"
     },
     "h-0121": {
       "hook_id": "h-0121",
@@ -3430,7 +3550,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "unclassified"
     },
     "h-0122": {
       "hook_id": "h-0122",
@@ -3457,7 +3578,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "caffeine-stopped-working"
     },
     "h-0123": {
       "hook_id": "h-0123",
@@ -3484,7 +3606,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "caffeine-stopped-working"
     },
     "h-0124": {
       "hook_id": "h-0124",
@@ -3511,7 +3634,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "caffeine-stopped-working"
     },
     "h-0125": {
       "hook_id": "h-0125",
@@ -3538,7 +3662,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "caffeine-stopped-working"
     },
     "h-0126": {
       "hook_id": "h-0126",
@@ -3565,7 +3690,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "unclassified"
     },
     "h-0127": {
       "hook_id": "h-0127",
@@ -3601,7 +3727,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "unclassified"
     },
     "h-0128": {
       "hook_id": "h-0128",
@@ -3628,7 +3755,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "caffeine-stopped-working"
     },
     "h-0129": {
       "hook_id": "h-0129",
@@ -3655,7 +3783,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "unclassified"
     },
     "h-0130": {
       "hook_id": "h-0130",
@@ -3682,7 +3811,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "unclassified"
     },
     "h-0131": {
       "hook_id": "h-0131",
@@ -3709,7 +3839,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "unclassified"
     },
     "h-0132": {
       "hook_id": "h-0132",
@@ -3736,7 +3867,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "unclassified"
     },
     "h-0133": {
       "hook_id": "h-0133",
@@ -3763,7 +3895,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "caffeine-stopped-working"
     },
     "h-0134": {
       "hook_id": "h-0134",
@@ -3790,7 +3923,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "what-it-is"
     },
     "h-0135": {
       "hook_id": "h-0135",
@@ -3817,7 +3951,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "unclassified"
     },
     "h-0136": {
       "hook_id": "h-0136",
@@ -3844,7 +3979,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "caffeine-stopped-working"
     },
     "h-0137": {
       "hook_id": "h-0137",
@@ -3880,7 +4016,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "caffeine-stopped-working"
     },
     "h-0138": {
       "hook_id": "h-0138",
@@ -3907,7 +4044,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "caffeine-stopped-working"
     },
     "h-0139": {
       "hook_id": "h-0139",
@@ -3934,7 +4072,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "caffeine-stopped-working"
     },
     "h-0140": {
       "hook_id": "h-0140",
@@ -3961,7 +4100,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "unclassified"
     },
     "h-0141": {
       "hook_id": "h-0141",
@@ -3988,7 +4128,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "unclassified"
     },
     "h-0142": {
       "hook_id": "h-0142",
@@ -4015,7 +4156,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "caffeine-stopped-working"
     },
     "h-0143": {
       "hook_id": "h-0143",
@@ -4042,7 +4184,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "caffeine-stopped-working"
     },
     "h-0144": {
       "hook_id": "h-0144",
@@ -4069,7 +4212,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "what-it-is"
     },
     "h-0145": {
       "hook_id": "h-0145",
@@ -4096,7 +4240,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "unclassified"
     },
     "h-0146": {
       "hook_id": "h-0146",
@@ -4123,7 +4268,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "caffeine-stopped-working"
     },
     "h-0147": {
       "hook_id": "h-0147",
@@ -4150,7 +4296,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "caffeine-stopped-working"
     },
     "h-0148": {
       "hook_id": "h-0148",
@@ -4177,7 +4324,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "unclassified"
     },
     "h-0149": {
       "hook_id": "h-0149",
@@ -4204,7 +4352,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "caffeine-stopped-working"
     },
     "h-0150": {
       "hook_id": "h-0150",
@@ -4231,7 +4380,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "caffeine-stopped-working"
     },
     "h-0151": {
       "hook_id": "h-0151",
@@ -4258,7 +4408,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "caffeine-stopped-working"
     },
     "h-0152": {
       "hook_id": "h-0152",
@@ -4285,7 +4436,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "caffeine-stopped-working"
     },
     "h-0153": {
       "hook_id": "h-0153",
@@ -4312,7 +4464,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "what-it-is"
     },
     "h-0154": {
       "hook_id": "h-0154",
@@ -4339,7 +4492,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "unclassified"
     },
     "h-0155": {
       "hook_id": "h-0155",
@@ -4366,7 +4520,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "caffeine-stopped-working"
     },
     "h-0156": {
       "hook_id": "h-0156",
@@ -4402,7 +4557,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "unclassified"
     },
     "h-0157": {
       "hook_id": "h-0157",
@@ -4429,7 +4585,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "caffeine-stopped-working"
     },
     "h-0158": {
       "hook_id": "h-0158",
@@ -4456,7 +4613,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "unclassified"
     },
     "h-0159": {
       "hook_id": "h-0159",
@@ -4483,7 +4641,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "unclassified"
     },
     "h-0160": {
       "hook_id": "h-0160",
@@ -4510,7 +4669,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "unclassified"
     },
     "h-0161": {
       "hook_id": "h-0161",
@@ -4537,7 +4697,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "unclassified"
     },
     "h-0162": {
       "hook_id": "h-0162",
@@ -4564,7 +4725,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "caffeine-stopped-working"
     },
     "h-0163": {
       "hook_id": "h-0163",
@@ -4591,7 +4753,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "unclassified"
     },
     "h-0164": {
       "hook_id": "h-0164",
@@ -4618,7 +4781,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "unclassified"
     },
     "h-0165": {
       "hook_id": "h-0165",
@@ -4645,7 +4809,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "caffeine-stopped-working"
     },
     "h-0166": {
       "hook_id": "h-0166",
@@ -4681,7 +4846,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "unclassified"
     },
     "h-0167": {
       "hook_id": "h-0167",
@@ -4708,7 +4874,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "unclassified"
     },
     "h-0168": {
       "hook_id": "h-0168",
@@ -4735,7 +4902,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "unclassified"
     },
     "h-0169": {
       "hook_id": "h-0169",
@@ -4762,7 +4930,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "unclassified"
     },
     "h-0170": {
       "hook_id": "h-0170",
@@ -4789,7 +4958,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "in-the-moment"
     },
     "h-0171": {
       "hook_id": "h-0171",
@@ -4816,7 +4986,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "in-the-moment"
     },
     "h-0172": {
       "hook_id": "h-0172",
@@ -4843,7 +5014,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "unclassified"
     },
     "h-0173": {
       "hook_id": "h-0173",
@@ -4870,7 +5042,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "unclassified"
     },
     "h-0174": {
       "hook_id": "h-0174",
@@ -4897,7 +5070,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "unclassified"
     },
     "h-0175": {
       "hook_id": "h-0175",
@@ -4924,7 +5098,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "unclassified"
     },
     "h-0176": {
       "hook_id": "h-0176",
@@ -4960,7 +5135,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "in-the-moment"
     },
     "h-0177": {
       "hook_id": "h-0177",
@@ -4987,7 +5163,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "what-it-is"
     },
     "h-0178": {
       "hook_id": "h-0178",
@@ -5014,7 +5191,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "unclassified"
     },
     "h-0179": {
       "hook_id": "h-0179",
@@ -5041,7 +5219,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "unclassified"
     },
     "h-0180": {
       "hook_id": "h-0180",
@@ -5068,7 +5247,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "unclassified"
     },
     "h-0181": {
       "hook_id": "h-0181",
@@ -5095,7 +5275,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "unclassified"
     },
     "h-0182": {
       "hook_id": "h-0182",
@@ -5122,7 +5303,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "caffeine-stopped-working"
     },
     "h-0183": {
       "hook_id": "h-0183",
@@ -5149,7 +5331,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "unclassified"
     },
     "h-0184": {
       "hook_id": "h-0184",
@@ -5176,7 +5359,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "unclassified"
     },
     "h-0185": {
       "hook_id": "h-0185",
@@ -5205,7 +5389,8 @@
           "caffeine_named_more_than_once"
         ],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "in-the-moment"
     },
     "h-0186": {
       "hook_id": "h-0186",
@@ -5241,7 +5426,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "unclassified"
     },
     "h-0187": {
       "hook_id": "h-0187",
@@ -5268,7 +5454,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "caffeine-stopped-working"
     },
     "h-0188": {
       "hook_id": "h-0188",
@@ -5295,7 +5482,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "caffeine-stopped-working"
     },
     "h-0189": {
       "hook_id": "h-0189",
@@ -5322,7 +5510,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "unclassified"
     },
     "h-0190": {
       "hook_id": "h-0190",
@@ -5349,7 +5538,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "unclassified"
     },
     "h-0191": {
       "hook_id": "h-0191",
@@ -5376,7 +5566,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "unclassified"
     },
     "h-0192": {
       "hook_id": "h-0192",
@@ -5403,7 +5594,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "what-it-is"
     },
     "h-0193": {
       "hook_id": "h-0193",
@@ -5430,7 +5622,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "unclassified"
     },
     "h-0194": {
       "hook_id": "h-0194",
@@ -5457,7 +5650,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "unclassified"
     },
     "h-0195": {
       "hook_id": "h-0195",
@@ -5486,7 +5680,8 @@
           "caffeine_named_more_than_once"
         ],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "caffeine-stopped-working"
     },
     "h-0196": {
       "hook_id": "h-0196",
@@ -5522,7 +5717,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "unclassified"
     },
     "h-0197": {
       "hook_id": "h-0197",
@@ -5549,7 +5745,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "caffeine-stopped-working"
     },
     "h-0198": {
       "hook_id": "h-0198",
@@ -5576,7 +5773,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "what-it-is"
     },
     "h-0199": {
       "hook_id": "h-0199",
@@ -5603,7 +5801,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "unclassified"
     },
     "h-0200": {
       "hook_id": "h-0200",
@@ -5630,7 +5829,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "unclassified"
     },
     "h-0201": {
       "hook_id": "h-0201",
@@ -5657,7 +5857,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "unclassified"
     },
     "h-0202": {
       "hook_id": "h-0202",
@@ -5684,7 +5885,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "caffeine-stopped-working"
     },
     "h-0203": {
       "hook_id": "h-0203",
@@ -5711,7 +5913,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "unclassified"
     },
     "h-0204": {
       "hook_id": "h-0204",
@@ -5738,7 +5941,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "unclassified"
     },
     "h-0205": {
       "hook_id": "h-0205",
@@ -5767,7 +5971,8 @@
           "caffeine_named_more_than_once"
         ],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "what-it-is"
     },
     "h-0206": {
       "hook_id": "h-0206",
@@ -5803,7 +6008,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "unclassified"
     },
     "h-0207": {
       "hook_id": "h-0207",
@@ -5830,7 +6036,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "unclassified"
     },
     "h-0208": {
       "hook_id": "h-0208",
@@ -5857,7 +6064,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "unclassified"
     },
     "h-0209": {
       "hook_id": "h-0209",
@@ -5884,7 +6092,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "caffeine-stopped-working"
     },
     "h-0210": {
       "hook_id": "h-0210",
@@ -5911,7 +6120,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "unclassified"
     },
     "h-0211": {
       "hook_id": "h-0211",
@@ -5938,7 +6148,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "unclassified"
     },
     "h-0212": {
       "hook_id": "h-0212",
@@ -5965,7 +6176,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "unclassified"
     },
     "h-0213": {
       "hook_id": "h-0213",
@@ -5992,7 +6204,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "unclassified"
     },
     "h-0214": {
       "hook_id": "h-0214",
@@ -6019,7 +6232,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "unclassified"
     },
     "h-0215": {
       "hook_id": "h-0215",
@@ -6046,7 +6260,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "caffeine-stopped-working"
     },
     "h-0216": {
       "hook_id": "h-0216",
@@ -6082,7 +6297,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "caffeine-stopped-working"
     },
     "h-0217": {
       "hook_id": "h-0217",
@@ -6109,7 +6325,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "unclassified"
     },
     "h-0218": {
       "hook_id": "h-0218",
@@ -6136,7 +6353,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "unclassified"
     },
     "h-0219": {
       "hook_id": "h-0219",
@@ -6163,7 +6381,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "unclassified"
     },
     "h-0220": {
       "hook_id": "h-0220",
@@ -6190,7 +6409,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "unclassified"
     },
     "h-0221": {
       "hook_id": "h-0221",
@@ -6217,7 +6437,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "unclassified"
     },
     "h-0222": {
       "hook_id": "h-0222",
@@ -6244,7 +6465,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "what-it-is"
     },
     "h-0223": {
       "hook_id": "h-0223",
@@ -6271,7 +6493,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "unclassified"
     },
     "h-0224": {
       "hook_id": "h-0224",
@@ -6298,7 +6521,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "unclassified"
     },
     "h-0225": {
       "hook_id": "h-0225",
@@ -6325,7 +6549,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "unclassified"
     },
     "h-0226": {
       "hook_id": "h-0226",
@@ -6361,7 +6586,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "unclassified"
     },
     "h-0227": {
       "hook_id": "h-0227",
@@ -6388,7 +6614,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "caffeine-stopped-working"
     },
     "h-0228": {
       "hook_id": "h-0228",
@@ -6417,7 +6644,8 @@
           "caffeine_named_more_than_once"
         ],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "unclassified"
     },
     "h-0229": {
       "hook_id": "h-0229",
@@ -6444,7 +6672,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "caffeine-stopped-working"
     },
     "h-0230": {
       "hook_id": "h-0230",
@@ -6471,7 +6700,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "unclassified"
     },
     "h-0231": {
       "hook_id": "h-0231",
@@ -6498,7 +6728,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "unclassified"
     },
     "h-0232": {
       "hook_id": "h-0232",
@@ -6525,7 +6756,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "unclassified"
     },
     "h-0233": {
       "hook_id": "h-0233",
@@ -6552,7 +6784,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "unclassified"
     },
     "h-0234": {
       "hook_id": "h-0234",
@@ -6579,7 +6812,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "unclassified"
     },
     "h-0235": {
       "hook_id": "h-0235",
@@ -6608,7 +6842,8 @@
           "em_dash"
         ],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "in-the-moment"
     },
     "h-0236": {
       "hook_id": "h-0236",
@@ -6646,7 +6881,8 @@
           "em_dash"
         ],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "unclassified"
     },
     "h-0237": {
       "hook_id": "h-0237",
@@ -6673,7 +6909,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "caffeine-stopped-working"
     },
     "h-0238": {
       "hook_id": "h-0238",
@@ -6702,7 +6939,8 @@
           "em_dash"
         ],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "unclassified"
     },
     "h-0239": {
       "hook_id": "h-0239",
@@ -6729,7 +6967,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "what-it-is"
     },
     "h-0240": {
       "hook_id": "h-0240",
@@ -6756,7 +6995,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "unclassified"
     },
     "h-0241": {
       "hook_id": "h-0241",
@@ -6783,7 +7023,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "what-it-is"
     },
     "h-0242": {
       "hook_id": "h-0242",
@@ -6810,7 +7051,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "caffeine-stopped-working"
     },
     "h-0243": {
       "hook_id": "h-0243",
@@ -6837,7 +7079,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "unclassified"
     },
     "h-0244": {
       "hook_id": "h-0244",
@@ -6864,7 +7107,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "unclassified"
     },
     "h-0245": {
       "hook_id": "h-0245",
@@ -6891,7 +7135,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "what-it-is"
     },
     "h-0246": {
       "hook_id": "h-0246",
@@ -6918,7 +7163,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "unclassified"
     },
     "h-0247": {
       "hook_id": "h-0247",
@@ -6945,7 +7191,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "unclassified"
     },
     "h-0248": {
       "hook_id": "h-0248",
@@ -6972,7 +7219,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "what-it-is"
     },
     "h-0249": {
       "hook_id": "h-0249",
@@ -6999,7 +7247,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "unclassified"
     },
     "h-0250": {
       "hook_id": "h-0250",
@@ -7026,7 +7275,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "unclassified"
     },
     "h-0251": {
       "hook_id": "h-0251",
@@ -7053,7 +7303,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "unclassified"
     },
     "h-0252": {
       "hook_id": "h-0252",
@@ -7080,7 +7331,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "unclassified"
     },
     "h-0253": {
       "hook_id": "h-0253",
@@ -7107,7 +7359,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "unclassified"
     },
     "h-0254": {
       "hook_id": "h-0254",
@@ -7134,7 +7387,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "unclassified"
     },
     "h-0255": {
       "hook_id": "h-0255",
@@ -7161,7 +7415,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "unclassified"
     },
     "h-0256": {
       "hook_id": "h-0256",
@@ -7188,7 +7443,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "unclassified"
     },
     "h-0257": {
       "hook_id": "h-0257",
@@ -7215,7 +7471,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "unclassified"
     },
     "h-0258": {
       "hook_id": "h-0258",
@@ -7242,7 +7499,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "unclassified"
     },
     "h-0259": {
       "hook_id": "h-0259",
@@ -7269,7 +7527,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "unclassified"
     },
     "h-0260": {
       "hook_id": "h-0260",
@@ -7296,7 +7555,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "unclassified"
     },
     "h-0261": {
       "hook_id": "h-0261",
@@ -7323,7 +7583,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "caffeine-stopped-working"
     },
     "h-0262": {
       "hook_id": "h-0262",
@@ -7350,7 +7611,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "unclassified"
     },
     "h-0263": {
       "hook_id": "h-0263",
@@ -7377,7 +7639,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "caffeine-stopped-working"
     },
     "h-0264": {
       "hook_id": "h-0264",
@@ -7404,7 +7667,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "caffeine-stopped-working"
     },
     "h-0265": {
       "hook_id": "h-0265",
@@ -7431,7 +7695,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "unclassified"
     },
     "h-0266": {
       "hook_id": "h-0266",
@@ -7458,7 +7723,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "unclassified"
     },
     "h-0267": {
       "hook_id": "h-0267",
@@ -7485,7 +7751,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "unclassified"
     },
     "h-0268": {
       "hook_id": "h-0268",
@@ -7512,7 +7779,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "unclassified"
     },
     "h-0269": {
       "hook_id": "h-0269",
@@ -7540,7 +7808,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "unclassified"
     },
     "h-0270": {
       "hook_id": "h-0270",
@@ -7568,7 +7837,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "caffeine-stopped-working"
     },
     "h-0271": {
       "hook_id": "h-0271",
@@ -7596,7 +7866,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "unclassified"
     },
     "h-0272": {
       "hook_id": "h-0272",
@@ -7624,7 +7895,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "before-its-gone"
     },
     "h-0273": {
       "hook_id": "h-0273",
@@ -7652,7 +7924,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "caffeine-stopped-working"
     },
     "h-0274": {
       "hook_id": "h-0274",
@@ -7680,7 +7953,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "caffeine-stopped-working"
     },
     "h-0275": {
       "hook_id": "h-0275",
@@ -7708,7 +7982,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "whats-in-energy-drinks"
     },
     "h-0276": {
       "hook_id": "h-0276",
@@ -7736,7 +8011,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "unclassified"
     },
     "h-0277": {
       "hook_id": "h-0277",
@@ -7764,7 +8040,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "new-drop"
     },
     "h-0278": {
       "hook_id": "h-0278",
@@ -7792,7 +8069,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "whats-in-energy-drinks"
     },
     "h-0279": {
       "hook_id": "h-0279",
@@ -7820,7 +8098,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "caffeine-stopped-working"
     },
     "h-0280": {
       "hook_id": "h-0280",
@@ -7848,7 +8127,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "caffeine-stopped-working"
     },
     "h-0281": {
       "hook_id": "h-0281",
@@ -7876,7 +8156,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "what-it-is"
     },
     "h-0282": {
       "hook_id": "h-0282",
@@ -7904,7 +8185,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "unclassified"
     },
     "h-0283": {
       "hook_id": "h-0283",
@@ -7932,7 +8214,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "unclassified"
     }
   },
   "tabs": [
