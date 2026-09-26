@@ -246,7 +246,7 @@
       "meta_extra": [
         {
           "kind": "bold",
-          "text": "Our best performing family right now, 3.9x"
+          "text": "Our best performing family right now"
         },
         {
           "kind": "source_link"
@@ -286,10 +286,6 @@
       "angle": "Borrowed hype",
       "format": "To camera, unboxing energy",
       "meta_extra": [
-        {
-          "kind": "bold",
-          "text": "8.3x, our best 90-day return"
-        },
         {
           "kind": "source_link"
         }
@@ -8720,8 +8716,7 @@
           "blocks": [
             {
               "block": "heading",
-              "title": "Video 1 — The Switch",
-              "roi": "3.9x"
+              "title": "Video 1 — The Switch"
             },
             {
               "block": "sub",
@@ -8800,8 +8795,7 @@
           "blocks": [
             {
               "block": "heading",
-              "title": "Video 2 — The Afternoon Slump",
-              "roi": "1.8x"
+              "title": "Video 2 — The Afternoon Slump"
             },
             {
               "block": "sub",
@@ -8884,8 +8878,7 @@
           "blocks": [
             {
               "block": "heading",
-              "title": "Video 3: Not an Energy Drink",
-              "roi": "1.9x"
+              "title": "Video 3: Not an Energy Drink"
             },
             {
               "block": "sub",
