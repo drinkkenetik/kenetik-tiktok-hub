@@ -91,6 +91,7 @@ ul.run b{color:var(--ink);} ul.run b.dont{color:var(--bad);}
 .win .wm{font-size:11.5px;color:var(--ink2);display:flex;justify-content:space-between;align-items:center;gap:6px;}
 .win .wm b{color:var(--berry);font-size:12.5px;}
 .win .wn{font-size:10px;line-height:1.35;color:var(--ink2);margin-top:5px;letter-spacing:.3px;text-transform:uppercase;font-weight:700;opacity:.75;}
+.win .wn.wd{margin-top:2px;}
 @media(max-width:760px){.wins{grid-template-columns:repeat(auto-fill,minmax(150px,1fr));gap:11px;}}
 
 .fork{display:flex;gap:14px;margin:2px 0 6px;}
@@ -289,19 +290,35 @@ function renderPillar(side, pillar, fallback){
 }
 
 /* A card's figure is the machine's when the card carries one (`sales`, that video's TikTok
-   Shop sales, written weekly by the turn), and Nick's own figure when it does not. The tag,
-   the quote and the handle are always his. The store's gate refuses any figure on this page
-   that is not TikTok Shop sales, so nothing here needs to check it again. */
+   Shop sales over the turn's window, written weekly by the turn), and Nick's own figure when it
+   does not. The tag, the quote and the handle are always his. A machine figure is drawn with
+   the dates its own record covers. The store's gate refuses any figure on this page that is
+   not TikTok Shop sales, and refuses a card that shows a figure with no dated record unless it
+   is on the store's dated backlog, so nothing here needs to check either again. */
+var SHORT_MONTHS = ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];
+
+function windowDates(win){
+  var a = /^(\d{4})-(\d{2})-(\d{2})$/.exec(String((win || {}).start || ''));
+  var b = /^(\d{4})-(\d{2})-(\d{2})$/.exec(String((win || {}).end || ''));
+  if(!a || !b) return '';
+  var day = function(m, year){
+    return String(Number(m[3])) + ' ' + SHORT_MONTHS[Number(m[2]) - 1] + (year ? ' ' + m[1] : '');
+  };
+  return day(a, a[1] !== b[1]) + ' to ' + day(b, true);
+}
+
 function renderWins(items){
   return '<div class="wins">' + (items || []).map(function(w){
     var sales = (w.sales && typeof w.sales.figure === 'string') ? w.sales : null;
     var figure = sales ? sales.figure : w.figure;
     var note = sales ? sales.note : w.note;
+    var dates = sales ? windowDates(sales.window) : '';
     return '<a class="win" href="' + attr(w.url) + '" target="_blank" rel="noopener">'
       + '<img src="' + attr(w.image) + '" alt="' + attr(w.image_alt) + '" loading="lazy">'
       + '<div class="wb"><div class="wtag">' + rich(w.tag) + '</div><div class="wq">' + rich(w.quote) + '</div>'
       + '<div class="wm"><span>' + esc(w.handle) + '</span><b>' + esc(figure) + '</b></div>'
       + (note ? '<div class="wn">' + esc(note) + '</div>' : '')
+      + (dates ? '<div class="wn wd">' + esc(dates) + '</div>' : '')
       + '</div></a>';
   }).join('') + '</div>';
 }

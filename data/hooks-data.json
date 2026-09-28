@@ -8712,7 +8712,17 @@
                   "quote": "“So I’ve run some numbers on Kenetik. It replaces my $6 energy drink, and it replaces my 2 cups of coffee in the morning.”",
                   "handle": "@healthy.lifestyle.vibe",
                   "figure": "$925",
-                  "note": "TikTok Shop · 12 orders"
+                  "note": "TikTok Shop · 12 orders",
+                  "sales": {
+                    "figure": "$925",
+                    "note": "TikTok Shop · 12 orders",
+                    "source": "tiktok_shop",
+                    "window": {
+                      "start": "2026-06-30",
+                      "end": "2026-09-27"
+                    },
+                    "as_of": "2026-09-27"
+                  }
                 },
                 {
                   "url": "https://www.tiktok.com/@thededicateddad/video/7674092193027493151",
@@ -8722,7 +8732,17 @@
                   "quote": "“These are not energy drinks. They’re brain fuel. They don’t have caffeine. They have ketones.”",
                   "handle": "@thededicateddad",
                   "figure": "$807",
-                  "note": "TikTok Shop · 17 orders"
+                  "note": "TikTok Shop · 17 orders",
+                  "sales": {
+                    "figure": "$807",
+                    "note": "TikTok Shop · 17 orders",
+                    "source": "tiktok_shop",
+                    "window": {
+                      "start": "2026-06-30",
+                      "end": "2026-09-27"
+                    },
+                    "as_of": "2026-09-27"
+                  }
                 },
                 {
                   "url": "https://www.tiktok.com/@roidragetts/video/7667507988827016462",
@@ -8732,7 +8752,17 @@
                   "quote": "“It’s really early, we’re getting ready for the day, and my body doesn’t want caffeine. It wants brain fuel.”",
                   "handle": "@roidragetts",
                   "figure": "$400",
-                  "note": "TikTok Shop · 8 orders"
+                  "note": "TikTok Shop · 8 orders",
+                  "sales": {
+                    "figure": "$440",
+                    "note": "TikTok Shop · 9 orders",
+                    "source": "tiktok_shop",
+                    "window": {
+                      "start": "2026-06-30",
+                      "end": "2026-09-27"
+                    },
+                    "as_of": "2026-09-27"
+                  }
                 },
                 {
                   "url": "https://www.tiktok.com/@lifefueltv/video/7665147180268735775",
@@ -8742,7 +8772,17 @@
                   "quote": "“Once you understand how ketones work, regular energy drinks start looking a little outdated.”",
                   "handle": "@lifefueltv",
                   "figure": "$157",
-                  "note": "TikTok Shop · 1 order"
+                  "note": "TikTok Shop · 1 order",
+                  "sales": {
+                    "figure": "$157",
+                    "note": "TikTok Shop · 1 order",
+                    "source": "tiktok_shop",
+                    "window": {
+                      "start": "2026-06-30",
+                      "end": "2026-09-27"
+                    },
+                    "as_of": "2026-09-27"
+                  }
                 },
                 {
                   "url": "https://www.tiktok.com/@unstablegenius64/video/7675112056219077901",
@@ -8752,7 +8792,17 @@
                   "quote": "“Tired of feeling scattered by 2 or 3 o’clock in the afternoon?”",
                   "handle": "@unstablegenius64",
                   "figure": "$60",
-                  "note": "TikTok Shop · 1 order"
+                  "note": "TikTok Shop · 1 order",
+                  "sales": {
+                    "figure": "$60",
+                    "note": "TikTok Shop · 1 order",
+                    "source": "tiktok_shop",
+                    "window": {
+                      "start": "2026-06-30",
+                      "end": "2026-09-27"
+                    },
+                    "as_of": "2026-09-27"
+                  }
                 }
               ]
             },
@@ -12951,6 +13001,564 @@
       "rule": "caffeine_named_more_than_once",
       "since": "2026-09-11",
       "note": "already live on the hub when the store was extracted 2026-09-16; the rule binds every new and every edited row from that day"
+    },
+    {
+      "where": "start_here.layout[11].items[0]",
+      "rule": "card_figure_without_a_record",
+      "since": "2026-09-28",
+      "note": "live on the hub when the rule bound, 2026-09-28 (L-441). No committed artifact records this figure's base or dates; it comes out on Devon's or Nick's okay, and until then the rule binds every other row"
+    },
+    {
+      "where": "start_here.layout[11].items[2]",
+      "rule": "card_figure_without_a_record",
+      "since": "2026-09-28",
+      "note": "live on the hub when the rule bound, 2026-09-28 (L-441). No committed artifact records this figure's base or dates; it comes out on Devon's or Nick's okay, and until then the rule binds every other row"
+    },
+    {
+      "where": "hooks.h-0015.meta_extra[0]",
+      "rule": "performance_figure_on_a_public_page",
+      "since": "2026-09-28",
+      "note": "live on the hub when the rule bound, 2026-09-28 (L-441). No committed artifact records this figure's base or dates; it comes out on Devon's or Nick's okay, and until then the rule binds every other row"
+    },
+    {
+      "where": "hooks.h-0016.why",
+      "rule": "performance_figure_on_a_public_page",
+      "since": "2026-09-28",
+      "note": "live on the hub when the rule bound, 2026-09-28 (L-441). No committed artifact records this figure's base or dates; it comes out on Devon's or Nick's okay, and until then the rule binds every other row"
+    },
+    {
+      "where": "hooks.h-0016.meta_extra[0]",
+      "rule": "performance_figure_on_a_public_page",
+      "since": "2026-09-28",
+      "note": "live on the hub when the rule bound, 2026-09-28 (L-441). No committed artifact records this figure's base or dates; it comes out on Devon's or Nick's okay, and until then the rule binds every other row"
+    },
+    {
+      "where": "hooks.h-0017.meta_extra[0]",
+      "rule": "performance_figure_on_a_public_page",
+      "since": "2026-09-28",
+      "note": "live on the hub when the rule bound, 2026-09-28 (L-441). No committed artifact records this figure's base or dates; it comes out on Devon's or Nick's okay, and until then the rule binds every other row"
+    },
+    {
+      "where": "hooks.h-0018.meta_extra[0]",
+      "rule": "performance_figure_on_a_public_page",
+      "since": "2026-09-28",
+      "note": "live on the hub when the rule bound, 2026-09-28 (L-441). No committed artifact records this figure's base or dates; it comes out on Devon's or Nick's okay, and until then the rule binds every other row"
+    },
+    {
+      "where": "hooks.h-0028.why",
+      "rule": "performance_figure_on_a_public_page",
+      "since": "2026-09-28",
+      "note": "live on the hub when the rule bound, 2026-09-28 (L-441). No committed artifact records this figure's base or dates; it comes out on Devon's or Nick's okay, and until then the rule binds every other row"
+    },
+    {
+      "where": "hooks.h-0070.angle",
+      "rule": "performance_figure_on_a_public_page",
+      "since": "2026-09-28",
+      "note": "live on the hub when the rule bound, 2026-09-28 (L-441). No committed artifact records this figure's base or dates; it comes out on Devon's or Nick's okay, and until then the rule binds every other row"
+    },
+    {
+      "where": "hooks.h-0074.angle",
+      "rule": "performance_figure_on_a_public_page",
+      "since": "2026-09-28",
+      "note": "live on the hub when the rule bound, 2026-09-28 (L-441). No committed artifact records this figure's base or dates; it comes out on Devon's or Nick's okay, and until then the rule binds every other row"
+    },
+    {
+      "where": "hooks.h-0075.angle",
+      "rule": "performance_figure_on_a_public_page",
+      "since": "2026-09-28",
+      "note": "live on the hub when the rule bound, 2026-09-28 (L-441). No committed artifact records this figure's base or dates; it comes out on Devon's or Nick's okay, and until then the rule binds every other row"
+    },
+    {
+      "where": "hooks.h-0077.angle",
+      "rule": "performance_figure_on_a_public_page",
+      "since": "2026-09-28",
+      "note": "live on the hub when the rule bound, 2026-09-28 (L-441). No committed artifact records this figure's base or dates; it comes out on Devon's or Nick's okay, and until then the rule binds every other row"
+    },
+    {
+      "where": "hooks.h-0080.angle",
+      "rule": "performance_figure_on_a_public_page",
+      "since": "2026-09-28",
+      "note": "live on the hub when the rule bound, 2026-09-28 (L-441). No committed artifact records this figure's base or dates; it comes out on Devon's or Nick's okay, and until then the rule binds every other row"
+    },
+    {
+      "where": "hooks.h-0081.angle",
+      "rule": "performance_figure_on_a_public_page",
+      "since": "2026-09-28",
+      "note": "live on the hub when the rule bound, 2026-09-28 (L-441). No committed artifact records this figure's base or dates; it comes out on Devon's or Nick's okay, and until then the rule binds every other row"
+    },
+    {
+      "where": "hooks.h-0082.angle",
+      "rule": "performance_figure_on_a_public_page",
+      "since": "2026-09-28",
+      "note": "live on the hub when the rule bound, 2026-09-28 (L-441). No committed artifact records this figure's base or dates; it comes out on Devon's or Nick's okay, and until then the rule binds every other row"
+    },
+    {
+      "where": "hooks.h-0087.angle",
+      "rule": "performance_figure_on_a_public_page",
+      "since": "2026-09-28",
+      "note": "live on the hub when the rule bound, 2026-09-28 (L-441). No committed artifact records this figure's base or dates; it comes out on Devon's or Nick's okay, and until then the rule binds every other row"
+    },
+    {
+      "where": "hooks.h-0090.angle",
+      "rule": "performance_figure_on_a_public_page",
+      "since": "2026-09-28",
+      "note": "live on the hub when the rule bound, 2026-09-28 (L-441). No committed artifact records this figure's base or dates; it comes out on Devon's or Nick's okay, and until then the rule binds every other row"
+    },
+    {
+      "where": "hooks.h-0092.angle",
+      "rule": "performance_figure_on_a_public_page",
+      "since": "2026-09-28",
+      "note": "live on the hub when the rule bound, 2026-09-28 (L-441). No committed artifact records this figure's base or dates; it comes out on Devon's or Nick's okay, and until then the rule binds every other row"
+    },
+    {
+      "where": "hooks.h-0093.angle",
+      "rule": "performance_figure_on_a_public_page",
+      "since": "2026-09-28",
+      "note": "live on the hub when the rule bound, 2026-09-28 (L-441). No committed artifact records this figure's base or dates; it comes out on Devon's or Nick's okay, and until then the rule binds every other row"
+    },
+    {
+      "where": "hooks.h-0094.angle",
+      "rule": "performance_figure_on_a_public_page",
+      "since": "2026-09-28",
+      "note": "live on the hub when the rule bound, 2026-09-28 (L-441). No committed artifact records this figure's base or dates; it comes out on Devon's or Nick's okay, and until then the rule binds every other row"
+    },
+    {
+      "where": "hooks.h-0095.angle",
+      "rule": "performance_figure_on_a_public_page",
+      "since": "2026-09-28",
+      "note": "live on the hub when the rule bound, 2026-09-28 (L-441). No committed artifact records this figure's base or dates; it comes out on Devon's or Nick's okay, and until then the rule binds every other row"
+    },
+    {
+      "where": "hooks.h-0097.angle",
+      "rule": "performance_figure_on_a_public_page",
+      "since": "2026-09-28",
+      "note": "live on the hub when the rule bound, 2026-09-28 (L-441). No committed artifact records this figure's base or dates; it comes out on Devon's or Nick's okay, and until then the rule binds every other row"
+    },
+    {
+      "where": "hooks.h-0110.angle",
+      "rule": "performance_figure_on_a_public_page",
+      "since": "2026-09-28",
+      "note": "live on the hub when the rule bound, 2026-09-28 (L-441). No committed artifact records this figure's base or dates; it comes out on Devon's or Nick's okay, and until then the rule binds every other row"
+    },
+    {
+      "where": "hooks.h-0112.angle",
+      "rule": "performance_figure_on_a_public_page",
+      "since": "2026-09-28",
+      "note": "live on the hub when the rule bound, 2026-09-28 (L-441). No committed artifact records this figure's base or dates; it comes out on Devon's or Nick's okay, and until then the rule binds every other row"
+    },
+    {
+      "where": "hooks.h-0113.angle",
+      "rule": "performance_figure_on_a_public_page",
+      "since": "2026-09-28",
+      "note": "live on the hub when the rule bound, 2026-09-28 (L-441). No committed artifact records this figure's base or dates; it comes out on Devon's or Nick's okay, and until then the rule binds every other row"
+    },
+    {
+      "where": "hooks.h-0114.angle",
+      "rule": "performance_figure_on_a_public_page",
+      "since": "2026-09-28",
+      "note": "live on the hub when the rule bound, 2026-09-28 (L-441). No committed artifact records this figure's base or dates; it comes out on Devon's or Nick's okay, and until then the rule binds every other row"
+    },
+    {
+      "where": "hooks.h-0115.angle",
+      "rule": "performance_figure_on_a_public_page",
+      "since": "2026-09-28",
+      "note": "live on the hub when the rule bound, 2026-09-28 (L-441). No committed artifact records this figure's base or dates; it comes out on Devon's or Nick's okay, and until then the rule binds every other row"
+    },
+    {
+      "where": "hooks.h-0117.angle",
+      "rule": "performance_figure_on_a_public_page",
+      "since": "2026-09-28",
+      "note": "live on the hub when the rule bound, 2026-09-28 (L-441). No committed artifact records this figure's base or dates; it comes out on Devon's or Nick's okay, and until then the rule binds every other row"
+    },
+    {
+      "where": "hooks.h-0120.angle",
+      "rule": "performance_figure_on_a_public_page",
+      "since": "2026-09-28",
+      "note": "live on the hub when the rule bound, 2026-09-28 (L-441). No committed artifact records this figure's base or dates; it comes out on Devon's or Nick's okay, and until then the rule binds every other row"
+    },
+    {
+      "where": "hooks.h-0122.angle",
+      "rule": "performance_figure_on_a_public_page",
+      "since": "2026-09-28",
+      "note": "live on the hub when the rule bound, 2026-09-28 (L-441). No committed artifact records this figure's base or dates; it comes out on Devon's or Nick's okay, and until then the rule binds every other row"
+    },
+    {
+      "where": "hooks.h-0124.angle",
+      "rule": "performance_figure_on_a_public_page",
+      "since": "2026-09-28",
+      "note": "live on the hub when the rule bound, 2026-09-28 (L-441). No committed artifact records this figure's base or dates; it comes out on Devon's or Nick's okay, and until then the rule binds every other row"
+    },
+    {
+      "where": "hooks.h-0125.angle",
+      "rule": "performance_figure_on_a_public_page",
+      "since": "2026-09-28",
+      "note": "live on the hub when the rule bound, 2026-09-28 (L-441). No committed artifact records this figure's base or dates; it comes out on Devon's or Nick's okay, and until then the rule binds every other row"
+    },
+    {
+      "where": "hooks.h-0127.angle",
+      "rule": "performance_figure_on_a_public_page",
+      "since": "2026-09-28",
+      "note": "live on the hub when the rule bound, 2026-09-28 (L-441). No committed artifact records this figure's base or dates; it comes out on Devon's or Nick's okay, and until then the rule binds every other row"
+    },
+    {
+      "where": "hooks.h-0130.angle",
+      "rule": "performance_figure_on_a_public_page",
+      "since": "2026-09-28",
+      "note": "live on the hub when the rule bound, 2026-09-28 (L-441). No committed artifact records this figure's base or dates; it comes out on Devon's or Nick's okay, and until then the rule binds every other row"
+    },
+    {
+      "where": "hooks.h-0132.angle",
+      "rule": "performance_figure_on_a_public_page",
+      "since": "2026-09-28",
+      "note": "live on the hub when the rule bound, 2026-09-28 (L-441). No committed artifact records this figure's base or dates; it comes out on Devon's or Nick's okay, and until then the rule binds every other row"
+    },
+    {
+      "where": "hooks.h-0133.angle",
+      "rule": "performance_figure_on_a_public_page",
+      "since": "2026-09-28",
+      "note": "live on the hub when the rule bound, 2026-09-28 (L-441). No committed artifact records this figure's base or dates; it comes out on Devon's or Nick's okay, and until then the rule binds every other row"
+    },
+    {
+      "where": "hooks.h-0134.angle",
+      "rule": "performance_figure_on_a_public_page",
+      "since": "2026-09-28",
+      "note": "live on the hub when the rule bound, 2026-09-28 (L-441). No committed artifact records this figure's base or dates; it comes out on Devon's or Nick's okay, and until then the rule binds every other row"
+    },
+    {
+      "where": "hooks.h-0135.angle",
+      "rule": "performance_figure_on_a_public_page",
+      "since": "2026-09-28",
+      "note": "live on the hub when the rule bound, 2026-09-28 (L-441). No committed artifact records this figure's base or dates; it comes out on Devon's or Nick's okay, and until then the rule binds every other row"
+    },
+    {
+      "where": "hooks.h-0137.angle",
+      "rule": "performance_figure_on_a_public_page",
+      "since": "2026-09-28",
+      "note": "live on the hub when the rule bound, 2026-09-28 (L-441). No committed artifact records this figure's base or dates; it comes out on Devon's or Nick's okay, and until then the rule binds every other row"
+    },
+    {
+      "where": "hooks.h-0140.angle",
+      "rule": "performance_figure_on_a_public_page",
+      "since": "2026-09-28",
+      "note": "live on the hub when the rule bound, 2026-09-28 (L-441). No committed artifact records this figure's base or dates; it comes out on Devon's or Nick's okay, and until then the rule binds every other row"
+    },
+    {
+      "where": "hooks.h-0142.angle",
+      "rule": "performance_figure_on_a_public_page",
+      "since": "2026-09-28",
+      "note": "live on the hub when the rule bound, 2026-09-28 (L-441). No committed artifact records this figure's base or dates; it comes out on Devon's or Nick's okay, and until then the rule binds every other row"
+    },
+    {
+      "where": "hooks.h-0143.angle",
+      "rule": "performance_figure_on_a_public_page",
+      "since": "2026-09-28",
+      "note": "live on the hub when the rule bound, 2026-09-28 (L-441). No committed artifact records this figure's base or dates; it comes out on Devon's or Nick's okay, and until then the rule binds every other row"
+    },
+    {
+      "where": "hooks.h-0144.angle",
+      "rule": "performance_figure_on_a_public_page",
+      "since": "2026-09-28",
+      "note": "live on the hub when the rule bound, 2026-09-28 (L-441). No committed artifact records this figure's base or dates; it comes out on Devon's or Nick's okay, and until then the rule binds every other row"
+    },
+    {
+      "where": "hooks.h-0145.angle",
+      "rule": "performance_figure_on_a_public_page",
+      "since": "2026-09-28",
+      "note": "live on the hub when the rule bound, 2026-09-28 (L-441). No committed artifact records this figure's base or dates; it comes out on Devon's or Nick's okay, and until then the rule binds every other row"
+    },
+    {
+      "where": "hooks.h-0149.angle",
+      "rule": "performance_figure_on_a_public_page",
+      "since": "2026-09-28",
+      "note": "live on the hub when the rule bound, 2026-09-28 (L-441). No committed artifact records this figure's base or dates; it comes out on Devon's or Nick's okay, and until then the rule binds every other row"
+    },
+    {
+      "where": "hooks.h-0151.angle",
+      "rule": "performance_figure_on_a_public_page",
+      "since": "2026-09-28",
+      "note": "live on the hub when the rule bound, 2026-09-28 (L-441). No committed artifact records this figure's base or dates; it comes out on Devon's or Nick's okay, and until then the rule binds every other row"
+    },
+    {
+      "where": "hooks.h-0152.angle",
+      "rule": "performance_figure_on_a_public_page",
+      "since": "2026-09-28",
+      "note": "live on the hub when the rule bound, 2026-09-28 (L-441). No committed artifact records this figure's base or dates; it comes out on Devon's or Nick's okay, and until then the rule binds every other row"
+    },
+    {
+      "where": "hooks.h-0153.angle",
+      "rule": "performance_figure_on_a_public_page",
+      "since": "2026-09-28",
+      "note": "live on the hub when the rule bound, 2026-09-28 (L-441). No committed artifact records this figure's base or dates; it comes out on Devon's or Nick's okay, and until then the rule binds every other row"
+    },
+    {
+      "where": "hooks.h-0154.angle",
+      "rule": "performance_figure_on_a_public_page",
+      "since": "2026-09-28",
+      "note": "live on the hub when the rule bound, 2026-09-28 (L-441). No committed artifact records this figure's base or dates; it comes out on Devon's or Nick's okay, and until then the rule binds every other row"
+    },
+    {
+      "where": "hooks.h-0156.angle",
+      "rule": "performance_figure_on_a_public_page",
+      "since": "2026-09-28",
+      "note": "live on the hub when the rule bound, 2026-09-28 (L-441). No committed artifact records this figure's base or dates; it comes out on Devon's or Nick's okay, and until then the rule binds every other row"
+    },
+    {
+      "where": "hooks.h-0159.angle",
+      "rule": "performance_figure_on_a_public_page",
+      "since": "2026-09-28",
+      "note": "live on the hub when the rule bound, 2026-09-28 (L-441). No committed artifact records this figure's base or dates; it comes out on Devon's or Nick's okay, and until then the rule binds every other row"
+    },
+    {
+      "where": "hooks.h-0161.angle",
+      "rule": "performance_figure_on_a_public_page",
+      "since": "2026-09-28",
+      "note": "live on the hub when the rule bound, 2026-09-28 (L-441). No committed artifact records this figure's base or dates; it comes out on Devon's or Nick's okay, and until then the rule binds every other row"
+    },
+    {
+      "where": "hooks.h-0162.angle",
+      "rule": "performance_figure_on_a_public_page",
+      "since": "2026-09-28",
+      "note": "live on the hub when the rule bound, 2026-09-28 (L-441). No committed artifact records this figure's base or dates; it comes out on Devon's or Nick's okay, and until then the rule binds every other row"
+    },
+    {
+      "where": "hooks.h-0163.angle",
+      "rule": "performance_figure_on_a_public_page",
+      "since": "2026-09-28",
+      "note": "live on the hub when the rule bound, 2026-09-28 (L-441). No committed artifact records this figure's base or dates; it comes out on Devon's or Nick's okay, and until then the rule binds every other row"
+    },
+    {
+      "where": "hooks.h-0164.angle",
+      "rule": "performance_figure_on_a_public_page",
+      "since": "2026-09-28",
+      "note": "live on the hub when the rule bound, 2026-09-28 (L-441). No committed artifact records this figure's base or dates; it comes out on Devon's or Nick's okay, and until then the rule binds every other row"
+    },
+    {
+      "where": "hooks.h-0166.angle",
+      "rule": "performance_figure_on_a_public_page",
+      "since": "2026-09-28",
+      "note": "live on the hub when the rule bound, 2026-09-28 (L-441). No committed artifact records this figure's base or dates; it comes out on Devon's or Nick's okay, and until then the rule binds every other row"
+    },
+    {
+      "where": "hooks.h-0169.angle",
+      "rule": "performance_figure_on_a_public_page",
+      "since": "2026-09-28",
+      "note": "live on the hub when the rule bound, 2026-09-28 (L-441). No committed artifact records this figure's base or dates; it comes out on Devon's or Nick's okay, and until then the rule binds every other row"
+    },
+    {
+      "where": "hooks.h-0171.angle",
+      "rule": "performance_figure_on_a_public_page",
+      "since": "2026-09-28",
+      "note": "live on the hub when the rule bound, 2026-09-28 (L-441). No committed artifact records this figure's base or dates; it comes out on Devon's or Nick's okay, and until then the rule binds every other row"
+    },
+    {
+      "where": "hooks.h-0172.angle",
+      "rule": "performance_figure_on_a_public_page",
+      "since": "2026-09-28",
+      "note": "live on the hub when the rule bound, 2026-09-28 (L-441). No committed artifact records this figure's base or dates; it comes out on Devon's or Nick's okay, and until then the rule binds every other row"
+    },
+    {
+      "where": "hooks.h-0173.angle",
+      "rule": "performance_figure_on_a_public_page",
+      "since": "2026-09-28",
+      "note": "live on the hub when the rule bound, 2026-09-28 (L-441). No committed artifact records this figure's base or dates; it comes out on Devon's or Nick's okay, and until then the rule binds every other row"
+    },
+    {
+      "where": "hooks.h-0176.angle",
+      "rule": "performance_figure_on_a_public_page",
+      "since": "2026-09-28",
+      "note": "live on the hub when the rule bound, 2026-09-28 (L-441). No committed artifact records this figure's base or dates; it comes out on Devon's or Nick's okay, and until then the rule binds every other row"
+    },
+    {
+      "where": "hooks.h-0179.angle",
+      "rule": "performance_figure_on_a_public_page",
+      "since": "2026-09-28",
+      "note": "live on the hub when the rule bound, 2026-09-28 (L-441). No committed artifact records this figure's base or dates; it comes out on Devon's or Nick's okay, and until then the rule binds every other row"
+    },
+    {
+      "where": "hooks.h-0181.angle",
+      "rule": "performance_figure_on_a_public_page",
+      "since": "2026-09-28",
+      "note": "live on the hub when the rule bound, 2026-09-28 (L-441). No committed artifact records this figure's base or dates; it comes out on Devon's or Nick's okay, and until then the rule binds every other row"
+    },
+    {
+      "where": "hooks.h-0182.angle",
+      "rule": "performance_figure_on_a_public_page",
+      "since": "2026-09-28",
+      "note": "live on the hub when the rule bound, 2026-09-28 (L-441). No committed artifact records this figure's base or dates; it comes out on Devon's or Nick's okay, and until then the rule binds every other row"
+    },
+    {
+      "where": "hooks.h-0183.angle",
+      "rule": "performance_figure_on_a_public_page",
+      "since": "2026-09-28",
+      "note": "live on the hub when the rule bound, 2026-09-28 (L-441). No committed artifact records this figure's base or dates; it comes out on Devon's or Nick's okay, and until then the rule binds every other row"
+    },
+    {
+      "where": "hooks.h-0184.angle",
+      "rule": "performance_figure_on_a_public_page",
+      "since": "2026-09-28",
+      "note": "live on the hub when the rule bound, 2026-09-28 (L-441). No committed artifact records this figure's base or dates; it comes out on Devon's or Nick's okay, and until then the rule binds every other row"
+    },
+    {
+      "where": "hooks.h-0186.angle",
+      "rule": "performance_figure_on_a_public_page",
+      "since": "2026-09-28",
+      "note": "live on the hub when the rule bound, 2026-09-28 (L-441). No committed artifact records this figure's base or dates; it comes out on Devon's or Nick's okay, and until then the rule binds every other row"
+    },
+    {
+      "where": "hooks.h-0189.angle",
+      "rule": "performance_figure_on_a_public_page",
+      "since": "2026-09-28",
+      "note": "live on the hub when the rule bound, 2026-09-28 (L-441). No committed artifact records this figure's base or dates; it comes out on Devon's or Nick's okay, and until then the rule binds every other row"
+    },
+    {
+      "where": "hooks.h-0191.angle",
+      "rule": "performance_figure_on_a_public_page",
+      "since": "2026-09-28",
+      "note": "live on the hub when the rule bound, 2026-09-28 (L-441). No committed artifact records this figure's base or dates; it comes out on Devon's or Nick's okay, and until then the rule binds every other row"
+    },
+    {
+      "where": "hooks.h-0192.angle",
+      "rule": "performance_figure_on_a_public_page",
+      "since": "2026-09-28",
+      "note": "live on the hub when the rule bound, 2026-09-28 (L-441). No committed artifact records this figure's base or dates; it comes out on Devon's or Nick's okay, and until then the rule binds every other row"
+    },
+    {
+      "where": "hooks.h-0193.angle",
+      "rule": "performance_figure_on_a_public_page",
+      "since": "2026-09-28",
+      "note": "live on the hub when the rule bound, 2026-09-28 (L-441). No committed artifact records this figure's base or dates; it comes out on Devon's or Nick's okay, and until then the rule binds every other row"
+    },
+    {
+      "where": "hooks.h-0194.angle",
+      "rule": "performance_figure_on_a_public_page",
+      "since": "2026-09-28",
+      "note": "live on the hub when the rule bound, 2026-09-28 (L-441). No committed artifact records this figure's base or dates; it comes out on Devon's or Nick's okay, and until then the rule binds every other row"
+    },
+    {
+      "where": "hooks.h-0196.angle",
+      "rule": "performance_figure_on_a_public_page",
+      "since": "2026-09-28",
+      "note": "live on the hub when the rule bound, 2026-09-28 (L-441). No committed artifact records this figure's base or dates; it comes out on Devon's or Nick's okay, and until then the rule binds every other row"
+    },
+    {
+      "where": "hooks.h-0199.angle",
+      "rule": "performance_figure_on_a_public_page",
+      "since": "2026-09-28",
+      "note": "live on the hub when the rule bound, 2026-09-28 (L-441). No committed artifact records this figure's base or dates; it comes out on Devon's or Nick's okay, and until then the rule binds every other row"
+    },
+    {
+      "where": "hooks.h-0201.angle",
+      "rule": "performance_figure_on_a_public_page",
+      "since": "2026-09-28",
+      "note": "live on the hub when the rule bound, 2026-09-28 (L-441). No committed artifact records this figure's base or dates; it comes out on Devon's or Nick's okay, and until then the rule binds every other row"
+    },
+    {
+      "where": "hooks.h-0203.angle",
+      "rule": "performance_figure_on_a_public_page",
+      "since": "2026-09-28",
+      "note": "live on the hub when the rule bound, 2026-09-28 (L-441). No committed artifact records this figure's base or dates; it comes out on Devon's or Nick's okay, and until then the rule binds every other row"
+    },
+    {
+      "where": "hooks.h-0204.angle",
+      "rule": "performance_figure_on_a_public_page",
+      "since": "2026-09-28",
+      "note": "live on the hub when the rule bound, 2026-09-28 (L-441). No committed artifact records this figure's base or dates; it comes out on Devon's or Nick's okay, and until then the rule binds every other row"
+    },
+    {
+      "where": "hooks.h-0206.angle",
+      "rule": "performance_figure_on_a_public_page",
+      "since": "2026-09-28",
+      "note": "live on the hub when the rule bound, 2026-09-28 (L-441). No committed artifact records this figure's base or dates; it comes out on Devon's or Nick's okay, and until then the rule binds every other row"
+    },
+    {
+      "where": "hooks.h-0209.angle",
+      "rule": "performance_figure_on_a_public_page",
+      "since": "2026-09-28",
+      "note": "live on the hub when the rule bound, 2026-09-28 (L-441). No committed artifact records this figure's base or dates; it comes out on Devon's or Nick's okay, and until then the rule binds every other row"
+    },
+    {
+      "where": "hooks.h-0211.angle",
+      "rule": "performance_figure_on_a_public_page",
+      "since": "2026-09-28",
+      "note": "live on the hub when the rule bound, 2026-09-28 (L-441). No committed artifact records this figure's base or dates; it comes out on Devon's or Nick's okay, and until then the rule binds every other row"
+    },
+    {
+      "where": "hooks.h-0212.angle",
+      "rule": "performance_figure_on_a_public_page",
+      "since": "2026-09-28",
+      "note": "live on the hub when the rule bound, 2026-09-28 (L-441). No committed artifact records this figure's base or dates; it comes out on Devon's or Nick's okay, and until then the rule binds every other row"
+    },
+    {
+      "where": "hooks.h-0213.angle",
+      "rule": "performance_figure_on_a_public_page",
+      "since": "2026-09-28",
+      "note": "live on the hub when the rule bound, 2026-09-28 (L-441). No committed artifact records this figure's base or dates; it comes out on Devon's or Nick's okay, and until then the rule binds every other row"
+    },
+    {
+      "where": "hooks.h-0214.angle",
+      "rule": "performance_figure_on_a_public_page",
+      "since": "2026-09-28",
+      "note": "live on the hub when the rule bound, 2026-09-28 (L-441). No committed artifact records this figure's base or dates; it comes out on Devon's or Nick's okay, and until then the rule binds every other row"
+    },
+    {
+      "where": "hooks.h-0216.angle",
+      "rule": "performance_figure_on_a_public_page",
+      "since": "2026-09-28",
+      "note": "live on the hub when the rule bound, 2026-09-28 (L-441). No committed artifact records this figure's base or dates; it comes out on Devon's or Nick's okay, and until then the rule binds every other row"
+    },
+    {
+      "where": "hooks.h-0216.why",
+      "rule": "performance_figure_on_a_public_page",
+      "since": "2026-09-28",
+      "note": "live on the hub when the rule bound, 2026-09-28 (L-441). No committed artifact records this figure's base or dates; it comes out on Devon's or Nick's okay, and until then the rule binds every other row"
+    },
+    {
+      "where": "hooks.h-0219.angle",
+      "rule": "performance_figure_on_a_public_page",
+      "since": "2026-09-28",
+      "note": "live on the hub when the rule bound, 2026-09-28 (L-441). No committed artifact records this figure's base or dates; it comes out on Devon's or Nick's okay, and until then the rule binds every other row"
+    },
+    {
+      "where": "hooks.h-0221.angle",
+      "rule": "performance_figure_on_a_public_page",
+      "since": "2026-09-28",
+      "note": "live on the hub when the rule bound, 2026-09-28 (L-441). No committed artifact records this figure's base or dates; it comes out on Devon's or Nick's okay, and until then the rule binds every other row"
+    },
+    {
+      "where": "hooks.h-0222.angle",
+      "rule": "performance_figure_on_a_public_page",
+      "since": "2026-09-28",
+      "note": "live on the hub when the rule bound, 2026-09-28 (L-441). No committed artifact records this figure's base or dates; it comes out on Devon's or Nick's okay, and until then the rule binds every other row"
+    },
+    {
+      "where": "hooks.h-0223.angle",
+      "rule": "performance_figure_on_a_public_page",
+      "since": "2026-09-28",
+      "note": "live on the hub when the rule bound, 2026-09-28 (L-441). No committed artifact records this figure's base or dates; it comes out on Devon's or Nick's okay, and until then the rule binds every other row"
+    },
+    {
+      "where": "hooks.h-0226.angle",
+      "rule": "performance_figure_on_a_public_page",
+      "since": "2026-09-28",
+      "note": "live on the hub when the rule bound, 2026-09-28 (L-441). No committed artifact records this figure's base or dates; it comes out on Devon's or Nick's okay, and until then the rule binds every other row"
+    },
+    {
+      "where": "hooks.h-0264.why",
+      "rule": "performance_figure_on_a_public_page",
+      "since": "2026-09-28",
+      "note": "live on the hub when the rule bound, 2026-09-28 (L-441). No committed artifact records this figure's base or dates; it comes out on Devon's or Nick's okay, and until then the rule binds every other row"
+    },
+    {
+      "where": "tabs.top-3.layout[11].blocks[7].text",
+      "rule": "performance_figure_on_a_public_page",
+      "since": "2026-09-28",
+      "note": "live on the hub when the rule bound, 2026-09-28 (L-441). No committed artifact records this figure's base or dates; it comes out on Devon's or Nick's okay, and until then the rule binds every other row"
+    },
+    {
+      "where": "tabs.golden-pear.audience",
+      "rule": "performance_figure_on_a_public_page",
+      "since": "2026-09-28",
+      "note": "live on the hub when the rule bound, 2026-09-28 (L-441). No committed artifact records this figure's base or dates; it comes out on Devon's or Nick's okay, and until then the rule binds every other row"
     }
   ],
   "start_here": {
@@ -13027,7 +13635,17 @@
             "tag": "Says exactly what you get",
             "quote": "“Not six, not twelve. You get 24.”",
             "handle": "@healthy.lifestyle.vibe",
-            "figure": "$951"
+            "figure": "$951",
+            "sales": {
+              "figure": "$925",
+              "note": "TikTok Shop · 12 orders",
+              "source": "tiktok_shop",
+              "window": {
+                "start": "2026-06-30",
+                "end": "2026-09-27"
+              },
+              "as_of": "2026-09-27"
+            }
           },
           {
             "url": "https://www.tiktok.com/@be.lush/video/7581321236278562062",
@@ -13045,7 +13663,17 @@
             "tag": "Names the problem first",
             "quote": "“Get rid of that brain fog without caffeine.”",
             "handle": "@.outdoorsdad",
-            "figure": "$152"
+            "figure": "$152",
+            "sales": {
+              "figure": "$167",
+              "note": "TikTok Shop · 3 orders",
+              "source": "tiktok_shop",
+              "window": {
+                "start": "2026-06-30",
+                "end": "2026-09-27"
+              },
+              "as_of": "2026-09-27"
+            }
           },
           {
             "url": "https://www.tiktok.com/@kenetik/video/7675020551605275918",
@@ -13054,7 +13682,17 @@
             "tag": "The moment, not the product",
             "quote": "“That’s how you know it’s 2pm.”",
             "handle": "@kenetik",
-            "figure": "$102"
+            "figure": "$102",
+            "sales": {
+              "figure": "$102",
+              "note": "TikTok Shop · 1 order",
+              "source": "tiktok_shop",
+              "window": {
+                "start": "2026-06-30",
+                "end": "2026-09-27"
+              },
+              "as_of": "2026-09-27"
+            }
           }
         ]
       },
@@ -13311,11 +13949,13 @@
       "tabs[].angles",
       "grandfathered",
       "decisions",
-      "tabs[top-10-now].layout[wins].items[].sales"
+      "tabs[top-10-now].layout[wins].items[].sales",
+      "tabs[top-3].layout[section].blocks[wins].items[].sales",
+      "start_here.layout[wins].items[].sales"
     ],
     "unknown_is_never_zero": "A line no video has been read against carries UNKNOWN on every proof field and says so in its own how.",
     "_who_writes_what": "The turn (scripts/flywheel_turn.py through scripts/cs_helpers/flywheel_hub.py) writes top_now, hooks[].proof, hooks[].rules, hooks[].angle_id_proposed and rules_version on every run, and changes_pending on a decide run, and nothing else. `updated` stays editorial: a machine refresh must never restate a date a person set. rules_version MOVED from editorial to machine on 2026-09-16 (workplan 7-3): it was editorial only because nothing wrote it, and every publish now re-runs the rule reader over every row against the current references and stamps what the rules were. The console's deliberate write lane (kind hook_swap) is the only writer that moves a placement: it applies one approved swap, appends the receipt to decisions and stamps hooks[].entered.",
-    "_wins_figure_is_machine": "A Top 10 card's figure MOVED from editorial to machine on 2026-09-24 (build-spec-angles.md Phase 1, decision 5). tabs[top-10-now].layout[wins].items[].sales is the turn's own figure for that card's video: its TikTok Shop sales and order count over the turn's window, written weekly by scripts/cs_helpers/flywheel_hub.py write_wins_figures with the same rule as every machine field (a new date alone is not a change). The renderer draws it in place of items[].figure and items[].note, which stay exactly as Nick set them and show only on a card the machine has no figure for. Nick's words on each card (tag, quote, handle) are his and the machine never writes them. No Meta figure is ever written onto this page: sales.source is always tiktok_shop, and hooks_hub_validate refuses any other source or any Meta-named figure.",
+    "_wins_figure_is_machine": "A Top 10 card's figure MOVED from editorial to machine on 2026-09-24 (build-spec-angles.md Phase 1, decision 5). tabs[top-10-now].layout[wins].items[].sales is the turn's own figure for that card's video: its TikTok Shop sales and order count over the turn's window, written weekly by scripts/cs_helpers/flywheel_hub.py write_wins_figures with the same rule as every machine field (a new date alone is not a change). The renderer draws it in place of items[].figure and items[].note, which stay exactly as Nick set them and show only on a card the machine has no figure for. Nick's words on each card (tag, quote, handle) are his and the machine never writes them. Since 2026-09-28 (L-441) the Top 3 and Start Here cards carry the same record, because both say, beside their cards, that the figure is what that video sold on TikTok Shop over the last 90 days, which is the turn's own measure; the renderer draws each record with the dates of its window. A card whose video the turn cannot see carries no record, and hooks_hub_validate lists it (card_figure_without_a_record). No Meta figure is ever written onto this page: sales.source is always tiktok_shop, and hooks_hub_validate refuses any other source or any Meta-named figure.",
     "_a_proposal_is_never_an_edit": "A line the turn proposes is added to hooks{} with no placement and named in changes_pending; the gate accepts an unplaced line, because a proposed, a declined and a displaced line are all legitimately on no tab, and it refuses a placement that points at no line. Only an approval on the console puts it on a tab, in the place of the row named in `out`.",
     "_the_angle_is_nicks_words": "hooks[].angle is Nick's own free text about the line and is editorial: the turn never reads or writes it. hooks[].angle_id_proposed beside it is the machine's proposal, an id from the angle list in config/creator-flywheel-hooks.json, sorted from the line's own words (L-441, 2026-09-24). Nothing applies a proposal; approval waits for a later phase."
   },
