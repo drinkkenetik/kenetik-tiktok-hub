@@ -8082,12 +8082,12 @@
         "how": "a creator said this line on camera in THIS video; taken from the video's own transcript in the Euka video record (its opening line), lightly trimmed and punctuated, the brand name spelled correctly where the transcript mis-heard it"
       },
       "proof": {
-        "videos_made": 1,
-        "converting_videos": 1,
-        "distinct_creators": 1,
-        "revenue_usd": 50.89,
-        "as_of": "2026-09-22",
-        "how": "Counted from the videos whose spoken opening matched this line and were posted between 2026-08-26 and 2026-09-22. One creator so far."
+        "videos_made": "UNKNOWN",
+        "converting_videos": "UNKNOWN",
+        "distinct_creators": "UNKNOWN",
+        "revenue_usd": "UNKNOWN",
+        "as_of": "2026-09-27",
+        "how": "no video has been read against this line yet"
       },
       "rules": {
         "checked_on": "2026-09-23",
@@ -8169,12 +8169,12 @@
         "how": "a creator said this line on camera; taken from the video's TRYBE transcript and lightly cleaned where the transcript ran on or cut off mid word"
       },
       "proof": {
-        "videos_made": 1,
-        "converting_videos": 1,
-        "distinct_creators": 1,
-        "revenue_usd": 50.89,
-        "as_of": "2026-09-23",
-        "how": "Counted from the videos whose spoken opening matched this line and were posted between 2026-08-27 and 2026-09-23. One creator so far."
+        "videos_made": "UNKNOWN",
+        "converting_videos": "UNKNOWN",
+        "distinct_creators": "UNKNOWN",
+        "revenue_usd": "UNKNOWN",
+        "as_of": "2026-09-27",
+        "how": "no video has been read against this line yet"
       },
       "rules": {
         "checked_on": "2026-09-23",
@@ -8492,6 +8492,62 @@
         "carries_claim": false
       },
       "angle_id_proposed": "unclassified"
+    },
+    "h-0294": {
+      "hook_id": "h-0294",
+      "text": "If ur card declines on this then we need to have a serious chat bc it's offensively cheap right now...",
+      "source": {
+        "kind": "quoted",
+        "creator": "7495348351282940731",
+        "euka_video_id": "7680287878634540302",
+        "video_url": "https://www.tiktok.com/@discountcomp/video/7680287878634540302",
+        "verified_against": "transcript",
+        "verified_on": "2026-09-27",
+        "convention": "a line a creator said, taken from the transcript of this video rather than the caption under it",
+        "how": "quoted from a video that sold inside the proof window"
+      },
+      "proof": {
+        "videos_made": "UNKNOWN",
+        "converting_videos": "UNKNOWN",
+        "distinct_creators": "UNKNOWN",
+        "revenue_usd": "UNKNOWN",
+        "as_of": "2026-09-27",
+        "how": "no video has been read against this line yet"
+      },
+      "rules": {
+        "checked_on": "2026-09-27",
+        "passed": true,
+        "broken": [],
+        "carries_claim": false
+      }
+    },
+    "h-0295": {
+      "hook_id": "h-0295",
+      "text": "THIS IS NOT WHAT YOU'RE THINKING. THIS IS NOT YOUR CLASSIC ENERGY DRINK. THIS IS NOT WHAT YOU SEE EVERY INFLUENCER CREATING. THIS WILL BE A ONE OF A KIND.",
+      "source": {
+        "kind": "quoted",
+        "creator": "7494145570141341372",
+        "euka_video_id": "7685528316568177933",
+        "video_url": "https://www.tiktok.com/@savastanodeals/video/7685528316568177933",
+        "verified_against": "transcript",
+        "verified_on": "2026-09-27",
+        "convention": "a line a creator said, taken from the transcript of this video rather than the caption under it",
+        "how": "quoted from a video that sold inside the proof window"
+      },
+      "proof": {
+        "videos_made": "UNKNOWN",
+        "converting_videos": "UNKNOWN",
+        "distinct_creators": "UNKNOWN",
+        "revenue_usd": "UNKNOWN",
+        "as_of": "2026-09-27",
+        "how": "no video has been read against this line yet"
+      },
+      "rules": {
+        "checked_on": "2026-09-27",
+        "passed": true,
+        "broken": [],
+        "carries_claim": false
+      }
     }
   },
   "tabs": [
@@ -9087,7 +9143,17 @@
               "quote": "“Not six, not twelve, you get 24!”",
               "handle": "@healthy.lifestyle.vibe",
               "figure": "$925",
-              "note": "TikTok Shop · 12 orders"
+              "note": "TikTok Shop · 12 orders",
+              "sales": {
+                "figure": "$925",
+                "note": "TikTok Shop · 12 orders",
+                "source": "tiktok_shop",
+                "window": {
+                  "start": "2026-06-30",
+                  "end": "2026-09-27"
+                },
+                "as_of": "2026-09-27"
+              }
             },
             {
               "url": "https://www.tiktok.com/@thededicateddad/video/7674092193027493151",
@@ -9097,7 +9163,17 @@
               "quote": "“If these sell out anywhere as quick as these did, then you might not even get these before you see this video.”",
               "handle": "@thededicateddad",
               "figure": "$807",
-              "note": "TikTok Shop · 17 orders"
+              "note": "TikTok Shop · 17 orders",
+              "sales": {
+                "figure": "$807",
+                "note": "TikTok Shop · 17 orders",
+                "source": "tiktok_shop",
+                "window": {
+                  "start": "2026-06-30",
+                  "end": "2026-09-27"
+                },
+                "as_of": "2026-09-27"
+              }
             },
             {
               "url": "https://www.tiktok.com/@roidragetts/video/7667507988827016462",
@@ -9107,7 +9183,17 @@
               "quote": "“POV: caffeine addicts anonymous meeting.”",
               "handle": "@roidragetts",
               "figure": "$400",
-              "note": "TikTok Shop · 8 orders"
+              "note": "TikTok Shop · 8 orders",
+              "sales": {
+                "figure": "$440",
+                "note": "TikTok Shop · 9 orders",
+                "source": "tiktok_shop",
+                "window": {
+                  "start": "2026-06-30",
+                  "end": "2026-09-27"
+                },
+                "as_of": "2026-09-27"
+              }
             },
             {
               "url": "https://www.tiktok.com/@.outdoorsdad/video/7678176777495153951",
@@ -9117,7 +9203,17 @@
               "quote": "“Get rid of that brain fog without caffeine.”",
               "handle": "@.outdoorsdad",
               "figure": "$167",
-              "note": "TikTok Shop · 3 orders"
+              "note": "TikTok Shop · 3 orders",
+              "sales": {
+                "figure": "$167",
+                "note": "TikTok Shop · 3 orders",
+                "source": "tiktok_shop",
+                "window": {
+                  "start": "2026-06-30",
+                  "end": "2026-09-27"
+                },
+                "as_of": "2026-09-27"
+              }
             },
             {
               "url": "https://www.tiktok.com/@lifefueltv/video/7665147180268735775",
@@ -9127,7 +9223,17 @@
               "quote": "“Myth vs. Fact. Energy = More Sugar.”",
               "handle": "@lifefueltv",
               "figure": "$157",
-              "note": "TikTok Shop · 1 order"
+              "note": "TikTok Shop · 1 order",
+              "sales": {
+                "figure": "$157",
+                "note": "TikTok Shop · 1 order",
+                "source": "tiktok_shop",
+                "window": {
+                  "start": "2026-06-30",
+                  "end": "2026-09-27"
+                },
+                "as_of": "2026-09-27"
+              }
             },
             {
               "url": "https://www.tiktok.com/@ash_lee0528/video/7659539458366131469",
@@ -9137,7 +9243,17 @@
               "quote": "“Completely caffeine-free. It’s not going to leave you with the jitters that pre-workout gives you.”",
               "handle": "@ash_lee0528",
               "figure": "$98",
-              "note": "TikTok Shop · 1 order"
+              "note": "TikTok Shop · 1 order",
+              "sales": {
+                "figure": "$98",
+                "note": "TikTok Shop · 1 order",
+                "source": "tiktok_shop",
+                "window": {
+                  "start": "2026-06-30",
+                  "end": "2026-09-27"
+                },
+                "as_of": "2026-09-27"
+              }
             },
             {
               "url": "https://www.tiktok.com/@unstablegenius64/video/7675112056219077901",
@@ -9147,7 +9263,17 @@
               "quote": "“I am so excited. My Kenetik just came in and I just poured myself a glass and I love this.”",
               "handle": "@unstablegenius64",
               "figure": "$60",
-              "note": "TikTok Shop · 1 order"
+              "note": "TikTok Shop · 1 order",
+              "sales": {
+                "figure": "$60",
+                "note": "TikTok Shop · 1 order",
+                "source": "tiktok_shop",
+                "window": {
+                  "start": "2026-06-30",
+                  "end": "2026-09-27"
+                },
+                "as_of": "2026-09-27"
+              }
             },
             {
               "url": "https://www.tiktok.com/@doortrashdadshop/video/7677606012035009822",
@@ -9157,7 +9283,17 @@
               "quote": "“Energy drinks are NOT healthy. The fact that we drink these every day blows my mind.”",
               "handle": "@doortrashdadshop",
               "figure": "$51",
-              "note": "TikTok Shop · 1 order"
+              "note": "TikTok Shop · 1 order",
+              "sales": {
+                "figure": "$51",
+                "note": "TikTok Shop · 1 order",
+                "source": "tiktok_shop",
+                "window": {
+                  "start": "2026-06-30",
+                  "end": "2026-09-27"
+                },
+                "as_of": "2026-09-27"
+              }
             },
             {
               "url": "https://www.tiktok.com/@jeremyreviews/video/7679663634837966110",
@@ -9167,7 +9303,17 @@
               "quote": "“If the caffeine of an energy drink doesn’t do it for you anymore, you need to try Kenetik.”",
               "handle": "@jeremyreviews",
               "figure": "$51",
-              "note": "TikTok Shop · 1 order"
+              "note": "TikTok Shop · 1 order",
+              "sales": {
+                "figure": "$51",
+                "note": "TikTok Shop · 1 order",
+                "source": "tiktok_shop",
+                "window": {
+                  "start": "2026-06-30",
+                  "end": "2026-09-27"
+                },
+                "as_of": "2026-09-27"
+              }
             },
             {
               "url": "https://www.tiktok.com/@pnwdad206/video/7672856549383032095",
@@ -9177,7 +9323,17 @@
               "quote": "“With that mid-afternoon crash a lot of times we go to reach for more caffeine and then we’re restless.”",
               "handle": "@pnwdad206",
               "figure": "$35",
-              "note": "TikTok Shop · 1 order"
+              "note": "TikTok Shop · 1 order",
+              "sales": {
+                "figure": "$35",
+                "note": "TikTok Shop · 1 order",
+                "source": "tiktok_shop",
+                "window": {
+                  "start": "2026-06-30",
+                  "end": "2026-09-27"
+                },
+                "as_of": "2026-09-27"
+              }
             }
           ]
         },
@@ -11991,7 +12147,106 @@
       ]
     }
   ],
-  "changes_pending": [],
+  "changes_pending": [
+    {
+      "kind": "hook_swap",
+      "tab": "top-3",
+      "in": "h-0294",
+      "out": "h-0283",
+      "owner": "nick",
+      "since": "2026-09-27",
+      "evidence": {
+        "in": {
+          "text": "If ur card declines on this then we need to have a serious chat bc it's offensively cheap right now...",
+          "source": {
+            "kind": "quoted",
+            "creator": "7495348351282940731",
+            "euka_video_id": "7680287878634540302",
+            "video_url": "https://www.tiktok.com/@discountcomp/video/7680287878634540302",
+            "verified_against": "transcript",
+            "verified_on": "2026-09-27",
+            "convention": "a line a creator said, taken from the transcript of this video rather than the caption under it",
+            "how": "quoted from a video that sold inside the proof window"
+          },
+          "proof": {
+            "converting_videos": 3,
+            "creators": 1,
+            "revenue_usd": 176.15,
+            "window": {
+              "start": "2026-08-31",
+              "end": "2026-09-27"
+            }
+          },
+          "rules": {
+            "passed": true,
+            "broken": [],
+            "carries_claim": false,
+            "how": "This line breaks no rule.",
+            "checked_on": "2026-09-27"
+          }
+        },
+        "out": {
+          "text": "“Once you understand how ketones work, regular energy drinks start looking a little outdated.”",
+          "proof": {
+            "converting_videos": "UNKNOWN"
+          },
+          "why": "no video has been read against it yet, and an unread line is the weakest a tab has",
+          "position": 8
+        },
+        "verified": "transcript",
+        "how": "A creator said this line on 3 videos that sold between 2026-08-31 and 2026-09-27, and no line on the hub matched it. It would take the place of the weakest line on this tab, which is there because no video has been read against it yet, and an unread line is the weakest a tab has."
+      }
+    },
+    {
+      "kind": "hook_swap",
+      "tab": "general",
+      "in": "h-0295",
+      "out": "h-0019",
+      "owner": "nick",
+      "since": "2026-09-27",
+      "evidence": {
+        "in": {
+          "text": "THIS IS NOT WHAT YOU'RE THINKING. THIS IS NOT YOUR CLASSIC ENERGY DRINK. THIS IS NOT WHAT YOU SEE EVERY INFLUENCER CREATING. THIS WILL BE A ONE OF A KIND.",
+          "source": {
+            "kind": "quoted",
+            "creator": "7494145570141341372",
+            "euka_video_id": "7685528316568177933",
+            "video_url": "https://www.tiktok.com/@savastanodeals/video/7685528316568177933",
+            "verified_against": "transcript",
+            "verified_on": "2026-09-27",
+            "convention": "a line a creator said, taken from the transcript of this video rather than the caption under it",
+            "how": "quoted from a video that sold inside the proof window"
+          },
+          "proof": {
+            "converting_videos": 1,
+            "creators": 1,
+            "revenue_usd": 280.42,
+            "window": {
+              "start": "2026-08-31",
+              "end": "2026-09-27"
+            }
+          },
+          "rules": {
+            "passed": true,
+            "broken": [],
+            "carries_claim": false,
+            "how": "This line breaks no rule.",
+            "checked_on": "2026-09-27"
+          }
+        },
+        "out": {
+          "text": "“You know that feeling where the word is right there but your brain will not grab it?”",
+          "proof": {
+            "converting_videos": "UNKNOWN"
+          },
+          "why": "no video has been read against it yet, and an unread line is the weakest a tab has",
+          "position": 9
+        },
+        "verified": "transcript",
+        "how": "A creator said this line on one video that sold between 2026-08-31 and 2026-09-27, and no line on the hub matched it. It would take the place of the weakest line on this tab, which is there because no video has been read against it yet, and an unread line is the weakest a tab has."
+      }
+    }
+  ],
   "decisions": [
     {
       "kind": "hook_swap",
