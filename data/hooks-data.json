@@ -8507,19 +8507,20 @@
         "how": "quoted from a video that sold inside the proof window"
       },
       "proof": {
-        "videos_made": "UNKNOWN",
-        "converting_videos": "UNKNOWN",
-        "distinct_creators": "UNKNOWN",
-        "revenue_usd": "UNKNOWN",
+        "videos_made": 5,
+        "converting_videos": 3,
+        "distinct_creators": 1,
+        "revenue_usd": 176.15,
         "as_of": "2026-09-27",
-        "how": "no video has been read against this line yet"
+        "how": "Counted from the videos whose spoken opening matched this line and were posted between 2026-08-31 and 2026-09-27. One creator so far."
       },
       "rules": {
         "checked_on": "2026-09-27",
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "steal"
     },
     "h-0295": {
       "hook_id": "h-0295",
@@ -8535,19 +8536,20 @@
         "how": "quoted from a video that sold inside the proof window"
       },
       "proof": {
-        "videos_made": "UNKNOWN",
-        "converting_videos": "UNKNOWN",
-        "distinct_creators": "UNKNOWN",
-        "revenue_usd": "UNKNOWN",
+        "videos_made": 1,
+        "converting_videos": 1,
+        "distinct_creators": 1,
+        "revenue_usd": 280.42,
         "as_of": "2026-09-27",
-        "how": "no video has been read against this line yet"
+        "how": "Counted from the videos whose spoken opening matched this line and were posted between 2026-08-31 and 2026-09-27. One creator so far."
       },
       "rules": {
         "checked_on": "2026-09-27",
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "what-it-is"
     }
   },
   "tabs": [
