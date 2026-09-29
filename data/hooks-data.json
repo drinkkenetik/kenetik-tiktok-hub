@@ -7792,12 +7792,12 @@
         "how": "quoted from a video that sold inside the proof window"
       },
       "proof": {
-        "videos_made": 1,
+        "videos_made": 2,
         "converting_videos": 1,
         "distinct_creators": 1,
-        "revenue_usd": 76.84,
-        "as_of": "2026-09-23",
-        "how": "Counted from the videos whose spoken opening matched this line and were posted between 2026-08-27 and 2026-09-23. One creator so far."
+        "revenue_usd": 124.74,
+        "as_of": "2026-09-28",
+        "how": "Counted from the videos whose spoken opening matched this line and were posted between 2026-09-01 and 2026-09-28. One creator so far."
       },
       "rules": {
         "checked_on": "2026-09-20",
@@ -7821,12 +7821,12 @@
         "how": "quoted from a video that sold inside the proof window"
       },
       "proof": {
-        "videos_made": 1,
+        "videos_made": 2,
         "converting_videos": 1,
         "distinct_creators": 1,
         "revenue_usd": 179.63,
-        "as_of": "2026-09-23",
-        "how": "Counted from the videos whose spoken opening matched this line and were posted between 2026-08-27 and 2026-09-23. One creator so far."
+        "as_of": "2026-09-28",
+        "how": "Counted from the videos whose spoken opening matched this line and were posted between 2026-09-01 and 2026-09-28. One creator so far."
       },
       "rules": {
         "checked_on": "2026-09-20",
@@ -8140,12 +8140,12 @@
         "how": "a creator said this line on camera; taken from the video's TRYBE transcript and lightly cleaned where the transcript ran on or cut off mid word"
       },
       "proof": {
-        "videos_made": "UNKNOWN",
-        "converting_videos": "UNKNOWN",
-        "distinct_creators": "UNKNOWN",
-        "revenue_usd": "UNKNOWN",
-        "as_of": "2026-09-23",
-        "how": "no video has been read against this line yet"
+        "videos_made": 1,
+        "converting_videos": 0,
+        "distinct_creators": 0,
+        "revenue_usd": 0.0,
+        "as_of": "2026-09-28",
+        "how": "Counted from the videos whose spoken opening matched this line and were posted between 2026-09-01 and 2026-09-28."
       },
       "rules": {
         "checked_on": "2026-09-23",
@@ -8508,11 +8508,11 @@
       },
       "proof": {
         "videos_made": 5,
-        "converting_videos": 3,
+        "converting_videos": 2,
         "distinct_creators": 1,
-        "revenue_usd": 176.15,
-        "as_of": "2026-09-27",
-        "how": "Counted from the videos whose spoken opening matched this line and were posted between 2026-08-31 and 2026-09-27. One creator so far."
+        "revenue_usd": 92.67,
+        "as_of": "2026-09-28",
+        "how": "Counted from the videos whose spoken opening matched this line and were posted between 2026-09-01 and 2026-09-28. One creator so far."
       },
       "rules": {
         "checked_on": "2026-09-27",
