@@ -12202,55 +12202,6 @@
   "changes_pending": [
     {
       "kind": "hook_swap",
-      "tab": "top-3",
-      "in": "h-0294",
-      "out": "h-0283",
-      "owner": "nick",
-      "since": "2026-09-27",
-      "evidence": {
-        "in": {
-          "text": "If ur card declines on this then we need to have a serious chat bc it's offensively cheap right now...",
-          "source": {
-            "kind": "quoted",
-            "creator": "7495348351282940731",
-            "euka_video_id": "7680287878634540302",
-            "video_url": "https://www.tiktok.com/@discountcomp/video/7680287878634540302",
-            "verified_against": "transcript",
-            "verified_on": "2026-09-27",
-            "convention": "a line a creator said, taken from the transcript of this video rather than the caption under it",
-            "how": "quoted from a video that sold inside the proof window"
-          },
-          "proof": {
-            "converting_videos": 3,
-            "creators": 1,
-            "revenue_usd": 176.15,
-            "window": {
-              "start": "2026-08-31",
-              "end": "2026-09-27"
-            }
-          },
-          "rules": {
-            "passed": true,
-            "broken": [],
-            "carries_claim": false,
-            "how": "This line breaks no rule.",
-            "checked_on": "2026-09-27"
-          }
-        },
-        "out": {
-          "text": "“Once you understand how ketones work, regular energy drinks start looking a little outdated.”",
-          "proof": {
-            "converting_videos": "UNKNOWN"
-          },
-          "why": "no video has been read against it yet, and an unread line is the weakest a tab has",
-          "position": 8
-        },
-        "verified": "transcript",
-        "how": "A creator said this line on 3 videos that sold between 2026-08-31 and 2026-09-27, and no line on the hub matched it. It would take the place of the weakest line on this tab, which is there because no video has been read against it yet, and an unread line is the weakest a tab has."
-      }
-    },
-    {
-      "kind": "hook_swap",
       "tab": "general",
       "in": "h-0295",
       "out": "h-0019",
@@ -12321,6 +12272,18 @@
       "reason": "The video this line was quoted from has no transcript, so nothing shows the creator saying it in that video.",
       "by": "the turn",
       "at": "2026-09-23",
+      "owner": "nick",
+      "claim_flagged": false
+    },
+    {
+      "kind": "hook_swap",
+      "tab": "top-3",
+      "in": "h-0294",
+      "out": "h-0283",
+      "decision": "withdrawn",
+      "reason": "The line leads with price, \"cheap\" and \"card declines\", and the Top 3 only carries lines that tell a story or solve a problem.",
+      "by": "the turn",
+      "at": "2026-10-05",
       "owner": "nick",
       "claim_flagged": false
     }
