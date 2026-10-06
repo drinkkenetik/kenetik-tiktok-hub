@@ -8812,7 +8812,8 @@
         "**Don’t open by attacking energy drinks.** Our worst performer. They can sit inside the story, never in the first line.",
         "**Don’t fake urgency.** Only claim a sellout that actually happened, and name it.",
         "Lead with a discount or over-produce it like an ad.",
-        "Stack the whole pitch into the opener."
+        "Stack the whole pitch into the opener.",
+        "**Don't make Kenetik the hero.** \"We launched\" and \"the best on the market\" are our story, and nobody wakes up wanting to be part of a brand's story. Tell yours, and let Kenetik be what made it possible."
       ],
       "hook_ids": [],
       "angles": [],
@@ -8896,7 +8897,7 @@
             },
             {
               "block": "northstar",
-              "text": "**Make these your own.** The three below are starting points, not scripts. Every video that has worked for us sounds like the person who made it. Every video that has flopped sounds like an ad read. Say these in your words, in your cadence, with your reason, and if a line here is not something you would actually say out loud, change it. **We would rather have your version of the hook than our version in your voice.**"
+              "text": "**Make these your own.** The three below are starting points, not scripts. Every video that has worked for us sounds like the person who made it. Every video that has flopped sounds like an ad read. Say these in your words, in your cadence, with your reason, and if a line here is not something you would actually say out loud, change it. **We would rather have your version of the hook than our version in your voice.** **And the story is always yours, not ours.** Each of these is about a person and the change in their day. Kenetik is what made it possible, never the hero."
             },
             {
               "block": "eyebrow",
@@ -9338,6 +9339,10 @@
                 {
                   "title": "Any medical language?",
                   "text": "Nothing about treating, curing, fixing, or any condition. Keep it to how it felt."
+                },
+                {
+                  "title": "Whose story is it?",
+                  "text": "Yours, and the viewer's. It should be about your day and what changed, with Kenetik as what made the change possible. Cut anything that sounds like the brand talking about itself."
                 }
               ]
             },
@@ -9627,6 +9632,15 @@
         },
         {
           "block": "eyebrow",
+          "text": "What all ten have in common"
+        },
+        {
+          "block": "note",
+          "style": "pk",
+          "text": "**Not one of these videos is about Kenetik.** Each one is about the creator: a habit they changed, a slump they got past, something they counted for themselves. Kenetik shows up as what made it easier. Borrow that shape, not the words: your moment first, the problem your viewer shares with you, then the can as the turn."
+        },
+        {
+          "block": "eyebrow",
           "text": "The ten lines"
         },
         {
@@ -9689,7 +9703,8 @@
         "**Don’t open by attacking energy drinks.** Our worst performer. They can sit inside the story, never in the first line.",
         "**Don’t fake urgency.** Only claim a sellout that actually happened, and name it.",
         "Lead with a discount or over-produce it like an ad.",
-        "Stack the whole pitch into the opener."
+        "Stack the whole pitch into the opener.",
+        "**Don't make Kenetik the hero.** \"We launched\" and \"the best on the market\" are our story, and nobody wakes up wanting to be part of a brand's story. Tell yours, and let Kenetik be what made it possible."
       ],
       "hook_ids": [
         "h-0010",
@@ -9967,7 +9982,8 @@
         "Call it an energy drink, pre-workout, or supplement.",
         "Make medical claims or tie it to any condition, injury, or disease.",
         "Lead with a discount or over-produce it like an ad.",
-        "Stack the whole pitch into the opener."
+        "Stack the whole pitch into the opener.",
+        "**Don't make Kenetik the hero.** \"We launched\" and \"the best on the market\" are our story, and nobody wakes up wanting to be part of a brand's story. Tell yours, and let Kenetik be what made it possible."
       ],
       "hook_ids": [
         "h-0060",
@@ -10079,7 +10095,8 @@
         "Call it an energy drink, pre-workout, or supplement.",
         "Make medical claims or tie it to any condition, injury, or disease.",
         "Lead with a discount or over-produce it like an ad.",
-        "Stack the whole pitch into the opener."
+        "Stack the whole pitch into the opener.",
+        "**Don't make Kenetik the hero.** \"We launched\" and \"the best on the market\" are our story, and nobody wakes up wanting to be part of a brand's story. Tell yours, and let Kenetik be what made it possible."
       ],
       "hook_ids": [
         "h-0050",
@@ -10186,7 +10203,8 @@
         "Call it an energy drink, pre-workout, or supplement.",
         "Make medical claims or tie it to any condition, injury, or disease.",
         "Lead with a discount or over-produce it like an ad.",
-        "Stack the whole pitch into the opener."
+        "Stack the whole pitch into the opener.",
+        "**Don't make Kenetik the hero.** \"We launched\" and \"the best on the market\" are our story, and nobody wakes up wanting to be part of a brand's story. Tell yours, and let Kenetik be what made it possible."
       ],
       "hook_ids": [
         "h-0130",
@@ -10293,7 +10311,8 @@
         "Call it an energy drink, pre-workout, or supplement.",
         "Make medical claims or tie it to any condition, injury, or disease.",
         "Lead with a discount or over-produce it like an ad.",
-        "Stack the whole pitch into the opener."
+        "Stack the whole pitch into the opener.",
+        "**Don't make Kenetik the hero.** \"We launched\" and \"the best on the market\" are our story, and nobody wakes up wanting to be part of a brand's story. Tell yours, and let Kenetik be what made it possible."
       ],
       "hook_ids": [
         "h-0100",
@@ -10400,7 +10419,8 @@
         "Call it an energy drink, pre-workout, or supplement.",
         "Make medical claims or tie it to any condition, injury, or disease.",
         "Lead with a discount or over-produce it like an ad.",
-        "Stack the whole pitch into the opener."
+        "Stack the whole pitch into the opener.",
+        "**Don't make Kenetik the hero.** \"We launched\" and \"the best on the market\" are our story, and nobody wakes up wanting to be part of a brand's story. Tell yours, and let Kenetik be what made it possible."
       ],
       "hook_ids": [
         "h-0149",
@@ -10508,7 +10528,8 @@
         "Call it an energy drink, pre-workout, or supplement.",
         "Make medical claims or tie it to any condition, injury, or disease.",
         "Lead with a discount or over-produce it like an ad.",
-        "Stack the whole pitch into the opener."
+        "Stack the whole pitch into the opener.",
+        "**Don't make Kenetik the hero.** \"We launched\" and \"the best on the market\" are our story, and nobody wakes up wanting to be part of a brand's story. Tell yours, and let Kenetik be what made it possible."
       ],
       "hook_ids": [
         "h-0120",
@@ -10616,7 +10637,8 @@
         "Call it an energy drink, pre-workout, or supplement.",
         "Make medical claims or tie it to any condition, injury, or disease.",
         "Lead with a discount or over-produce it like an ad.",
-        "Stack the whole pitch into the opener."
+        "Stack the whole pitch into the opener.",
+        "**Don't make Kenetik the hero.** \"We launched\" and \"the best on the market\" are our story, and nobody wakes up wanting to be part of a brand's story. Tell yours, and let Kenetik be what made it possible."
       ],
       "hook_ids": [
         "h-0169",
@@ -10729,7 +10751,8 @@
         "Call it an energy drink, pre-workout, or supplement.",
         "Make medical claims or tie it to any condition, injury, or disease.",
         "Lead with a discount or over-produce it like an ad.",
-        "Stack the whole pitch into the opener."
+        "Stack the whole pitch into the opener.",
+        "**Don't make Kenetik the hero.** \"We launched\" and \"the best on the market\" are our story, and nobody wakes up wanting to be part of a brand's story. Tell yours, and let Kenetik be what made it possible."
       ],
       "hook_ids": [
         "h-0090",
@@ -10842,7 +10865,8 @@
         "Call it an energy drink, pre-workout, or supplement.",
         "Make medical claims or tie it to any condition, injury, or disease.",
         "Lead with a discount or over-produce it like an ad.",
-        "Stack the whole pitch into the opener."
+        "Stack the whole pitch into the opener.",
+        "**Don't make Kenetik the hero.** \"We launched\" and \"the best on the market\" are our story, and nobody wakes up wanting to be part of a brand's story. Tell yours, and let Kenetik be what made it possible."
       ],
       "hook_ids": [
         "h-0080",
@@ -10954,7 +10978,8 @@
         "Call it an energy drink, pre-workout, or supplement.",
         "Make medical claims or tie it to any condition, injury, or disease.",
         "Lead with a discount or over-produce it like an ad.",
-        "Stack the whole pitch into the opener."
+        "Stack the whole pitch into the opener.",
+        "**Don't make Kenetik the hero.** \"We launched\" and \"the best on the market\" are our story, and nobody wakes up wanting to be part of a brand's story. Tell yours, and let Kenetik be what made it possible."
       ],
       "hook_ids": [
         "h-0219",
@@ -11066,7 +11091,8 @@
         "Call it an energy drink, pre-workout, or supplement.",
         "Make medical claims or tie it to any condition, injury, or disease.",
         "Lead with a discount or over-produce it like an ad.",
-        "Stack the whole pitch into the opener."
+        "Stack the whole pitch into the opener.",
+        "**Don't make Kenetik the hero.** \"We launched\" and \"the best on the market\" are our story, and nobody wakes up wanting to be part of a brand's story. Tell yours, and let Kenetik be what made it possible."
       ],
       "hook_ids": [
         "h-0110",
@@ -11174,7 +11200,8 @@
         "Call it an energy drink, pre-workout, or supplement.",
         "Make medical claims or tie it to any condition, injury, or disease.",
         "Lead with a discount or over-produce it like an ad.",
-        "Stack the whole pitch into the opener."
+        "Stack the whole pitch into the opener.",
+        "**Don't make Kenetik the hero.** \"We launched\" and \"the best on the market\" are our story, and nobody wakes up wanting to be part of a brand's story. Tell yours, and let Kenetik be what made it possible."
       ],
       "hook_ids": [
         "h-0159",
@@ -11281,7 +11308,8 @@
         "Call it an energy drink, pre-workout, or supplement.",
         "Make medical claims or tie it to any condition, injury, or disease.",
         "Lead with a discount or over-produce it like an ad.",
-        "Stack the whole pitch into the opener."
+        "Stack the whole pitch into the opener.",
+        "**Don't make Kenetik the hero.** \"We launched\" and \"the best on the market\" are our story, and nobody wakes up wanting to be part of a brand's story. Tell yours, and let Kenetik be what made it possible."
       ],
       "hook_ids": [
         "h-0070",
@@ -11393,7 +11421,8 @@
         "Call it an energy drink, pre-workout, or supplement.",
         "Make medical claims or tie it to any condition, injury, or disease.",
         "Lead with a discount or over-produce it like an ad.",
-        "Stack the whole pitch into the opener."
+        "Stack the whole pitch into the opener.",
+        "**Don't make Kenetik the hero.** \"We launched\" and \"the best on the market\" are our story, and nobody wakes up wanting to be part of a brand's story. Tell yours, and let Kenetik be what made it possible."
       ],
       "hook_ids": [
         "h-0229",
@@ -11506,7 +11535,8 @@
         "Call it an energy drink, pre-workout, or supplement.",
         "Make medical claims or tie it to any condition, injury, or disease.",
         "Lead with a discount or over-produce it like an ad.",
-        "Stack the whole pitch into the opener."
+        "Stack the whole pitch into the opener.",
+        "**Don't make Kenetik the hero.** \"We launched\" and \"the best on the market\" are our story, and nobody wakes up wanting to be part of a brand's story. Tell yours, and let Kenetik be what made it possible."
       ],
       "hook_ids": [
         "h-0209",
@@ -11613,7 +11643,8 @@
         "Call it an energy drink, pre-workout, or supplement.",
         "Make medical claims or tie it to any condition, injury, or disease.",
         "Lead with a discount or over-produce it like an ad.",
-        "Stack the whole pitch into the opener."
+        "Stack the whole pitch into the opener.",
+        "**Don't make Kenetik the hero.** \"We launched\" and \"the best on the market\" are our story, and nobody wakes up wanting to be part of a brand's story. Tell yours, and let Kenetik be what made it possible."
       ],
       "hook_ids": [
         "h-0140",
@@ -11741,7 +11772,8 @@
         "Call it an energy drink, pre-workout, or supplement.",
         "Make medical claims or tie it to any condition, injury, or disease.",
         "Lead with a discount or over-produce it like an ad.",
-        "Stack the whole pitch into the opener."
+        "Stack the whole pitch into the opener.",
+        "**Don't make Kenetik the hero.** \"We launched\" and \"the best on the market\" are our story, and nobody wakes up wanting to be part of a brand's story. Tell yours, and let Kenetik be what made it possible."
       ],
       "hook_ids": [
         "h-0199",
@@ -11853,7 +11885,8 @@
         "Call it an energy drink, pre-workout, or supplement.",
         "Make medical claims or tie it to any condition, injury, or disease.",
         "Lead with a discount or over-produce it like an ad.",
-        "Stack the whole pitch into the opener."
+        "Stack the whole pitch into the opener.",
+        "**Don't make Kenetik the hero.** \"We launched\" and \"the best on the market\" are our story, and nobody wakes up wanting to be part of a brand's story. Tell yours, and let Kenetik be what made it possible."
       ],
       "hook_ids": [
         "h-0189",
@@ -11966,7 +11999,8 @@
         "Call it an energy drink, pre-workout, or supplement.",
         "Make medical claims or tie it to any condition, injury, or disease.",
         "Lead with a discount or over-produce it like an ad.",
-        "Stack the whole pitch into the opener."
+        "Stack the whole pitch into the opener.",
+        "**Don't make Kenetik the hero.** \"We launched\" and \"the best on the market\" are our story, and nobody wakes up wanting to be part of a brand's story. Tell yours, and let Kenetik be what made it possible."
       ],
       "hook_ids": [
         "h-0179",
@@ -12079,7 +12113,8 @@
         "Imply there are no rules at security. It still goes in the quart bag.",
         "Call it an energy drink, pre-workout or supplement.",
         "Open with caffeine or ketones. They come after the hook.",
-        "Lead with a discount, or name the cart in your CTA."
+        "Lead with a discount, or name the cart in your CTA.",
+        "**Don't make Kenetik the hero.** \"We launched\" and \"the best on the market\" are our story, and nobody wakes up wanting to be part of a brand's story. Tell yours, and let Kenetik be what made it possible."
       ],
       "hook_ids": [
         "h-0259",
@@ -12359,7 +12394,8 @@
         "Don’t correct them twice. One sentence, then move on.",
         "Don’t script their answer or use a friend and pass them off as a stranger.",
         "Don’t promise a result. Say what it is, not what it will do for them.",
-        "Don’t name a price or a discount on camera."
+        "Don’t name a price or a discount on camera.",
+        "**Don't make Kenetik the hero.** \"We launched\" and \"the best on the market\" are our story, and nobody wakes up wanting to be part of a brand's story. Tell yours, and let Kenetik be what made it possible."
       ],
       "hook_ids": [
         "h-0284",
@@ -13591,13 +13627,13 @@
       "note": "already live on the hub when the store was extracted 2026-09-16; the rule binds every new and every edited row from that day"
     },
     {
-      "where": "start_here.layout[11].items[0]",
+      "where": "start_here.layout[13].items[0]",
       "rule": "card_figure_without_a_record",
       "since": "2026-09-28",
       "note": "live on the hub when the rule bound, 2026-09-28 (L-441). No committed artifact records this figure's base or dates; it comes out on Devon's or Nick's okay, and until then the rule binds every other row"
     },
     {
-      "where": "start_here.layout[11].items[2]",
+      "where": "start_here.layout[13].items[2]",
       "rule": "card_figure_without_a_record",
       "since": "2026-09-28",
       "note": "live on the hub when the rule bound, 2026-09-28 (L-441). No committed artifact records this figure's base or dates; it comes out on Devon's or Nick's okay, and until then the rule binds every other row"
@@ -14177,6 +14213,14 @@
       },
       {
         "block": "eyebrow",
+        "text": "Whose story it is"
+      },
+      {
+        "block": "northstar",
+        "text": "**Your viewer is the hero, not Kenetik.** Nobody wakes up wanting to be part of a brand's story. They want a better version of their own: a problem solved, a frustration gone, a day made easier. So tell yours. The afternoon you got back, the habit you swapped, the moment it clicked. Kenetik is what made that change possible, never the star of the video. **If your viewer finishes it thinking about their own day, you made the right video.**"
+      },
+      {
+        "block": "eyebrow",
         "text": "What Kenetik is (and isn't)"
       },
       {
@@ -14287,7 +14331,7 @@
       {
         "block": "amber",
         "label": "What they have in common",
-        "text": "Not a niche and not a look. One repeats what other people are already calling it, one tells you plainly what you get, one reports a switch already made, one names the problem before anything else, and one is just a time of day. **Every one of them opens on a person or a situation, and not one opens on ketones.** The real common trait is that each one sounds like the person who filmed it rather than an ad read. You do not need a studio or a script. You need a real first line, in your own words."
+        "text": "Not a niche and not a look. One repeats what other people are already calling it, one tells you plainly what you get, one reports a switch already made, one names the problem before anything else, and one is just a time of day. **Every one of them opens on a person or a situation, and not one opens on ketones.** The real common trait is that each one sounds like the person who filmed it rather than an ad read. You do not need a studio or a script. You need a real first line, in your own words. **And every one of them is about the person filming and the change in their day, with Kenetik as what made it possible.**"
       },
       {
         "block": "eyebrow",
