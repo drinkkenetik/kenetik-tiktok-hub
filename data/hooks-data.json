@@ -12199,57 +12199,7 @@
       ]
     }
   ],
-  "changes_pending": [
-    {
-      "kind": "hook_swap",
-      "tab": "general",
-      "in": "h-0295",
-      "out": "h-0019",
-      "owner": "nick",
-      "since": "2026-09-27",
-      "evidence": {
-        "in": {
-          "text": "THIS IS NOT WHAT YOU'RE THINKING. THIS IS NOT YOUR CLASSIC ENERGY DRINK. THIS IS NOT WHAT YOU SEE EVERY INFLUENCER CREATING. THIS WILL BE A ONE OF A KIND.",
-          "source": {
-            "kind": "quoted",
-            "creator": "7494145570141341372",
-            "euka_video_id": "7685528316568177933",
-            "video_url": "https://www.tiktok.com/@savastanodeals/video/7685528316568177933",
-            "verified_against": "transcript",
-            "verified_on": "2026-09-27",
-            "convention": "a line a creator said, taken from the transcript of this video rather than the caption under it",
-            "how": "quoted from a video that sold inside the proof window"
-          },
-          "proof": {
-            "converting_videos": 1,
-            "creators": 1,
-            "revenue_usd": 280.42,
-            "window": {
-              "start": "2026-08-31",
-              "end": "2026-09-27"
-            }
-          },
-          "rules": {
-            "passed": true,
-            "broken": [],
-            "carries_claim": false,
-            "how": "This line breaks no rule.",
-            "checked_on": "2026-09-27"
-          }
-        },
-        "out": {
-          "text": "“You know that feeling where the word is right there but your brain will not grab it?”",
-          "proof": {
-            "converting_videos": "UNKNOWN"
-          },
-          "why": "no video has been read against it yet, and an unread line is the weakest a tab has",
-          "position": 9
-        },
-        "verified": "transcript",
-        "how": "A creator said this line on one video that sold between 2026-08-31 and 2026-09-27, and no line on the hub matched it. It would take the place of the weakest line on this tab, which is there because no video has been read against it yet, and an unread line is the weakest a tab has."
-      }
-    }
-  ],
+  "changes_pending": [],
   "decisions": [
     {
       "kind": "hook_swap",
@@ -12284,6 +12234,18 @@
       "reason": "The line leads with price, \"cheap\" and \"card declines\", and the Top 3 only carries lines that tell a story or solve a problem.",
       "by": "the turn",
       "at": "2026-10-05",
+      "owner": "nick",
+      "claim_flagged": false
+    },
+    {
+      "kind": "hook_swap",
+      "tab": "general",
+      "in": "h-0295",
+      "out": "h-0019",
+      "decision": "decline",
+      "reason": "this is a reposted clip of Roman Atwood talking about Kenetik, which is probably why its performing well, the creator themselves did not say this. I like the NOT an energy drink framing, but that already exists in the top 3 tab",
+      "by": "nicklac@drinkkenetik.com",
+      "at": "2026-10-06",
       "owner": "nick",
       "claim_flagged": false
     }
