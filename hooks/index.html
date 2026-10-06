@@ -231,14 +231,45 @@ function metaLine(hook){
   return parts.join(' &nbsp;&middot;&nbsp; ');
 }
 
+/* A quoted line whose own video is a card on this tab has been read: by that video. The proof
+   figure counts only recent posts, so on a tab ranked over a longer window (the Top 10) it
+   would say "not read yet" beside a card showing that same video's sales. The badge then says
+   what the card says, from the same machine record, with its dates. */
+function cardSales(blocks, videoId){
+  for(var i = 0; i < (blocks || []).length; i++){
+    var b = blocks[i];
+    if(!b) continue;
+    if(b.block === 'section'){
+      var inner = cardSales(b.blocks, videoId);
+      if(inner) return inner;
+    }
+    if(b.block !== 'wins') continue;
+    for(var j = 0; j < (b.items || []).length; j++){
+      var w = b.items[j];
+      var m = /\/video\/(\d+)/.exec(String((w && w.url) || ''));
+      if(m && m[1] === videoId && w.sales && typeof w.sales.figure === 'string') return w.sales;
+    }
+  }
+  return null;
+}
+
+function cardWords(tab, src){
+  if(!tab || !src || !src.euka_video_id) return null;
+  var sales = cardSales(tab.layout, String(src.euka_video_id));
+  if(!sales) return null;
+  var dates = windowDates(sales.window);
+  return 'Sold ' + sales.figure + (sales.note ? ' · ' + sales.note.replace(/^TikTok Shop · /, '') : '')
+    + ' on TikTok Shop' + (dates ? ', ' + dates : '');
+}
+
 /* Two small marks on every line, and both of them are honest.
    A line a creator said carries their name. A line we wrote says so.
    A line no video has carried yet says "not read yet" rather than a zero. */
-function badges(hook){
+function badges(hook, tab){
   var src = hook.source || {};
   var proof = hook.proof || {};
   var out = [];
-  var words = proofWords(proof);
+  var words = proofWords(proof) || cardWords(tab, src);
   if(src.kind === 'quoted'){
     var who = src.creator ? ('Said by ' + src.creator) : 'Said out loud';
     if(src.video_url){
@@ -263,7 +294,7 @@ function renderHooks(tab, ids){
     return '<div class="hook"><div class="hnum">' + pad2(i + 1) + '</div><div class="hbody">'
       + '<div class="htxt">' + rich(hook.text) + '</div>'
       + (meta ? '<div class="hmeta">' + meta + '</div>' : '')
-      + badges(hook)
+      + badges(hook, tab)
       + (hook.why ? '<div class="hwhy">' + rich(hook.why) + '</div>' : '')
       + '</div></div>';
   });
