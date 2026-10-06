@@ -8723,7 +8723,17 @@
         "broken": [],
         "carries_claim": false
       },
-      "angle_id_proposed": "how-much-you-get"
+      "angle_id_proposed": "how-much-you-get",
+      "entered": {
+        "on": "2026-10-06",
+        "tab": "top-10-now",
+        "displaced": "h-0277",
+        "by": "nicklac@drinkkenetik.com",
+        "figures": {
+          "in": "UNKNOWN",
+          "out": "UNKNOWN"
+        }
+      }
     },
     "h-0302": {
       "hook_id": "h-0302",
@@ -9361,7 +9371,7 @@
         "h-0274",
         "h-0275",
         "h-0276",
-        "h-0277",
+        "h-0301",
         "h-0278",
         "h-0279",
         "h-0280"
@@ -9511,17 +9521,17 @@
               }
             },
             {
-              "url": "https://www.tiktok.com/@unstablegenius64/video/7675112056219077901",
-              "image": "https://database.euka.ai/storage/v1/object/public/creator_videos_photos/7675112056219077901.webp",
+              "url": "https://www.tiktok.com/@healthy.lifestyle.vibe/video/7684367075699166495",
+              "image": "https://database.euka.ai/storage/v1/object/public/creator_videos_photos/7684367075699166495.webp",
               "image_alt": "Creator video",
-              "tag": "The box just landed",
-              "quote": "“I am so excited. My Kenetik just came in and I just poured myself a glass and I love this.”",
-              "handle": "@unstablegenius64",
-              "figure": "$60",
-              "note": "TikTok Shop · 1 order",
+              "tag": "",
+              "quote": "“So I did some math on Connecticut. It replaces my $6 energy drink. It replaces my $6 cup of coffee. And I actually get the focus that I paid those items for. Kinetik is different. Zero caffeine.”",
+              "handle": "@healthy.lifestyle.vibe",
+              "figure": "$167",
+              "note": "TikTok Shop · 4 orders",
               "sales": {
-                "figure": "$60",
-                "note": "TikTok Shop · 1 order",
+                "figure": "$167",
+                "note": "TikTok Shop · 4 orders",
                 "source": "tiktok_shop",
                 "window": {
                   "start": "2026-07-08",
@@ -9616,7 +9626,7 @@
             "h-0274",
             "h-0275",
             "h-0276",
-            "h-0277",
+            "h-0301",
             "h-0278",
             "h-0279",
             "h-0280"
@@ -12792,78 +12802,6 @@
     {
       "kind": "hook_swap",
       "tab": "top-10-now",
-      "in": "h-0301",
-      "out": "h-0277",
-      "owner": "nick",
-      "since": "2026-10-05",
-      "evidence": {
-        "in": {
-          "text": "So I did some math on Connecticut. It replaces my $6 energy drink. It replaces my $6 cup of coffee. And I actually get the focus that I paid those items for. Kinetik is different. Zero caffeine.",
-          "source": {
-            "kind": "quoted",
-            "creator": "7494533211920566194",
-            "euka_video_id": "7684367075699166495",
-            "video_url": "https://www.tiktok.com/@healthy.lifestyle.vibe/video/7684367075699166495",
-            "verified_against": "transcript",
-            "verified_on": "2026-10-05",
-            "convention": "a line a creator said, taken from the transcript of this video rather than the caption under it",
-            "how": "quoted from a video that outsold a Top 10 card over the turn's window"
-          },
-          "proof": {
-            "converting_videos": "UNKNOWN",
-            "creators": "UNKNOWN",
-            "revenue_usd": 166.65,
-            "window": {
-              "start": "2026-07-08",
-              "end": "2026-10-05"
-            }
-          },
-          "rules": {
-            "passed": true,
-            "broken": [],
-            "carries_claim": false,
-            "how": "This line breaks no rule.",
-            "checked_on": "2026-10-05"
-          }
-        },
-        "out": {
-          "text": "“I am so excited. My Kenetik just came in and I just poured myself a glass and I love this.”",
-          "proof": {
-            "converting_videos": "UNKNOWN",
-            "revenue_usd": 59.88
-          },
-          "why": "its video has $60 in TikTok Shop sales, the least of the ten",
-          "position": 6,
-          "video_id": "7675112056219077901"
-        },
-        "card": {
-          "video_id": "7684367075699166495",
-          "url": "https://www.tiktok.com/@healthy.lifestyle.vibe/video/7684367075699166495",
-          "image": "https://database.euka.ai/storage/v1/object/public/creator_videos_photos/7684367075699166495.webp",
-          "image_alt": "Creator video",
-          "tag": "",
-          "quote": "“So I did some math on Connecticut. It replaces my $6 energy drink. It replaces my $6 cup of coffee. And I actually get the focus that I paid those items for. Kinetik is different. Zero caffeine.”",
-          "handle": "@healthy.lifestyle.vibe",
-          "figure": "$167",
-          "note": "TikTok Shop · 4 orders",
-          "sales": {
-            "figure": "$167",
-            "note": "TikTok Shop · 4 orders",
-            "source": "tiktok_shop",
-            "window": {
-              "start": "2026-07-08",
-              "end": "2026-10-05"
-            },
-            "as_of": "2026-10-05"
-          }
-        },
-        "verified": "transcript",
-        "how": "This video sold $167 on TikTok Shop over the turn's window and is not on the Top 10, which says it lists the ten videos that sold the most. It would take the place of the card whose video has $60 in TikTok Shop sales. Approving it replaces the card and its line together; the card's short tag starts empty for you to write."
-      }
-    },
-    {
-      "kind": "hook_swap",
-      "tab": "top-10-now",
       "in": "h-0302",
       "out": "h-0275",
       "owner": "nick",
@@ -12982,6 +12920,19 @@
       "at": "2026-10-06",
       "owner": "nick",
       "claim_flagged": false
+    },
+    {
+      "kind": "hook_swap",
+      "tab": "top-10-now",
+      "in": "h-0301",
+      "out": "h-0277",
+      "decision": "approve",
+      "reason": "I dig the hook in this one!",
+      "by": "nicklac@drinkkenetik.com",
+      "at": "2026-10-06",
+      "owner": "nick",
+      "claim_flagged": false,
+      "position": 6
     }
   ],
   "grandfathered": [
