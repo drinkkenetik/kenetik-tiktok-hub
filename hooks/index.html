@@ -255,9 +255,9 @@ function cardSales(blocks, videoId){
 
 function cardWords(tab, src){
   if(!tab || !src || !src.euka_video_id) return null;
-  var sales = cardSales(tab.layout, String(src.euka_video_id));
+  var sales = cardSales(layoutFor(tab), String(src.euka_video_id));
   if(!sales) return null;
-  var dates = windowDates(sales.window);
+  var dates = sameWindow(sales.window, layoutWindow(layoutFor(tab))) ? '' : windowDates(sales.window);
   return 'Sold ' + sales.figure + (sales.note ? ' · ' + sales.note.replace(/^TikTok Shop · /, '') : '')
     + ' on TikTok Shop' + (dates ? ', ' + dates : '');
 }
@@ -338,12 +338,39 @@ function windowDates(win){
   return day(a, a[1] !== b[1]) + ' to ' + day(b, true);
 }
 
-function renderWins(items){
+/* The one period a layout's machine cards cover, stated once in its stamp (Nick, 2026-10-06).
+   The weekly turn writes every card over the same window, so a card is dated on its own only
+   when its window differs from the one the stamp states: a card whose video the turn could not
+   see keeps its older record, and says so. */
+function sameWindow(a, b){ return !!a && !!b && a.start === b.start && a.end === b.end; }
+
+function layoutWindow(blocks){
+  var counts = [];
+  (function walk(list){
+    (list || []).forEach(function(b){
+      if(!b) return;
+      if(b.block === 'section'){ walk(b.blocks); return; }
+      if(b.block !== 'wins') return;
+      (b.items || []).forEach(function(w){
+        var win = w && w.sales && typeof w.sales.figure === 'string' ? w.sales.window : null;
+        if(!win || !windowDates(win)) return;
+        for(var i = 0; i < counts.length; i++){
+          if(sameWindow(counts[i].win, win)){ counts[i].n++; return; }
+        }
+        counts.push({win: win, n: 1});
+      });
+    });
+  })(blocks);
+  counts.sort(function(a, b){ return b.n - a.n; });
+  return counts.length ? counts[0].win : null;
+}
+
+function renderWins(items, tabWindow){
   return '<div class="wins">' + (items || []).map(function(w){
     var sales = (w.sales && typeof w.sales.figure === 'string') ? w.sales : null;
     var figure = sales ? sales.figure : w.figure;
     var note = sales ? sales.note : w.note;
-    var dates = sales ? windowDates(sales.window) : '';
+    var dates = sales && !sameWindow(sales.window, tabWindow) ? windowDates(sales.window) : '';
     return '<a class="win" href="' + attr(w.url) + '" target="_blank" rel="noopener">'
       + '<img src="' + attr(w.image) + '" alt="' + attr(w.image_alt) + '" loading="lazy">'
       + '<div class="wb"><div class="wtag">' + rich(w.tag) + '</div><div class="wq">' + rich(w.quote) + '</div>'
@@ -393,11 +420,11 @@ function renderTopNow(tab){
         ? esc(' Counted from ' + inWords(window_.start) + ' to ' + inWords(window_.end) + '.') : '') + '</p>';
 }
 
-function renderBlocks(tab, blocks){
+function renderBlocks(tab, blocks, win){
   return (blocks || []).map(function(b){
     switch(b.block){
       case 'section':
-        return '<div class="sec"' + (b.id ? ' id="' + attr(b.id) + '"' : '') + '>' + renderBlocks(tab, b.blocks) + '</div>';
+        return '<div class="sec"' + (b.id ? ' id="' + attr(b.id) + '"' : '') + '>' + renderBlocks(tab, b.blocks, win) + '</div>';
       case 'heading':
         return '<h1>' + rich(b.title != null ? b.title : tab.title)
           + (b.roi ? ' <span class="roi">' + esc(b.roi) + '</span>' : '') + '</h1>';
@@ -426,9 +453,11 @@ function renderBlocks(tab, blocks){
           + (b.go ? '<span class="go">' + rich(b.go) + '</span>' : '') + '</div>';
       }
       case 'stamp':
-        return '<div class="stamp"><i></i>' + rich(b.text) + (b.note ? ' <b>' + rich(b.note) + '</b>' : '') + '</div>';
+        return '<div class="stamp"><i></i>' + rich(b.text)
+          + (win ? ' <b>· figures cover ' + esc(windowDates(win)) + '</b>' : '')
+          + (b.note ? ' <b>' + rich(b.note) + '</b>' : '') + '</div>';
       case 'wins':
-        return renderWins(b.items);
+        return renderWins(b.items, win);
       case 'fork':
         return renderFork(b.options);
       case 'picker':
@@ -472,7 +501,7 @@ function render(){
   }).join('');
   document.getElementById('main').innerHTML = tabs.map(function(t, i){
     var topNow = (t.slug === 'top-3' || t.slug === 'start-here') ? renderTopNow(t) : '';
-    var body = topNow + renderBlocks(t, layoutFor(t)) + renderFoot();
+    var body = topNow + renderBlocks(t, layoutFor(t), layoutWindow(layoutFor(t))) + renderFoot();
     return '<section class="panel' + (i === 0 ? ' show' : '') + '" id="panel' + i + '" data-slug="' + attr(t.slug) + '">'
       + '<div class="strip"></div>' + body + '</section>';
   }).join('');
