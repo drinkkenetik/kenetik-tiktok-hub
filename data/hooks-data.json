@@ -8588,11 +8588,12 @@
           "in": 1,
           "out": "UNKNOWN"
         }
-      }
+      },
+      "angle": "A limit the viewer shares, said first, so the can arrives as the answer to it."
     },
     "h-0297": {
       "hook_id": "h-0297",
-      "text": "This energy drink with no caffeine. Simply little weird. Until I figured out how it works. And this is Kinetix.",
+      "text": "This energy drink with no caffeine. Simply little weird. Until I figured out how it works. And this is Kenetik.",
       "source": {
         "kind": "quoted",
         "creator": "7496167815652149509",
@@ -8650,7 +8651,7 @@
     },
     "h-0299": {
       "hook_id": "h-0299",
-      "text": "Tired America? We just got home from a little road trip, night away, offroading all day yesterday. I'm unpacking my cooler and one of the things that I obviously took with me is Kenetix.",
+      "text": "Tired America? We just got home from a little road trip, night away, offroading all day yesterday. I'm unpacking my cooler and one of the things that I obviously took with me is Kenetik.",
       "source": {
         "kind": "quoted",
         "creator": "7494391275048437531",
@@ -8743,7 +8744,8 @@
           "in": "UNKNOWN",
           "out": "UNKNOWN"
         }
-      }
+      },
+      "angle": "The math done out loud: the viewer prices what they already buy before Kenetik is named."
     },
     "h-0302": {
       "hook_id": "h-0302",
@@ -9534,7 +9536,7 @@
               "url": "https://www.tiktok.com/@healthy.lifestyle.vibe/video/7684367075699166495",
               "image": "https://database.euka.ai/storage/v1/object/public/creator_videos_photos/7684367075699166495.webp",
               "image_alt": "Creator video",
-              "tag": "",
+              "tag": "The math, out loud",
               "quote": "“So I did some math on Kenetik. It replaces my $6 energy drink. It replaces my $6 cup of coffee. And I actually get the focus that I paid those items for. Kenetik is different. Zero caffeine.”",
               "handle": "@healthy.lifestyle.vibe",
               "figure": "$167",
@@ -12432,7 +12434,7 @@
       "since": "2026-10-05",
       "evidence": {
         "in": {
-          "text": "This energy drink with no caffeine. Simply little weird. Until I figured out how it works. And this is Kinetix.",
+          "text": "This energy drink with no caffeine. Simply little weird. Until I figured out how it works. And this is Kenetik.",
           "source": {
             "kind": "quoted",
             "creator": "7496167815652149509",
@@ -12625,7 +12627,7 @@
       "since": "2026-10-05",
       "evidence": {
         "in": {
-          "text": "Tired America? We just got home from a little road trip, night away, offroading all day yesterday. I'm unpacking my cooler and one of the things that I obviously took with me is Kenetix.",
+          "text": "Tired America? We just got home from a little road trip, night away, offroading all day yesterday. I'm unpacking my cooler and one of the things that I obviously took with me is Kenetik.",
           "source": {
             "kind": "quoted",
             "creator": "7494391275048437531",
