@@ -8578,7 +8578,17 @@
         "broken": [],
         "carries_claim": false
       },
-      "angle_id_proposed": "caffeine-stopped-working"
+      "angle_id_proposed": "caffeine-stopped-working",
+      "entered": {
+        "on": "2026-10-06",
+        "tab": "top-3",
+        "displaced": "h-0283",
+        "by": "nicklac@drinkkenetik.com",
+        "figures": {
+          "in": 1,
+          "out": "UNKNOWN"
+        }
+      }
     },
     "h-0297": {
       "hook_id": "h-0297",
@@ -8821,7 +8831,7 @@
         "h-0006",
         "h-0281",
         "h-0282",
-        "h-0283"
+        "h-0296"
       ],
       "angles": [],
       "layout": [
@@ -9222,7 +9232,7 @@
               "hook_ids": [
                 "h-0281",
                 "h-0282",
-                "h-0283"
+                "h-0296"
               ]
             },
             {
@@ -12415,55 +12425,6 @@
   "changes_pending": [
     {
       "kind": "hook_swap",
-      "tab": "top-3",
-      "in": "h-0296",
-      "out": "h-0283",
-      "owner": "nick",
-      "since": "2026-10-05",
-      "evidence": {
-        "in": {
-          "text": "This is how I stay sharp all afternoon as someone who genuinely cannot do caffeine in the afternoon. This is Ketelix's new Raspberry Lychee drink.",
-          "source": {
-            "kind": "quoted",
-            "creator": "7493993398388688953",
-            "euka_video_id": "7688094160829648141",
-            "video_url": "https://www.tiktok.com/@ash_lee0528/video/7688094160829648141",
-            "verified_against": "transcript",
-            "verified_on": "2026-10-05",
-            "convention": "a line a creator said, taken from the transcript of this video rather than the caption under it",
-            "how": "quoted from a video that sold inside the proof window"
-          },
-          "proof": {
-            "converting_videos": 1,
-            "creators": 1,
-            "revenue_usd": 131.04,
-            "window": {
-              "start": "2026-09-08",
-              "end": "2026-10-05"
-            }
-          },
-          "rules": {
-            "passed": true,
-            "broken": [],
-            "carries_claim": false,
-            "how": "This line breaks no rule.",
-            "checked_on": "2026-10-05"
-          }
-        },
-        "out": {
-          "text": "“Once you understand how ketones work, regular energy drinks start looking a little outdated.”",
-          "proof": {
-            "converting_videos": "UNKNOWN"
-          },
-          "why": "no video has been read against it yet, and an unread line is the weakest a tab has",
-          "position": 8
-        },
-        "verified": "transcript",
-        "how": "A creator said this line on one video that sold between 2026-09-08 and 2026-10-05, and no line on the hub matched it. It would take the place of the weakest line on this tab, which is there because no video has been read against it yet, and an unread line is the weakest a tab has."
-      }
-    },
-    {
-      "kind": "hook_swap",
       "tab": "general",
       "in": "h-0297",
       "out": "h-0019",
@@ -12933,6 +12894,19 @@
       "owner": "nick",
       "claim_flagged": false,
       "position": 6
+    },
+    {
+      "kind": "hook_swap",
+      "tab": "top-3",
+      "in": "h-0296",
+      "out": "h-0283",
+      "decision": "approve",
+      "reason": "lets swap this one into the top 3 page!",
+      "by": "nicklac@drinkkenetik.com",
+      "at": "2026-10-06",
+      "owner": "nick",
+      "claim_flagged": false,
+      "position": 8
     }
   ],
   "grandfathered": [
