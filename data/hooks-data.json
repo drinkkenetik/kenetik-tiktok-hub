@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "updated": "2026-09-28",
+  "updated": "2026-10-05",
   "written_by": "scripts/hooks_hub_extract.py for the first write; the Monday turn writes the machine fields from 7-2 and people write the editorial fields by hand",
   "rules_version": "hooks-config@4402e2a7 · claims-list@daffab0b · reader@138f4b17",
   "footer": "Kenetik Creator Hub · Hook performance from our TikTok Shop and Meta ad campaigns, measured on each video's spoken opening line. Refreshed weekly. Figures are past performance and not a guarantee of what any individual video will earn.",
@@ -8550,6 +8550,202 @@
         "carries_claim": false
       },
       "angle_id_proposed": "what-it-is"
+    },
+    "h-0296": {
+      "hook_id": "h-0296",
+      "text": "This is how I stay sharp all afternoon as someone who genuinely cannot do caffeine in the afternoon. This is Ketelix's new Raspberry Lychee drink.",
+      "source": {
+        "kind": "quoted",
+        "creator": "7493993398388688953",
+        "euka_video_id": "7688094160829648141",
+        "video_url": "https://www.tiktok.com/@ash_lee0528/video/7688094160829648141",
+        "verified_against": "transcript",
+        "verified_on": "2026-10-05",
+        "convention": "a line a creator said, taken from the transcript of this video rather than the caption under it",
+        "how": "quoted from a video that sold inside the proof window"
+      },
+      "proof": {
+        "videos_made": "UNKNOWN",
+        "converting_videos": "UNKNOWN",
+        "distinct_creators": "UNKNOWN",
+        "revenue_usd": "UNKNOWN",
+        "as_of": "2026-10-05",
+        "how": "no video has been read against this line yet"
+      },
+      "rules": {
+        "checked_on": "2026-10-05",
+        "passed": true,
+        "broken": [],
+        "carries_claim": false
+      }
+    },
+    "h-0297": {
+      "hook_id": "h-0297",
+      "text": "This energy drink with no caffeine. Simply little weird. Until I figured out how it works. And this is Kinetix.",
+      "source": {
+        "kind": "quoted",
+        "creator": "7496167815652149509",
+        "euka_video_id": "7686203776956402957",
+        "video_url": "https://www.tiktok.com/@win.with.nick.2/video/7686203776956402957",
+        "verified_against": "transcript",
+        "verified_on": "2026-10-05",
+        "convention": "a line a creator said, taken from the transcript of this video rather than the caption under it",
+        "how": "quoted from a video that sold inside the proof window"
+      },
+      "proof": {
+        "videos_made": "UNKNOWN",
+        "converting_videos": "UNKNOWN",
+        "distinct_creators": "UNKNOWN",
+        "revenue_usd": "UNKNOWN",
+        "as_of": "2026-10-05",
+        "how": "no video has been read against this line yet"
+      },
+      "rules": {
+        "checked_on": "2026-10-05",
+        "passed": true,
+        "broken": [],
+        "carries_claim": false
+      }
+    },
+    "h-0298": {
+      "hook_id": "h-0298",
+      "text": "I just robbed them... 😳 You're not gonna believe how much I just paid for all of these. Don't just get one or two, not three or four, five, six, seven, eight, nine, ten, not eleven, but twelve flavors",
+      "source": {
+        "kind": "quoted",
+        "creator": "7494978694652922475",
+        "euka_video_id": "7662605837147409695",
+        "video_url": "https://www.tiktok.com/@yaboyhotway/video/7662605837147409695",
+        "verified_against": "transcript",
+        "verified_on": "2026-10-05",
+        "convention": "a line a creator said, taken from the transcript of this video rather than the caption under it",
+        "how": "quoted from a video that outsold a Top 10 card over the turn's window"
+      },
+      "proof": {
+        "videos_made": "UNKNOWN",
+        "converting_videos": "UNKNOWN",
+        "distinct_creators": "UNKNOWN",
+        "revenue_usd": "UNKNOWN",
+        "as_of": "2026-10-05",
+        "how": "no video has been read against this line yet"
+      },
+      "rules": {
+        "checked_on": "2026-10-05",
+        "passed": true,
+        "broken": [],
+        "carries_claim": false
+      }
+    },
+    "h-0299": {
+      "hook_id": "h-0299",
+      "text": "Tired America? We just got home from a little road trip, night away, offroading all day yesterday. I'm unpacking my cooler and one of the things that I obviously took with me is Kenetix.",
+      "source": {
+        "kind": "quoted",
+        "creator": "7494391275048437531",
+        "euka_video_id": "7673447504649751822",
+        "video_url": "https://www.tiktok.com/@roidragetts/video/7673447504649751822",
+        "verified_against": "transcript",
+        "verified_on": "2026-10-05",
+        "convention": "a line a creator said, taken from the transcript of this video rather than the caption under it",
+        "how": "quoted from a video that outsold a Top 10 card over the turn's window"
+      },
+      "proof": {
+        "videos_made": "UNKNOWN",
+        "converting_videos": "UNKNOWN",
+        "distinct_creators": "UNKNOWN",
+        "revenue_usd": "UNKNOWN",
+        "as_of": "2026-10-05",
+        "how": "no video has been read against this line yet"
+      },
+      "rules": {
+        "checked_on": "2026-10-05",
+        "passed": true,
+        "broken": [],
+        "carries_claim": false
+      }
+    },
+    "h-0300": {
+      "hook_id": "h-0300",
+      "text": "Don't feel like your one for the day? You know what I'm talking about. You get to that point in the day where you're looking at your screen, but your brain ain't cooperating?",
+      "source": {
+        "kind": "quoted",
+        "creator": "7496093747417025089",
+        "euka_video_id": "7685520510037413133",
+        "video_url": "https://www.tiktok.com/@unstablegenius64/video/7685520510037413133",
+        "verified_against": "transcript",
+        "verified_on": "2026-10-05",
+        "convention": "a line a creator said, taken from the transcript of this video rather than the caption under it",
+        "how": "quoted from a video that outsold a Top 10 card over the turn's window"
+      },
+      "proof": {
+        "videos_made": "UNKNOWN",
+        "converting_videos": "UNKNOWN",
+        "distinct_creators": "UNKNOWN",
+        "revenue_usd": "UNKNOWN",
+        "as_of": "2026-10-05",
+        "how": "no video has been read against this line yet"
+      },
+      "rules": {
+        "checked_on": "2026-10-05",
+        "passed": true,
+        "broken": [],
+        "carries_claim": false
+      }
+    },
+    "h-0301": {
+      "hook_id": "h-0301",
+      "text": "So I did some math on Connecticut. It replaces my $6 energy drink. It replaces my $6 cup of coffee. And I actually get the focus that I paid those items for. Kinetik is different. Zero caffeine.",
+      "source": {
+        "kind": "quoted",
+        "creator": "7494533211920566194",
+        "euka_video_id": "7684367075699166495",
+        "video_url": "https://www.tiktok.com/@healthy.lifestyle.vibe/video/7684367075699166495",
+        "verified_against": "transcript",
+        "verified_on": "2026-10-05",
+        "convention": "a line a creator said, taken from the transcript of this video rather than the caption under it",
+        "how": "quoted from a video that outsold a Top 10 card over the turn's window"
+      },
+      "proof": {
+        "videos_made": "UNKNOWN",
+        "converting_videos": "UNKNOWN",
+        "distinct_creators": "UNKNOWN",
+        "revenue_usd": "UNKNOWN",
+        "as_of": "2026-10-05",
+        "how": "no video has been read against this line yet"
+      },
+      "rules": {
+        "checked_on": "2026-10-05",
+        "passed": true,
+        "broken": [],
+        "carries_claim": false
+      }
+    },
+    "h-0302": {
+      "hook_id": "h-0302",
+      "text": "Whoa! Did you see how many you get for that price? One, not two, not three, not four, not five, not six, not seven, eight, nine, 10, 11, 12 of these 12 grams of ketones, clarity and focus, caffeine",
+      "source": {
+        "kind": "quoted",
+        "creator": "7494597286285772663",
+        "euka_video_id": "7674638258428513550",
+        "video_url": "https://www.tiktok.com/@donttellmyhubs/video/7674638258428513550",
+        "verified_against": "transcript",
+        "verified_on": "2026-10-05",
+        "convention": "a line a creator said, taken from the transcript of this video rather than the caption under it",
+        "how": "quoted from a video that outsold a Top 10 card over the turn's window"
+      },
+      "proof": {
+        "videos_made": "UNKNOWN",
+        "converting_videos": "UNKNOWN",
+        "distinct_creators": "UNKNOWN",
+        "revenue_usd": "UNKNOWN",
+        "as_of": "2026-10-05",
+        "how": "no video has been read against this line yet"
+      },
+      "rules": {
+        "checked_on": "2026-10-05",
+        "passed": true,
+        "broken": [],
+        "carries_claim": false
+      }
     }
   },
   "tabs": [
@@ -8620,7 +8816,7 @@
         },
         {
           "block": "stamp",
-          "text": "Updated 23 September 2026",
+          "text": "Updated 5 October 2026",
           "note": "· refreshed weekly"
         },
         {
@@ -8736,14 +8932,14 @@
                   "figure": "$807",
                   "note": "TikTok Shop · 17 orders",
                   "sales": {
-                    "figure": "$985",
-                    "note": "TikTok Shop · 22 orders",
+                    "figure": "$1,015",
+                    "note": "TikTok Shop · 23 orders",
                     "source": "tiktok_shop",
                     "window": {
-                      "start": "2026-07-07",
-                      "end": "2026-10-04"
+                      "start": "2026-07-08",
+                      "end": "2026-10-05"
                     },
-                    "as_of": "2026-10-04"
+                    "as_of": "2026-10-05"
                   }
                 },
                 {
@@ -9173,7 +9369,7 @@
         },
         {
           "block": "stamp",
-          "text": "Updated 24 September 2026",
+          "text": "Updated 5 October 2026",
           "note": "· TikTok Shop sales only · refreshed weekly"
         },
         {
@@ -9217,14 +9413,14 @@
               "figure": "$807",
               "note": "TikTok Shop · 17 orders",
               "sales": {
-                "figure": "$985",
-                "note": "TikTok Shop · 22 orders",
+                "figure": "$1,015",
+                "note": "TikTok Shop · 23 orders",
                 "source": "tiktok_shop",
                 "window": {
-                  "start": "2026-07-07",
-                  "end": "2026-10-04"
+                  "start": "2026-07-08",
+                  "end": "2026-10-05"
                 },
-                "as_of": "2026-10-04"
+                "as_of": "2026-10-05"
               }
             },
             {
@@ -12199,7 +12395,538 @@
       ]
     }
   ],
-  "changes_pending": [],
+  "changes_pending": [
+    {
+      "kind": "hook_swap",
+      "tab": "top-3",
+      "in": "h-0296",
+      "out": "h-0283",
+      "owner": "nick",
+      "since": "2026-10-05",
+      "evidence": {
+        "in": {
+          "text": "This is how I stay sharp all afternoon as someone who genuinely cannot do caffeine in the afternoon. This is Ketelix's new Raspberry Lychee drink.",
+          "source": {
+            "kind": "quoted",
+            "creator": "7493993398388688953",
+            "euka_video_id": "7688094160829648141",
+            "video_url": "https://www.tiktok.com/@ash_lee0528/video/7688094160829648141",
+            "verified_against": "transcript",
+            "verified_on": "2026-10-05",
+            "convention": "a line a creator said, taken from the transcript of this video rather than the caption under it",
+            "how": "quoted from a video that sold inside the proof window"
+          },
+          "proof": {
+            "converting_videos": 1,
+            "creators": 1,
+            "revenue_usd": 131.04,
+            "window": {
+              "start": "2026-09-08",
+              "end": "2026-10-05"
+            }
+          },
+          "rules": {
+            "passed": true,
+            "broken": [],
+            "carries_claim": false,
+            "how": "This line breaks no rule.",
+            "checked_on": "2026-10-05"
+          }
+        },
+        "out": {
+          "text": "“Once you understand how ketones work, regular energy drinks start looking a little outdated.”",
+          "proof": {
+            "converting_videos": "UNKNOWN"
+          },
+          "why": "no video has been read against it yet, and an unread line is the weakest a tab has",
+          "position": 8
+        },
+        "verified": "transcript",
+        "how": "A creator said this line on one video that sold between 2026-09-08 and 2026-10-05, and no line on the hub matched it. It would take the place of the weakest line on this tab, which is there because no video has been read against it yet, and an unread line is the weakest a tab has."
+      }
+    },
+    {
+      "kind": "hook_swap",
+      "tab": "general",
+      "in": "h-0297",
+      "out": "h-0019",
+      "owner": "nick",
+      "since": "2026-10-05",
+      "evidence": {
+        "in": {
+          "text": "This energy drink with no caffeine. Simply little weird. Until I figured out how it works. And this is Kinetix.",
+          "source": {
+            "kind": "quoted",
+            "creator": "7496167815652149509",
+            "euka_video_id": "7686203776956402957",
+            "video_url": "https://www.tiktok.com/@win.with.nick.2/video/7686203776956402957",
+            "verified_against": "transcript",
+            "verified_on": "2026-10-05",
+            "convention": "a line a creator said, taken from the transcript of this video rather than the caption under it",
+            "how": "quoted from a video that sold inside the proof window"
+          },
+          "proof": {
+            "converting_videos": 1,
+            "creators": 1,
+            "revenue_usd": 119.76,
+            "window": {
+              "start": "2026-09-08",
+              "end": "2026-10-05"
+            }
+          },
+          "rules": {
+            "passed": true,
+            "broken": [],
+            "carries_claim": false,
+            "how": "This line breaks no rule.",
+            "checked_on": "2026-10-05"
+          }
+        },
+        "out": {
+          "text": "“You know that feeling where the word is right there but your brain will not grab it?”",
+          "proof": {
+            "converting_videos": "UNKNOWN"
+          },
+          "why": "no video has been read against it yet, and an unread line is the weakest a tab has",
+          "position": 9
+        },
+        "verified": "transcript",
+        "how": "A creator said this line on one video that sold between 2026-09-08 and 2026-10-05, and no line on the hub matched it. It would take the place of the weakest line on this tab, which is there because no video has been read against it yet, and an unread line is the weakest a tab has."
+      }
+    },
+    {
+      "kind": "hook_swap",
+      "tab": "top-10-now",
+      "in": "h-0298",
+      "out": "h-0276",
+      "owner": "nick",
+      "since": "2026-10-05",
+      "evidence": {
+        "in": {
+          "text": "I just robbed them... 😳 You're not gonna believe how much I just paid for all of these. Don't just get one or two, not three or four, five, six, seven, eight, nine, ten, not eleven, but twelve flavors",
+          "source": {
+            "kind": "quoted",
+            "creator": "7494978694652922475",
+            "euka_video_id": "7662605837147409695",
+            "video_url": "https://www.tiktok.com/@yaboyhotway/video/7662605837147409695",
+            "verified_against": "transcript",
+            "verified_on": "2026-10-05",
+            "convention": "a line a creator said, taken from the transcript of this video rather than the caption under it",
+            "how": "quoted from a video that outsold a Top 10 card over the turn's window"
+          },
+          "proof": {
+            "converting_videos": "UNKNOWN",
+            "creators": "UNKNOWN",
+            "revenue_usd": 1611.88,
+            "window": {
+              "start": "2026-07-08",
+              "end": "2026-10-05"
+            }
+          },
+          "rules": {
+            "passed": true,
+            "broken": [],
+            "carries_claim": false,
+            "how": "This line breaks no rule.",
+            "checked_on": "2026-10-05"
+          }
+        },
+        "out": {
+          "text": "“Completely caffeine-free. It’s not going to leave you with the jitters that pre-workout gives you.”",
+          "proof": {
+            "converting_videos": "UNKNOWN",
+            "revenue_usd": "UNKNOWN"
+          },
+          "why": "its video has no figure the turn can see, the least of the ten",
+          "position": 5,
+          "video_id": "7659539458366131469"
+        },
+        "card": {
+          "video_id": "7662605837147409695",
+          "url": "https://www.tiktok.com/@yaboyhotway/video/7662605837147409695",
+          "image": "https://database.euka.ai/storage/v1/object/public/creator_videos_photos/7662605837147409695.webp",
+          "image_alt": "Creator video",
+          "tag": "",
+          "quote": "“I just robbed them... 😳 You're not gonna believe how much I just paid for all of these. Don't just get one or two, not three or four, five, six, seven, eight, nine, ten, not eleven, but twelve flavors”",
+          "handle": "@yaboyhotway",
+          "figure": "$1,612",
+          "note": "TikTok Shop · 25 orders",
+          "sales": {
+            "figure": "$1,612",
+            "note": "TikTok Shop · 25 orders",
+            "source": "tiktok_shop",
+            "window": {
+              "start": "2026-07-08",
+              "end": "2026-10-05"
+            },
+            "as_of": "2026-10-05"
+          }
+        },
+        "verified": "transcript",
+        "how": "This video sold $1,612 on TikTok Shop over the turn's window and is not on the Top 10, which says it lists the ten videos that sold the most. It would take the place of the card whose video has no figure the turn can see. Approving it replaces the card and its line together; the card's short tag starts empty for you to write."
+      }
+    },
+    {
+      "kind": "hook_swap",
+      "tab": "top-10-now",
+      "in": "h-0295",
+      "out": "h-0280",
+      "owner": "nick",
+      "since": "2026-10-05",
+      "evidence": {
+        "in": {
+          "text": "THIS IS NOT WHAT YOU'RE THINKING. THIS IS NOT YOUR CLASSIC ENERGY DRINK. THIS IS NOT WHAT YOU SEE EVERY INFLUENCER CREATING. THIS WILL BE A ONE OF A KIND.",
+          "source": {
+            "kind": "quoted",
+            "creator": "7494145570141341372",
+            "euka_video_id": "7685528316568177933",
+            "video_url": "https://www.tiktok.com/@savastanodeals/video/7685528316568177933",
+            "verified_against": "transcript",
+            "verified_on": "2026-09-27",
+            "convention": "a line a creator said, taken from the transcript of this video rather than the caption under it",
+            "how": "quoted from a video that sold inside the proof window"
+          },
+          "proof": {
+            "converting_videos": "UNKNOWN",
+            "creators": "UNKNOWN",
+            "revenue_usd": 297.6,
+            "window": {
+              "start": "2026-07-08",
+              "end": "2026-10-05"
+            }
+          },
+          "rules": {
+            "passed": true,
+            "broken": [],
+            "carries_claim": false,
+            "how": "This line breaks no rule.",
+            "checked_on": "2026-10-05"
+          }
+        },
+        "out": {
+          "text": "“With that mid-afternoon crash a lot of times we go to reach for more caffeine and then we’re restless.”",
+          "proof": {
+            "converting_videos": "UNKNOWN",
+            "revenue_usd": 34.93
+          },
+          "why": "its video has $35 in TikTok Shop sales, the least of the ten",
+          "position": 9,
+          "video_id": "7672856549383032095"
+        },
+        "card": {
+          "video_id": "7685528316568177933",
+          "url": "https://www.tiktok.com/@savastanodeals/video/7685528316568177933",
+          "image": "https://database.euka.ai/storage/v1/object/public/creator_videos_photos/7685528316568177933.webp",
+          "image_alt": "Creator video",
+          "tag": "",
+          "quote": "“THIS IS NOT WHAT YOU'RE THINKING. THIS IS NOT YOUR CLASSIC ENERGY DRINK. THIS IS NOT WHAT YOU SEE EVERY INFLUENCER CREATING. THIS WILL BE A ONE OF A KIND.”",
+          "handle": "@savastanodeals",
+          "figure": "$298",
+          "note": "TikTok Shop · 7 orders",
+          "sales": {
+            "figure": "$298",
+            "note": "TikTok Shop · 7 orders",
+            "source": "tiktok_shop",
+            "window": {
+              "start": "2026-07-08",
+              "end": "2026-10-05"
+            },
+            "as_of": "2026-10-05"
+          }
+        },
+        "verified": "transcript",
+        "how": "This video sold $298 on TikTok Shop over the turn's window and is not on the Top 10, which says it lists the ten videos that sold the most. It would take the place of the card whose video has $35 in TikTok Shop sales. Approving it replaces the card and its line together; the card's short tag starts empty for you to write."
+      }
+    },
+    {
+      "kind": "hook_swap",
+      "tab": "top-10-now",
+      "in": "h-0299",
+      "out": "h-0279",
+      "owner": "nick",
+      "since": "2026-10-05",
+      "evidence": {
+        "in": {
+          "text": "Tired America? We just got home from a little road trip, night away, offroading all day yesterday. I'm unpacking my cooler and one of the things that I obviously took with me is Kenetix.",
+          "source": {
+            "kind": "quoted",
+            "creator": "7494391275048437531",
+            "euka_video_id": "7673447504649751822",
+            "video_url": "https://www.tiktok.com/@roidragetts/video/7673447504649751822",
+            "verified_against": "transcript",
+            "verified_on": "2026-10-05",
+            "convention": "a line a creator said, taken from the transcript of this video rather than the caption under it",
+            "how": "quoted from a video that outsold a Top 10 card over the turn's window"
+          },
+          "proof": {
+            "converting_videos": "UNKNOWN",
+            "creators": "UNKNOWN",
+            "revenue_usd": 191.93,
+            "window": {
+              "start": "2026-07-08",
+              "end": "2026-10-05"
+            }
+          },
+          "rules": {
+            "passed": true,
+            "broken": [],
+            "carries_claim": false,
+            "how": "This line breaks no rule.",
+            "checked_on": "2026-10-05"
+          }
+        },
+        "out": {
+          "text": "“If the caffeine of an energy drink doesn’t do it for you anymore, you need to try Kenetik.”",
+          "proof": {
+            "converting_videos": "UNKNOWN",
+            "revenue_usd": 50.89
+          },
+          "why": "its video has $51 in TikTok Shop sales, the least of the ten",
+          "position": 8,
+          "video_id": "7679663634837966110"
+        },
+        "card": {
+          "video_id": "7673447504649751822",
+          "url": "https://www.tiktok.com/@roidragetts/video/7673447504649751822",
+          "image": "https://database.euka.ai/storage/v1/object/public/creator_videos_photos/7673447504649751822.webp",
+          "image_alt": "Creator video",
+          "tag": "",
+          "quote": "“Tired America? We just got home from a little road trip, night away, offroading all day yesterday. I'm unpacking my cooler and one of the things that I obviously took with me is Kenetix.”",
+          "handle": "@roidragetts",
+          "figure": "$192",
+          "note": "TikTok Shop · 1 order",
+          "sales": {
+            "figure": "$192",
+            "note": "TikTok Shop · 1 order",
+            "source": "tiktok_shop",
+            "window": {
+              "start": "2026-07-08",
+              "end": "2026-10-05"
+            },
+            "as_of": "2026-10-05"
+          }
+        },
+        "verified": "transcript",
+        "how": "This video sold $192 on TikTok Shop over the turn's window and is not on the Top 10, which says it lists the ten videos that sold the most. It would take the place of the card whose video has $51 in TikTok Shop sales. Approving it replaces the card and its line together; the card's short tag starts empty for you to write."
+      }
+    },
+    {
+      "kind": "hook_swap",
+      "tab": "top-10-now",
+      "in": "h-0300",
+      "out": "h-0278",
+      "owner": "nick",
+      "since": "2026-10-05",
+      "evidence": {
+        "in": {
+          "text": "Don't feel like your one for the day? You know what I'm talking about. You get to that point in the day where you're looking at your screen, but your brain ain't cooperating?",
+          "source": {
+            "kind": "quoted",
+            "creator": "7496093747417025089",
+            "euka_video_id": "7685520510037413133",
+            "video_url": "https://www.tiktok.com/@unstablegenius64/video/7685520510037413133",
+            "verified_against": "transcript",
+            "verified_on": "2026-10-05",
+            "convention": "a line a creator said, taken from the transcript of this video rather than the caption under it",
+            "how": "quoted from a video that outsold a Top 10 card over the turn's window"
+          },
+          "proof": {
+            "converting_videos": "UNKNOWN",
+            "creators": "UNKNOWN",
+            "revenue_usd": 179.63,
+            "window": {
+              "start": "2026-07-08",
+              "end": "2026-10-05"
+            }
+          },
+          "rules": {
+            "passed": true,
+            "broken": [],
+            "carries_claim": false,
+            "how": "This line breaks no rule.",
+            "checked_on": "2026-10-05"
+          }
+        },
+        "out": {
+          "text": "“Energy drinks are NOT healthy. The fact that we drink these every day blows my mind.”",
+          "proof": {
+            "converting_videos": "UNKNOWN",
+            "revenue_usd": 50.9
+          },
+          "why": "its video has $51 in TikTok Shop sales, the least of the ten",
+          "position": 7,
+          "video_id": "7677606012035009822"
+        },
+        "card": {
+          "video_id": "7685520510037413133",
+          "url": "https://www.tiktok.com/@unstablegenius64/video/7685520510037413133",
+          "image": "https://database.euka.ai/storage/v1/object/public/creator_videos_photos/7685520510037413133.webp",
+          "image_alt": "Creator video",
+          "tag": "",
+          "quote": "“Don't feel like your one for the day? You know what I'm talking about. You get to that point in the day where you're looking at your screen, but your brain ain't cooperating?”",
+          "handle": "@unstablegenius64",
+          "figure": "$180",
+          "note": "TikTok Shop · 3 orders",
+          "sales": {
+            "figure": "$180",
+            "note": "TikTok Shop · 3 orders",
+            "source": "tiktok_shop",
+            "window": {
+              "start": "2026-07-08",
+              "end": "2026-10-05"
+            },
+            "as_of": "2026-10-05"
+          }
+        },
+        "verified": "transcript",
+        "how": "This video sold $180 on TikTok Shop over the turn's window and is not on the Top 10, which says it lists the ten videos that sold the most. It would take the place of the card whose video has $51 in TikTok Shop sales. Approving it replaces the card and its line together; the card's short tag starts empty for you to write."
+      }
+    },
+    {
+      "kind": "hook_swap",
+      "tab": "top-10-now",
+      "in": "h-0301",
+      "out": "h-0277",
+      "owner": "nick",
+      "since": "2026-10-05",
+      "evidence": {
+        "in": {
+          "text": "So I did some math on Connecticut. It replaces my $6 energy drink. It replaces my $6 cup of coffee. And I actually get the focus that I paid those items for. Kinetik is different. Zero caffeine.",
+          "source": {
+            "kind": "quoted",
+            "creator": "7494533211920566194",
+            "euka_video_id": "7684367075699166495",
+            "video_url": "https://www.tiktok.com/@healthy.lifestyle.vibe/video/7684367075699166495",
+            "verified_against": "transcript",
+            "verified_on": "2026-10-05",
+            "convention": "a line a creator said, taken from the transcript of this video rather than the caption under it",
+            "how": "quoted from a video that outsold a Top 10 card over the turn's window"
+          },
+          "proof": {
+            "converting_videos": "UNKNOWN",
+            "creators": "UNKNOWN",
+            "revenue_usd": 166.65,
+            "window": {
+              "start": "2026-07-08",
+              "end": "2026-10-05"
+            }
+          },
+          "rules": {
+            "passed": true,
+            "broken": [],
+            "carries_claim": false,
+            "how": "This line breaks no rule.",
+            "checked_on": "2026-10-05"
+          }
+        },
+        "out": {
+          "text": "“I am so excited. My Kenetik just came in and I just poured myself a glass and I love this.”",
+          "proof": {
+            "converting_videos": "UNKNOWN",
+            "revenue_usd": 59.88
+          },
+          "why": "its video has $60 in TikTok Shop sales, the least of the ten",
+          "position": 6,
+          "video_id": "7675112056219077901"
+        },
+        "card": {
+          "video_id": "7684367075699166495",
+          "url": "https://www.tiktok.com/@healthy.lifestyle.vibe/video/7684367075699166495",
+          "image": "https://database.euka.ai/storage/v1/object/public/creator_videos_photos/7684367075699166495.webp",
+          "image_alt": "Creator video",
+          "tag": "",
+          "quote": "“So I did some math on Connecticut. It replaces my $6 energy drink. It replaces my $6 cup of coffee. And I actually get the focus that I paid those items for. Kinetik is different. Zero caffeine.”",
+          "handle": "@healthy.lifestyle.vibe",
+          "figure": "$167",
+          "note": "TikTok Shop · 4 orders",
+          "sales": {
+            "figure": "$167",
+            "note": "TikTok Shop · 4 orders",
+            "source": "tiktok_shop",
+            "window": {
+              "start": "2026-07-08",
+              "end": "2026-10-05"
+            },
+            "as_of": "2026-10-05"
+          }
+        },
+        "verified": "transcript",
+        "how": "This video sold $167 on TikTok Shop over the turn's window and is not on the Top 10, which says it lists the ten videos that sold the most. It would take the place of the card whose video has $60 in TikTok Shop sales. Approving it replaces the card and its line together; the card's short tag starts empty for you to write."
+      }
+    },
+    {
+      "kind": "hook_swap",
+      "tab": "top-10-now",
+      "in": "h-0302",
+      "out": "h-0275",
+      "owner": "nick",
+      "since": "2026-10-05",
+      "evidence": {
+        "in": {
+          "text": "Whoa! Did you see how many you get for that price? One, not two, not three, not four, not five, not six, not seven, eight, nine, 10, 11, 12 of these 12 grams of ketones, clarity and focus, caffeine",
+          "source": {
+            "kind": "quoted",
+            "creator": "7494597286285772663",
+            "euka_video_id": "7674638258428513550",
+            "video_url": "https://www.tiktok.com/@donttellmyhubs/video/7674638258428513550",
+            "verified_against": "transcript",
+            "verified_on": "2026-10-05",
+            "convention": "a line a creator said, taken from the transcript of this video rather than the caption under it",
+            "how": "quoted from a video that outsold a Top 10 card over the turn's window"
+          },
+          "proof": {
+            "converting_videos": "UNKNOWN",
+            "creators": "UNKNOWN",
+            "revenue_usd": 161.67,
+            "window": {
+              "start": "2026-07-08",
+              "end": "2026-10-05"
+            }
+          },
+          "rules": {
+            "passed": true,
+            "broken": [],
+            "carries_claim": false,
+            "how": "This line breaks no rule.",
+            "checked_on": "2026-10-05"
+          }
+        },
+        "out": {
+          "text": "“Myth vs. Fact. Energy = More Sugar.”",
+          "proof": {
+            "converting_videos": "UNKNOWN",
+            "revenue_usd": 157.12
+          },
+          "why": "its video has $157 in TikTok Shop sales, the least of the ten",
+          "position": 4,
+          "video_id": "7665147180268735775"
+        },
+        "card": {
+          "video_id": "7674638258428513550",
+          "url": "https://www.tiktok.com/@donttellmyhubs/video/7674638258428513550",
+          "image": "https://database.euka.ai/storage/v1/object/public/creator_videos_photos/7674638258428513550.webp",
+          "image_alt": "Creator video",
+          "tag": "",
+          "quote": "“Whoa! Did you see how many you get for that price? One, not two, not three, not four, not five, not six, not seven, eight, nine, 10, 11, 12 of these 12 grams of ketones, clarity and focus, caffeine”",
+          "handle": "@donttellmyhubs",
+          "figure": "$162",
+          "note": "TikTok Shop · 3 orders",
+          "sales": {
+            "figure": "$162",
+            "note": "TikTok Shop · 3 orders",
+            "source": "tiktok_shop",
+            "window": {
+              "start": "2026-07-08",
+              "end": "2026-10-05"
+            },
+            "as_of": "2026-10-05"
+          }
+        },
+        "verified": "transcript",
+        "how": "This video sold $162 on TikTok Shop over the turn's window and is not on the Top 10, which says it lists the ten videos that sold the most. It would take the place of the card whose video has $157 in TikTok Shop sales. Approving it replaces the card and its line together; the card's short tag starts empty for you to write."
+      }
+    }
+  ],
   "decisions": [
     {
       "kind": "hook_swap",
