@@ -8507,12 +8507,12 @@
         "how": "quoted from a video that sold inside the proof window"
       },
       "proof": {
-        "videos_made": 3,
+        "videos_made": 4,
         "converting_videos": 2,
         "distinct_creators": 1,
         "revenue_usd": 101.65,
-        "as_of": "2026-10-02",
-        "how": "Counted from the videos whose spoken opening matched this line and were posted between 2026-09-05 and 2026-10-02. One creator so far."
+        "as_of": "2026-10-06",
+        "how": "Counted from the videos whose spoken opening matched this line and were posted between 2026-09-09 and 2026-10-06. One creator so far."
       },
       "rules": {
         "checked_on": "2026-09-27",
