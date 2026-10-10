@@ -7792,12 +7792,12 @@
         "how": "quoted from a video that sold inside the proof window"
       },
       "proof": {
-        "videos_made": 2,
-        "converting_videos": 1,
-        "distinct_creators": 1,
-        "revenue_usd": 166.65,
-        "as_of": "2026-10-03",
-        "how": "Counted from the videos whose spoken opening matched this line and were posted between 2026-09-06 and 2026-10-03. One creator so far."
+        "videos_made": "UNKNOWN",
+        "converting_videos": "UNKNOWN",
+        "distinct_creators": "UNKNOWN",
+        "revenue_usd": "UNKNOWN",
+        "as_of": "2026-10-09",
+        "how": "no video has been read against this line yet"
       },
       "rules": {
         "checked_on": "2026-09-20",
@@ -8608,9 +8608,9 @@
         "videos_made": 1,
         "converting_videos": 1,
         "distinct_creators": 1,
-        "revenue_usd": 119.76,
-        "as_of": "2026-10-05",
-        "how": "Counted from the videos whose spoken opening matched this line and were posted between 2026-09-08 and 2026-10-05. One creator so far."
+        "revenue_usd": 150.2,
+        "as_of": "2026-10-09",
+        "how": "Counted from the videos whose spoken opening matched this line and were posted between 2026-09-12 and 2026-10-09. One creator so far."
       },
       "rules": {
         "checked_on": "2026-10-05",
@@ -8721,12 +8721,12 @@
         "how": "quoted from a video that outsold a Top 10 card over the turn's window The brand name is spelled correctly where the transcript mis-heard it."
       },
       "proof": {
-        "videos_made": 2,
-        "converting_videos": 2,
-        "distinct_creators": 1,
-        "revenue_usd": 197.09,
-        "as_of": "2026-10-05",
-        "how": "Counted from the videos whose spoken opening matched this line and were posted between 2026-09-08 and 2026-10-05. One creator so far."
+        "videos_made": "UNKNOWN",
+        "converting_videos": "UNKNOWN",
+        "distinct_creators": "UNKNOWN",
+        "revenue_usd": "UNKNOWN",
+        "as_of": "2026-10-09",
+        "how": "no video has been read against this line yet"
       },
       "rules": {
         "checked_on": "2026-10-05",
