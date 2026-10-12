@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "updated": "2026-10-05",
+  "updated": "2026-10-11",
   "written_by": "scripts/hooks_hub_extract.py for the first write; the Monday turn writes the machine fields from 7-2 and people write the editorial fields by hand",
   "rules_version": "hooks-config@4402e2a7 · claims-list@daffab0b · reader@138f4b17",
   "footer": "Kenetik Creator Hub · Hook performance from our TikTok Shop and Meta ad campaigns, measured on each video's spoken opening line. Refreshed weekly. Figures are past performance and not a guarantee of what any individual video will earn.",
@@ -8775,6 +8775,34 @@
         "carries_claim": false
       },
       "angle_id_proposed": "unclassified"
+    },
+    "h-0303": {
+      "hook_id": "h-0303",
+      "text": "Not an energy drink but brain fuel. Instead of caffeine you get 12g of ketones that your brain would actually rather have. Not a single artificial color.",
+      "source": {
+        "kind": "quoted",
+        "creator": "7494016372948042911",
+        "euka_video_id": "7686294081051413791",
+        "video_url": "https://www.tiktok.com/@thededicateddad/video/7686294081051413791",
+        "verified_against": "transcript",
+        "verified_on": "2026-10-11",
+        "convention": "a line a creator said, taken from the transcript of this video rather than the caption under it",
+        "how": "quoted from a video that sold inside the proof window"
+      },
+      "proof": {
+        "videos_made": "UNKNOWN",
+        "converting_videos": "UNKNOWN",
+        "distinct_creators": "UNKNOWN",
+        "revenue_usd": "UNKNOWN",
+        "as_of": "2026-10-11",
+        "how": "no video has been read against this line yet"
+      },
+      "rules": {
+        "checked_on": "2026-10-11",
+        "passed": true,
+        "broken": [],
+        "carries_claim": false
+      }
     }
   },
   "tabs": [
@@ -8846,7 +8874,7 @@
         },
         {
           "block": "stamp",
-          "text": "Updated 5 October 2026",
+          "text": "Updated 11 October 2026",
           "note": "· refreshed weekly"
         },
         {
@@ -8946,10 +8974,10 @@
                     "note": "TikTok Shop · 14 orders",
                     "source": "tiktok_shop",
                     "window": {
-                      "start": "2026-07-08",
-                      "end": "2026-10-05"
+                      "start": "2026-07-14",
+                      "end": "2026-10-11"
                     },
-                    "as_of": "2026-10-05"
+                    "as_of": "2026-10-11"
                   }
                 },
                 {
@@ -8966,10 +8994,10 @@
                     "note": "TikTok Shop · 23 orders",
                     "source": "tiktok_shop",
                     "window": {
-                      "start": "2026-07-08",
-                      "end": "2026-10-05"
+                      "start": "2026-07-14",
+                      "end": "2026-10-11"
                     },
-                    "as_of": "2026-10-05"
+                    "as_of": "2026-10-11"
                   }
                 },
                 {
@@ -8986,10 +9014,10 @@
                     "note": "TikTok Shop · 9 orders",
                     "source": "tiktok_shop",
                     "window": {
-                      "start": "2026-07-08",
-                      "end": "2026-10-05"
+                      "start": "2026-07-14",
+                      "end": "2026-10-11"
                     },
-                    "as_of": "2026-10-05"
+                    "as_of": "2026-10-11"
                   }
                 },
                 {
@@ -9006,10 +9034,10 @@
                     "note": "TikTok Shop · 1 order",
                     "source": "tiktok_shop",
                     "window": {
-                      "start": "2026-07-08",
-                      "end": "2026-10-05"
+                      "start": "2026-07-14",
+                      "end": "2026-10-11"
                     },
-                    "as_of": "2026-10-05"
+                    "as_of": "2026-10-11"
                   }
                 },
                 {
@@ -9026,10 +9054,10 @@
                     "note": "TikTok Shop · 1 order",
                     "source": "tiktok_shop",
                     "window": {
-                      "start": "2026-07-08",
-                      "end": "2026-10-05"
+                      "start": "2026-07-14",
+                      "end": "2026-10-11"
                     },
-                    "as_of": "2026-10-05"
+                    "as_of": "2026-10-11"
                   }
                 }
               ]
@@ -9403,7 +9431,7 @@
         },
         {
           "block": "stamp",
-          "text": "Updated 5 October 2026",
+          "text": "Updated 11 October 2026",
           "note": "· TikTok Shop sales only · refreshed weekly"
         },
         {
@@ -9431,10 +9459,10 @@
                 "note": "TikTok Shop · 14 orders",
                 "source": "tiktok_shop",
                 "window": {
-                  "start": "2026-07-08",
-                  "end": "2026-10-05"
+                  "start": "2026-07-14",
+                  "end": "2026-10-11"
                 },
-                "as_of": "2026-10-05"
+                "as_of": "2026-10-11"
               }
             },
             {
@@ -9451,10 +9479,10 @@
                 "note": "TikTok Shop · 23 orders",
                 "source": "tiktok_shop",
                 "window": {
-                  "start": "2026-07-08",
-                  "end": "2026-10-05"
+                  "start": "2026-07-14",
+                  "end": "2026-10-11"
                 },
-                "as_of": "2026-10-05"
+                "as_of": "2026-10-11"
               }
             },
             {
@@ -9471,10 +9499,10 @@
                 "note": "TikTok Shop · 9 orders",
                 "source": "tiktok_shop",
                 "window": {
-                  "start": "2026-07-08",
-                  "end": "2026-10-05"
+                  "start": "2026-07-14",
+                  "end": "2026-10-11"
                 },
-                "as_of": "2026-10-05"
+                "as_of": "2026-10-11"
               }
             },
             {
@@ -9491,10 +9519,10 @@
                 "note": "TikTok Shop · 3 orders",
                 "source": "tiktok_shop",
                 "window": {
-                  "start": "2026-07-08",
-                  "end": "2026-10-05"
+                  "start": "2026-07-14",
+                  "end": "2026-10-11"
                 },
-                "as_of": "2026-10-05"
+                "as_of": "2026-10-11"
               }
             },
             {
@@ -9511,10 +9539,10 @@
                 "note": "TikTok Shop · 1 order",
                 "source": "tiktok_shop",
                 "window": {
-                  "start": "2026-07-08",
-                  "end": "2026-10-05"
+                  "start": "2026-07-14",
+                  "end": "2026-10-11"
                 },
-                "as_of": "2026-10-05"
+                "as_of": "2026-10-11"
               }
             },
             {
@@ -9547,14 +9575,14 @@
               "figure": "$167",
               "note": "TikTok Shop · 4 orders",
               "sales": {
-                "figure": "$167",
-                "note": "TikTok Shop · 4 orders",
+                "figure": "$188",
+                "note": "TikTok Shop · 5 orders",
                 "source": "tiktok_shop",
                 "window": {
-                  "start": "2026-07-08",
-                  "end": "2026-10-05"
+                  "start": "2026-07-14",
+                  "end": "2026-10-11"
                 },
-                "as_of": "2026-10-05"
+                "as_of": "2026-10-11"
               }
             },
             {
@@ -9571,10 +9599,10 @@
                 "note": "TikTok Shop · 1 order",
                 "source": "tiktok_shop",
                 "window": {
-                  "start": "2026-07-08",
-                  "end": "2026-10-05"
+                  "start": "2026-07-14",
+                  "end": "2026-10-11"
                 },
-                "as_of": "2026-10-05"
+                "as_of": "2026-10-11"
               }
             },
             {
@@ -9591,10 +9619,10 @@
                 "note": "TikTok Shop · 1 order",
                 "source": "tiktok_shop",
                 "window": {
-                  "start": "2026-07-08",
-                  "end": "2026-10-05"
+                  "start": "2026-07-14",
+                  "end": "2026-10-11"
                 },
-                "as_of": "2026-10-05"
+                "as_of": "2026-10-11"
               }
             },
             {
@@ -9611,10 +9639,10 @@
                 "note": "TikTok Shop · 1 order",
                 "source": "tiktok_shop",
                 "window": {
-                  "start": "2026-07-08",
-                  "end": "2026-10-05"
+                  "start": "2026-07-14",
+                  "end": "2026-10-11"
                 },
-                "as_of": "2026-10-05"
+                "as_of": "2026-10-11"
               }
             }
           ]
@@ -12869,6 +12897,127 @@
         "verified": "transcript",
         "how": "This video sold $162 on TikTok Shop over the turn's window and is not on the Top 10, which says it lists the ten videos that sold the most. It would take the place of the card whose video has $157 in TikTok Shop sales. Approving it replaces the card and its line together; the card's short tag starts empty for you to write."
       }
+    },
+    {
+      "kind": "hook_swap",
+      "tab": "top-3",
+      "in": "h-0303",
+      "out": "h-0282",
+      "owner": "nick",
+      "since": "2026-10-11",
+      "evidence": {
+        "in": {
+          "text": "Not an energy drink but brain fuel. Instead of caffeine you get 12g of ketones that your brain would actually rather have. Not a single artificial color.",
+          "source": {
+            "kind": "quoted",
+            "creator": "7494016372948042911",
+            "euka_video_id": "7686294081051413791",
+            "video_url": "https://www.tiktok.com/@thededicateddad/video/7686294081051413791",
+            "verified_against": "transcript",
+            "verified_on": "2026-10-11",
+            "convention": "a line a creator said, taken from the transcript of this video rather than the caption under it",
+            "how": "quoted from a video that sold inside the proof window"
+          },
+          "proof": {
+            "converting_videos": 1,
+            "creators": 1,
+            "revenue_usd": 160.34,
+            "window": {
+              "start": "2026-09-14",
+              "end": "2026-10-11"
+            }
+          },
+          "rules": {
+            "passed": true,
+            "broken": [],
+            "carries_claim": false,
+            "how": "This line breaks no rule.",
+            "checked_on": "2026-10-11"
+          }
+        },
+        "out": {
+          "text": "“I didn’t quit energy drinks. I quit borrowing energy I had to pay back at 2pm.”",
+          "proof": {
+            "converting_videos": "UNKNOWN"
+          },
+          "why": "no video has been read against it yet, and an unread line is the weakest a tab has",
+          "position": 7
+        },
+        "verified": "transcript",
+        "how": "A creator said this line on one video that sold between 2026-09-14 and 2026-10-11, and no line on the hub matched it. It would take the place of the weakest line on this tab, which is there because no video has been read against it yet, and an unread line is the weakest a tab has."
+      }
+    },
+    {
+      "kind": "hook_swap",
+      "tab": "top-10-now",
+      "in": "h-0294",
+      "out": "h-0274",
+      "owner": "nick",
+      "since": "2026-10-11",
+      "evidence": {
+        "in": {
+          "text": "If ur card declines on this then we need to have a serious chat bc it's offensively cheap right now...",
+          "source": {
+            "kind": "quoted",
+            "creator": "7495348351282940731",
+            "euka_video_id": "7680287878634540302",
+            "video_url": "https://www.tiktok.com/@discountcomp/video/7680287878634540302",
+            "verified_against": "transcript",
+            "verified_on": "2026-09-27",
+            "convention": "a line a creator said, taken from the transcript of this video rather than the caption under it",
+            "how": "quoted from a video that sold inside the proof window"
+          },
+          "proof": {
+            "converting_videos": "UNKNOWN",
+            "creators": "UNKNOWN",
+            "revenue_usd": 174.37,
+            "window": {
+              "start": "2026-07-14",
+              "end": "2026-10-11"
+            }
+          },
+          "rules": {
+            "passed": true,
+            "broken": [],
+            "carries_claim": false,
+            "how": "This line breaks no rule.",
+            "checked_on": "2026-10-11"
+          }
+        },
+        "out": {
+          "text": "“Get rid of that brain fog without caffeine.”",
+          "proof": {
+            "converting_videos": "UNKNOWN",
+            "revenue_usd": 167.35
+          },
+          "why": "its video has $167 in TikTok Shop sales, the least of the ten",
+          "position": 3,
+          "video_id": "7678176777495153951"
+        },
+        "card": {
+          "video_id": "7693329256230718733",
+          "url": "https://www.tiktok.com/@discountcomp/video/7693329256230718733",
+          "image": "https://database.euka.ai/storage/v1/object/public/creator_videos_photos/7693329256230718733.webp",
+          "image_alt": "Creator video",
+          "tag": "",
+          "quote": "“If ur card declines on this then we need to have a serious chat bc it's offensively cheap right now...”",
+          "handle": "@discountcomp",
+          "figure": "$174",
+          "note": "TikTok Shop · 2 orders",
+          "sales": {
+            "figure": "$174",
+            "note": "TikTok Shop · 2 orders",
+            "source": "tiktok_shop",
+            "window": {
+              "start": "2026-07-14",
+              "end": "2026-10-11"
+            },
+            "as_of": "2026-10-11"
+          }
+        },
+        "verified": "transcript",
+        "how": "This video sold $174 on TikTok Shop over the turn's window and is not on the Top 10, which says it lists the ten videos that sold the most. It would take the place of the card whose video has $167 in TikTok Shop sales. Approving it replaces the card and its line together; the card's short tag starts empty for you to write."
+      }
     }
   ],
   "decisions": [
@@ -14245,7 +14394,7 @@
       },
       {
         "block": "stamp",
-        "text": "Updated 5 October 2026",
+        "text": "Updated 11 October 2026",
         "note": "· rolling 90-day window"
       },
       {
@@ -14273,10 +14422,10 @@
               "note": "TikTok Shop · 14 orders",
               "source": "tiktok_shop",
               "window": {
-                "start": "2026-07-08",
-                "end": "2026-10-05"
+                "start": "2026-07-14",
+                "end": "2026-10-11"
               },
-              "as_of": "2026-10-05"
+              "as_of": "2026-10-11"
             }
           },
           {
@@ -14301,10 +14450,10 @@
               "note": "TikTok Shop · 3 orders",
               "source": "tiktok_shop",
               "window": {
-                "start": "2026-07-08",
-                "end": "2026-10-05"
+                "start": "2026-07-14",
+                "end": "2026-10-11"
               },
-              "as_of": "2026-10-05"
+              "as_of": "2026-10-11"
             }
           },
           {
@@ -14320,10 +14469,10 @@
               "note": "TikTok Shop · 1 order",
               "source": "tiktok_shop",
               "window": {
-                "start": "2026-07-08",
-                "end": "2026-10-05"
+                "start": "2026-07-14",
+                "end": "2026-10-11"
               },
-              "as_of": "2026-10-05"
+              "as_of": "2026-10-11"
             }
           }
         ]
