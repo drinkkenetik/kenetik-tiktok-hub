@@ -7821,12 +7821,12 @@
         "how": "quoted from a video that sold inside the proof window"
       },
       "proof": {
-        "videos_made": 2,
-        "converting_videos": 1,
-        "distinct_creators": 1,
-        "revenue_usd": 179.63,
-        "as_of": "2026-09-28",
-        "how": "Counted from the videos whose spoken opening matched this line and were posted between 2026-09-01 and 2026-09-28. One creator so far."
+        "videos_made": "UNKNOWN",
+        "converting_videos": "UNKNOWN",
+        "distinct_creators": "UNKNOWN",
+        "revenue_usd": "UNKNOWN",
+        "as_of": "2026-10-12",
+        "how": "no video has been read against this line yet"
       },
       "rules": {
         "checked_on": "2026-09-20",
@@ -8536,12 +8536,12 @@
         "how": "quoted from a video that sold inside the proof window"
       },
       "proof": {
-        "videos_made": 1,
-        "converting_videos": 1,
-        "distinct_creators": 1,
-        "revenue_usd": 297.6,
-        "as_of": "2026-10-03",
-        "how": "Counted from the videos whose spoken opening matched this line and were posted between 2026-09-06 and 2026-10-03. One creator so far."
+        "videos_made": "UNKNOWN",
+        "converting_videos": "UNKNOWN",
+        "distinct_creators": "UNKNOWN",
+        "revenue_usd": "UNKNOWN",
+        "as_of": "2026-10-12",
+        "how": "no video has been read against this line yet"
       },
       "rules": {
         "checked_on": "2026-09-27",
@@ -8692,12 +8692,12 @@
         "how": "quoted from a video that outsold a Top 10 card over the turn's window"
       },
       "proof": {
-        "videos_made": 1,
-        "converting_videos": 1,
-        "distinct_creators": 1,
-        "revenue_usd": 179.63,
-        "as_of": "2026-10-05",
-        "how": "Counted from the videos whose spoken opening matched this line and were posted between 2026-09-08 and 2026-10-05. One creator so far."
+        "videos_made": "UNKNOWN",
+        "converting_videos": "UNKNOWN",
+        "distinct_creators": "UNKNOWN",
+        "revenue_usd": "UNKNOWN",
+        "as_of": "2026-10-12",
+        "how": "no video has been read against this line yet"
       },
       "rules": {
         "checked_on": "2026-10-05",
@@ -8790,19 +8790,20 @@
         "how": "quoted from a video that sold inside the proof window"
       },
       "proof": {
-        "videos_made": "UNKNOWN",
-        "converting_videos": "UNKNOWN",
-        "distinct_creators": "UNKNOWN",
-        "revenue_usd": "UNKNOWN",
-        "as_of": "2026-10-11",
-        "how": "no video has been read against this line yet"
+        "videos_made": 1,
+        "converting_videos": 1,
+        "distinct_creators": 1,
+        "revenue_usd": 160.34,
+        "as_of": "2026-10-12",
+        "how": "Counted from the videos whose spoken opening matched this line and were posted between 2026-09-15 and 2026-10-12. One creator so far."
       },
       "rules": {
         "checked_on": "2026-10-11",
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "what-it-is"
     }
   },
   "tabs": [
