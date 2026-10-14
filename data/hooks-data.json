@@ -8812,7 +8812,7 @@
       "label": "📍 Start Here",
       "nav_order": 0,
       "title": "Start here",
-      "sub": "Your quick brief. Read this, pick your audience, and start testing hooks.",
+      "sub": "Your two-minute brief: what Kenetik is, the problem it solves, and how to tell it your way.",
       "formula": [
         {
           "title": "Hook them",
@@ -8820,29 +8820,28 @@
         },
         {
           "title": "Name the problem",
-          "text": "Call out the real moment they feel it: the foggy afternoon, the coffee crash, the mind fading late."
+          "text": "Call out the real moment they feel it: the foggy afternoon, the work still left at 8pm, the late coffee you pay for at midnight."
         },
         {
           "title": "Kenetik is the answer",
-          "text": "Bring in Kenetik as clean, caffeine-free brain fuel, shown for real. You drinking it, your honest take. Say \"brain fuel\" at least once."
+          "text": "Bring in Kenetik as clean, caffeine-free brain fuel, shown for real, and say when you drink it. You drinking it, your honest take. Say \"brain fuel\" at least once."
         }
       ],
       "dos": [
         "Say **\"brain fuel\"** at least once, every video.",
-        "Open on the problem or the feeling in the first 1 to 3 seconds.",
-        "Keep it real and native, like a post, not an ad.",
-        "Show yourself actually drinking it.",
-        "Stick to how it feels: clean, calm, clear focus."
+        "Open on the problem or the moment in the first 1 to 3 seconds.",
+        "**Say what time it is.** 3pm at the desk, 9pm in the garage. A real time of day does more work than any adjective.",
+        "Show yourself actually drinking it. Real and native, like a post, not an ad.",
+        "Close the loop if it is true for you: the work got done, and you still slept like normal.",
+        "Caffeine is fair game as a hook: what it did to you, or what it’s like to lock in late without it.",
+        "Test a lot. Different openers, different moments, caffeine included. We put budget behind whatever works."
       ],
       "donts": [
-        "Open with caffeine or ketones. They come after the hook.",
-        "Call it an energy drink, pre-workout, or supplement.",
-        "Make medical claims or tie it to any condition, injury, or disease.",
-        "**Don’t open by attacking energy drinks.** Our worst performer. They can sit inside the story, never in the first line.",
-        "**Don’t fake urgency.** Only claim a sellout that actually happened, and name it.",
-        "Lead with a discount or over-produce it like an ad.",
-        "Stack the whole pitch into the opener.",
-        "**Don't make Kenetik the hero.** \"We launched\" and \"the best on the market\" are our story, and nobody wakes up wanting to be part of a brand's story. Tell yours, and let Kenetik be what made it possible."
+        "Call it an energy drink, pre-workout or supplement. It’s metabolic brain fuel.",
+        "Make medical claims or promise better sleep, or tie it to any condition, injury or disease. Say how it feels to you, never what it treats or fixes.",
+        "Fake urgency. Only claim a sellout that actually happened, and name it.",
+        "Point at a shopping button on screen. Say “shop now” out loud instead, so the video still works when we run it as an ad.",
+        "Lead with a discount. If there’s an offer, save it for the end."
       ],
       "hook_ids": [],
       "angles": [],
@@ -8892,7 +8891,7 @@
             },
             {
               "block": "northstar",
-              "text": "**These are the three openings converting best for Kenetik right now.** One about **the money it replaces**, one about the **afternoon slump**, one about **what it is not**. Any can works for any of them."
+              "text": "**These are the three openings converting best for Kenetik right now.** One about **the money it replaces**, one about the **afternoon slump**, one about **what it is not**. Any can works for any of them. **Whichever you film, say when you’re drinking it.** The 3pm desk, the 9pm garage, hour ten of a shift. Locking in late without it costing you your sleep is the moment we want every video to carry, and it fits all three."
             },
             {
               "block": "formula",
@@ -9137,6 +9136,10 @@
                   "text": "Metabolic brain fuel, 12g of ketones, caffeine-free, and roughly when you made the change. Months, not “recently”."
                 },
                 {
+                  "title": "Add the night, if it’s true for you",
+                  "text": "**Example line, not a quote:** “I used to have a coffee at 4 and a can at 8, then lie awake past midnight. Now it’s one Kenetik when I need to lock in, and I’m asleep like normal.” Say it only if it’s your story."
+                },
+                {
                   "title": "Close",
                   "text": "Say **“shop now”** out loud."
                 }
@@ -9220,6 +9223,10 @@
                   "text": "Metabolic brain fuel, caffeine-free. Crack it on camera if you have not already."
                 },
                 {
+                  "title": "Or take it later",
+                  "text": "The same video works at 9pm. **Example line, not a quote:** “It’s 9pm, I’ve still got two hours of work, and I’m not touching caffeine this late.” Film it at the real time, whichever one is yours."
+                },
+                {
                   "title": "Land the close",
                   "text": "Say **“shop now”** out loud, and mean it. This is the one that leaks."
                 }
@@ -9299,6 +9306,10 @@
                   "text": "The correction lands harder when the thing being corrected is in shot."
                 },
                 {
+                  "title": "Say when you drink it",
+                  "text": "**Example line, not a quote:** “No caffeine in it, so I can crack one at 8pm and still sleep.” Say it only if it’s true for you."
+                },
+                {
                   "title": "Close",
                   "text": "Say **“shop now”** out loud."
                 }
@@ -9343,7 +9354,7 @@
               "steps": [
                 {
                   "title": "Does it open on a feeling or a fact, not an ingredient?",
-                  "text": "If the first line contains \"ketones\" or \"caffeine\", move it later."
+                  "text": "If the first line contains \"ketones\", move it later."
                 },
                 {
                   "title": "Is anything you claimed actually true?",
@@ -9695,7 +9706,7 @@
       "nav_order": 3,
       "title": "TikTok hooks to test — problem-solving & brain health",
       "sub": "10 hooks to test · RANKED ON OUR OWN CONVERTING DATA",
-      "audience": "**Lead with the customer's problem and brain health — not caffeine, not ketones.** Kenetik is metabolic brain fuel, the category we own. Ketones are the mechanism and the credibility; caffeine-free is the twist. Neither leads the hook. Every line below opens on the problem or outcome in the first two seconds, and borrows a proven structure from our cross-brand TikTok audits. The promise underneath all of it: clarity and focus on demand, your best hours, back.",
+      "audience": "**Lead with the customer's problem, the moment their focus goes.** Kenetik is metabolic brain fuel, the category we own. Ketones are the mechanism and the credibility, so they come after the hook. Caffeine can open the video if it’s part of your story. Every line below opens on the problem or outcome in the first two seconds, and borrows a proven structure from our cross-brand TikTok audits. The promise underneath all of it: clarity and focus on demand, your best hours, back. **The moment we own across every audience: locking in late in the day, finishing strong, and still sleeping like normal.** Not every hook has to be about it, but it’s the moment we want people to think of us for.",
       "formula": [
         {
           "title": "Hook",
@@ -9707,11 +9718,11 @@
         },
         {
           "title": "Kenetik as the fix",
-          "text": "Crack a Kenetik and show the reset. Clean, caffeine-free brain fuel, your real reaction. Say \"brain fuel\" at least once."
+          "text": "Crack a Kenetik, say when you’re drinking it, and show the reset. Clean, caffeine-free brain fuel, your real reaction. Say \"brain fuel\" at least once."
         },
         {
           "title": "Close it",
-          "text": "One simple reason to try it (caffeine-free, 12g of ketones), then say “shop now” out loud and give your code. Your code travels with the video, a link does not."
+          "text": "One simple reason to try it (12g of ketones, and no caffeine keeping you up tonight), then say “shop now” out loud and give your code. Your code travels with the video, a link does not."
         }
       ],
       "dos": [
@@ -9720,20 +9731,18 @@
         "Say what caffeine did to you (jittery, wired, could not sleep) as your reason for switching. Just never claim Kenetik treats it.",
         "Say **“shop now”** out loud before you finish. Saying it beats putting it on screen, and it is the one phrase that works on every platform we run you on.",
         "Land it in the first two seconds.",
-        "Ketones and caffeine-free come after the hook.",
         "Raw and one-take, with movement.",
         "Clone hook 03, the taste one, across several mid-size creators.",
-        "Stay inside our claims."
+        "Stay inside our claims.",
+        "Caffeine is fair game as a hook: what it did to you, or what it’s like to lock in late without it.",
+        "Test a lot. Different openers, different moments, caffeine included. We put budget behind whatever works."
       ],
       "donts": [
-        "Open with caffeine or ketones. They come after the hook.",
-        "Call it an energy drink, pre-workout, or supplement.",
-        "Make medical claims or tie it to any condition, injury, or disease.",
-        "**Don’t open by attacking energy drinks.** Our worst performer. They can sit inside the story, never in the first line.",
-        "**Don’t fake urgency.** Only claim a sellout that actually happened, and name it.",
-        "Lead with a discount or over-produce it like an ad.",
-        "Stack the whole pitch into the opener.",
-        "**Don't make Kenetik the hero.** \"We launched\" and \"the best on the market\" are our story, and nobody wakes up wanting to be part of a brand's story. Tell yours, and let Kenetik be what made it possible."
+        "Call it an energy drink, pre-workout or supplement. It’s metabolic brain fuel.",
+        "Make medical claims or promise better sleep, or tie it to any condition, injury or disease. Say how it feels to you, never what it treats or fixes.",
+        "Fake urgency. Only claim a sellout that actually happened, and name it.",
+        "Point at a shopping button on screen. Say “shop now” out loud instead, so the video still works when we run it as an ad.",
+        "Lead with a discount. If there’s an offer, save it for the end."
       ],
       "hook_ids": [
         "h-0010",
@@ -9809,178 +9818,12 @@
       ]
     },
     {
-      "slug": "flavor-drops",
-      "label": "🆕 New Flavor Drops",
-      "nav_order": 4,
-      "title": "TikTok hooks to test — new flavor drops",
-      "sub": "10 hooks to test · NEW FLAVOR DROPS (any flavor)",
-      "audience": "New flavor drops are a moment, so lead with the excitement and the taste, then let the scarcity do the work: Kenetik flavors sell out fast, and that urgency is real. Keep the brain-fuel core in frame so it never reads like just another flavored drink, it’s clean, caffeine-free focus that happens to taste incredible. These are written flavor-agnostic on purpose, so you can reuse them for any drop, this one or the next.",
-      "hook_ids": [
-        "h-0020",
-        "h-0021",
-        "h-0022",
-        "h-0023",
-        "h-0024",
-        "h-0025",
-        "h-0026",
-        "h-0027",
-        "h-0028",
-        "h-0029"
-      ],
-      "angles": [],
-      "layout": [
-        {
-          "block": "heading"
-        },
-        {
-          "block": "sub"
-        },
-        {
-          "block": "eyebrow",
-          "text": "The north star"
-        },
-        {
-          "block": "northstar"
-        },
-        {
-          "block": "eyebrow",
-          "text": "The hooks"
-        },
-        {
-          "block": "hooks",
-          "hook_ids": [
-            "h-0020",
-            "h-0021",
-            "h-0022",
-            "h-0023",
-            "h-0024",
-            "h-0025",
-            "h-0026",
-            "h-0027",
-            "h-0028",
-            "h-0029"
-          ]
-        }
-      ]
-    },
-    {
-      "slug": "golden-pear",
-      "label": "🍐 Golden Pear Restock",
-      "nav_order": 5,
-      "title": "TikTok hooks to test — Golden Pear restock",
-      "sub": "10 hooks to test · GOLDEN PEAR RESTOCK (sold out in ~4 weeks)",
-      "audience": "Golden Pear sold out its entire first run in about four weeks, so fast it never got live on TikTok Shop. That makes this restock the first time creators can actually review it here. Lead with that scarcity and the taste, back it with real social proof (over 70,000 Kenetik customers, and thousands of Golden Pear orders in a single month), and keep the brain-fuel core in frame. Social proof, urgency, and problem solving together is the winning formula.",
-      "hook_ids": [
-        "h-0030",
-        "h-0031",
-        "h-0032",
-        "h-0033",
-        "h-0034",
-        "h-0035",
-        "h-0036",
-        "h-0037",
-        "h-0038",
-        "h-0039"
-      ],
-      "angles": [],
-      "layout": [
-        {
-          "block": "heading"
-        },
-        {
-          "block": "sub"
-        },
-        {
-          "block": "eyebrow",
-          "text": "The north star"
-        },
-        {
-          "block": "northstar"
-        },
-        {
-          "block": "eyebrow",
-          "text": "The hooks"
-        },
-        {
-          "block": "hooks",
-          "hook_ids": [
-            "h-0030",
-            "h-0031",
-            "h-0032",
-            "h-0033",
-            "h-0034",
-            "h-0035",
-            "h-0036",
-            "h-0037",
-            "h-0038",
-            "h-0039"
-          ]
-        }
-      ]
-    },
-    {
-      "slug": "trx-shots",
-      "label": "🥤 TRX Shots",
-      "nav_order": 6,
-      "title": "TikTok hooks to test — TRX Kenetik shots",
-      "sub": "10 hooks to test · TRX SHOTS (portable brain fuel for training)",
-      "audience": "This is the TRX x Kenetik Lemon-Lime shot, not the can. The audience is TRX trainers, their clients, and active people who train hard. Two angles carry it: the shot format (portable and convenient, throw it in your gym bag, one quick shot before or during training) and focus as the edge (a clear, sharp mind is what holds up when the body is tired). Lead with the training moment, keep Kenetik as the clean, caffeine-free brain fuel behind it. No medical claims.",
-      "claims_note": "No medical claims.",
-      "hook_ids": [
-        "h-0239",
-        "h-0240",
-        "h-0241",
-        "h-0242",
-        "h-0243",
-        "h-0244",
-        "h-0245",
-        "h-0246",
-        "h-0247",
-        "h-0248"
-      ],
-      "angles": [],
-      "layout": [
-        {
-          "block": "heading"
-        },
-        {
-          "block": "sub"
-        },
-        {
-          "block": "eyebrow",
-          "text": "The north star"
-        },
-        {
-          "block": "northstar"
-        },
-        {
-          "block": "eyebrow",
-          "text": "The hooks"
-        },
-        {
-          "block": "hooks",
-          "hook_ids": [
-            "h-0239",
-            "h-0240",
-            "h-0241",
-            "h-0242",
-            "h-0243",
-            "h-0244",
-            "h-0245",
-            "h-0246",
-            "h-0247",
-            "h-0248"
-          ]
-        }
-      ]
-    },
-    {
       "slug": "brain-health",
       "label": "🧠 Brain Health / Longevity",
-      "nav_order": 7,
+      "nav_order": 4,
       "title": "TikTok hooks to test — brain health & longevity",
       "sub": "10 hooks to test · BRAIN HEALTH / LONGEVITY",
-      "audience": "**A fast-growing crowd treats brain health like they treat physical fitness, they want to fuel and protect their mind for the long haul, not react once something feels off.** Kenetik is clean, caffeine-free brain fuel that fits a daily brain-health habit. Lead with the aspiration (take care of your brain, cognitive fitness) and the felt problem (the fog when it's under-fueled). Ketones are the mechanism, caffeine-free is the twist. Say “brain fuel” at least once, and never call Kenetik an energy drink.",
+      "audience": "**A fast-growing crowd treats brain health like they treat physical fitness, they want to fuel and protect their mind for the long haul, not react once something feels off.** Kenetik is clean, caffeine-free brain fuel that fits a daily brain-health habit. Lead with the aspiration (take care of your brain, cognitive fitness) and the felt problem (the fog when it's under-fueled). Ketones are the mechanism, so they come after the hook. Caffeine can open the video if it’s part of your story. Say “brain fuel” at least once, and never call Kenetik an energy drink. **The moment to own here:** the afternoon and evening hours, when most people reach for more caffeine and pay for it in their sleep, which this crowd guards closely.",
       "formula": [
         {
           "title": "Hook",
@@ -9992,11 +9835,11 @@
         },
         {
           "title": "Kenetik as the fix",
-          "text": "Crack a Kenetik and show the reset. Clean, caffeine-free brain fuel, your real reaction. Say \"brain fuel\" at least once."
+          "text": "Crack a Kenetik, say when you’re drinking it, and show the reset. Clean, caffeine-free brain fuel, your real reaction. Say \"brain fuel\" at least once."
         },
         {
           "title": "Close it",
-          "text": "One simple reason to try it (caffeine-free, 12g of ketones), then say “shop now” out loud and give your code. Your code travels with the video, a link does not."
+          "text": "One simple reason to try it (12g of ketones, and no caffeine keeping you up tonight), then say “shop now” out loud and give your code. Your code travels with the video, a link does not."
         }
       ],
       "dos": [
@@ -10004,15 +9847,15 @@
         "Lead with the aspiration, the fog supports it.",
         "Keep it experiential and habit-based.",
         "One vivid mechanism line is enough.",
-        "Clone hooks 09 and 03 across creators."
+        "Clone hooks 09 and 03 across creators.",
+        "Test a lot. Different openers, different moments, caffeine included. We put budget behind whatever works."
       ],
       "donts": [
-        "Open with caffeine or ketones. They come after the hook.",
-        "Call it an energy drink, pre-workout, or supplement.",
-        "Make medical claims or tie it to any condition, injury, or disease.",
-        "Lead with a discount or over-produce it like an ad.",
-        "Stack the whole pitch into the opener.",
-        "**Don't make Kenetik the hero.** \"We launched\" and \"the best on the market\" are our story, and nobody wakes up wanting to be part of a brand's story. Tell yours, and let Kenetik be what made it possible."
+        "Call it an energy drink, pre-workout or supplement. It’s metabolic brain fuel.",
+        "Make medical claims or promise better sleep. Brain health is a habit you keep, never a condition Kenetik treats or prevents.",
+        "Fake urgency. Only claim a sellout that actually happened, and name it.",
+        "Point at a shopping button on screen. Say “shop now” out loud instead, so the video still works when we run it as an ad.",
+        "Lead with a discount. If there’s an offer, save it for the end."
       ],
       "hook_ids": [
         "h-0060",
@@ -10090,10 +9933,10 @@
     {
       "slug": "biohackers",
       "label": "⚡ Biohackers / Productivity",
-      "nav_order": 8,
+      "nav_order": 5,
       "title": "TikTok hooks to test — biohackers & productivity",
       "sub": "10 hooks to test · BIOHACKERS / PRODUCTIVITY",
-      "audience": "**This is Kenetik's home crowd: founders, knowledge workers, and biohackers who dial in their sleep, training, and diet, then lose the afternoon to brain fog and a fourth coffee.** Kenetik is clean, caffeine-free brain fuel built for deep work. Lead with the felt problem (the 2pm drop, the fight for focus) and the aspiration (drop into flow on command). Ketones are the mechanism and the credibility, this crowd already speaks the language, but still open on the problem or outcome. Caffeine-free is the twist. Say “brain fuel” at least once, and never call Kenetik an energy drink.",
+      "audience": "**This is Kenetik's home crowd: founders, knowledge workers, and biohackers who dial in their sleep, training, and diet, then lose the afternoon to brain fog and a fourth coffee.** Kenetik is clean, caffeine-free brain fuel built for deep work. Lead with the felt problem (the 2pm drop, the fight for focus) and the aspiration (drop into flow on command). Ketones are the mechanism and the credibility, and this crowd already speaks the language, but still open on the problem or the moment. Caffeine can open the video if it’s part of your story. Say “brain fuel” at least once, and never call Kenetik an energy drink. **The moment to own here:** the second deep-work block after 4pm, without trading tonight’s sleep for it.",
       "formula": [
         {
           "title": "Hook",
@@ -10105,11 +9948,11 @@
         },
         {
           "title": "Kenetik as the fix",
-          "text": "Crack a Kenetik and show the reset. Clean, caffeine-free brain fuel, your real reaction. Say \"brain fuel\" at least once."
+          "text": "Crack a Kenetik, say when you’re drinking it, and show the reset. Clean, caffeine-free brain fuel, your real reaction. Say \"brain fuel\" at least once."
         },
         {
           "title": "Close it",
-          "text": "One simple reason to try it (caffeine-free, 12g of ketones), then say “shop now” out loud and give your code. Your code travels with the video, a link does not."
+          "text": "One simple reason to try it (12g of ketones, and no caffeine keeping you up tonight), then say “shop now” out loud and give your code. Your code travels with the video, a link does not."
         }
       ],
       "dos": [
@@ -10117,15 +9960,15 @@
         "Open on the problem or the outcome, not the ingredient.",
         "Ketones can lead a little more here.",
         "Keep it real and specific.",
-        "Clone hooks 08 and 09 across creators."
+        "Clone hooks 08 and 09 across creators.",
+        "Test a lot. Different openers, different moments, caffeine included. We put budget behind whatever works."
       ],
       "donts": [
-        "Open with caffeine or ketones. They come after the hook.",
-        "Call it an energy drink, pre-workout, or supplement.",
-        "Make medical claims or tie it to any condition, injury, or disease.",
-        "Lead with a discount or over-produce it like an ad.",
-        "Stack the whole pitch into the opener.",
-        "**Don't make Kenetik the hero.** \"We launched\" and \"the best on the market\" are our story, and nobody wakes up wanting to be part of a brand's story. Tell yours, and let Kenetik be what made it possible."
+        "Call it an energy drink, pre-workout or supplement. It’s metabolic brain fuel.",
+        "Make medical claims, promise better sleep, or quote numbers we haven’t cleared. Say how it feels to you.",
+        "Fake urgency. Only claim a sellout that actually happened, and name it.",
+        "Point at a shopping button on screen. Say “shop now” out loud instead, so the video still works when we run it as an ad.",
+        "Lead with a discount. If there’s an offer, save it for the end."
       ],
       "hook_ids": [
         "h-0050",
@@ -10198,10 +10041,10 @@
     {
       "slug": "blue-collar",
       "label": "🔧 Blue Collar / Trades",
-      "nav_order": 9,
+      "nav_order": 6,
       "title": "TikTok hooks to test — blue collar & trades",
       "sub": "10 hooks to test · BLUE COLLAR / TRADES",
-      "audience": "**The working man's grind: 4am starts, long shifts on the jobsite, a third energy drink by noon, and still foggy when it matters. Jittery, then crashing, and nothing left for the family at night.** Kenetik is clean, caffeine-free brain fuel that keeps you sharp all shift. Lead with the felt problem (the afternoon jobsite fog, the jitters, the crash) and make brain fuel the answer. This is the Roman lane: warm, real, no-nonsense, for the guy who works with his hands. Ketones are the mechanism, caffeine-free is the twist. Say “brain fuel” at least once, and never call Kenetik an energy drink.",
+      "audience": "**The working man's grind: 4am starts, long shifts on the jobsite, a third energy drink by noon, and still foggy when it matters. Jittery, then crashing, and nothing left for the family at night.** Kenetik is clean, caffeine-free brain fuel that keeps you sharp all shift. Lead with the felt problem (the afternoon jobsite fog, the jitters, the crash) and make brain fuel the answer. This is the Roman lane: warm, real, no-nonsense, for the guy who works with his hands. Ketones are the mechanism, so they come after the hook. Caffeine can open the video if it’s part of your story. Say “brain fuel” at least once, and never call Kenetik an energy drink. **The moment to own here:** the end of a long shift with something left for the family, and still asleep on time for the 4am start.",
       "formula": [
         {
           "title": "Hook",
@@ -10213,27 +10056,27 @@
         },
         {
           "title": "Kenetik as the fix",
-          "text": "Crack a Kenetik and show the reset. Clean, caffeine-free brain fuel, your real reaction. Say \"brain fuel\" at least once."
+          "text": "Crack a Kenetik, say when you’re drinking it, and show the reset. Clean, caffeine-free brain fuel, your real reaction. Say \"brain fuel\" at least once."
         },
         {
           "title": "Close it",
-          "text": "One simple reason to try it (caffeine-free, 12g of ketones), then say “shop now” out loud and give your code. Your code travels with the video, a link does not."
+          "text": "One simple reason to try it (12g of ketones, and no caffeine keeping you up tonight), then say “shop now” out loud and give your code. Your code travels with the video, a link does not."
         }
       ],
       "dos": [
         "Land it in the first two seconds.",
         "Real beats produced.",
         "Tie sharpness to home, not just work.",
-        "Caffeine-free is a real hook here.",
-        "Clone hooks 08 and 05 across creators."
+        "Clone hooks 08 and 05 across creators.",
+        "Caffeine is fair game as a hook: what it did to you, or what it’s like to lock in late without it.",
+        "Test a lot. Different openers, different moments, caffeine included. We put budget behind whatever works."
       ],
       "donts": [
-        "Open with caffeine or ketones. They come after the hook.",
-        "Call it an energy drink, pre-workout, or supplement.",
-        "Make medical claims or tie it to any condition, injury, or disease.",
-        "Lead with a discount or over-produce it like an ad.",
-        "Stack the whole pitch into the opener.",
-        "**Don't make Kenetik the hero.** \"We launched\" and \"the best on the market\" are our story, and nobody wakes up wanting to be part of a brand's story. Tell yours, and let Kenetik be what made it possible."
+        "Call it an energy drink, pre-workout or supplement. It’s metabolic brain fuel.",
+        "Make medical claims or promise better sleep, or tie it to any condition, injury or disease.",
+        "Fake urgency. Only claim a sellout that actually happened, and name it.",
+        "Point at a shopping button on screen. Say “shop now” out loud instead, so the video still works when we run it as an ad.",
+        "Lead with a discount. If there’s an offer, save it for the end."
       ],
       "hook_ids": [
         "h-0130",
@@ -10306,10 +10149,10 @@
     {
       "slug": "fitness-moms",
       "label": "👟 Fitness Moms / Active 40+",
-      "nav_order": 10,
+      "nav_order": 7,
       "title": "TikTok hooks to test — fitness moms & active 40+",
       "sub": "10 hooks to test · FITNESS MOMS / ACTIVE 40+",
-      "audience": "**Active moms in their 40s are fit on the outside but fighting mom-brain and the afternoon fog on the inside, often while cutting caffeine for better sleep and calmer nerves.** Kenetik is clean, caffeine-free brain fuel that keeps her clear for her workouts and her kids. Lead with the felt problem (mom-brain, the 3pm fog) and the aspiration (strong body, clear head). Ketones are the mechanism, caffeine-free is the twist. Say “brain fuel” at least once, and never call Kenetik an energy drink.",
+      "audience": "**Active moms in their 40s are fit on the outside but fighting mom-brain and the afternoon fog on the inside, often while cutting caffeine for better sleep and calmer nerves.** Kenetik is clean, caffeine-free brain fuel that keeps her clear for her workouts and her kids. Lead with the felt problem (mom-brain, the 3pm fog) and the aspiration (strong body, clear head). Ketones are the mechanism, so they come after the hook. Caffeine can open the video if it’s part of your story. Say “brain fuel” at least once, and never call Kenetik an energy drink. **The moment to own here:** the after-school, after-dinner stretch. Homework, the evening workout, still clear, and still asleep when the house finally goes quiet.",
       "formula": [
         {
           "title": "Hook",
@@ -10321,11 +10164,11 @@
         },
         {
           "title": "Kenetik as the fix",
-          "text": "Crack a Kenetik and show the reset. Clean, caffeine-free brain fuel, your real reaction. Say \"brain fuel\" at least once."
+          "text": "Crack a Kenetik, say when you’re drinking it, and show the reset. Clean, caffeine-free brain fuel, your real reaction. Say \"brain fuel\" at least once."
         },
         {
           "title": "Close it",
-          "text": "One simple reason to try it (caffeine-free, 12g of ketones), then say “shop now” out loud and give your code. Your code travels with the video, a link does not."
+          "text": "One simple reason to try it (12g of ketones, and no caffeine keeping you up tonight), then say “shop now” out loud and give your code. Your code travels with the video, a link does not."
         }
       ],
       "dos": [
@@ -10333,15 +10176,15 @@
         "Hit the problem in the first two seconds.",
         "Keep it real and in her world.",
         "Strong body, clear head.",
-        "Clone hooks 08 and 05 across creators."
+        "Clone hooks 08 and 05 across creators.",
+        "Test a lot. Different openers, different moments, caffeine included. We put budget behind whatever works."
       ],
       "donts": [
-        "Open with caffeine or ketones. They come after the hook.",
-        "Call it an energy drink, pre-workout, or supplement.",
-        "Make medical claims or tie it to any condition, injury, or disease.",
-        "Lead with a discount or over-produce it like an ad.",
-        "Stack the whole pitch into the opener.",
-        "**Don't make Kenetik the hero.** \"We launched\" and \"the best on the market\" are our story, and nobody wakes up wanting to be part of a brand's story. Tell yours, and let Kenetik be what made it possible."
+        "Call it an energy drink, pre-workout or supplement. It’s metabolic brain fuel.",
+        "Make medical claims or promise better sleep, or tie it to any condition. Mom-brain is a feeling, not a diagnosis.",
+        "Fake urgency. Only claim a sellout that actually happened, and name it.",
+        "Point at a shopping button on screen. Say “shop now” out loud instead, so the video still works when we run it as an ad.",
+        "Lead with a discount. If there’s an offer, save it for the end."
       ],
       "hook_ids": [
         "h-0100",
@@ -10414,10 +10257,10 @@
     {
       "slug": "gearheads",
       "label": "🚗 Gearheads / Garage",
-      "nav_order": 11,
+      "nav_order": 8,
       "title": "TikTok hooks to test — gearheads & garage life",
       "sub": "10 hooks to test · GEARHEADS / GARAGE",
-      "audience": "**Building is a focus craft. Ten hours deep in the garage, third gas-station coffee, hands still moving but the brain's fried, and that's exactly when you round a bolt or miss a torque spec.** Kenetik is clean, caffeine-free brain fuel that keeps you dialed through a long build. Lead with the felt problem (the afternoon shop fog, the sloppy mistakes, the jitters) and make brain fuel the answer. Raw and real, filmed in the garage. Ketones are the mechanism, caffeine-free is the twist. Say “brain fuel” at least once, and never call Kenetik an energy drink.",
+      "audience": "**Building is a focus craft. Ten hours deep in the garage, third gas-station coffee, hands still moving but the brain's fried, and that's exactly when you round a bolt or miss a torque spec.** Kenetik is clean, caffeine-free brain fuel that keeps you dialed through a long build. Lead with the felt problem (the afternoon shop fog, the sloppy mistakes, the jitters) and make brain fuel the answer. Raw and real, filmed in the garage. Ketones are the mechanism, so they come after the hook. Caffeine can open the video if it’s part of your story. Say “brain fuel” at least once, and never call Kenetik an energy drink. **The moment to own here:** the late night in the garage, still dialed on the last bolt, and still asleep in time for work.",
       "formula": [
         {
           "title": "Hook",
@@ -10429,27 +10272,27 @@
         },
         {
           "title": "Kenetik as the fix",
-          "text": "Crack a Kenetik and show the reset. Clean, caffeine-free brain fuel, your real reaction. Say \"brain fuel\" at least once."
+          "text": "Crack a Kenetik, say when you’re drinking it, and show the reset. Clean, caffeine-free brain fuel, your real reaction. Say \"brain fuel\" at least once."
         },
         {
           "title": "Close it",
-          "text": "One simple reason to try it (caffeine-free, 12g of ketones), then say “shop now” out loud and give your code. Your code travels with the video, a link does not."
+          "text": "One simple reason to try it (12g of ketones, and no caffeine keeping you up tonight), then say “shop now” out loud and give your code. Your code travels with the video, a link does not."
         }
       ],
       "dos": [
         "Land it in the first two seconds.",
         "Film it where they build.",
         "Tie sharpness to precision, not power.",
-        "Caffeine-free is a real hook here.",
-        "Clone hooks 08 and 05 across creators."
+        "Clone hooks 08 and 05 across creators.",
+        "Caffeine is fair game as a hook: what it did to you, or what it’s like to lock in late without it.",
+        "Test a lot. Different openers, different moments, caffeine included. We put budget behind whatever works."
       ],
       "donts": [
-        "Open with caffeine or ketones. They come after the hook.",
-        "Call it an energy drink, pre-workout, or supplement.",
-        "Make medical claims or tie it to any condition, injury, or disease.",
-        "Lead with a discount or over-produce it like an ad.",
-        "Stack the whole pitch into the opener.",
-        "**Don't make Kenetik the hero.** \"We launched\" and \"the best on the market\" are our story, and nobody wakes up wanting to be part of a brand's story. Tell yours, and let Kenetik be what made it possible."
+        "Call it an energy drink, pre-workout or supplement. It’s metabolic brain fuel.",
+        "Make medical claims or promise better sleep, or tie it to any condition, injury or disease.",
+        "Fake urgency. Only claim a sellout that actually happened, and name it.",
+        "Point at a shopping button on screen. Say “shop now” out loud instead, so the video still works when we run it as an ad.",
+        "Lead with a discount. If there’s an offer, save it for the end."
       ],
       "hook_ids": [
         "h-0149",
@@ -10522,10 +10365,10 @@
     {
       "slug": "entrepreneurs",
       "label": "💼 Entrepreneurs / Family",
-      "nav_order": 12,
+      "nav_order": 9,
       "title": "TikTok hooks to test — entrepreneurs, dads & family life",
       "sub": "10 hooks to test · ENTREPRENEURS / FAMILY",
-      "audience": "**The founder-and-family grind is a mental load: run the business all day, then have nothing left for the people who matter at night. The 2pm crash, the fog, the short fuse.** Kenetik is clean, caffeine-free brain fuel that keeps you sharp for work AND present at home. Lead with the felt problem (the crash, the fog, snapping by 3pm) and make brain fuel the answer. This is Roman's lane — warm, real, family-first, not salesy. Ketones are the mechanism, caffeine-free is the twist. Say “brain fuel” at least once, and never call Kenetik an energy drink.",
+      "audience": "**The founder-and-family grind is a mental load: run the business all day, then have nothing left for the people who matter at night. The 2pm crash, the fog, the short fuse.** Kenetik is clean, caffeine-free brain fuel that keeps you sharp for work AND present at home. Lead with the felt problem (the crash, the fog, snapping by 3pm) and make brain fuel the answer. This is Roman's lane, warm, real, family-first, not salesy. Ketones are the mechanism, so they come after the hook. Caffeine can open the video if it’s part of your story. Say “brain fuel” at least once, and never call Kenetik an energy drink. **The moment to own here:** the second shift after the kids are down, when the real work gets done, without lying awake after.",
       "formula": [
         {
           "title": "Hook",
@@ -10537,28 +10380,28 @@
         },
         {
           "title": "Kenetik as the fix",
-          "text": "Crack a Kenetik and show the reset. Clean, caffeine-free brain fuel, your real reaction. Say \"brain fuel\" at least once."
+          "text": "Crack a Kenetik, say when you’re drinking it, and show the reset. Clean, caffeine-free brain fuel, your real reaction. Say \"brain fuel\" at least once."
         },
         {
           "title": "Close it",
-          "text": "One simple reason to try it (caffeine-free, 12g of ketones), then say “shop now” out loud and give your code. Your code travels with the video, a link does not."
+          "text": "One simple reason to try it (12g of ketones, and no caffeine keeping you up tonight), then say “shop now” out loud and give your code. Your code travels with the video, a link does not."
         }
       ],
       "dos": [
         "Land it in the first two seconds.",
         "Warm and real beats produced.",
         "Tie work sharpness to being present at home.",
-        "Caffeine-free is a genuine hook here.",
         "Clone hooks 08 and 05 across creators.",
-        "Stay inside our claims."
+        "Stay inside our claims.",
+        "Caffeine is fair game as a hook: what it did to you, or what it’s like to lock in late without it.",
+        "Test a lot. Different openers, different moments, caffeine included. We put budget behind whatever works."
       ],
       "donts": [
-        "Open with caffeine or ketones. They come after the hook.",
-        "Call it an energy drink, pre-workout, or supplement.",
-        "Make medical claims or tie it to any condition, injury, or disease.",
-        "Lead with a discount or over-produce it like an ad.",
-        "Stack the whole pitch into the opener.",
-        "**Don't make Kenetik the hero.** \"We launched\" and \"the best on the market\" are our story, and nobody wakes up wanting to be part of a brand's story. Tell yours, and let Kenetik be what made it possible."
+        "Call it an energy drink, pre-workout or supplement. It’s metabolic brain fuel.",
+        "Make medical claims or promise better sleep, or tie it to stress, burnout or any condition.",
+        "Fake urgency. Only claim a sellout that actually happened, and name it.",
+        "Point at a shopping button on screen. Say “shop now” out loud instead, so the video still works when we run it as an ad.",
+        "Lead with a discount. If there’s an offer, save it for the end."
       ],
       "hook_ids": [
         "h-0120",
@@ -10631,10 +10474,10 @@
     {
       "slug": "fitness-gym",
       "label": "💪 Fitness / Gym",
-      "nav_order": 13,
+      "nav_order": 10,
       "title": "TikTok hooks to test — fitness & gym, focus & drive",
       "sub": "10 hooks to test · FITNESS / GYM",
-      "audience": "**Gym-goers know the problem: jittery before, foggy during, crashed after, over-caffeinated from pre-workout and still zoning out mid-session.** Kenetik is clean, caffeine-free brain fuel that keeps your head locked in. Lead with the felt problem (jitters, the crash, losing focus on the last set) and make brain fuel the answer. Ketones are the mechanism, caffeine-free is the twist. Say “brain fuel” at least once, and never call Kenetik an energy drink or a pre-workout.",
+      "audience": "**Gym-goers know the problem: jittery before, foggy during, crashed after, over-caffeinated from pre-workout and still zoning out mid-session.** Kenetik is clean, caffeine-free brain fuel that keeps your head locked in. Lead with the felt problem (jitters, the crash, losing focus on the last set) and make brain fuel the answer. Ketones are the mechanism, so they come after the hook. Caffeine can open the video if it’s part of your story. Say “brain fuel” at least once, and never call Kenetik an energy drink or a pre-workout. **The moment to own here:** the 7pm session after work, locked in on the last set, with nothing keeping you up at midnight.",
       "formula": [
         {
           "title": "Hook",
@@ -10646,28 +10489,28 @@
         },
         {
           "title": "Kenetik as the fix",
-          "text": "Crack a Kenetik and show the reset. Clean, caffeine-free brain fuel, your real reaction. Say \"brain fuel\" at least once."
+          "text": "Crack a Kenetik, say when you’re drinking it, and show the reset. Clean, caffeine-free brain fuel, your real reaction. Say \"brain fuel\" at least once."
         },
         {
           "title": "Close it",
-          "text": "One simple reason to try it (caffeine-free, 12g of ketones), then say “shop now” out loud and give your code. Your code travels with the video, a link does not."
+          "text": "One simple reason to try it (12g of ketones, and no caffeine keeping you up tonight), then say “shop now” out loud and give your code. Your code travels with the video, a link does not."
         }
       ],
       "dos": [
         "Cognitive lane only — the hard rule.",
         "Land it in the first two seconds.",
         "Real beats produced.",
-        "Caffeine-free is a real hook here.",
         "Clone hooks 08 and 01 across creators.",
-        "Stay inside our claims."
+        "Stay inside our claims.",
+        "Caffeine is fair game as a hook: what it did to you, or what it’s like to lock in late without it.",
+        "Test a lot. Different openers, different moments, caffeine included. We put budget behind whatever works."
       ],
       "donts": [
-        "Open with caffeine or ketones. They come after the hook.",
-        "Call it an energy drink, pre-workout, or supplement.",
-        "Make medical claims or tie it to any condition, injury, or disease.",
-        "Lead with a discount or over-produce it like an ad.",
-        "Stack the whole pitch into the opener.",
-        "**Don't make Kenetik the hero.** \"We launched\" and \"the best on the market\" are our story, and nobody wakes up wanting to be part of a brand's story. Tell yours, and let Kenetik be what made it possible."
+        "Call it an energy drink, pre-workout or supplement. It’s metabolic brain fuel.",
+        "Make medical claims, or promise better sleep or performance. Say how it feels to you, not what it will do for them.",
+        "Fake urgency. Only claim a sellout that actually happened, and name it.",
+        "Point at a shopping button on screen. Say “shop now” out loud instead, so the video still works when we run it as an ad.",
+        "Lead with a discount. If there’s an offer, save it for the end."
       ],
       "hook_ids": [
         "h-0169",
@@ -10745,10 +10588,10 @@
     {
       "slug": "women-40-menopause",
       "label": "🌿 Women 40+ / Menopause",
-      "nav_order": 14,
+      "nav_order": 11,
       "title": "TikTok hooks to test — women 40+, brain fog & focus",
       "sub": "10 hooks to test · WOMEN 40+ / MENOPAUSE",
-      "audience": "**Women in their 40s and 50s know the fog: forgetting words, losing focus by mid-afternoon, feeling a step slower, and often cutting caffeine because it now fuels anxiety and wrecks sleep.** Kenetik is clean, caffeine-free brain fuel for exactly that. Lead with the felt problem (the fog, the forgotten word, the 2pm dip) and make brain fuel the answer. Menopause is the relatable life-stage context, never a medical claim. Ketones are the mechanism, caffeine-free is the twist. Say “brain fuel” at least once, and never call Kenetik an energy drink.",
+      "audience": "**Women in their 40s and 50s know the fog: forgetting words, losing focus by mid-afternoon, feeling a step slower, and often cutting caffeine because it now fuels anxiety and wrecks sleep.** Kenetik is clean, caffeine-free brain fuel for exactly that. Lead with the felt problem (the fog, the forgotten word, the 2pm dip) and make brain fuel the answer. Menopause is the relatable life-stage context, never a medical claim. Ketones are the mechanism, so they come after the hook. Caffeine can open the video if it’s part of your story. Say “brain fuel” at least once, and never call Kenetik an energy drink. **The moment to own here:** the afternoon and evening, when caffeine is off the table because sleep is already hard won.",
       "formula": [
         {
           "title": "Hook",
@@ -10760,28 +10603,28 @@
         },
         {
           "title": "Kenetik as the fix",
-          "text": "Crack a Kenetik and show the reset. Clean, caffeine-free brain fuel, your real reaction. Say \"brain fuel\" at least once."
+          "text": "Crack a Kenetik, say when you’re drinking it, and show the reset. Clean, caffeine-free brain fuel, your real reaction. Say \"brain fuel\" at least once."
         },
         {
           "title": "Close it",
-          "text": "One simple reason to try it (caffeine-free, 12g of ketones), then say “shop now” out loud and give your code. Your code travels with the video, a link does not."
+          "text": "One simple reason to try it (12g of ketones, and no caffeine keeping you up tonight), then say “shop now” out loud and give your code. Your code travels with the video, a link does not."
         }
       ],
       "dos": [
         "Personal experience only — the hard rule.",
         "Land it in the first two seconds.",
         "Real and relatable beats polished.",
-        "Caffeine-free is a genuine hook here.",
         "Clone hooks 08 and 05 across creators.",
-        "Stay inside our claims."
+        "Stay inside our claims.",
+        "Caffeine is fair game as a hook: what it did to you, or what it’s like to lock in late without it.",
+        "Test a lot. Different openers, different moments, caffeine included. We put budget behind whatever works."
       ],
       "donts": [
-        "Open with caffeine or ketones. They come after the hook.",
-        "Call it an energy drink, pre-workout, or supplement.",
-        "Make medical claims or tie it to any condition, injury, or disease.",
-        "Lead with a discount or over-produce it like an ad.",
-        "Stack the whole pitch into the opener.",
-        "**Don't make Kenetik the hero.** \"We launched\" and \"the best on the market\" are our story, and nobody wakes up wanting to be part of a brand's story. Tell yours, and let Kenetik be what made it possible."
+        "Call it an energy drink, pre-workout or supplement. It’s metabolic brain fuel.",
+        "Make medical claims or promise better sleep. Menopause is the life stage you’re in, never something Kenetik treats.",
+        "Fake urgency. Only claim a sellout that actually happened, and name it.",
+        "Point at a shopping button on screen. Say “shop now” out loud instead, so the video still works when we run it as an ad.",
+        "Lead with a discount. If there’s an offer, save it for the end."
       ],
       "hook_ids": [
         "h-0090",
@@ -10859,10 +10702,10 @@
     {
       "slug": "women-18-30",
       "label": "🌸 Women 18–30 / Wellness",
-      "nav_order": 15,
+      "nav_order": 12,
       "title": "TikTok hooks to test — young women, wellness & a clear head",
       "sub": "10 hooks to test · WOMEN 18–30 / WELLNESS",
-      "audience": "**This audience is wellness-fluent and burnout-aware: the 2pm fog, the caffeine jitters, protecting their peace, wanting to feel calm and clear, not wired and scattered.** Kenetik is clean, caffeine-free brain fuel that fits right into that. Lead with the felt problem (the fog, the spiral, the crash) and the aspirational outcome (calm, clear, that-girl focus). Trendy and native to TikTok, but the promise stays honest. Ketones are the mechanism, caffeine-free is the twist. Say “brain fuel” at least once, and never call Kenetik an energy drink.",
+      "audience": "**This audience is wellness-fluent and burnout-aware: the 2pm fog, the caffeine jitters, protecting their peace, wanting to feel calm and clear, not wired and scattered.** Kenetik is clean, caffeine-free brain fuel that fits right into that. Lead with the felt problem (the fog, the spiral, the crash) and the aspirational outcome (calm, clear, that-girl focus). Trendy and native to TikTok, but the promise stays honest. Ketones are the mechanism, so they come after the hook. Caffeine can open the video if it’s part of your story. Say “brain fuel” at least once, and never call Kenetik an energy drink. **The moment to own here:** the late study session or the evening reset, clear and calm, and still protecting your sleep.",
       "formula": [
         {
           "title": "Hook",
@@ -10874,11 +10717,11 @@
         },
         {
           "title": "Kenetik as the fix",
-          "text": "Crack a Kenetik and show the reset. Clean, caffeine-free brain fuel, your real reaction. Say \"brain fuel\" at least once."
+          "text": "Crack a Kenetik, say when you’re drinking it, and show the reset. Clean, caffeine-free brain fuel, your real reaction. Say \"brain fuel\" at least once."
         },
         {
           "title": "Close it",
-          "text": "One simple reason to try it (caffeine-free, 12g of ketones), then say “shop now” out loud and give your code. Your code travels with the video, a link does not."
+          "text": "One simple reason to try it (12g of ketones, and no caffeine keeping you up tonight), then say “shop now” out loud and give your code. Your code travels with the video, a link does not."
         }
       ],
       "dos": [
@@ -10887,15 +10730,15 @@
         "Land it in the first two seconds.",
         "Trend-native, but keep the promise honest.",
         "Clone hooks 08 and 03 across creators.",
-        "Stay inside our claims."
+        "Stay inside our claims.",
+        "Test a lot. Different openers, different moments, caffeine included. We put budget behind whatever works."
       ],
       "donts": [
-        "Open with caffeine or ketones. They come after the hook.",
-        "Call it an energy drink, pre-workout, or supplement.",
-        "Make medical claims or tie it to any condition, injury, or disease.",
-        "Lead with a discount or over-produce it like an ad.",
-        "Stack the whole pitch into the opener.",
-        "**Don't make Kenetik the hero.** \"We launched\" and \"the best on the market\" are our story, and nobody wakes up wanting to be part of a brand's story. Tell yours, and let Kenetik be what made it possible."
+        "Call it an energy drink, pre-workout or supplement. It’s metabolic brain fuel.",
+        "Make medical claims or promise better sleep, or tie it to anxiety, burnout or any mental-health condition.",
+        "Fake urgency. Only claim a sellout that actually happened, and name it.",
+        "Point at a shopping button on screen. Say “shop now” out loud instead, so the video still works when we run it as an ad.",
+        "Lead with a discount. If there’s an offer, save it for the end."
       ],
       "hook_ids": [
         "h-0080",
@@ -10973,10 +10816,10 @@
     {
       "slug": "racing",
       "label": "🏁 Racing / Motorsports",
-      "nav_order": 16,
+      "nav_order": 13,
       "title": "TikTok hooks to test — racing & motorsports",
       "sub": "10 hooks to test · RACING / MOTORSPORTS",
-      "audience": "**Racing is a mental game at 200 miles an hour. The driver who keeps a clear head reads the track, hits the marks, and stays calm when it gets chaotic. And the grind around it, the 4am calls and the long race weekends, is just as much mental as physical.** Kenetik is clean, caffeine-free brain fuel for the mental side of racing. Lead with the felt problem (foggy on the early call, mind drifting deep in a stint, nerves before the green) and make brain fuel the answer. This is Cleetus's lane: raw, real, filmed at the track. Ketones are the mechanism, caffeine-free is the twist. Say “brain fuel” at least once, and never call Kenetik an energy drink.",
+      "audience": "**Racing is a mental game at 200 miles an hour. The driver who keeps a clear head reads the track, hits the marks, and stays calm when it gets chaotic. And the grind around it, the 4am calls and the long race weekends, is just as much mental as physical.** Kenetik is clean, caffeine-free brain fuel for the mental side of racing. Lead with the felt problem (foggy on the early call, mind drifting deep in a stint, nerves before the green) and make brain fuel the answer. This is Cleetus's lane: raw, real, filmed at the track. Ketones are the mechanism, so they come after the hook. Caffeine can open the video if it’s part of your story. Say “brain fuel” at least once, and never call Kenetik an energy drink. **The moment to own here:** the late night at the track or in the shop, sharp for the last run, and asleep in time for the early call.",
       "formula": [
         {
           "title": "Hook",
@@ -10988,27 +10831,27 @@
         },
         {
           "title": "Kenetik as the fix",
-          "text": "Crack a Kenetik and show the reset. Clean, caffeine-free brain fuel, your real reaction. Say \"brain fuel\" at least once."
+          "text": "Crack a Kenetik, say when you’re drinking it, and show the reset. Clean, caffeine-free brain fuel, your real reaction. Say \"brain fuel\" at least once."
         },
         {
           "title": "Close it",
-          "text": "One simple reason to try it (caffeine-free, 12g of ketones), then say “shop now” out loud and give your code. Your code travels with the video, a link does not."
+          "text": "One simple reason to try it (12g of ketones, and no caffeine keeping you up tonight), then say “shop now” out loud and give your code. Your code travels with the video, a link does not."
         }
       ],
       "dos": [
         "Cognitive lane only — the hard rule.",
         "Land it in the first two seconds.",
         "Film it where they race.",
-        "Caffeine-free is a real hook here.",
-        "Clone hooks 08 and 05 across creators."
+        "Clone hooks 08 and 05 across creators.",
+        "Caffeine is fair game as a hook: what it did to you, or what it’s like to lock in late without it.",
+        "Test a lot. Different openers, different moments, caffeine included. We put budget behind whatever works."
       ],
       "donts": [
-        "Open with caffeine or ketones. They come after the hook.",
-        "Call it an energy drink, pre-workout, or supplement.",
-        "Make medical claims or tie it to any condition, injury, or disease.",
-        "Lead with a discount or over-produce it like an ad.",
-        "Stack the whole pitch into the opener.",
-        "**Don't make Kenetik the hero.** \"We launched\" and \"the best on the market\" are our story, and nobody wakes up wanting to be part of a brand's story. Tell yours, and let Kenetik be what made it possible."
+        "Call it an energy drink, pre-workout or supplement. It’s metabolic brain fuel.",
+        "Make medical claims, or promise better sleep or performance. Say how it feels to you.",
+        "Fake urgency. Only claim a sellout that actually happened, and name it.",
+        "Point at a shopping button on screen. Say “shop now” out loud instead, so the video still works when we run it as an ad.",
+        "Lead with a discount. If there’s an offer, save it for the end."
       ],
       "hook_ids": [
         "h-0219",
@@ -11086,10 +10929,10 @@
     {
       "slug": "nurses",
       "label": "🩺 Nurses / Healthcare",
-      "nav_order": 17,
+      "nav_order": 14,
       "title": "TikTok hooks to test — nurse creators",
       "sub": "10 hooks to test · NURSES / HEALTHCARE",
-      "audience": "**Nurses know the grind better than anyone: 12-hour shifts, nights, three coffees deep and still foggy at 3am, then wired when it's finally time to sleep.** Kenetik is clean, caffeine-free brain fuel that keeps her head clear through a shift. Lead with the felt problem (the 3am fog, the crash, the wall at hour 8) and make brain fuel the answer. Real, in her own voice, in scrubs. Ketones are the mechanism, caffeine-free is the twist. Say “brain fuel” at least once, and never call Kenetik an energy drink.",
+      "audience": "**Nurses know the grind better than anyone: 12-hour shifts, nights, three coffees deep and still foggy at 3am, then wired when it's finally time to sleep.** Kenetik is clean, caffeine-free brain fuel that keeps her head clear through a shift. Lead with the felt problem (the 3am fog, the crash, the wall at hour 8) and make brain fuel the answer. Real, in her own voice, in scrubs. Ketones are the mechanism, so they come after the hook. Caffeine can open the video if it’s part of your story. Say “brain fuel” at least once, and never call Kenetik an energy drink. **The moment to own here:** hour ten of the shift, clear for handoff, and able to sleep when you finally get home.",
       "formula": [
         {
           "title": "Hook",
@@ -11101,11 +10944,11 @@
         },
         {
           "title": "Kenetik as the fix",
-          "text": "Crack a Kenetik and show the reset. Clean, caffeine-free brain fuel, your real reaction. Say \"brain fuel\" at least once."
+          "text": "Crack a Kenetik, say when you’re drinking it, and show the reset. Clean, caffeine-free brain fuel, your real reaction. Say \"brain fuel\" at least once."
         },
         {
           "title": "Close it",
-          "text": "One simple reason to try it (caffeine-free, 12g of ketones), then say “shop now” out loud and give your code. Your code travels with the video, a link does not."
+          "text": "One simple reason to try it (12g of ketones, and no caffeine keeping you up tonight), then say “shop now” out loud and give your code. Your code travels with the video, a link does not."
         }
       ],
       "dos": [
@@ -11113,15 +10956,15 @@
         "Hit the problem in the first two seconds.",
         "Keep it real and in scrubs.",
         "Stay experiential and aspirational.",
-        "Clone hooks 08 and 05 across creators."
+        "Clone hooks 08 and 05 across creators.",
+        "Test a lot. Different openers, different moments, caffeine included. We put budget behind whatever works."
       ],
       "donts": [
-        "Open with caffeine or ketones. They come after the hook.",
-        "Call it an energy drink, pre-workout, or supplement.",
-        "Make medical claims or tie it to any condition, injury, or disease.",
-        "Lead with a discount or over-produce it like an ad.",
-        "Stack the whole pitch into the opener.",
-        "**Don't make Kenetik the hero.** \"We launched\" and \"the best on the market\" are our story, and nobody wakes up wanting to be part of a brand's story. Tell yours, and let Kenetik be what made it possible."
+        "Call it an energy drink, pre-workout or supplement. It’s metabolic brain fuel.",
+        "Make medical claims or promise better sleep, or tie it to patient care or any condition.",
+        "Fake urgency. Only claim a sellout that actually happened, and name it.",
+        "Point at a shopping button on screen. Say “shop now” out loud instead, so the video still works when we run it as an ad.",
+        "Lead with a discount. If there’s an offer, save it for the end."
       ],
       "hook_ids": [
         "h-0110",
@@ -11194,10 +11037,10 @@
     {
       "slug": "gaming",
       "label": "🎮 Gaming",
-      "nav_order": 18,
+      "nav_order": 15,
       "title": "TikTok hooks to test — gaming, brain fuel & focus",
       "sub": "10 hooks to test · GAMING",
-      "audience": "**Gaming runs on caffeinated energy drinks — and the two things they cause, jitters and the mid-session crash, are exactly what wreck aim and focus.** Kenetik is the clean fix. Lead with the gamer's problem (the 4-hour fade, shaky hands in the clutch, brain fog deep in a session) and make brain fuel the answer. Ketones are the mechanism, caffeine-free is the twist, neither leads. Say “brain fuel” at least once, and never call Kenetik an energy drink.",
+      "audience": "**Gaming runs on caffeinated energy drinks, and the two things they cause, jitters and the mid-session crash, are exactly what wreck aim and focus.** Kenetik is the clean fix. Lead with the gamer's problem (the 4-hour fade, shaky hands in the clutch, brain fog deep in a session) and make brain fuel the answer. Ketones are the mechanism, so they come after the hook. Caffeine can open the video if it’s part of your story. Say “brain fuel” at least once, and never call Kenetik an energy drink. **The moment to own here:** the late-night session, locked in for the last ranked game, with nothing in the can keeping you up after.",
       "formula": [
         {
           "title": "Hook",
@@ -11209,28 +11052,28 @@
         },
         {
           "title": "Kenetik as the fix",
-          "text": "Crack a Kenetik and show the reset. Clean, caffeine-free brain fuel, your real reaction. Say \"brain fuel\" at least once."
+          "text": "Crack a Kenetik, say when you’re drinking it, and show the reset. Clean, caffeine-free brain fuel, your real reaction. Say \"brain fuel\" at least once."
         },
         {
           "title": "Close it",
-          "text": "One simple reason to try it (caffeine-free, 12g of ketones), then say “shop now” out loud and give your code. Your code travels with the video, a link does not."
+          "text": "One simple reason to try it (12g of ketones, and no caffeine keeping you up tonight), then say “shop now” out loud and give your code. Your code travels with the video, a link does not."
         }
       ],
       "dos": [
         "Land it in the first two seconds.",
         "Show the game.",
         "Lean on the no-jitters / no-crash edge.",
-        "Ketones and caffeine-free come after the hook.",
         "Clone hook 07 and 08 across creators.",
-        "Stay inside our claims."
+        "Stay inside our claims.",
+        "Caffeine is fair game as a hook: what it did to you, or what it’s like to lock in late without it.",
+        "Test a lot. Different openers, different moments, caffeine included. We put budget behind whatever works."
       ],
       "donts": [
-        "Open with caffeine or ketones. They come after the hook.",
-        "Call it an energy drink, pre-workout, or supplement.",
-        "Make medical claims or tie it to any condition, injury, or disease.",
-        "Lead with a discount or over-produce it like an ad.",
-        "Stack the whole pitch into the opener.",
-        "**Don't make Kenetik the hero.** \"We launched\" and \"the best on the market\" are our story, and nobody wakes up wanting to be part of a brand's story. Tell yours, and let Kenetik be what made it possible."
+        "Call it an energy drink, pre-workout or supplement. It’s metabolic brain fuel.",
+        "Make medical claims, or promise better sleep or performance. Say how it feels to you, not what it will do for their rank.",
+        "Fake urgency. Only claim a sellout that actually happened, and name it.",
+        "Point at a shopping button on screen. Say “shop now” out loud instead, so the video still works when we run it as an ad.",
+        "Lead with a discount. If there’s an offer, save it for the end."
       ],
       "hook_ids": [
         "h-0159",
@@ -11303,10 +11146,10 @@
     {
       "slug": "gen-z",
       "label": "🔥 Gen-Z / Brain Maxxing",
-      "nav_order": 19,
+      "nav_order": 16,
       "title": "TikTok hooks to test — Gen-Z & brain maxxing",
       "sub": "10 hooks to test · GEN-Z / BRAIN MAXXING",
-      "audience": "**Gen-Z optimizes everything — sleep, gym, skin, focus. “Brain maxxing” is the next frontier, and it's the one nobody actually fuels: most of this crowd runs on energy drinks and 47 tabs of brain rot.** Kenetik is clean, caffeine-free brain fuel that fits the self-optimization mindset. Lead with the felt problem (brain rot, the 2pm doom scroll, can't lock in) and the aspirational outcome (locked in, sharp, main-character focus). Trend-native, but the promise stays honest. Ketones are the mechanism, caffeine-free is the twist. Say “brain fuel” at least once, and never call Kenetik an energy drink.",
+      "audience": "**Gen-Z optimizes everything, sleep, gym, skin, focus. “Brain maxxing” is the next frontier, and it's the one nobody actually fuels: most of this crowd runs on energy drinks and 47 tabs of brain rot.** Kenetik is clean, caffeine-free brain fuel that fits the self-optimization mindset. Lead with the felt problem (brain rot, the 2pm doom scroll, can't lock in) and the aspirational outcome (locked in, sharp, main-character focus). Trend-native, but the promise stays honest. Ketones are the mechanism, so they come after the hook. Caffeine can open the video if it’s part of your story. Say “brain fuel” at least once, and never call Kenetik an energy drink. **The moment to own here:** the 10pm lock-in, studying or building, and still asleep at a normal hour.",
       "formula": [
         {
           "title": "Hook",
@@ -11318,27 +11161,27 @@
         },
         {
           "title": "Kenetik as the fix",
-          "text": "Crack a Kenetik and show the reset. Clean, caffeine-free brain fuel, your real reaction. Say \"brain fuel\" at least once."
+          "text": "Crack a Kenetik, say when you’re drinking it, and show the reset. Clean, caffeine-free brain fuel, your real reaction. Say \"brain fuel\" at least once."
         },
         {
           "title": "Close it",
-          "text": "One simple reason to try it (caffeine-free, 12g of ketones), then say “shop now” out loud and give your code. Your code travels with the video, a link does not."
+          "text": "One simple reason to try it (12g of ketones, and no caffeine keeping you up tonight), then say “shop now” out loud and give your code. Your code travels with the video, a link does not."
         }
       ],
       "dos": [
         "Trend-native, but keep the promise honest.",
         "Aspirational leads, brain rot sets it up.",
         "Land it in the first two seconds.",
-        "Caffeine-free is a real hook here.",
-        "Clone hooks 08 and 03 across creators."
+        "Clone hooks 08 and 03 across creators.",
+        "Caffeine is fair game as a hook: what it did to you, or what it’s like to lock in late without it.",
+        "Test a lot. Different openers, different moments, caffeine included. We put budget behind whatever works."
       ],
       "donts": [
-        "Open with caffeine or ketones. They come after the hook.",
-        "Call it an energy drink, pre-workout, or supplement.",
-        "Make medical claims or tie it to any condition, injury, or disease.",
-        "Lead with a discount or over-produce it like an ad.",
-        "Stack the whole pitch into the opener.",
-        "**Don't make Kenetik the hero.** \"We launched\" and \"the best on the market\" are our story, and nobody wakes up wanting to be part of a brand's story. Tell yours, and let Kenetik be what made it possible."
+        "Call it an energy drink, pre-workout or supplement. It’s metabolic brain fuel.",
+        "Make medical claims or promise better sleep, or tie it to ADHD, brain rot as a condition, or anything medical.",
+        "Fake urgency. Only claim a sellout that actually happened, and name it.",
+        "Point at a shopping button on screen. Say “shop now” out loud instead, so the video still works when we run it as an ad.",
+        "Lead with a discount. If there’s an offer, save it for the end."
       ],
       "hook_ids": [
         "h-0070",
@@ -11416,10 +11259,10 @@
     {
       "slug": "mma",
       "label": "🥊 MMA / Combat Sports",
-      "nav_order": 20,
+      "nav_order": 17,
       "title": "TikTok hooks to test — MMA & combat sports",
       "sub": "10 hooks to test · MMA / COMBAT SPORTS",
-      "audience": "**Fighting is a chess match before it's a brawl — the fighter who keeps a clear head reads the exchange, and the one who fades mentally gets caught. The difference now: we can back it with the research.** Kenetik is clean, caffeine-free brain fuel for the mental side of the fight game, and every hook below rests on a real Kenetik claim with a human study behind it. Lead with the fighter's problem — foggy in the late rounds, fried deep in camp, fight-week nerves — then brain fuel is the answer. Ketones are the mechanism and the credibility; caffeine-free + Informed Sport Certified is the trust. Say “brain fuel” at least once, keep the approved framing (“helps me stay sharp,” not “makes me faster”), and never call Kenetik an energy drink.",
+      "audience": "**Fighting is a chess match before it's a brawl, the fighter who keeps a clear head reads the exchange, and the one who fades mentally gets caught. The difference now: we can back it with the research.** Kenetik is clean, caffeine-free brain fuel for the mental side of the fight game, and every hook below rests on a real Kenetik claim with a human study behind it. Lead with the fighter's problem, foggy in the late rounds, fried deep in camp, fight-week nerves, then brain fuel is the answer. Ketones are the mechanism and the credibility; caffeine-free + Informed Sport Certified is the trust. Say “brain fuel” at least once, keep the approved framing (“helps me stay sharp,” not “makes me faster”), and never call Kenetik an energy drink. **The moment to own here:** the evening session after the day job, sharp in sparring, and still asleep on time for tomorrow.",
       "formula": [
         {
           "title": "Hook",
@@ -11431,27 +11274,27 @@
         },
         {
           "title": "Kenetik as the fix",
-          "text": "Crack a Kenetik and show the reset. Clean, caffeine-free brain fuel, your real reaction. Say \"brain fuel\" at least once."
+          "text": "Crack a Kenetik, say when you’re drinking it, and show the reset. Clean, caffeine-free brain fuel, your real reaction. Say \"brain fuel\" at least once."
         },
         {
           "title": "Close it",
-          "text": "One simple reason to try it (caffeine-free, 12g of ketones), then say “shop now” out loud and give your code. Your code travels with the video, a link does not."
+          "text": "One simple reason to try it (12g of ketones, and no caffeine keeping you up tonight), then say “shop now” out loud and give your code. Your code travels with the video, a link does not."
         }
       ],
       "dos": [
         "Say it in your own words, keep the approved framing.",
         "Lead with the moment.",
         "Informed Sport Certified is your strongest line.",
-        "Ketones + caffeine-free come after the hook.",
-        "Clone hooks 08 and 03 across creators."
+        "Clone hooks 08 and 03 across creators.",
+        "Caffeine is fair game as a hook: what it did to you, or what it’s like to lock in late without it.",
+        "Test a lot. Different openers, different moments, caffeine included. We put budget behind whatever works."
       ],
       "donts": [
-        "Open with caffeine or ketones. They come after the hook.",
-        "Call it an energy drink, pre-workout, or supplement.",
-        "Make medical claims or tie it to any condition, injury, or disease.",
-        "Lead with a discount or over-produce it like an ad.",
-        "Stack the whole pitch into the opener.",
-        "**Don't make Kenetik the hero.** \"We launched\" and \"the best on the market\" are our story, and nobody wakes up wanting to be part of a brand's story. Tell yours, and let Kenetik be what made it possible."
+        "Call it an energy drink, pre-workout or supplement. It’s metabolic brain fuel.",
+        "Make medical claims, or promise better sleep or performance. “Helps me stay sharp”, never “makes me faster”, and nothing about concussions or injury.",
+        "Fake urgency. Only claim a sellout that actually happened, and name it.",
+        "Point at a shopping button on screen. Say “shop now” out loud instead, so the video still works when we run it as an ad.",
+        "Lead with a discount. If there’s an offer, save it for the end."
       ],
       "hook_ids": [
         "h-0229",
@@ -11529,10 +11372,10 @@
     {
       "slug": "golf",
       "label": "⛳ Golf",
-      "nav_order": 21,
+      "nav_order": 18,
       "title": "TikTok hooks to test — golf, brain fuel & focus",
       "sub": "10 hooks to test · GOLF",
-      "audience": "**Golf is a focus sport, and the caffeine most golfers run on gives them the two things that ruin a round: the shakes over a putt and a crash on the back nine.** Kenetik is the clean fix. Lead with the golfer's problem (the back-nine fade, jittery hands over a four-footer, checking out mentally by 15) and make brain fuel the answer. Ketones are the mechanism, caffeine-free is the twist, neither leads. Say “brain fuel” at least once, and never call Kenetik an energy drink.",
+      "audience": "**Golf is a focus sport, and the caffeine most golfers run on gives them the two things that ruin a round: the shakes over a putt and a crash on the back nine.** Kenetik is the clean fix. Lead with the golfer's problem (the back-nine fade, jittery hands over a four-footer, checking out mentally by 15) and make brain fuel the answer. Ketones are the mechanism, so they come after the hook. Caffeine can open the video if it’s part of your story. Say “brain fuel” at least once, and never call Kenetik an energy drink. **The moment to own here:** the twilight round or the back nine at 5pm, steady over the putt, with no late coffee keeping you up.",
       "formula": [
         {
           "title": "Hook",
@@ -11544,28 +11387,28 @@
         },
         {
           "title": "Kenetik as the fix",
-          "text": "Crack a Kenetik and show the reset. Clean, caffeine-free brain fuel, your real reaction. Say \"brain fuel\" at least once."
+          "text": "Crack a Kenetik, say when you’re drinking it, and show the reset. Clean, caffeine-free brain fuel, your real reaction. Say \"brain fuel\" at least once."
         },
         {
           "title": "Close it",
-          "text": "One simple reason to try it (caffeine-free, 12g of ketones), then say “shop now” out loud and give your code. Your code travels with the video, a link does not."
+          "text": "One simple reason to try it (12g of ketones, and no caffeine keeping you up tonight), then say “shop now” out loud and give your code. Your code travels with the video, a link does not."
         }
       ],
       "dos": [
         "Land it in the first two seconds.",
         "Show the course.",
         "Lean on no-jitters + back-nine focus.",
-        "Ketones and caffeine-free come after the hook.",
         "Clone hooks 07 and 08 across creators.",
-        "Stay inside our claims."
+        "Stay inside our claims.",
+        "Caffeine is fair game as a hook: what it did to you, or what it’s like to lock in late without it.",
+        "Test a lot. Different openers, different moments, caffeine included. We put budget behind whatever works."
       ],
       "donts": [
-        "Open with caffeine or ketones. They come after the hook.",
-        "Call it an energy drink, pre-workout, or supplement.",
-        "Make medical claims or tie it to any condition, injury, or disease.",
-        "Lead with a discount or over-produce it like an ad.",
-        "Stack the whole pitch into the opener.",
-        "**Don't make Kenetik the hero.** \"We launched\" and \"the best on the market\" are our story, and nobody wakes up wanting to be part of a brand's story. Tell yours, and let Kenetik be what made it possible."
+        "Call it an energy drink, pre-workout or supplement. It’s metabolic brain fuel.",
+        "Make medical claims, or promise better sleep or performance. Say how it feels to you.",
+        "Fake urgency. Only claim a sellout that actually happened, and name it.",
+        "Point at a shopping button on screen. Say “shop now” out loud instead, so the video still works when we run it as an ad.",
+        "Lead with a discount. If there’s an offer, save it for the end."
       ],
       "hook_ids": [
         "h-0209",
@@ -11638,10 +11481,10 @@
     {
       "slug": "first-responders",
       "label": "🚑 First Responders",
-      "nav_order": 22,
+      "nav_order": 19,
       "title": "TikTok hooks to test — first responders",
       "sub": "10 hooks to test · FIRST RESPONDERS",
-      "audience": "**First responders run on adrenaline and caffeine: 24-hour shifts, 3am calls, and a head that has to be clear the second the tones drop. Then wired when it is finally time to sleep.** Kenetik is clean, caffeine-free brain fuel that keeps your head clear through a shift. Lead with the felt problem (the 3am fog, the crash mid-shift, wired after) and make brain fuel the answer. Real, in the bay or the rig, honest. Ketones are the mechanism, caffeine-free is the twist. Say “brain fuel” at least once, and never call Kenetik an energy drink.",
+      "audience": "**First responders run on adrenaline and caffeine: 24-hour shifts, 3am calls, and a head that has to be clear the second the tones drop. Then wired when it is finally time to sleep.** Kenetik is clean, caffeine-free brain fuel that keeps your head clear through a shift. Lead with the felt problem (the 3am fog, the crash mid-shift, wired after) and make brain fuel the answer. Real, in the bay or the rig, honest. Ketones are the mechanism, so they come after the hook. Caffeine can open the video if it’s part of your story. Say “brain fuel” at least once, and never call Kenetik an energy drink. **The moment to own here:** hour twenty of a twenty-four, clear when the tones drop, and able to sleep when the shift is over.",
       "formula": [
         {
           "title": "Hook",
@@ -11653,11 +11496,11 @@
         },
         {
           "title": "Kenetik as the fix",
-          "text": "Crack a Kenetik and show the reset. Clean, caffeine-free brain fuel, your real reaction. Say \"brain fuel\" at least once."
+          "text": "Crack a Kenetik, say when you’re drinking it, and show the reset. Clean, caffeine-free brain fuel, your real reaction. Say \"brain fuel\" at least once."
         },
         {
           "title": "Close it",
-          "text": "One simple reason to try it (caffeine-free, 12g of ketones), then say “shop now” out loud and give your code. Your code travels with the video, a link does not."
+          "text": "One simple reason to try it (12g of ketones, and no caffeine keeping you up tonight), then say “shop now” out loud and give your code. Your code travels with the video, a link does not."
         }
       ],
       "dos": [
@@ -11665,15 +11508,15 @@
         "Hit the problem in the first two seconds.",
         "Keep it real and in the bay.",
         "Stay experiential and aspirational.",
-        "Clone hooks 08 and 05 across creators."
+        "Clone hooks 08 and 05 across creators.",
+        "Test a lot. Different openers, different moments, caffeine included. We put budget behind whatever works."
       ],
       "donts": [
-        "Open with caffeine or ketones. They come after the hook.",
-        "Call it an energy drink, pre-workout, or supplement.",
-        "Make medical claims or tie it to any condition, injury, or disease.",
-        "Lead with a discount or over-produce it like an ad.",
-        "Stack the whole pitch into the opener.",
-        "**Don't make Kenetik the hero.** \"We launched\" and \"the best on the market\" are our story, and nobody wakes up wanting to be part of a brand's story. Tell yours, and let Kenetik be what made it possible."
+        "Call it an energy drink, pre-workout or supplement. It’s metabolic brain fuel.",
+        "Make medical claims or promise better sleep, or say it improves your response time, decisions or anything on the job.",
+        "Fake urgency. Only claim a sellout that actually happened, and name it.",
+        "Point at a shopping button on screen. Say “shop now” out loud instead, so the video still works when we run it as an ad.",
+        "Lead with a discount. If there’s an offer, save it for the end."
       ],
       "hook_ids": [
         "h-0140",
@@ -11766,10 +11609,10 @@
     {
       "slug": "cycling-endurance",
       "label": "🚴 Cycling / Endurance",
-      "nav_order": 23,
+      "nav_order": 20,
       "title": "TikTok hooks to test — cycling & endurance",
       "sub": "10 hooks to test · CYCLING / ENDURANCE",
-      "audience": "**Endurance is a brain sport. The head goes before the legs, and the caffeine in most gels wires you, hits your gut, and trashes your sleep.** Kenetik is clean brain fuel for the long-effort mind. Lead with the cognitive problem (the fog late in a ride, the calls getting sloppy, the mind quitting before the legs) and make brain fuel the answer. Ketones are the mechanism, caffeine-free is the twist, neither leads. Say “brain fuel” at least once, and never call Kenetik an energy drink.",
+      "audience": "**Endurance is a brain sport. The head goes before the legs, and the caffeine in most gels wires you, hits your gut, and trashes your sleep.** Kenetik is clean brain fuel for the long-effort mind. Lead with the cognitive problem (the fog late in a ride, the calls getting sloppy, the mind quitting before the legs) and make brain fuel the answer. Ketones are the mechanism, so they come after the hook. Caffeine can open the video if it’s part of your story. Say “brain fuel” at least once, and never call Kenetik an energy drink. **The moment to own here:** the after-work ride or the back half of a long day, clear-headed to the finish, and nothing keeping you up after.",
       "formula": [
         {
           "title": "Hook",
@@ -11781,28 +11624,28 @@
         },
         {
           "title": "Kenetik as the fix",
-          "text": "Crack a Kenetik and show the reset. Clean, caffeine-free brain fuel, your real reaction. Say \"brain fuel\" at least once."
+          "text": "Crack a Kenetik, say when you’re drinking it, and show the reset. Clean, caffeine-free brain fuel, your real reaction. Say \"brain fuel\" at least once."
         },
         {
           "title": "Close it",
-          "text": "One simple reason to try it (caffeine-free, 12g of ketones), then say “shop now” out loud and give your code. Your code travels with the video, a link does not."
+          "text": "One simple reason to try it (12g of ketones, and no caffeine keeping you up tonight), then say “shop now” out loud and give your code. Your code travels with the video, a link does not."
         }
       ],
       "dos": [
         "Cognitive lane only — the hard rule.",
         "Land it in the first two seconds.",
         "Show the effort.",
-        "Ketones and caffeine-free come after the hook.",
         "Clone hooks 07 and 08 across creators.",
-        "Stay inside our claims."
+        "Stay inside our claims.",
+        "Caffeine is fair game as a hook: what it did to you, or what it’s like to lock in late without it.",
+        "Test a lot. Different openers, different moments, caffeine included. We put budget behind whatever works."
       ],
       "donts": [
-        "Open with caffeine or ketones. They come after the hook.",
-        "Call it an energy drink, pre-workout, or supplement.",
-        "Make medical claims or tie it to any condition, injury, or disease.",
-        "Lead with a discount or over-produce it like an ad.",
-        "Stack the whole pitch into the opener.",
-        "**Don't make Kenetik the hero.** \"We launched\" and \"the best on the market\" are our story, and nobody wakes up wanting to be part of a brand's story. Tell yours, and let Kenetik be what made it possible."
+        "Call it an energy drink, pre-workout or supplement. It’s metabolic brain fuel.",
+        "Make medical claims, or promise better sleep or performance. Say how it feels to you.",
+        "Fake urgency. Only claim a sellout that actually happened, and name it.",
+        "Point at a shopping button on screen. Say “shop now” out loud instead, so the video still works when we run it as an ad.",
+        "Lead with a discount. If there’s an offer, save it for the end."
       ],
       "hook_ids": [
         "h-0199",
@@ -11880,10 +11723,10 @@
     {
       "slug": "ultra",
       "label": "🥾 Ultra / Do Hard Things",
-      "nav_order": 24,
+      "nav_order": 21,
       "title": "TikTok hooks to test — ultra runners & do-hard-things",
       "sub": "10 hooks to test · ULTRA / DO HARD THINGS",
-      "audience": "**This crowd already lives the truth: doing hard things is a mental game before it's a physical one. Deep in the pain cave, the mind quits before the body, and the person who keeps a clear head is the one who finishes.** Kenetik is clean, caffeine-free brain fuel for exactly that. Lead with the felt problem (the fog and the negotiating mind at mile 60) and make brain fuel the answer. Ketones are the mechanism, caffeine-free is the twist. Say “brain fuel” at least once, and never call Kenetik an energy drink.",
+      "audience": "**This crowd already lives the truth: doing hard things is a mental game before it's a physical one. Deep in the pain cave, the mind quits before the body, and the person who keeps a clear head is the one who finishes.** Kenetik is clean, caffeine-free brain fuel for exactly that. Lead with the felt problem (the fog and the negotiating mind at mile 60) and make brain fuel the answer. Ketones are the mechanism, so they come after the hook. Caffeine can open the video if it’s part of your story. Say “brain fuel” at least once, and never call Kenetik an energy drink. **The moment to own here:** the night section, still clear at mile 60. Not every hook here is about sleep, and that’s fine.",
       "formula": [
         {
           "title": "Hook",
@@ -11895,11 +11738,11 @@
         },
         {
           "title": "Kenetik as the fix",
-          "text": "Crack a Kenetik and show the reset. Clean, caffeine-free brain fuel, your real reaction. Say \"brain fuel\" at least once."
+          "text": "Crack a Kenetik, say when you’re drinking it, and show the reset. Clean, caffeine-free brain fuel, your real reaction. Say \"brain fuel\" at least once."
         },
         {
           "title": "Close it",
-          "text": "One simple reason to try it (caffeine-free, 12g of ketones), then say “shop now” out loud and give your code. Your code travels with the video, a link does not."
+          "text": "One simple reason to try it (12g of ketones, and no caffeine keeping you up tonight), then say “shop now” out loud and give your code. Your code travels with the video, a link does not."
         }
       ],
       "dos": [
@@ -11907,15 +11750,15 @@
         "Hit the problem in the first two seconds.",
         "Film it where they suffer.",
         "Aspirational leads, the pain cave sets it up.",
-        "Clone hooks 08 and 05 across creators."
+        "Clone hooks 08 and 05 across creators.",
+        "Test a lot. Different openers, different moments, caffeine included. We put budget behind whatever works."
       ],
       "donts": [
-        "Open with caffeine or ketones. They come after the hook.",
-        "Call it an energy drink, pre-workout, or supplement.",
-        "Make medical claims or tie it to any condition, injury, or disease.",
-        "Lead with a discount or over-produce it like an ad.",
-        "Stack the whole pitch into the opener.",
-        "**Don't make Kenetik the hero.** \"We launched\" and \"the best on the market\" are our story, and nobody wakes up wanting to be part of a brand's story. Tell yours, and let Kenetik be what made it possible."
+        "Call it an energy drink, pre-workout or supplement. It’s metabolic brain fuel.",
+        "Make medical claims, or promise better sleep or performance. Say how it feels to you.",
+        "Fake urgency. Only claim a sellout that actually happened, and name it.",
+        "Point at a shopping button on screen. Say “shop now” out loud instead, so the video still works when we run it as an ad.",
+        "Lead with a discount. If there’s an offer, save it for the end."
       ],
       "hook_ids": [
         "h-0189",
@@ -11993,10 +11836,10 @@
     {
       "slug": "hyrox",
       "label": "🏅 HYROX / Hybrid",
-      "nav_order": 25,
+      "nav_order": 22,
       "title": "TikTok hooks to test — HYROX & hybrid athletes",
       "sub": "10 hooks to test · HYROX / HYBRID ATHLETES",
-      "audience": "**Every hybrid athlete knows the truth: in the pain cave, your mind quits before your body does. Focus is the thing that goes first, and almost nobody trains it.** Kenetik is clean, caffeine-free brain fuel for exactly that. Lead with the felt problem (the fog deep in a race, the focus that unravels when you're smoked) and make brain fuel the answer. Ketones are the mechanism, caffeine-free is the twist. Say “brain fuel” at least once, and never call Kenetik an energy drink.",
+      "audience": "**Every hybrid athlete knows the truth: in the pain cave, your mind quits before your body does. Focus is the thing that goes first, and almost nobody trains it.** Kenetik is clean, caffeine-free brain fuel for exactly that. Lead with the felt problem (the fog deep in a race, the focus that unravels when you're smoked) and make brain fuel the answer. Ketones are the mechanism, so they come after the hook. Caffeine can open the video if it’s part of your story. Say “brain fuel” at least once, and never call Kenetik an energy drink. **The moment to own here:** the evening session after work, locked in when you’re smoked, and still asleep on time.",
       "formula": [
         {
           "title": "Hook",
@@ -12008,11 +11851,11 @@
         },
         {
           "title": "Kenetik as the fix",
-          "text": "Crack a Kenetik and show the reset. Clean, caffeine-free brain fuel, your real reaction. Say \"brain fuel\" at least once."
+          "text": "Crack a Kenetik, say when you’re drinking it, and show the reset. Clean, caffeine-free brain fuel, your real reaction. Say \"brain fuel\" at least once."
         },
         {
           "title": "Close it",
-          "text": "One simple reason to try it (caffeine-free, 12g of ketones), then say “shop now” out loud and give your code. Your code travels with the video, a link does not."
+          "text": "One simple reason to try it (12g of ketones, and no caffeine keeping you up tonight), then say “shop now” out loud and give your code. Your code travels with the video, a link does not."
         }
       ],
       "dos": [
@@ -12021,15 +11864,15 @@
         "Land it in the first two seconds.",
         "Film it where they compete.",
         "Clone hooks 08 and 05 across creators.",
-        "Stay inside our claims."
+        "Stay inside our claims.",
+        "Test a lot. Different openers, different moments, caffeine included. We put budget behind whatever works."
       ],
       "donts": [
-        "Open with caffeine or ketones. They come after the hook.",
-        "Call it an energy drink, pre-workout, or supplement.",
-        "Make medical claims or tie it to any condition, injury, or disease.",
-        "Lead with a discount or over-produce it like an ad.",
-        "Stack the whole pitch into the opener.",
-        "**Don't make Kenetik the hero.** \"We launched\" and \"the best on the market\" are our story, and nobody wakes up wanting to be part of a brand's story. Tell yours, and let Kenetik be what made it possible."
+        "Call it an energy drink, pre-workout or supplement. It’s metabolic brain fuel.",
+        "Make medical claims, or promise better sleep or performance. Say how it feels to you.",
+        "Fake urgency. Only claim a sellout that actually happened, and name it.",
+        "Point at a shopping button on screen. Say “shop now” out loud instead, so the video still works when we run it as an ad.",
+        "Lead with a discount. If there’s an offer, save it for the end."
       ],
       "hook_ids": [
         "h-0179",
@@ -12107,10 +11950,10 @@
     {
       "slug": "travel",
       "label": "✈️ Travel",
-      "nav_order": 26,
+      "nav_order": 23,
       "title": "TikTok hooks to test — Travel",
       "sub": "10 hooks to test · TRAVEL (2oz shots, Tangerine or TRX Lemon-Lime)",
-      "audience": "**Travel breaks every routine you have. The 5am gate, hour six of the drive, landing at four with a meeting at five, day two of a conference where the whole room starts to fade.** The only thing on offer is usually coffee, and a 12oz can cannot come through security with you. The 2oz shot can. At two ounces it clears the TSA carry-on limit of 3.4 ounces, so it travels in the quart bag. That is a fact rather than a claim, and it is the most repeatable thing we own in this niche. **Both shot flavors are live on TikTok Shop, Tangerine and the Kenetik x TRX Lemon-Lime, so promote whichever one you actually have.** Lead with the travel moment and keep Kenetik as caffeine-free brain fuel behind it. **One hard line: we never say it fixes jet lag, tiredness or anything else.** Routine and format only, no medical claims.",
+      "audience": "**Travel breaks every routine you have. The 5am gate, hour six of the drive, landing at four with a meeting at five, day two of a conference where the whole room starts to fade.** The only thing on offer is usually coffee, and a 12oz can cannot come through security with you. The 2oz shot can. At two ounces it clears the TSA carry-on limit of 3.4 ounces, so it travels in the quart bag. That is a fact rather than a claim, and it is the most repeatable thing we own in this niche. **Both shot flavors are live on TikTok Shop, Tangerine and the Kenetik x TRX Lemon-Lime, so promote whichever one you actually have.** Lead with the travel moment and keep Kenetik as caffeine-free brain fuel behind it. **One hard line: we never say it fixes jet lag, tiredness or anything else.** Routine and format only, no medical claims. **The moment to own here:** landing late with work still to do, clear for it, and nothing in it keeping you up in the hotel after.",
       "claims_note": "One hard line: we never say it fixes jet lag, tiredness or anything else.",
       "formula": [
         {
@@ -12135,15 +11978,16 @@
         "Film it where it happens: the bin, the car, the hotel room.",
         "Name whichever flavor you have. **Tangerine and TRX Lemon-Lime are both live.**",
         "Show the size. Two ounces is the whole argument.",
-        "Say “shop now” out loud at the end."
+        "Say “shop now” out loud at the end.",
+        "Show it going in the quart bag. It still follows the liquids rule.",
+        "Test a lot. Different openers, different moments, caffeine included. We put budget behind whatever works."
       ],
       "donts": [
-        "Say it fixes jet lag, tiredness or anything else.",
-        "Imply there are no rules at security. It still goes in the quart bag.",
-        "Call it an energy drink, pre-workout or supplement.",
-        "Open with caffeine or ketones. They come after the hook.",
-        "Lead with a discount, or name the cart in your CTA.",
-        "**Don't make Kenetik the hero.** \"We launched\" and \"the best on the market\" are our story, and nobody wakes up wanting to be part of a brand's story. Tell yours, and let Kenetik be what made it possible."
+        "Call it an energy drink, pre-workout or supplement. It’s metabolic brain fuel.",
+        "Make medical claims or promise better sleep, including that it fixes jet lag, tiredness or anything else.",
+        "Fake urgency. Only claim a sellout that actually happened, and name it.",
+        "Point at a shopping button on screen. Say “shop now” out loud instead, so the video still works when we run it as an ad.",
+        "Lead with a discount. If there’s an offer, save it for the end."
       ],
       "hook_ids": [
         "h-0259",
@@ -12216,10 +12060,10 @@
     {
       "slug": "price",
       "label": "💰 Getting Past Price",
-      "nav_order": 27,
+      "nav_order": 24,
       "title": "TikTok hooks to test — getting past the price hump",
       "sub": "10 hooks to test · GETTING PAST PRICE (VALUE, NOT DISCOUNTS)",
-      "audience": "Kenetik is a new premium category, so for some people the price is a hump to get over before they feel why it's worth it. The play is never to discount, it's to make the value obvious. These hooks reframe the cost against what it replaces (the daily coffee, the energy drinks) and what a clear afternoon is actually worth, so the value speaks for itself. Use with any audience. If there's a live offer running, it's a fine quick close at the very end, but the video is never about the deal. Say “brain fuel” at least once, and never call Kenetik an energy drink.",
+      "audience": "Kenetik is a new premium category, so for some people the price is a hump to get over before they feel why it's worth it. The play is never to discount, it's to make the value obvious. These hooks reframe the cost against what it replaces (the daily coffee, the energy drinks) and what a clear afternoon, and a night’s sleep you didn’t trade for it, is actually worth, so the value speaks for itself. Use with any audience. If there's a live offer running, it's a fine quick close at the very end, but the video is never about the deal. Say “brain fuel” at least once, and never call Kenetik an energy drink.",
       "hook_ids": [
         "h-0040",
         "h-0041",
@@ -12305,7 +12149,7 @@
     {
       "slug": "partner-proof",
       "label": "🤝 Partner Proof",
-      "nav_order": 28,
+      "nav_order": 25,
       "title": "TikTok hooks to test — partner names as instant trust",
       "sub": "10 hooks to test · PARTNER PROOF (borrow a name your audience already believes)",
       "audience": "These hooks borrow trust. A name your audience already believes buys you the first two seconds, which is the hardest part. Then pivot straight to your own experience, because the name earns attention and only your story keeps it. Three rules. One name per video, never a list read like credits. Never put words in a partner’s mouth or imply they said something they did not. And never talk about anyone’s health, injuries or medical history, including Matt Hughes, no exceptions. Keep it to who they are and the fact they back the brand.",
@@ -12389,7 +12233,7 @@
     {
       "slug": "street-interview",
       "label": "🎤 Street Interviews",
-      "nav_order": 29,
+      "nav_order": 26,
       "title": "TikTok hooks to test: street interviews",
       "sub": "10 questions to ask · STREET INTERVIEWS",
       "audience": "**Stopping strangers works because the viewer learns at the same speed the stranger does.** Nobody watches an explainer about ketones. Everybody watches somebody get a question wrong and then find out the answer. Your job is to ask, let them miss, and correct them in one sentence. Ask the question before you name the brand, teach exactly one thing per person, and film the first sip. Say “brain fuel” at least once, and never call Kenetik an energy drink.",
@@ -12485,6 +12329,62 @@
         },
         {
           "block": "twocol"
+        }
+      ]
+    },
+    {
+      "slug": "trx-shots",
+      "label": "🥤 TRX Shots",
+      "nav_order": 27,
+      "title": "TikTok hooks to test — TRX Kenetik shots",
+      "sub": "10 hooks to test · TRX SHOTS (portable brain fuel for training)",
+      "audience": "This is the TRX x Kenetik Lemon-Lime shot, not the can. The audience is TRX trainers, their clients, and active people who train hard. Two angles carry it: the shot format (portable and convenient, throw it in your gym bag, one quick shot before or during training) and focus as the edge (a clear, sharp mind is what holds up when the body is tired). Lead with the training moment, keep Kenetik as the clean, caffeine-free brain fuel behind it. No medical claims.",
+      "claims_note": "No medical claims.",
+      "hook_ids": [
+        "h-0239",
+        "h-0240",
+        "h-0241",
+        "h-0242",
+        "h-0243",
+        "h-0244",
+        "h-0245",
+        "h-0246",
+        "h-0247",
+        "h-0248"
+      ],
+      "angles": [],
+      "layout": [
+        {
+          "block": "heading"
+        },
+        {
+          "block": "sub"
+        },
+        {
+          "block": "eyebrow",
+          "text": "The north star"
+        },
+        {
+          "block": "northstar"
+        },
+        {
+          "block": "eyebrow",
+          "text": "The hooks"
+        },
+        {
+          "block": "hooks",
+          "hook_ids": [
+            "h-0239",
+            "h-0240",
+            "h-0241",
+            "h-0242",
+            "h-0243",
+            "h-0244",
+            "h-0245",
+            "h-0246",
+            "h-0247",
+            "h-0248"
+          ]
         }
       ]
     }
@@ -13387,25 +13287,7 @@
       "note": "already live on the hub when the store was extracted 2026-09-16; the rule binds every new and every edited row from that day"
     },
     {
-      "where": "tabs.general.audience",
-      "rule": "em_dash",
-      "since": "2026-09-11",
-      "note": "already live on the hub when the store was extracted 2026-09-16; the rule binds every new and every edited row from that day"
-    },
-    {
       "where": "tabs.general.dos[0]",
-      "rule": "em_dash",
-      "since": "2026-09-11",
-      "note": "already live on the hub when the store was extracted 2026-09-16; the rule binds every new and every edited row from that day"
-    },
-    {
-      "where": "tabs.flavor-drops.title",
-      "rule": "em_dash",
-      "since": "2026-09-11",
-      "note": "already live on the hub when the store was extracted 2026-09-16; the rule binds every new and every edited row from that day"
-    },
-    {
-      "where": "tabs.golden-pear.title",
       "rule": "em_dash",
       "since": "2026-09-11",
       "note": "already live on the hub when the store was extracted 2026-09-16; the rule binds every new and every edited row from that day"
@@ -13466,12 +13348,6 @@
     },
     {
       "where": "tabs.entrepreneurs.title",
-      "rule": "em_dash",
-      "since": "2026-09-11",
-      "note": "already live on the hub when the store was extracted 2026-09-16; the rule binds every new and every edited row from that day"
-    },
-    {
-      "where": "tabs.entrepreneurs.audience",
       "rule": "em_dash",
       "since": "2026-09-11",
       "note": "already live on the hub when the store was extracted 2026-09-16; the rule binds every new and every edited row from that day"
@@ -13555,19 +13431,7 @@
       "note": "already live on the hub when the store was extracted 2026-09-16; the rule binds every new and every edited row from that day"
     },
     {
-      "where": "tabs.gaming.audience",
-      "rule": "em_dash",
-      "since": "2026-09-11",
-      "note": "already live on the hub when the store was extracted 2026-09-16; the rule binds every new and every edited row from that day"
-    },
-    {
       "where": "tabs.gen-z.title",
-      "rule": "em_dash",
-      "since": "2026-09-11",
-      "note": "already live on the hub when the store was extracted 2026-09-16; the rule binds every new and every edited row from that day"
-    },
-    {
-      "where": "tabs.gen-z.audience",
       "rule": "em_dash",
       "since": "2026-09-11",
       "note": "already live on the hub when the store was extracted 2026-09-16; the rule binds every new and every edited row from that day"
@@ -13586,12 +13450,6 @@
     },
     {
       "where": "tabs.mma.title",
-      "rule": "em_dash",
-      "since": "2026-09-11",
-      "note": "already live on the hub when the store was extracted 2026-09-16; the rule binds every new and every edited row from that day"
-    },
-    {
-      "where": "tabs.mma.audience",
       "rule": "em_dash",
       "since": "2026-09-11",
       "note": "already live on the hub when the store was extracted 2026-09-16; the rule binds every new and every edited row from that day"
@@ -13687,12 +13545,6 @@
       "note": "already live on the hub when the store was extracted 2026-09-16; the rule binds every new and every edited row from that day"
     },
     {
-      "where": "tabs.travel.donts[4]",
-      "rule": "cart_language",
-      "since": "2026-09-11",
-      "note": "already live on the hub when the store was extracted 2026-09-16; the rule binds every new and every edited row from that day"
-    },
-    {
       "where": "tabs.price.title",
       "rule": "em_dash",
       "since": "2026-09-11",
@@ -13775,18 +13627,6 @@
       "rule": "caffeine_named_more_than_once",
       "since": "2026-09-11",
       "note": "already live on the hub when the store was extracted 2026-09-16; the rule binds every new and every edited row from that day"
-    },
-    {
-      "where": "start_here.layout[13].items[0]",
-      "rule": "card_figure_without_a_record",
-      "since": "2026-09-28",
-      "note": "live on the hub when the rule bound, 2026-09-28 (L-441). No committed artifact records this figure's base or dates; it comes out on Devon's or Nick's okay, and until then the rule binds every other row"
-    },
-    {
-      "where": "start_here.layout[13].items[2]",
-      "rule": "card_figure_without_a_record",
-      "since": "2026-09-28",
-      "note": "live on the hub when the rule bound, 2026-09-28 (L-441). No committed artifact records this figure's base or dates; it comes out on Devon's or Nick's okay, and until then the rule binds every other row"
     },
     {
       "where": "hooks.h-0015.meta_extra[0]",
@@ -14329,8 +14169,14 @@
       "note": "live on the hub when the rule bound, 2026-09-28 (L-441). No committed artifact records this figure's base or dates; it comes out on Devon's or Nick's okay, and until then the rule binds every other row"
     },
     {
-      "where": "tabs.golden-pear.audience",
-      "rule": "performance_figure_on_a_public_page",
+      "where": "start_here.layout[13].items[0]",
+      "rule": "card_figure_without_a_record",
+      "since": "2026-09-28",
+      "note": "live on the hub when the rule bound, 2026-09-28 (L-441). No committed artifact records this figure's base or dates; it comes out on Devon's or Nick's okay, and until then the rule binds every other row"
+    },
+    {
+      "where": "start_here.layout[13].items[2]",
+      "rule": "card_figure_without_a_record",
       "since": "2026-09-28",
       "note": "live on the hub when the rule bound, 2026-09-28 (L-441). No committed artifact records this figure's base or dates; it comes out on Devon's or Nick's okay, and until then the rule binds every other row"
     }
@@ -14346,43 +14192,52 @@
       },
       {
         "block": "eyebrow",
-        "text": "The mission"
+        "text": "What Kenetik is"
       },
       {
         "block": "northstar",
-        "text": "We are putting brain fuel on the map on TikTok Shop. Kenetik is a brand-new category, and creators are how we get there. We win by finding the opening lines that turn a scroll into a sale. The first 1 to 3 seconds decide whether someone keeps watching and taps to buy, so your job is simple: test these hooks and help us find what converts."
+        "text": "**Kenetik is metabolic brain fuel.** A caffeine-free drink with 12g of ketones, the same fuel your body makes when you fast or sleep. It gives you clear, calm focus that comes on steady and doesn’t crash. Sugar-free, nothing artificial, Informed Sport Certified."
       },
       {
         "block": "eyebrow",
-        "text": "Use these, then make your own"
-      },
-      {
-        "block": "note",
-        "text": "Everything on this hub is a starting point, not a script. These lines and ideas have already sold for other creators, so they’re a good place to begin. But the video that works best for you is probably one nobody has made yet. Say it in your own words. Try the idea you keep coming back to. Film the format you haven’t seen anyone else do. **When something new starts working, we’ll spot it, put budget behind it, and it could end up on this page for everyone else to learn from.** No wrong answers, just tests.",
-        "style": "pk"
-      },
-      {
-        "block": "eyebrow",
-        "text": "Whose story it is"
+        "text": "The problem we solve"
       },
       {
         "block": "northstar",
-        "text": "**Your viewer is the hero, not Kenetik.** Nobody wakes up wanting to be part of a brand's story. They want a better version of their own: a problem solved, a frustration gone, a day made easier. So tell yours. The afternoon you got back, the habit you swapped, the moment it clicked. Kenetik is what made that change possible, never the star of the video. **If your viewer finishes it thinking about their own day, you made the right video.**"
+        "text": "Most people hit a point in the day where there’s still work left and the tank is empty. The usual fix is another coffee at 3pm or a can of something loud at 8. It gets the job done, then keeps you up, and tomorrow starts tired, so you reach for more. **Kenetik fills that gap: lock in late, finish strong, and with no caffeine in the can, nothing in it is keeping you up once you’re done.** That’s the moment we own."
       },
       {
         "block": "eyebrow",
-        "text": "What Kenetik is (and isn't)"
+        "text": "Now make it yours"
       },
       {
-        "block": "twocol",
-        "pos": {
-          "heading": "What Kenetik is",
-          "text": "Metabolic brain fuel: clean, caffeine-free focus in a can or a shot. Steady, calm clarity that lasts, without the crash. 12g of ketones, caffeine-free, sugar-free, nothing artificial. Always lead with the person's problem or the moment they feel it, then bring in Kenetik as the fix."
-        },
-        "neg": {
-          "heading": "What Kenetik is NOT",
-          "text": "Not an energy drink, a pre-workout, or a supplement. It is a category of its own, so don't label it as any of those. The hard rule: no medical claims. It does not cure, treat, or fix anything, and it is never offered as the answer to anxiety, ADHD, focus disorders, brain injury, concussions, or disease. **Describing what caffeine did to you is a different thing and it is fine**: jittery, wired, anxious, could not sleep. Say that as your reason for switching. Just never put Kenetik on the other side of it as the fix."
-        }
+        "block": "northstar",
+        "text": "**You know your audience better than we do.** Take that moment and tell it the way your people talk: your day, your words, your reason. Your viewer is the hero and Kenetik is what made the difference, never the star. Two things every video does: say **“brain fuel”** and **“shop now”** out loud. One thing none of them do: medical claims."
+      },
+      {
+        "block": "eyebrow",
+        "text": "Two ways to start"
+      },
+      {
+        "block": "fork",
+        "options": [
+          {
+            "kicker": "Fastest",
+            "title": "Show me what’s converting right now",
+            "description": "The three openings returning the most this month, with the flavor to use for each, the shot plan and the videos that earned it. If you only make three videos, make these.",
+            "go": "Take me there →",
+            "primary": true,
+            "target_slug": "top-3"
+          },
+          {
+            "kicker": "Or",
+            "title": "Let me pick my audience",
+            "description": "Twenty audience sets, each with ten hooks written for that crowd. Pick the one that sounds most like your followers and work from there.",
+            "go": "Browse the audiences →",
+            "primary": false,
+            "scroll_to": "audience-picker"
+          }
+        ]
       },
       {
         "block": "eyebrow",
@@ -14390,7 +14245,7 @@
       },
       {
         "block": "note",
-        "text": "Five Kenetik videos still selling right now, some of them posted months ago. Different people, different techniques, and every quote below is the line they actually opened with out loud. The figure is what that video sold on TikTok Shop over the last 90 days. Tap any to watch.",
+        "text": "Real Kenetik videos still selling, and the line each one opened with out loud. The figure is what that video sold on TikTok Shop over the last 90 days. Tap any to watch.",
         "style": "pk"
       },
       {
@@ -14481,7 +14336,7 @@
       {
         "block": "amber",
         "label": "What they have in common",
-        "text": "Not a niche and not a look. One repeats what other people are already calling it, one tells you plainly what you get, one reports a switch already made, one names the problem before anything else, and one is just a time of day. **Every one of them opens on a person or a situation, and not one opens on ketones.** The real common trait is that each one sounds like the person who filmed it rather than an ad read. You do not need a studio or a script. You need a real first line, in your own words. **And every one of them is about the person filming and the change in their day, with Kenetik as what made it possible.**"
+        "text": "**Every one opens on a person or a moment, never on ketones, and sounds like the person who filmed it rather than an ad read.**"
       },
       {
         "block": "eyebrow",
@@ -14492,7 +14347,7 @@
       },
       {
         "block": "eyebrow",
-        "text": "Do's and don'ts"
+        "text": "Do’s and don’ts"
       },
       {
         "block": "twocol",
@@ -14502,31 +14357,6 @@
         "neg": {
           "heading": "Don't"
         }
-      },
-      {
-        "block": "eyebrow",
-        "text": "Two ways to start"
-      },
-      {
-        "block": "fork",
-        "options": [
-          {
-            "kicker": "Fastest",
-            "title": "Show me what’s converting right now",
-            "description": "The three openings returning the most this month, with the flavor to use for each, the shot plan and the videos that earned it. If you only make three videos, make these.",
-            "go": "Take me there →",
-            "primary": true,
-            "target_slug": "top-3"
-          },
-          {
-            "kicker": "Or",
-            "title": "Let me pick my audience",
-            "description": "Twenty audience sets, each with ten hooks written for that crowd. Pick the one that sounds most like your followers and work from there.",
-            "go": "Browse the audiences →",
-            "primary": false,
-            "scroll_to": "audience-picker"
-          }
-        ]
       },
       {
         "block": "eyebrow",
@@ -14664,34 +14494,9 @@
         ]
       },
       {
-        "block": "recap",
-        "heading": "The bottom line",
-        "paragraphs": [
-          "Every audience feels the same thing in their own way: the **2pm crash and brain fog** that kills a workday, the **wired-but-tired** slump from too much coffee, or the **mind that quits before the body does** under pressure. Kenetik answers all three as clean, caffeine-free brain fuel, 12g of ketones that give the brain steady energy for **calm, clear focus without the crash**.",
-          "So pick your lane, open every video with a hook in the first 1 to 3 seconds, name the problem your people feel, and let Kenetik land as the answer. Post a few, see what sticks, and we amplify the winners. Every hook you test teaches us what converts on TikTok Shop, and that is how we put brain fuel on the map together."
-        ]
-      },
-      {
-        "block": "eyebrow",
-        "text": "Why Kenetik costs what it costs"
-      },
-      {
-        "block": "northstar",
-        "text": "Someone in your comments will ask about the price. **Don’t apologise for it and don’t discount your way past it**, because deal-led content is the worst performing thing we make. Know why it costs what it costs and you can answer it in one line."
-      },
-      {
-        "block": "list",
-        "items": [
-          "**The dose.** Every can carries 12 grams of ketones. A lot of what else is on the shelf sits around 2. Dose is what drives the effect, not the format, and dosing properly is most of the cost.",
-          "**The molecule.** Bioidentical D-BHB, the same ketone your body makes when you fast or sleep, rather than a synthetic stand-in.",
-          "**The testing.** Informed Sport Certified, every single batch, so an athlete at any level can drink it without wondering.",
-          "**What that buys you on camera.** You are not selling a drink that is more expensive than the others. You are selling the only one dosed high enough to be worth drinking, and you can say that plainly."
-        ]
-      },
-      {
         "block": "amber",
         "label": "When price comes up",
-        "text": "Reframe rather than reduce. What it replaces, what a clear afternoon is actually worth, what you stopped buying. **The Getting Past Price tab has ten hooks built for exactly this moment**, and none of them mention a discount.Open Getting Past Price →",
+        "text": "Don’t apologise and don’t discount your way past it. **The Getting Past Price tab has ten hooks built for exactly that moment.**",
         "go": "Open Getting Past Price →",
         "target_slug": "price"
       }
