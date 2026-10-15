@@ -576,68 +576,85 @@ function layoutFor(tab){
 }
 
 /* The three tabs that are destinations of their own. Every other tab is an audience or a tool,
-   reached from the audience page, which the page builds from Start Here's own picker block. */
+   reached from a picker page, which the page builds from Start Here's own picker blocks. */
 var CORE = ['start-here', 'top-3', 'top-10-now'];
 var AUDIENCES = 'audiences';
 
 function stripEmoji(label){ return String(label || '').replace(/^[^A-Za-z0-9]+/, ''); }
 
-function pickerParts(){
+/* Each picker block on Start Here, with the eyebrow and note above it, is a page of its own in
+   the nav, in the order Start Here lists them. The first is the audience page, whose slug stays
+   'audiences' so old links still land; a later one takes its eyebrow's id. */
+function pickerPages(){
   var blocks = (DATA.start_here || {}).layout || [];
-  var parts = {eyebrow: null, note: null, picker: null};
+  var pages = [];
   blocks.forEach(function(b, i){
-    if(b.block === 'picker'){
-      parts.picker = b;
-      for(var k = i - 1; k >= 0; k--){
-        if(blocks[k].block === 'note' && !parts.note){ parts.note = blocks[k]; }
-        if(blocks[k].block === 'eyebrow'){ parts.eyebrow = blocks[k]; break; }
-      }
+    if(b.block !== 'picker') return;
+    var page = {picker: b, eyebrow: null, note: null};
+    for(var k = i - 1; k >= 0 && blocks[k].block !== 'picker'; k--){
+      if(blocks[k].block === 'note' && !page.note){ page.note = blocks[k]; }
+      if(blocks[k].block === 'eyebrow'){ page.eyebrow = blocks[k]; break; }
     }
+    page.slug = pages.length ? String((page.eyebrow && page.eyebrow.id) || 'picker-' + pages.length)
+      .toLowerCase().replace(/[^a-z0-9-]/g, '') : AUDIENCES;
+    page.title = page.eyebrow ? page.eyebrow.text : '';
+    pages.push(page);
   });
-  return parts;
+  return pages;
 }
 
-function audiencePanel(){
-  var p = pickerParts();
-  if(!p.picker) return '';
-  return '<section class="panel" id="panel-audiences" data-slug="' + AUDIENCES + '">'
-    + '<h1>' + rich(p.eyebrow ? p.eyebrow.text : '') + '</h1>'
-    + (p.note ? '<p class="apick-note">' + rich(p.note.text) + '</p>' : '')
-    + renderPicker(p.picker.cards) + renderFoot() + '</section>';
+/* The picker page a tab is reached from: the one whose cards open it, else the first. */
+function pageFor(slug, pages){
+  for(var i = 0; i < pages.length; i++){
+    if(pages[i].slug === slug) return pages[i];
+    if((pages[i].picker.cards || []).some(function(c){ return c.target_slug === slug; })) return pages[i];
+  }
+  return pages[0] || null;
+}
+
+function pickerPanel(page){
+  return '<section class="panel" id="panel-' + attr(page.slug) + '" data-slug="' + attr(page.slug) + '">'
+    + '<h1>' + rich(page.title) + '</h1>'
+    + (page.note ? '<p class="apick-note">' + rich(page.note.text) + '</p>' : '')
+    + renderPicker(page.picker.cards) + renderFoot() + '</section>';
 }
 
 function render(){
   var tabs = (DATA.tabs || []).slice().sort(function(a, b){ return a.nav_order - b.nav_order; });
-  var p = pickerParts();
+  var pages = pickerPages();
   var nav = tabs.filter(function(t){ return CORE.indexOf(t.slug) !== -1; }).map(function(t){
     return '<button class="tab" data-for="' + attr(t.slug) + '" onclick="' + attr('openSlug(\'' + t.slug + '\')')
       + '"><span>' + esc(stripEmoji(t.label)) + '</span><em></em></button>';
   });
-  if(p.picker){
-    nav.push('<button class="tab" data-for="' + AUDIENCES + '" onclick="' + attr('openSlug(\'' + AUDIENCES + '\')')
-      + '"><span>' + esc(p.eyebrow ? p.eyebrow.text : '') + '</span><em></em></button>');
-  }
+  pages.forEach(function(page){
+    nav.push('<button class="tab" data-for="' + attr(page.slug) + '" onclick="' + attr('openSlug(\'' + page.slug + '\')')
+      + '"><span>' + esc(page.title) + '</span><em></em></button>');
+  });
   document.getElementById('tabs').innerHTML = nav.join('');
-  var back = p.picker ? '<button class="crumb" onclick="' + attr('openSlug(\'' + AUDIENCES + '\')') + '">← '
-    + esc(p.eyebrow ? p.eyebrow.text : '') + '</button>' : '';
   document.getElementById('main').innerHTML = tabs.map(function(t, i){
     var topNow = (t.slug === 'top-3' || t.slug === 'start-here') ? renderTopNow(t) : '';
-    var crumb = CORE.indexOf(t.slug) === -1 ? back : '';
+    var home = CORE.indexOf(t.slug) === -1 ? pageFor(t.slug, pages) : null;
+    var crumb = home ? '<button class="crumb" onclick="' + attr('openSlug(\'' + home.slug + '\')') + '">← '
+      + esc(home.title) + '</button>' : '';
     var body = crumb + topNow + renderBlocks(t, layoutFor(t), layoutWindow(layoutFor(t))) + renderFoot();
     return '<section class="panel" id="panel' + i + '" data-slug="' + attr(t.slug) + '">'
       + '<div class="strip"></div>' + body + '</section>';
-  }).join('') + audiencePanel();
+  }).join('') + pages.map(pickerPanel).join('');
 }
 
 /* One panel shows at a time. The nav lights the destination the panel belongs to: an audience
-   or tool tab lights the audience page it is reached from. */
+   or tool tab lights the picker page it is reached from. */
 function showPanel(panel, slug){
   document.querySelectorAll('.panel').forEach(function(p){ p.classList.remove('show'); });
   panel.classList.add('show');
-  var lit = CORE.indexOf(slug) !== -1 || slug === AUDIENCES ? slug : AUDIENCES;
+  var home = CORE.indexOf(slug) !== -1 || !slug ? null : pageFor(slug, pickerPages());
+  var lit = home ? home.slug : slug;
   document.querySelectorAll('.tab').forEach(function(t){
     t.classList.toggle('active', t.getAttribute('data-for') === lit);
   });
+  /* On a phone the nav scrolls sideways, so the lit destination is brought into view. */
+  var on = document.querySelector('.tab.active');
+  if(on && on.parentNode){ on.parentNode.scrollLeft = on.offsetLeft - on.parentNode.offsetLeft - 16; }
   if(slug && location.hash.replace('#', '') !== slug){ history.replaceState(null, '', '#' + slug); }
   window.scrollTo(0, 0);
 }

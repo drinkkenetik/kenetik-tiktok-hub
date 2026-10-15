@@ -6744,7 +6744,7 @@
     "h-0242": {
       "hook_id": "h-0242",
       "text": "“Trainers, this is the shot I keep on me between clients. Stay sharp all day, caffeine-free.”",
-      "angle": "Speaks to trainers directly. Film it between two client sessions.",
+      "angle": "For trainers between clients. Show the shot coming out of your pocket.",
       "format": "To-cam",
       "source": {
         "kind": "composed",
@@ -6874,7 +6874,7 @@
     "h-0247": {
       "hook_id": "h-0247",
       "text": "“Suspension training is all control and focus. I take a shot before I hit the straps so my mind is as sharp as my grip.”",
-      "angle": "TRX-specific. Film your hands on the straps as you say it.",
+      "angle": "For TRX trainers and classes. Film it on the straps.",
       "format": "Pre-session",
       "source": {
         "kind": "composed",
@@ -11369,6 +11369,111 @@
         "carries_claim": false
       },
       "angle_id_proposed": "unclassified"
+    },
+    "h-0390": {
+      "hook_id": "h-0390",
+      "text": "“Two ounces, no caffeine, and it lives in my gym bag. Tangerine before my evening session, and my head shows up with the rest of me.”",
+      "angle": "The size line. Hold the shot next to your keys or your phone.",
+      "source": {
+        "kind": "composed",
+        "convention": "no a.hsrc source link on this line, which is how the page marks a line a creator said; an unmarked line is recorded as composed",
+        "how": "written by hand 10/15 for the Performance Shots tab, at Nick's direction"
+      },
+      "proof": {
+        "videos_made": "UNKNOWN",
+        "converting_videos": "UNKNOWN",
+        "distinct_creators": "UNKNOWN",
+        "revenue_usd": "UNKNOWN",
+        "as_of": "2026-10-15",
+        "how": "no video has been read against this line yet"
+      },
+      "rules": {
+        "checked_on": "2026-10-15",
+        "passed": true,
+        "broken": [],
+        "carries_claim": false
+      },
+      "angle_id_proposed": "unclassified",
+      "entered": {
+        "on": "2026-10-15",
+        "tab": "trx-shots",
+        "displaced": "h-0240",
+        "by": "nicklac@drinkkenetik.com",
+        "figures": {
+          "in": "UNKNOWN",
+          "out": "UNKNOWN"
+        }
+      }
+    },
+    "h-0391": {
+      "hook_id": "h-0391",
+      "text": "“I didn’t know brain fuel came in a shot. Lemon-lime, one sip, and I’m locked in for the drive to my 8pm game.”",
+      "angle": "Flavor first. Name the one you are holding.",
+      "source": {
+        "kind": "composed",
+        "convention": "no a.hsrc source link on this line, which is how the page marks a line a creator said; an unmarked line is recorded as composed",
+        "how": "written by hand 10/15 for the Performance Shots tab, at Nick's direction"
+      },
+      "proof": {
+        "videos_made": "UNKNOWN",
+        "converting_videos": "UNKNOWN",
+        "distinct_creators": "UNKNOWN",
+        "revenue_usd": "UNKNOWN",
+        "as_of": "2026-10-15",
+        "how": "no video has been read against this line yet"
+      },
+      "rules": {
+        "checked_on": "2026-10-15",
+        "passed": true,
+        "broken": [],
+        "carries_claim": false
+      },
+      "angle_id_proposed": "unclassified",
+      "entered": {
+        "on": "2026-10-15",
+        "tab": "trx-shots",
+        "displaced": "h-0243",
+        "by": "nicklac@drinkkenetik.com",
+        "figures": {
+          "in": "UNKNOWN",
+          "out": "UNKNOWN"
+        }
+      }
+    },
+    "h-0392": {
+      "hook_id": "h-0392",
+      "text": "“Coffee at 6pm means staring at the ceiling at midnight. A shot of brain fuel before my last class means I’m sharp and I still switch off.”",
+      "angle": "The late-day trade, told with a shot. Say your real times.",
+      "source": {
+        "kind": "composed",
+        "convention": "no a.hsrc source link on this line, which is how the page marks a line a creator said; an unmarked line is recorded as composed",
+        "how": "written by hand 10/15 for the Performance Shots tab, at Nick's direction"
+      },
+      "proof": {
+        "videos_made": "UNKNOWN",
+        "converting_videos": "UNKNOWN",
+        "distinct_creators": "UNKNOWN",
+        "revenue_usd": "UNKNOWN",
+        "as_of": "2026-10-15",
+        "how": "no video has been read against this line yet"
+      },
+      "rules": {
+        "checked_on": "2026-10-15",
+        "passed": true,
+        "broken": [],
+        "carries_claim": false
+      },
+      "angle_id_proposed": "unclassified",
+      "entered": {
+        "on": "2026-10-15",
+        "tab": "trx-shots",
+        "displaced": "h-0245",
+        "by": "nicklac@drinkkenetik.com",
+        "figures": {
+          "in": "UNKNOWN",
+          "out": "UNKNOWN"
+        }
+      }
     }
   },
   "tabs": [
@@ -15226,23 +15331,23 @@
     },
     {
       "slug": "trx-shots",
-      "label": "🥤 TRX Shots",
+      "label": "🥤 Performance Shots",
       "nav_order": 28,
-      "title": "Hooks for TRX trainers and their clients",
-      "sub": "10 hooks · the moment: the last client of the day at 8pm",
-      "audience": "This is the TRX x Kenetik Lemon-Lime shot, not the can. The audience is TRX trainers, their clients, and people who train after work. Trainers coach from early morning to the last evening client, and their clients show up after a full workday. The shot is caffeine-free brain fuel that fits the gym bag: a clear head for the late session, and nothing keeping you up after. No medical claims.",
-      "claims_note": "No medical claims.",
+      "title": "Hooks for Kenetik performance shots",
+      "sub": "10 hooks · the moment: one in the bag for the late session",
+      "audience": "This tab is for our shots, not the can: Tangerine, the TRX x Kenetik Lemon-Lime shot, and any flavor we launch next. A shot is two ounces with 10g of ketones and no caffeine, small enough for a gym bag, a pocket or a carry-on. It is for the moment you change gears: the evening session after a full workday, the last client at 8pm, the drive to the late game. Lead with the flavor and the moment, never the partner name alone. **The moment to own here:** one shot, gone in one go, and a clear head for whatever comes next tonight.",
+      "claims_note": "No medical claims, and no strength, endurance or race performance claims.",
       "hook_ids": [
         "h-0369",
         "h-0370",
+        "h-0392",
+        "h-0390",
+        "h-0391",
         "h-0242",
-        "h-0240",
         "h-0246",
         "h-0247",
         "h-0239",
-        "h-0244",
-        "h-0243",
-        "h-0245"
+        "h-0244"
       ],
       "angles": [],
       "layout": [
@@ -15254,10 +15359,17 @@
         },
         {
           "block": "eyebrow",
-          "text": "The north star"
+          "text": "Who you're talking to"
         },
         {
           "block": "northstar"
+        },
+        {
+          "block": "eyebrow",
+          "text": "What a great video covers"
+        },
+        {
+          "block": "formula"
         },
         {
           "block": "eyebrow",
@@ -15268,21 +15380,34 @@
           "hook_ids": [
             "h-0369",
             "h-0370",
+            "h-0392",
+            "h-0390",
+            "h-0391",
             "h-0242",
-            "h-0240",
             "h-0246",
             "h-0247",
             "h-0239",
-            "h-0244",
-            "h-0243",
-            "h-0245"
+            "h-0244"
           ]
+        },
+        {
+          "block": "eyebrow",
+          "text": "Do's and don'ts"
+        },
+        {
+          "block": "twocol",
+          "pos": {
+            "heading": "Do"
+          },
+          "neg": {
+            "heading": "Don't"
+          }
         }
       ],
       "dos": [
         "Say “brain fuel” at least once, every video.",
-        "Show the shot: in the gym bag, in your hand, gone in one go.",
-        "Film the evening session or the last client, so the late hour is obvious.",
+        "Name the flavor you are holding. Flavor first, partner second.",
+        "Show the size: in the bag, in your pocket, gone in one go.",
         "Keep it about focus and a clear head, never strength, reps or recovery."
       ],
       "formula": [
@@ -15291,17 +15416,24 @@
           "text": "Open in the first 1 to 3 seconds with a line below, or your own."
         },
         {
-          "title": "The late-day moment",
-          "text": "Show the real time your audience feels it, in a scene they recognize, and say what time it is."
+          "title": "The moment you change gears",
+          "text": "Show where you are and what time it is: the gym bag at 6pm, the last client, the drive to the late game."
         },
         {
-          "title": "Kenetik is the answer",
-          "text": "Crack a can on camera. Calm, clear, caffeine-free brain fuel, your real reaction. Say \"brain fuel\" at least once."
+          "title": "Take the shot",
+          "text": "On camera, in one go. Name the flavor and give your real reaction. Say \"brain fuel\" at least once."
         },
         {
           "title": "Close it",
-          "text": "One simple reason to try it (12g of ketones, and no caffeine keeping you up tonight), then say “shop now” out loud and give your code."
+          "text": "One simple reason to try it (10g of ketones in two ounces, and no caffeine keeping you up tonight), then say “shop now” out loud and give your code."
         }
+      ],
+      "donts": [
+        "Call it an energy drink, pre-workout or supplement. It’s metabolic brain fuel.",
+        "Promise better workouts, more power, faster times or better recovery. Talk about your head, not your body.",
+        "Take it mid-race or mid-set on camera. Show it before the session or on the way there.",
+        "Point at a shopping button on screen. Say “shop now” out loud instead, so the video still works when we run it as an ad.",
+        "Lead with a discount. If there’s an offer, save it for the end."
       ]
     }
   ],
@@ -16899,6 +17031,45 @@
       "owner": "nick",
       "claim_flagged": false,
       "position": 4
+    },
+    {
+      "kind": "hook_swap",
+      "tab": "trx-shots",
+      "in": "h-0390",
+      "out": "h-0240",
+      "decision": "approve",
+      "reason": "Performance Shots refresh 10/15: the tab now covers every shot flavor and leads with flavor (8/19 TRX pivot). Written in session at Nick's direction.",
+      "by": "nicklac@drinkkenetik.com",
+      "at": "2026-10-15",
+      "owner": "nick",
+      "claim_flagged": false,
+      "position": 4
+    },
+    {
+      "kind": "hook_swap",
+      "tab": "trx-shots",
+      "in": "h-0391",
+      "out": "h-0243",
+      "decision": "approve",
+      "reason": "Performance Shots refresh 10/15: the tab now covers every shot flavor and leads with flavor (8/19 TRX pivot). Written in session at Nick's direction.",
+      "by": "nicklac@drinkkenetik.com",
+      "at": "2026-10-15",
+      "owner": "nick",
+      "claim_flagged": false,
+      "position": 9
+    },
+    {
+      "kind": "hook_swap",
+      "tab": "trx-shots",
+      "in": "h-0392",
+      "out": "h-0245",
+      "decision": "approve",
+      "reason": "Performance Shots refresh 10/15: the tab now covers every shot flavor and leads with flavor (8/19 TRX pivot). Written in session at Nick's direction.",
+      "by": "nicklac@drinkkenetik.com",
+      "at": "2026-10-15",
+      "owner": "nick",
+      "claim_flagged": false,
+      "position": 10
     }
   ],
   "grandfathered": [
@@ -17659,34 +17830,6 @@
             "go": "Open →",
             "target_slug": "travel",
             "group": "Play and travel"
-          },
-          {
-            "title": "Getting past price",
-            "description": "For when the viewer asks what it costs.",
-            "go": "Open →",
-            "target_slug": "price",
-            "group": "Extra tools"
-          },
-          {
-            "title": "Partner proof",
-            "description": "Open on a name your audience trusts.",
-            "go": "Open →",
-            "target_slug": "partner-proof",
-            "group": "Extra tools"
-          },
-          {
-            "title": "Street interviews",
-            "description": "Questions to ask strangers on camera.",
-            "go": "Open →",
-            "target_slug": "street-interview",
-            "group": "Extra tools"
-          },
-          {
-            "title": "TRX Shots",
-            "description": "The shot format, for trainers and classes.",
-            "go": "Open →",
-            "target_slug": "trx-shots",
-            "group": "Extra tools"
           }
         ]
       },
@@ -17696,6 +17839,45 @@
         "text": "Don’t apologise and don’t discount your way past it. **The Getting Past Price tab has ten hooks built for exactly that moment.**",
         "go": "Open Getting Past Price →",
         "target_slug": "price"
+      },
+      {
+        "block": "eyebrow",
+        "id": "tools",
+        "text": "Creator tools"
+      },
+      {
+        "block": "note",
+        "style": "apick-note",
+        "text": "Your audience tab gives you the moment. These tools take you deeper into the brand: how to answer the price question, how to borrow trust from our partners, how to run a street interview, and how to feature our shots. Use any of them alongside your audience."
+      },
+      {
+        "block": "picker",
+        "cards": [
+          {
+            "title": "Getting past price",
+            "description": "For when the viewer asks what it costs.",
+            "go": "Open →",
+            "target_slug": "price"
+          },
+          {
+            "title": "Partner proof",
+            "description": "Open on a name your audience trusts.",
+            "go": "Open →",
+            "target_slug": "partner-proof"
+          },
+          {
+            "title": "Street interviews",
+            "description": "Questions to ask strangers on camera.",
+            "go": "Open →",
+            "target_slug": "street-interview"
+          },
+          {
+            "title": "Performance Shots",
+            "description": "How to feature the shots, in any flavor.",
+            "go": "Open →",
+            "target_slug": "trx-shots"
+          }
+        ]
       }
     ]
   },
