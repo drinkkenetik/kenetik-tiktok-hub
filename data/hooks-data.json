@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "updated": "2026-10-14",
+  "updated": "2026-10-15",
   "written_by": "scripts/hooks_hub_extract.py for the first write; the Monday turn writes the machine fields from 7-2 and people write the editorial fields by hand",
   "rules_version": "hooks-config@4402e2a7 · claims-list@daffab0b · reader@138f4b17",
   "footer": "Kenetik Creator Hub · Hook performance from our TikTok Shop and Meta ad campaigns, measured on each video's spoken opening line. Refreshed weekly. Figures are past performance and not a guarantee of what any individual video will earn.",
@@ -11119,6 +11119,256 @@
           "out": "UNKNOWN"
         }
       }
+    },
+    "h-0380": {
+      "hook_id": "h-0380",
+      "text": "“Overstimulated moms club, 8pm meeting. The kids are finally down and I still have a whole second shift. This is my brain fuel, no caffeine.”",
+      "angle": "The club line. Film it on the couch the minute the house goes quiet.",
+      "source": {
+        "kind": "composed",
+        "convention": "no a.hsrc source link on this line, which is how the page marks a line a creator said; an unmarked line is recorded as composed",
+        "how": "written by hand 10/15 for the overstimulated parents tab, at Nick's direction"
+      },
+      "proof": {
+        "videos_made": "UNKNOWN",
+        "converting_videos": "UNKNOWN",
+        "distinct_creators": "UNKNOWN",
+        "revenue_usd": "UNKNOWN",
+        "as_of": "2026-10-15",
+        "how": "no video has been read against this line yet"
+      },
+      "rules": {
+        "checked_on": "2026-10-15",
+        "passed": true,
+        "broken": [],
+        "carries_claim": false
+      },
+      "angle_id_proposed": "unclassified"
+    },
+    "h-0381": {
+      "hook_id": "h-0381",
+      "text": "“Touched out, talked out, and it’s only 7pm. I still need my head for the emails, the lunches and the laundry, and no caffeine keeping me up.”",
+      "angle": "Use it if your evening is the second shift. List your real jobs.",
+      "source": {
+        "kind": "composed",
+        "convention": "no a.hsrc source link on this line, which is how the page marks a line a creator said; an unmarked line is recorded as composed",
+        "how": "written by hand 10/15 for the overstimulated parents tab, at Nick's direction"
+      },
+      "proof": {
+        "videos_made": "UNKNOWN",
+        "converting_videos": "UNKNOWN",
+        "distinct_creators": "UNKNOWN",
+        "revenue_usd": "UNKNOWN",
+        "as_of": "2026-10-15",
+        "how": "no video has been read against this line yet"
+      },
+      "rules": {
+        "checked_on": "2026-10-15",
+        "passed": true,
+        "broken": [],
+        "carries_claim": false
+      },
+      "angle_id_proposed": "unclassified"
+    },
+    "h-0382": {
+      "hook_id": "h-0382",
+      "text": "“I used to pour a coffee at 4 just to survive the witching hour, then lie there wired at midnight. Now it’s brain fuel, and I still switch off.”",
+      "angle": "The caffeine trap told as a parent. Say your real times.",
+      "source": {
+        "kind": "composed",
+        "convention": "no a.hsrc source link on this line, which is how the page marks a line a creator said; an unmarked line is recorded as composed",
+        "how": "written by hand 10/15 for the overstimulated parents tab, at Nick's direction"
+      },
+      "proof": {
+        "videos_made": "UNKNOWN",
+        "converting_videos": "UNKNOWN",
+        "distinct_creators": "UNKNOWN",
+        "revenue_usd": "UNKNOWN",
+        "as_of": "2026-10-15",
+        "how": "no video has been read against this line yet"
+      },
+      "rules": {
+        "checked_on": "2026-10-15",
+        "passed": true,
+        "broken": [],
+        "carries_claim": false
+      },
+      "angle_id_proposed": "unclassified"
+    },
+    "h-0383": {
+      "hook_id": "h-0383",
+      "text": "“Bedtime routine done. Now it’s my turn to think. Calm, clear, not wired. That’s what I want from 8pm.”",
+      "angle": "Short and quiet. Film it in the hallway right after lights out.",
+      "source": {
+        "kind": "composed",
+        "convention": "no a.hsrc source link on this line, which is how the page marks a line a creator said; an unmarked line is recorded as composed",
+        "how": "written by hand 10/15 for the overstimulated parents tab, at Nick's direction"
+      },
+      "proof": {
+        "videos_made": "UNKNOWN",
+        "converting_videos": "UNKNOWN",
+        "distinct_creators": "UNKNOWN",
+        "revenue_usd": "UNKNOWN",
+        "as_of": "2026-10-15",
+        "how": "no video has been read against this line yet"
+      },
+      "rules": {
+        "checked_on": "2026-10-15",
+        "passed": true,
+        "broken": [],
+        "carries_claim": false
+      },
+      "angle_id_proposed": "unclassified"
+    },
+    "h-0384": {
+      "hook_id": "h-0384",
+      "text": "“Every parent knows the hour after bedtime is the only hour that’s yours. I want it clear, not foggy and not wired.”",
+      "angle": "A universal truth. Let viewers nod before you show the can.",
+      "source": {
+        "kind": "composed",
+        "convention": "no a.hsrc source link on this line, which is how the page marks a line a creator said; an unmarked line is recorded as composed",
+        "how": "written by hand 10/15 for the overstimulated parents tab, at Nick's direction"
+      },
+      "proof": {
+        "videos_made": "UNKNOWN",
+        "converting_videos": "UNKNOWN",
+        "distinct_creators": "UNKNOWN",
+        "revenue_usd": "UNKNOWN",
+        "as_of": "2026-10-15",
+        "how": "no video has been read against this line yet"
+      },
+      "rules": {
+        "checked_on": "2026-10-15",
+        "passed": true,
+        "broken": [],
+        "carries_claim": false
+      },
+      "angle_id_proposed": "unclassified"
+    },
+    "h-0385": {
+      "hook_id": "h-0385",
+      "text": "“Twelve questions an hour, three timers going off and a toddler on my leg. I don’t need more buzz. I need my brain back.”",
+      "angle": "Show the noise first, then the quiet. Real chaos works best.",
+      "source": {
+        "kind": "composed",
+        "convention": "no a.hsrc source link on this line, which is how the page marks a line a creator said; an unmarked line is recorded as composed",
+        "how": "written by hand 10/15 for the overstimulated parents tab, at Nick's direction"
+      },
+      "proof": {
+        "videos_made": "UNKNOWN",
+        "converting_videos": "UNKNOWN",
+        "distinct_creators": "UNKNOWN",
+        "revenue_usd": "UNKNOWN",
+        "as_of": "2026-10-15",
+        "how": "no video has been read against this line yet"
+      },
+      "rules": {
+        "checked_on": "2026-10-15",
+        "passed": true,
+        "broken": [],
+        "carries_claim": false
+      },
+      "angle_id_proposed": "unclassified"
+    },
+    "h-0386": {
+      "hook_id": "h-0386",
+      "text": "“POV: you finally sit down at 9 and your brain is still at 100 tabs open. This is what I reach for instead of a third coffee.”",
+      "angle": "A POV for the after-bedtime crash. Text on screen works well.",
+      "source": {
+        "kind": "composed",
+        "convention": "no a.hsrc source link on this line, which is how the page marks a line a creator said; an unmarked line is recorded as composed",
+        "how": "written by hand 10/15 for the overstimulated parents tab, at Nick's direction"
+      },
+      "proof": {
+        "videos_made": "UNKNOWN",
+        "converting_videos": "UNKNOWN",
+        "distinct_creators": "UNKNOWN",
+        "revenue_usd": "UNKNOWN",
+        "as_of": "2026-10-15",
+        "how": "no video has been read against this line yet"
+      },
+      "rules": {
+        "checked_on": "2026-10-15",
+        "passed": true,
+        "broken": [],
+        "carries_claim": false
+      },
+      "angle_id_proposed": "unclassified"
+    },
+    "h-0387": {
+      "hook_id": "h-0387",
+      "text": "“Dads are in this club too. Kids down at 8, side project till 10, and nothing in this keeping me up after.”",
+      "angle": "For dads. Same moment, your own words.",
+      "source": {
+        "kind": "composed",
+        "convention": "no a.hsrc source link on this line, which is how the page marks a line a creator said; an unmarked line is recorded as composed",
+        "how": "written by hand 10/15 for the overstimulated parents tab, at Nick's direction"
+      },
+      "proof": {
+        "videos_made": "UNKNOWN",
+        "converting_videos": "UNKNOWN",
+        "distinct_creators": "UNKNOWN",
+        "revenue_usd": "UNKNOWN",
+        "as_of": "2026-10-15",
+        "how": "no video has been read against this line yet"
+      },
+      "rules": {
+        "checked_on": "2026-10-15",
+        "passed": true,
+        "broken": [],
+        "carries_claim": false
+      },
+      "angle_id_proposed": "unclassified"
+    },
+    "h-0388": {
+      "hook_id": "h-0388",
+      "text": "“I’m not trying to be wired. I’m trying to be present for bath time and still get my work done after. Brain fuel, zero caffeine.”",
+      "angle": "Use it if presence matters more to you than productivity.",
+      "source": {
+        "kind": "composed",
+        "convention": "no a.hsrc source link on this line, which is how the page marks a line a creator said; an unmarked line is recorded as composed",
+        "how": "written by hand 10/15 for the overstimulated parents tab, at Nick's direction"
+      },
+      "proof": {
+        "videos_made": "UNKNOWN",
+        "converting_videos": "UNKNOWN",
+        "distinct_creators": "UNKNOWN",
+        "revenue_usd": "UNKNOWN",
+        "as_of": "2026-10-15",
+        "how": "no video has been read against this line yet"
+      },
+      "rules": {
+        "checked_on": "2026-10-15",
+        "passed": true,
+        "broken": [],
+        "carries_claim": false
+      },
+      "angle_id_proposed": "unclassified"
+    },
+    "h-0389": {
+      "hook_id": "h-0389",
+      "text": "“Nap time is my office hours. Crack a can, clear head, get it done before they wake up.”",
+      "angle": "The daytime version, for stay-at-home parents.",
+      "source": {
+        "kind": "composed",
+        "convention": "no a.hsrc source link on this line, which is how the page marks a line a creator said; an unmarked line is recorded as composed",
+        "how": "written by hand 10/15 for the overstimulated parents tab, at Nick's direction"
+      },
+      "proof": {
+        "videos_made": "UNKNOWN",
+        "converting_videos": "UNKNOWN",
+        "distinct_creators": "UNKNOWN",
+        "revenue_usd": "UNKNOWN",
+        "as_of": "2026-10-15",
+        "how": "no video has been read against this line yet"
+      },
+      "rules": {
+        "checked_on": "2026-10-15",
+        "passed": true,
+        "broken": [],
+        "carries_claim": false
+      },
+      "angle_id_proposed": "unclassified"
     }
   },
   "tabs": [
@@ -13585,9 +13835,115 @@
       ]
     },
     {
+      "slug": "overstimulated-parents",
+      "label": "🛋️ Overstimulated Parents",
+      "nav_order": 15,
+      "title": "Hooks for overstimulated moms and dads",
+      "sub": "10 hooks · the moment: the hour after bedtime",
+      "audience": "Parents who are touched out and talked out by dinner, then start a second shift once the kids are down: emails, lunches, laundry, the side project. Coffee at 4 gets them through the witching hour and then keeps them up at midnight. Kenetik is caffeine-free brain fuel for that hour: calm and clear, not wired, with nothing in it keeping you up. **The moment to own here:** the house finally goes quiet, and the hour that is yours is clear.",
+      "formula": [
+        {
+          "title": "Hook",
+          "text": "Open in the first 1 to 3 seconds with a line below, or your own."
+        },
+        {
+          "title": "The late-day moment",
+          "text": "Show the real time your audience feels it, in a scene they recognize, and say what time it is."
+        },
+        {
+          "title": "Kenetik is the answer",
+          "text": "Crack a can on camera. Calm, clear, caffeine-free brain fuel, your real reaction. Say \"brain fuel\" at least once."
+        },
+        {
+          "title": "Close it",
+          "text": "One simple reason to try it (12g of ketones, and no caffeine keeping you up tonight), then say “shop now” out loud and give your code."
+        }
+      ],
+      "dos": [
+        "Say “brain fuel” at least once, every video.",
+        "Show the noise first (the kids, the timers, the questions), then the quiet.",
+        "Say the real time on screen: 7pm, 8:30, after lights out.",
+        "Keep it light and honest. The joke is the chaos, never your kids."
+      ],
+      "donts": [
+        "Call it an energy drink, pre-workout or supplement. It’s metabolic brain fuel.",
+        "Say it treats stress, anxiety or overstimulation, or promise better sleep. Say how it feels to you.",
+        "Show a child drinking it or holding the can. It is for the grown-ups.",
+        "Point at a shopping button on screen. Say “shop now” out loud instead, so the video still works when we run it as an ad.",
+        "Lead with a discount. If there’s an offer, save it for the end."
+      ],
+      "hook_ids": [
+        "h-0380",
+        "h-0381",
+        "h-0382",
+        "h-0383",
+        "h-0384",
+        "h-0385",
+        "h-0386",
+        "h-0387",
+        "h-0388",
+        "h-0389"
+      ],
+      "angles": [],
+      "layout": [
+        {
+          "block": "heading"
+        },
+        {
+          "block": "sub"
+        },
+        {
+          "block": "eyebrow",
+          "text": "Who you're talking to"
+        },
+        {
+          "block": "northstar"
+        },
+        {
+          "block": "eyebrow",
+          "text": "What a great video covers"
+        },
+        {
+          "block": "formula"
+        },
+        {
+          "block": "eyebrow",
+          "text": "The hooks"
+        },
+        {
+          "block": "hooks",
+          "hook_ids": [
+            "h-0380",
+            "h-0381",
+            "h-0382",
+            "h-0383",
+            "h-0384",
+            "h-0385",
+            "h-0386",
+            "h-0387",
+            "h-0388",
+            "h-0389"
+          ]
+        },
+        {
+          "block": "eyebrow",
+          "text": "Do's and don'ts"
+        },
+        {
+          "block": "twocol",
+          "pos": {
+            "heading": "Do"
+          },
+          "neg": {
+            "heading": "Don't"
+          }
+        }
+      ]
+    },
+    {
       "slug": "gaming",
       "label": "🎮 Gaming",
-      "nav_order": 15,
+      "nav_order": 16,
       "title": "Hooks for gamers and streamers",
       "sub": "10 hooks · the moment: the last ranked game at 1am",
       "audience": "Gamers play late, and most of them fuel it with energy drinks: the jitters in the clutch, the crash two hours in, then lying awake wired after they log off. Kenetik is caffeine-free brain fuel for the late session, calm and locked in instead of wired and scattered. **The moment to own here:** the last ranked game of the night, locked in, with nothing in the can keeping you up after.",
@@ -13693,7 +14049,7 @@
     {
       "slug": "gen-z",
       "label": "🔥 Gen-Z / Brain Maxxing",
-      "nav_order": 16,
+      "nav_order": 17,
       "title": "Hooks for Gen Z and brain maxxing",
       "sub": "10 hooks · the moment: the 10pm lock-in before a deadline",
       "audience": "Gen Z optimizes everything, and brain maxxing is the part almost nobody fuels: most of this crowd runs on energy drinks, then lies awake wired at 2am. Kenetik is caffeine-free brain fuel for the late lock-in, calm and focused instead of jittery and scattered. Keep it trend-native and keep the promise honest. **The moment to own here:** the 10pm lock-in, studying or building, and nothing in it keeping you up after.",
@@ -13804,7 +14160,7 @@
     {
       "slug": "mma",
       "label": "🥊 MMA / Combat Sports",
-      "nav_order": 17,
+      "nav_order": 18,
       "title": "Hooks for fighters and combat sports",
       "sub": "10 hooks · the moment: evening sparring after the day job",
       "audience": "Fighters and grapplers who train at night after work and have to be up for the day job. Pre-workout gets them through sparring, then keeps them staring at the ceiling. Kenetik is caffeine-free brain fuel, Informed Sport Certified, for the evening session: sharp in the last round and calm on the mat. **The moment to own here:** the evening session after the day job, sharp in sparring, with nothing keeping you up for tomorrow.",
@@ -13915,7 +14271,7 @@
     {
       "slug": "golf",
       "label": "⛳ Golf",
-      "nav_order": 18,
+      "nav_order": 19,
       "title": "Hooks for golfers",
       "sub": "10 hooks · the moment: the back nine at 5pm",
       "audience": "Golfers who play after work or tee off in the afternoon and feel it on the back nine: fuzzy reads, rushed tempo, checked out by 15. A coffee at the turn brings shaky hands over a putt and a long night after. Kenetik is caffeine-free brain fuel for the twilight round, steady over the putt and locked in on 18. **The moment to own here:** the twilight round or the back nine at 5pm, steady over the putt, with no late coffee keeping you up.",
@@ -14021,7 +14377,7 @@
     {
       "slug": "first-responders",
       "label": "🚑 First Responders",
-      "nav_order": 19,
+      "nav_order": 20,
       "title": "Hooks for first responders",
       "sub": "10 hooks · the moment: hour twenty of a twenty-four",
       "audience": "Twenty-four-hour shifts, 3am calls, and a head that has to be clear the second the tones drop. Station coffee keeps you going, then keeps you up when the shift is over. Kenetik is caffeine-free brain fuel for the late hours: calm and locked in, with nothing in it keeping you up. **The moment to own here:** hour twenty of a twenty-four, clear when the tones drop, and able to switch off when the shift is over.",
@@ -14132,7 +14488,7 @@
     {
       "slug": "cycling-endurance",
       "label": "🚴 Cycling / Endurance",
-      "nav_order": 20,
+      "nav_order": 21,
       "title": "Hooks for cyclists and endurance athletes",
       "sub": "10 hooks · the moment: the after-work ride",
       "audience": "Riders who train after work: the 6pm group ride, the 8pm trainer session, the back half of a long day. The gels in their pocket wire them, hit the gut, and leave them staring at the ceiling. Kenetik is caffeine-free brain fuel for the late ride, a clear head to the finish. **The moment to own here:** the after-work ride or the back half of a long day, clear-headed to the finish, and nothing keeping you up after.",
@@ -14243,7 +14599,7 @@
     {
       "slug": "ultra",
       "label": "🥾 Ultra / Do Hard Things",
-      "nav_order": 21,
+      "nav_order": 22,
       "title": "Hooks for ultrarunners and people who do hard things",
       "sub": "10 hooks · the moment: the night section at mile 60",
       "audience": "Ultrarunners and do-hard-things people who know the mind quits before the body, and that it gets loudest after dark. Coffee and gels get them through the night section, then leaves them jittery and fried for days. Kenetik is caffeine-free brain fuel for when it gets dark: calm, clear and still making good calls. **The moment to own here:** the night section, still clear at mile 60, and the after-work training run in the dark.",
@@ -14354,7 +14710,7 @@
     {
       "slug": "hyrox",
       "label": "🏅 HYROX / Hybrid",
-      "nav_order": 22,
+      "nav_order": 23,
       "title": "Hooks for HYROX and hybrid athletes",
       "sub": "10 hooks · the moment: the 7pm session after a full workday",
       "audience": "Hybrid athletes train after work, smoked from the day, and the mind goes before the body does. Most reach for pre-workout or a late coffee and pay for it at midnight. Kenetik is caffeine-free brain fuel for the evening session: head in it, calm, and still switching off after. Stay on the mental side only, never times, reps or recovery. **The moment to own here:** the evening session after work, locked in when you’re smoked, and nothing keeping you up after.",
@@ -14465,7 +14821,7 @@
     {
       "slug": "travel",
       "label": "✈️ Travel",
-      "nav_order": 23,
+      "nav_order": 24,
       "title": "Hooks for travelers and road warriors",
       "sub": "10 hooks · the moment: landing late with work still to do",
       "audience": "Travel runs late: the evening landing, the hotel desk at 10pm, hour six of the drive after dark. The usual answer is another coffee, and then lying awake in a hotel bed. The 2oz shot is caffeine-free brain fuel that fits the quart bag, so you can be clear for the late work and still switch off after. Routine and format only: never say it fixes jet lag, tiredness or anything else. **The moment to own here:** landing late with work still to do, clear for it, and nothing in it keeping you up in the hotel after.",
@@ -14572,7 +14928,7 @@
     {
       "slug": "price",
       "label": "💰 Getting Past Price",
-      "nav_order": 24,
+      "nav_order": 25,
       "title": "Hooks for getting past the price",
       "sub": "10 hooks · the moment: the 4pm can that doesn’t cost you the night",
       "audience": "Kenetik is a new premium category, so for some people the price is a hump to get over. The play is never a discount, it is making the value obvious: the late coffee and the 3pm energy drink it replaces, and the night you don’t pay for afterwards. Use these with any audience. If a live offer is running, mention it at the very end, never as the hook.",
@@ -14684,7 +15040,7 @@
     {
       "slug": "partner-proof",
       "label": "🤝 Partner Proof",
-      "nav_order": 25,
+      "nav_order": 26,
       "title": "Hooks for borrowing a partner’s trust",
       "sub": "10 hooks · the moment: the name that earns the first two seconds",
       "audience": "A name your audience already believes buys you the first two seconds, the hardest part. Then pivot straight to your own late-day story, the 8pm work session or the late drive, because the name earns attention and only your story keeps it. One name per video. Never put words in a partner’s mouth, and never talk about anyone’s health, injuries or medical history, including Matt Hughes.",
@@ -14770,7 +15126,7 @@
     {
       "slug": "street-interview",
       "label": "🎤 Street Interviews",
-      "nav_order": 26,
+      "nav_order": 27,
       "title": "Hooks for street interviews",
       "sub": "10 questions · the moment: the stranger with a long evening ahead",
       "audience": "Stopping strangers works because the viewer learns at the same speed the stranger does. Ask when they hit their wall and what they drink to get through the evening, let them guess wrong about what Kenetik is, then correct them in one sentence: caffeine-free brain fuel for focus late in the day. Ask the question before you name the brand, teach one thing per person, and film the first sip.",
@@ -14871,7 +15227,7 @@
     {
       "slug": "trx-shots",
       "label": "🥤 TRX Shots",
-      "nav_order": 27,
+      "nav_order": 28,
       "title": "Hooks for TRX trainers and their clients",
       "sub": "10 hooks · the moment: the last client of the day at 8pm",
       "audience": "This is the TRX x Kenetik Lemon-Lime shot, not the can. The audience is TRX trainers, their clients, and people who train after work. Trainers coach from early morning to the last evening client, and their clients show up after a full workday. The shot is caffeine-free brain fuel that fits the gym bag: a clear head for the late session, and nothing keeping you up after. No medical claims.",
@@ -17190,6 +17546,13 @@
             "description": "Optimizers and deep-work nerds.",
             "go": "Open →",
             "target_slug": "biohackers",
+            "group": "Work and long days"
+          },
+          {
+            "title": "Overstimulated Parents",
+            "description": "Touched out by 7, second shift by 8.",
+            "go": "Open →",
+            "target_slug": "overstimulated-parents",
             "group": "Work and long days"
           },
           {
