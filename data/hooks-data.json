@@ -11740,7 +11740,7 @@
         },
         {
           "title": "Name the moment",
-          "text": "The real time they feel it: the work still left at 8pm, the 4pm coffee you pay for at midnight, the jittery second energy drink."
+          "text": "The real time they feel it: the 2pm wall, the 3pm coffee you pay for at midnight, the work still left at 8pm."
         },
         {
           "title": "Kenetik is the answer",
@@ -11749,7 +11749,7 @@
       ],
       "dos": [
         "Say **\"brain fuel\"** at least once, every video.",
-        "**Say what time it is.** 7pm at the desk, 9pm in the garage, hour ten of a shift. A real time of day does more work than any adjective.",
+        "**Say what time it is.** 2pm at the desk, 3pm in the shop, hour ten of a shift. A real time of day does more work than any adjective.",
         "Name what caffeine did to you, if it’s true: jittery, wired, anxious, staring at the ceiling at midnight.",
         "Show yourself actually drinking it. Real and native, like a post, not an ad.",
         "Test a lot. Different openers, different moments. We put budget behind whatever works."
@@ -11770,7 +11770,7 @@
       "label": "⭐ The 3 to Film Now",
       "nav_order": 1,
       "title": "The 3 to film now",
-      "sub": "Three videos built around the moment we want Kenetik known for: focus late in the day, without the jitters, the crash or a wrecked night. Everything you need to film them is on this tab.",
+      "sub": "Three videos built around the moment we want Kenetik known for: clear focus when you hit the afternoon wall, and into the evening, without messing with your sleep. Everything you need to film them is on this tab.",
       "hook_ids": [
         "h-0304",
         "h-0305",
@@ -11809,14 +11809,14 @@
             },
             {
               "block": "northstar",
-              "text": "**Every one of these is about the same moment:** it’s late, there’s still work to do, and you want to lock in without paying for it tonight. One video owns **the late lock-in**, one gets you **off the caffeine treadmill**, one is about feeling **calm, not wired**. Any can works for any of them. **Whichever you film, say what time it is.**"
+              "text": "**Every one of these is about the same moment:** there’s still work to do, it’s the time you would usually reach for a coffee or an energy drink, and you want to lock in without paying for it tonight. One video owns **the 2pm swap**, one gets you **off the caffeine treadmill**, one is about feeling **calm, not wired**. Any can works for any of them. **Whichever you film, say what time it is.**"
             },
             {
               "block": "formula",
               "steps": [
                 {
-                  "title": "Video 1 · The Late Lock-In: it’s evening, and you’re still getting it done",
-                  "text": "**What it is about:** the hour most people write off. Film it at night, crack the can, say the time, and get to work."
+                  "title": "Video 1 · The 2pm Swap: the moment you would grab a coffee, you grab this",
+                  "text": "**What it is about:** the afternoon wall everyone hits. Film it at the time you would usually reach for a coffee or an energy drink, crack the can instead, and say the time."
                 },
                 {
                   "title": "Video 2 · Off the Caffeine Treadmill: coffee to wake up, more to keep going, then no sleep",
@@ -11996,11 +11996,11 @@
           "blocks": [
             {
               "block": "heading",
-              "title": "Video 1: The Late Lock-In"
+              "title": "Video 1: The 2pm Swap"
             },
             {
               "block": "sub",
-              "text": "**It’s evening, and you’re still getting it done.** Any can. Filmed at night, in the room where the work actually happens."
+              "text": "**It’s 2pm, you’ve hit the wall, and this is what you reach for now.** Any can. Filmed at the real time, in the room where the work actually happens."
             },
             {
               "block": "eyebrow",
@@ -12008,7 +12008,7 @@
             },
             {
               "block": "northstar",
-              "text": "**\"It’s 8pm, I’ve still got two hours of work, and I’m not touching caffeine this late.\"**"
+              "text": "**\"It’s 2pm, I’ve hit the wall, and I’m not having a coffee I’ll pay for at midnight.\"**"
             },
             {
               "block": "eyebrow",
@@ -12028,7 +12028,7 @@
             },
             {
               "block": "northstar",
-              "text": "This is the moment we want Kenetik known for. Everyone has had the late coffee they paid for at midnight, so the viewer is nodding before the can appears. **The time of day is the hook.** Say it, show it, and let the scene prove it."
+              "text": "This is the moment we want Kenetik known for. Everyone has hit the 2pm wall and grabbed the coffee they paid for at midnight, so the viewer is nodding before the can appears. **The goal is a habit:** next time they feel that afternoon pull toward caffeine, they think of Kenetik. **The time of day is the hook.** Say it, show it, and let the scene prove it. An evening version works too if that is when your work runs late."
             },
             {
               "block": "eyebrow",
@@ -12039,7 +12039,7 @@
               "steps": [
                 {
                   "title": "Film it at the actual time",
-                  "text": "Evening light, real clutter, the laptop or the workbench. Do not shoot this at noon and pretend."
+                  "text": "The 2pm desk, the 3pm shop floor, or your evening work if that is your moment. Do not shoot it at a different time and pretend."
                 },
                 {
                   "title": "Open on the time and what is left",
@@ -12047,7 +12047,7 @@
                 },
                 {
                   "title": "Name what you used to reach for",
-                  "text": "The coffee, the second energy drink. And what it cost you later."
+                  "text": "The afternoon coffee, the energy drink. And what it cost you later."
                 },
                 {
                   "title": "Crack the can and get to work",
@@ -12252,7 +12252,7 @@
               "steps": [
                 {
                   "title": "Did you say what time it is?",
-                  "text": "The late-day moment is the story. Name the hour."
+                  "text": "The afternoon moment is the story, or the evening one if that is yours. Name the hour."
                 },
                 {
                   "title": "Did you say \"brain fuel\" at least once?",
@@ -12291,7 +12291,7 @@
               "block": "recap",
               "heading": "The bottom line",
               "paragraphs": [
-                "Three videos, one moment: **the late lock-in**, **the caffeine treadmill**, **calm, not wired**. Every one says what time it is, brings in Kenetik as **metabolic brain fuel**, and closes on **“shop now”** out loud. Post them close together and let us find out which one your audience responds to."
+                "Three videos, one moment: **the 2pm swap**, **the caffeine treadmill**, **calm, not wired**. Every one says what time it is, brings in Kenetik as **metabolic brain fuel**, and closes on **“shop now”** out loud. Post them close together and let us find out which one your audience responds to."
               ]
             },
             {
@@ -12306,7 +12306,7 @@
       "label": "🔥 What’s Selling",
       "nav_order": 2,
       "title": "What’s selling right now",
-      "sub": "The Kenetik videos that sold the most on TikTok Shop over the last 90 days, with the line each one opened with. Borrow their energy, then tell it as the late-day moment.",
+      "sub": "The Kenetik videos that sold the most on TikTok Shop over the last 90 days, with the line each one opened with. Borrow their energy, then tell it as the afternoon moment.",
       "hook_ids": [
         "h-0271",
         "h-0272",
@@ -12891,16 +12891,16 @@
       "label": "🎯 All Creators",
       "nav_order": 3,
       "title": "Hooks for every creator",
-      "sub": "10 hooks that work for any audience · start with the late-day ones",
-      "audience": "**Lead with the customer's problem, the moment their focus goes.** Kenetik is metabolic brain fuel, the category we own. Ketones are the mechanism and the credibility, so they come after the hook. Caffeine can open the video if it’s part of your story. Every line below opens on the problem or outcome in the first two seconds, and borrows a proven structure from our cross-brand TikTok audits. The promise underneath all of it: clarity and focus on demand, your best hours, back. **The moment we own across every audience: locking in late in the day, finishing strong, and still sleeping like normal.** Not every hook has to be about it, but it’s the moment we want people to think of us for.",
+      "sub": "10 hooks that work for any audience · start with the afternoon ones",
+      "audience": "**Lead with the customer's problem, the moment their focus goes.** Kenetik is metabolic brain fuel, the category we own. Ketones are the mechanism and the credibility, so they come after the hook. Caffeine can open the video if it’s part of your story. Every line below opens on the problem or outcome in the first two seconds, and borrows a proven structure from our cross-brand TikTok audits. The promise underneath all of it: clarity and focus on demand, your best hours, back. **The moment we own across every audience: the 2pm wall, when you would normally reach for a coffee or an energy drink, and the evening work after it, with nothing in the can keeping you up.** Not every hook has to be about it, but it’s the moment we want people to think of us for.",
       "formula": [
         {
           "title": "Hook",
           "text": "Open in the first 1 to 3 seconds with a line below, or your own."
         },
         {
-          "title": "The late-day moment",
-          "text": "Show the real time your audience feels it, in a scene they recognize, and say what time it is."
+          "title": "The moment",
+          "text": "Show the real time your audience hits the wall, in a scene they recognize: the 2pm slump, or the work still left tonight. Say what time it is."
         },
         {
           "title": "Kenetik is the answer",
@@ -12913,7 +12913,7 @@
       ],
       "dos": [
         "Say “brain fuel” at least once, every video.",
-        "Say what time it is. The late-day moment is the story.",
+        "Say what time it is. The afternoon wall is the story.",
         "Put it in your own words. Content that sounds like you beats content that sounds like a script.",
         "Say what caffeine did to you (jittery, wired, couldn’t switch off) as your reason for switching. Just never claim Kenetik treats it.",
         "Say **“shop now”** out loud before you finish."
@@ -12926,15 +12926,15 @@
         "Lead with a discount. If there’s an offer, save it for the end."
       ],
       "hook_ids": [
-        "h-0308",
-        "h-0309",
-        "h-0010",
-        "h-0310",
-        "h-0311",
-        "h-0312",
-        "h-0015",
-        "h-0014",
         "h-0018",
+        "h-0014",
+        "h-0309",
+        "h-0015",
+        "h-0311",
+        "h-0010",
+        "h-0308",
+        "h-0312",
+        "h-0310",
         "h-0012"
       ],
       "angles": [],
@@ -12971,15 +12971,15 @@
         {
           "block": "hooks",
           "hook_ids": [
-            "h-0308",
-            "h-0309",
-            "h-0010",
-            "h-0310",
-            "h-0311",
-            "h-0312",
-            "h-0015",
-            "h-0014",
             "h-0018",
+            "h-0014",
+            "h-0309",
+            "h-0015",
+            "h-0311",
+            "h-0010",
+            "h-0308",
+            "h-0312",
+            "h-0310",
             "h-0012"
           ]
         },
@@ -13011,8 +13011,8 @@
           "text": "Open in the first 1 to 3 seconds with a line below, or your own."
         },
         {
-          "title": "The late-day moment",
-          "text": "Show the real time your audience feels it, in a scene they recognize, and say what time it is."
+          "title": "The moment",
+          "text": "Show the real time your audience hits the wall, in a scene they recognize: the 2pm slump, or the work still left tonight. Say what time it is."
         },
         {
           "title": "Kenetik is the answer",
@@ -13122,8 +13122,8 @@
           "text": "Open in the first 1 to 3 seconds with a line below, or your own."
         },
         {
-          "title": "The late-day moment",
-          "text": "Show the real time your audience feels it, in a scene they recognize, and say what time it is."
+          "title": "The moment",
+          "text": "Show the real time your audience hits the wall, in a scene they recognize: the 2pm slump, or the work still left tonight. Say what time it is."
         },
         {
           "title": "Kenetik is the answer",
@@ -13228,8 +13228,8 @@
           "text": "Open in the first 1 to 3 seconds with a line below, or your own."
         },
         {
-          "title": "The late-day moment",
-          "text": "Show the real time your audience feels it, in a scene they recognize, and say what time it is."
+          "title": "The moment",
+          "text": "Show the real time your audience hits the wall, in a scene they recognize: the 2pm slump, or the work still left tonight. Say what time it is."
         },
         {
           "title": "Kenetik is the answer",
@@ -13334,8 +13334,8 @@
           "text": "Open in the first 1 to 3 seconds with a line below, or your own."
         },
         {
-          "title": "The late-day moment",
-          "text": "Show the real time your audience feels it, in a scene they recognize, and say what time it is."
+          "title": "The moment",
+          "text": "Show the real time your audience hits the wall, in a scene they recognize: the 2pm slump, or the work still left tonight. Say what time it is."
         },
         {
           "title": "Kenetik is the answer",
@@ -13440,8 +13440,8 @@
           "text": "Open in the first 1 to 3 seconds with a line below, or your own."
         },
         {
-          "title": "The late-day moment",
-          "text": "Show the real time your audience feels it, in a scene they recognize, and say what time it is."
+          "title": "The moment",
+          "text": "Show the real time your audience hits the wall, in a scene they recognize: the 2pm slump, or the work still left tonight. Say what time it is."
         },
         {
           "title": "Kenetik is the answer",
@@ -13546,8 +13546,8 @@
           "text": "Open in the first 1 to 3 seconds with a line below, or your own."
         },
         {
-          "title": "The late-day moment",
-          "text": "Show the real time your audience feels it, in a scene they recognize, and say what time it is."
+          "title": "The moment",
+          "text": "Show the real time your audience hits the wall, in a scene they recognize: the 2pm slump, or the work still left tonight. Say what time it is."
         },
         {
           "title": "Kenetik is the answer",
@@ -13652,8 +13652,8 @@
           "text": "Open in the first 1 to 3 seconds with a line below, or your own."
         },
         {
-          "title": "The late-day moment",
-          "text": "Show the real time your audience feels it, in a scene they recognize, and say what time it is."
+          "title": "The moment",
+          "text": "Show the real time your audience hits the wall, in a scene they recognize: the 2pm slump, or the work still left tonight. Say what time it is."
         },
         {
           "title": "Kenetik is the answer",
@@ -13763,8 +13763,8 @@
           "text": "Open in the first 1 to 3 seconds with a line below, or your own."
         },
         {
-          "title": "The late-day moment",
-          "text": "Show the real time your audience feels it, in a scene they recognize, and say what time it is."
+          "title": "The moment",
+          "text": "Show the real time your audience hits the wall, in a scene they recognize: the 2pm slump, or the work still left tonight. Say what time it is."
         },
         {
           "title": "Kenetik is the answer",
@@ -13874,8 +13874,8 @@
           "text": "Open in the first 1 to 3 seconds with a line below, or your own."
         },
         {
-          "title": "The late-day moment",
-          "text": "Show the real time your audience feels it, in a scene they recognize, and say what time it is."
+          "title": "The moment",
+          "text": "Show the real time your audience hits the wall, in a scene they recognize: the 2pm slump, or the work still left tonight. Say what time it is."
         },
         {
           "title": "Kenetik is the answer",
@@ -13985,8 +13985,8 @@
           "text": "Open in the first 1 to 3 seconds with a line below, or your own."
         },
         {
-          "title": "The late-day moment",
-          "text": "Show the real time your audience feels it, in a scene they recognize, and say what time it is."
+          "title": "The moment",
+          "text": "Show the real time your audience hits the wall, in a scene they recognize: the 2pm slump, or the work still left tonight. Say what time it is."
         },
         {
           "title": "Kenetik is the answer",
@@ -14096,8 +14096,8 @@
           "text": "Open in the first 1 to 3 seconds with a line below, or your own."
         },
         {
-          "title": "The late-day moment",
-          "text": "Show the real time your audience feels it, in a scene they recognize, and say what time it is."
+          "title": "The moment",
+          "text": "Show the real time your audience hits the wall, in a scene they recognize: the 2pm slump, or the work still left tonight. Say what time it is."
         },
         {
           "title": "Kenetik is the answer",
@@ -14202,8 +14202,8 @@
           "text": "Open in the first 1 to 3 seconds with a line below, or your own."
         },
         {
-          "title": "The late-day moment",
-          "text": "Show the real time your audience feels it, in a scene they recognize, and say what time it is."
+          "title": "The moment",
+          "text": "Show the real time your audience hits the wall, in a scene they recognize: the 2pm slump, or the work still left tonight. Say what time it is."
         },
         {
           "title": "Kenetik is the answer",
@@ -14308,8 +14308,8 @@
           "text": "Open in the first 1 to 3 seconds with a line below, or your own."
         },
         {
-          "title": "The late-day moment",
-          "text": "Show the real time your audience feels it, in a scene they recognize, and say what time it is."
+          "title": "The moment",
+          "text": "Show the real time your audience hits the wall, in a scene they recognize: the 2pm slump, or the work still left tonight. Say what time it is."
         },
         {
           "title": "Kenetik is the answer",
@@ -14414,8 +14414,8 @@
           "text": "Open in the first 1 to 3 seconds with a line below, or your own."
         },
         {
-          "title": "The late-day moment",
-          "text": "Show the real time your audience feels it, in a scene they recognize, and say what time it is."
+          "title": "The moment",
+          "text": "Show the real time your audience hits the wall, in a scene they recognize: the 2pm slump, or the work still left tonight. Say what time it is."
         },
         {
           "title": "Kenetik is the answer",
@@ -14525,8 +14525,8 @@
           "text": "Open in the first 1 to 3 seconds with a line below, or your own."
         },
         {
-          "title": "The late-day moment",
-          "text": "Show the real time your audience feels it, in a scene they recognize, and say what time it is."
+          "title": "The moment",
+          "text": "Show the real time your audience hits the wall, in a scene they recognize: the 2pm slump, or the work still left tonight. Say what time it is."
         },
         {
           "title": "Kenetik is the answer",
@@ -14636,8 +14636,8 @@
           "text": "Open in the first 1 to 3 seconds with a line below, or your own."
         },
         {
-          "title": "The late-day moment",
-          "text": "Show the real time your audience feels it, in a scene they recognize, and say what time it is."
+          "title": "The moment",
+          "text": "Show the real time your audience hits the wall, in a scene they recognize: the 2pm slump, or the work still left tonight. Say what time it is."
         },
         {
           "title": "Kenetik is the answer",
@@ -14742,8 +14742,8 @@
           "text": "Open in the first 1 to 3 seconds with a line below, or your own."
         },
         {
-          "title": "The late-day moment",
-          "text": "Show the real time your audience feels it, in a scene they recognize, and say what time it is."
+          "title": "The moment",
+          "text": "Show the real time your audience hits the wall, in a scene they recognize: the 2pm slump, or the work still left tonight. Say what time it is."
         },
         {
           "title": "Kenetik is the answer",
@@ -14853,8 +14853,8 @@
           "text": "Open in the first 1 to 3 seconds with a line below, or your own."
         },
         {
-          "title": "The late-day moment",
-          "text": "Show the real time your audience feels it, in a scene they recognize, and say what time it is."
+          "title": "The moment",
+          "text": "Show the real time your audience hits the wall, in a scene they recognize: the 2pm slump, or the work still left tonight. Say what time it is."
         },
         {
           "title": "Kenetik is the answer",
@@ -14964,8 +14964,8 @@
           "text": "Open in the first 1 to 3 seconds with a line below, or your own."
         },
         {
-          "title": "The late-day moment",
-          "text": "Show the real time your audience feels it, in a scene they recognize, and say what time it is."
+          "title": "The moment",
+          "text": "Show the real time your audience hits the wall, in a scene they recognize: the 2pm slump, or the work still left tonight. Say what time it is."
         },
         {
           "title": "Kenetik is the answer",
@@ -15075,8 +15075,8 @@
           "text": "Open in the first 1 to 3 seconds with a line below, or your own."
         },
         {
-          "title": "The late-day moment",
-          "text": "Show the real time your audience feels it, in a scene they recognize, and say what time it is."
+          "title": "The moment",
+          "text": "Show the real time your audience hits the wall, in a scene they recognize: the 2pm slump, or the work still left tonight. Say what time it is."
         },
         {
           "title": "Kenetik is the answer",
@@ -15187,8 +15187,8 @@
           "text": "Open in the first 1 to 3 seconds with a line below, or your own."
         },
         {
-          "title": "The late-day moment",
-          "text": "Show the real time your audience feels it, in a scene they recognize, and say what time it is."
+          "title": "The moment",
+          "text": "Show the real time your audience hits the wall, in a scene they recognize: the 2pm slump, or the work still left tonight. Say what time it is."
         },
         {
           "title": "Kenetik is the answer",
@@ -15379,8 +15379,8 @@
           "text": "Open in the first 1 to 3 seconds with a line below, or your own."
         },
         {
-          "title": "The late-day moment",
-          "text": "Show the real time your audience feels it, in a scene they recognize, and say what time it is."
+          "title": "The moment",
+          "text": "Show the real time your audience hits the wall, in a scene they recognize: the 2pm slump, or the work still left tonight. Say what time it is."
         },
         {
           "title": "Kenetik is the answer",
@@ -15405,8 +15405,8 @@
           "text": "Open in the first 1 to 3 seconds with a line below, or your own."
         },
         {
-          "title": "The late-day moment",
-          "text": "Show the real time your audience feels it, in a scene they recognize, and say what time it is."
+          "title": "The moment",
+          "text": "Show the real time your audience hits the wall, in a scene they recognize: the 2pm slump, or the work still left tonight. Say what time it is."
         },
         {
           "title": "Kenetik is the answer",
@@ -15491,8 +15491,8 @@
           "text": "Open in the first 1 to 3 seconds with a line below, or your own."
         },
         {
-          "title": "The late-day moment",
-          "text": "Show the real time your audience feels it, in a scene they recognize, and say what time it is."
+          "title": "The moment",
+          "text": "Show the real time your audience hits the wall, in a scene they recognize: the 2pm slump, or the work still left tonight. Say what time it is."
         },
         {
           "title": "Kenetik is the answer",
@@ -17734,7 +17734,7 @@
       },
       {
         "block": "northstar",
-        "text": "**Kenetik is metabolic brain fuel.** A caffeine-free drink with 12g of ketones, the same fuel your body makes when you fast or sleep. It gives you calm, clear focus that comes on steady: **no jitters, no anxious edge, no crash.** Sugar-free, nothing artificial, Informed Sport Certified."
+        "text": "**Kenetik is metabolic brain fuel.** A caffeine-free drink with 12g of ketones, the same fuel your body makes when you fast or sleep. It gives you calm, clear focus that comes on steady, **without messing with your sleep.** Nothing artificial, Informed Sport Certified."
       },
       {
         "block": "eyebrow",
@@ -17742,7 +17742,7 @@
       },
       {
         "block": "northstar",
-        "text": "Most people hit a point in the day where there’s still work left and the tank is empty. The usual fix is another coffee at 3pm or a can of something loud at 8. It gets the job done, then you’re wired, you can’t switch off, tomorrow starts tired, and you reach for more. **Kenetik is the drink for that moment: lock in late, finish strong, and with no caffeine in the can, nothing in it is keeping you up once you’re done.** That’s the moment we own, and it’s the one every video should carry."
+        "text": "Most people hit a wall around **2 or 3pm**. The usual fix is another coffee or an energy drink. It gets you through the afternoon, then it is still working at midnight, tomorrow starts tired, and you reach for more. **Kenetik is the drink for that moment: when you would normally reach for an afternoon coffee or energy drink, reach for Kenetik instead.** Clear and focused for the rest of the day, and into the evening if the work runs late, with no caffeine in it to keep you up tonight. **That 2pm reach is the habit we want to own,** and it is the moment every video should carry."
       },
       {
         "block": "eyebrow",
@@ -17750,7 +17750,7 @@
       },
       {
         "block": "northstar",
-        "text": "**You know your audience better than we do.** Take that late-day moment and tell it the way your people talk: your evening, your words, your reason. Your viewer is the hero and Kenetik is what made the difference, never the star. Two things every video does: say **“brain fuel”** and **“shop now”** out loud. One thing none of them do: medical claims."
+        "text": "**You know your audience better than we do.** Take that afternoon moment, or your evening one, and tell it the way your people talk: your day, your words, your reason. Your viewer is the hero and Kenetik is what made the difference, never the star. Two things every video does: say **“brain fuel”** and **“shop now”** out loud. One thing none of them do: medical claims."
       },
       {
         "block": "eyebrow",
@@ -17762,7 +17762,7 @@
           {
             "kicker": "Fastest",
             "title": "Show me the three to film now",
-            "description": "Three videos built around the late-day moment, with the hook, alternates and a shot plan for each. If you only make three videos, make these.",
+            "description": "Three videos built around the afternoon moment, with the hook, alternates and a shot plan for each. If you only make three videos, make these.",
             "go": "Take me there →",
             "primary": true,
             "target_slug": "top-3"
@@ -17770,7 +17770,7 @@
           {
             "kicker": "Or",
             "title": "Let me pick my audience",
-            "description": "Twenty-plus audiences, each with ten hooks written for that crowd and its late-day moment. Pick the one that sounds most like your followers.",
+            "description": "Twenty-plus audiences, each with ten hooks written for that crowd and its afternoon moment. Pick the one that sounds most like your followers.",
             "go": "Browse the audiences →",
             "primary": false,
             "scroll_to": "audience-picker"
@@ -17783,7 +17783,7 @@
       },
       {
         "block": "note",
-        "text": "Ten real Kenetik videos that sold in the last 90 days and tell the story we want: no caffeine, no jitters, focus late in the day. The figure is what that video sold on TikTok Shop over the last 90 days. Tap any to watch.",
+        "text": "Ten real Kenetik videos that sold in the last 90 days and tell the story we want: no caffeine, and clear focus through the afternoon and into the evening. The figure is what that video sold on TikTok Shop over the last 90 days. Tap any to watch.",
         "style": "pk"
       },
       {
@@ -17999,7 +17999,7 @@
       {
         "block": "amber",
         "label": "What they have in common",
-        "text": "**Every one opens on a person or a moment, never on ketones, and sounds like the person who filmed it rather than an ad read.** None of them has the 8pm lock-in yet. Be the first."
+        "text": "**Every one opens on a person or a moment, never on ketones, and sounds like the person who filmed it rather than an ad read.** Few of them name the 2pm wall yet. Be the first."
       },
       {
         "block": "eyebrow",
