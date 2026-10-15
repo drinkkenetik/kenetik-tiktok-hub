@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "updated": "2026-10-11",
+  "updated": "2026-10-15",
   "written_by": "scripts/hooks_hub_extract.py for the first write; the Monday turn writes the machine fields from 7-2 and people write the editorial fields by hand",
   "rules_version": "hooks-config@4402e2a7 · claims-list@daffab0b · reader@138f4b17",
   "footer": "Kenetik Creator Hub · Hook performance from our TikTok Shop and Meta ad campaigns, measured on each video's spoken opening line. Refreshed weekly. Figures are past performance and not a guarantee of what any individual video will earn.",
@@ -8804,6 +8804,321 @@
         "carries_claim": false
       },
       "angle_id_proposed": "what-it-is"
+    },
+    "h-0304": {
+      "hook_id": "h-0304",
+      "text": "“My last can of the day is at 7pm, and nothing in it is keeping me up.”",
+      "angle": "Says the time and the payoff in one breath. The whole idea of Kenetik in a sentence.",
+      "source": {
+        "kind": "composed",
+        "convention": "no a.hsrc source link on this line, which is how the page marks a line a creator said; an unmarked line is recorded as composed",
+        "how": "written by hand for the 10/15 late-day refresh, from the 10/14 tag-up"
+      },
+      "proof": {
+        "videos_made": "UNKNOWN",
+        "converting_videos": "UNKNOWN",
+        "distinct_creators": "UNKNOWN",
+        "revenue_usd": "UNKNOWN",
+        "as_of": "2026-10-15",
+        "how": "no video has been read against this line yet"
+      },
+      "rules": {
+        "checked_on": "2026-10-15",
+        "passed": true,
+        "broken": [],
+        "carries_claim": false
+      },
+      "angle_id_proposed": "unclassified",
+      "entered": {
+        "on": "2026-10-15",
+        "tab": "top-3",
+        "displaced": "h-0002",
+        "by": "nicklac@drinkkenetik.com",
+        "figures": {
+          "in": "UNKNOWN",
+          "out": "UNKNOWN"
+        }
+      }
+    },
+    "h-0305": {
+      "hook_id": "h-0305",
+      "text": "“The work doesn’t stop at 5. My focus used to.”",
+      "angle": "Short and true for almost anyone. Let the evening scene do the rest.",
+      "source": {
+        "kind": "composed",
+        "convention": "no a.hsrc source link on this line, which is how the page marks a line a creator said; an unmarked line is recorded as composed",
+        "how": "written by hand for the 10/15 late-day refresh, from the 10/14 tag-up"
+      },
+      "proof": {
+        "videos_made": "UNKNOWN",
+        "converting_videos": "UNKNOWN",
+        "distinct_creators": "UNKNOWN",
+        "revenue_usd": "UNKNOWN",
+        "as_of": "2026-10-15",
+        "how": "no video has been read against this line yet"
+      },
+      "rules": {
+        "checked_on": "2026-10-15",
+        "passed": true,
+        "broken": [],
+        "carries_claim": false
+      },
+      "angle_id_proposed": "unclassified",
+      "entered": {
+        "on": "2026-10-15",
+        "tab": "top-3",
+        "displaced": "h-0004",
+        "by": "nicklac@drinkkenetik.com",
+        "figures": {
+          "in": "UNKNOWN",
+          "out": "UNKNOWN"
+        }
+      }
+    },
+    "h-0306": {
+      "hook_id": "h-0306",
+      "text": "“Tired at 4pm. Wired at midnight. Tired again at 7am. That was my whole week.”",
+      "angle": "The caffeine loop in three beats. The viewer counts along and sees themselves.",
+      "source": {
+        "kind": "composed",
+        "convention": "no a.hsrc source link on this line, which is how the page marks a line a creator said; an unmarked line is recorded as composed",
+        "how": "written by hand for the 10/15 late-day refresh, from the 10/14 tag-up"
+      },
+      "proof": {
+        "videos_made": "UNKNOWN",
+        "converting_videos": "UNKNOWN",
+        "distinct_creators": "UNKNOWN",
+        "revenue_usd": "UNKNOWN",
+        "as_of": "2026-10-15",
+        "how": "no video has been read against this line yet"
+      },
+      "rules": {
+        "checked_on": "2026-10-15",
+        "passed": true,
+        "broken": [],
+        "carries_claim": false
+      },
+      "angle_id_proposed": "unclassified",
+      "entered": {
+        "on": "2026-10-15",
+        "tab": "top-3",
+        "displaced": "h-0001",
+        "by": "nicklac@drinkkenetik.com",
+        "figures": {
+          "in": "UNKNOWN",
+          "out": "UNKNOWN"
+        }
+      }
+    },
+    "h-0307": {
+      "hook_id": "h-0307",
+      "text": "“Locked in, not wired. There’s a difference, and you can feel it.”",
+      "angle": "Names the feeling people want and the one they’re trying to get away from.",
+      "source": {
+        "kind": "composed",
+        "convention": "no a.hsrc source link on this line, which is how the page marks a line a creator said; an unmarked line is recorded as composed",
+        "how": "written by hand for the 10/15 late-day refresh, from the 10/14 tag-up"
+      },
+      "proof": {
+        "videos_made": "UNKNOWN",
+        "converting_videos": "UNKNOWN",
+        "distinct_creators": "UNKNOWN",
+        "revenue_usd": "UNKNOWN",
+        "as_of": "2026-10-15",
+        "how": "no video has been read against this line yet"
+      },
+      "rules": {
+        "checked_on": "2026-10-15",
+        "passed": true,
+        "broken": [],
+        "carries_claim": false
+      },
+      "angle_id_proposed": "unclassified",
+      "entered": {
+        "on": "2026-10-15",
+        "tab": "top-3",
+        "displaced": "h-0006",
+        "by": "nicklac@drinkkenetik.com",
+        "figures": {
+          "in": "UNKNOWN",
+          "out": "UNKNOWN"
+        }
+      }
+    },
+    "h-0308": {
+      "hook_id": "h-0308",
+      "text": "“It’s 9pm, the kids are down, and this is when I actually get things done.”",
+      "angle": "A real evening most people recognize. Say your own version of it.",
+      "source": {
+        "kind": "composed",
+        "convention": "no a.hsrc source link on this line, which is how the page marks a line a creator said; an unmarked line is recorded as composed",
+        "how": "written by hand for the 10/15 late-day refresh, from the 10/14 tag-up"
+      },
+      "proof": {
+        "videos_made": "UNKNOWN",
+        "converting_videos": "UNKNOWN",
+        "distinct_creators": "UNKNOWN",
+        "revenue_usd": "UNKNOWN",
+        "as_of": "2026-10-15",
+        "how": "no video has been read against this line yet"
+      },
+      "rules": {
+        "checked_on": "2026-10-15",
+        "passed": true,
+        "broken": [],
+        "carries_claim": false
+      },
+      "angle_id_proposed": "unclassified",
+      "entered": {
+        "on": "2026-10-15",
+        "tab": "general",
+        "displaced": "h-0011",
+        "by": "nicklac@drinkkenetik.com",
+        "figures": {
+          "in": "UNKNOWN",
+          "out": "UNKNOWN"
+        }
+      }
+    },
+    "h-0309": {
+      "hook_id": "h-0309",
+      "text": "“Caffeine at 4pm is a loan you pay back at midnight.”",
+      "angle": "One line that names the whole problem. Follow it with what you drink instead.",
+      "source": {
+        "kind": "composed",
+        "convention": "no a.hsrc source link on this line, which is how the page marks a line a creator said; an unmarked line is recorded as composed",
+        "how": "written by hand for the 10/15 late-day refresh, from the 10/14 tag-up"
+      },
+      "proof": {
+        "videos_made": "UNKNOWN",
+        "converting_videos": "UNKNOWN",
+        "distinct_creators": "UNKNOWN",
+        "revenue_usd": "UNKNOWN",
+        "as_of": "2026-10-15",
+        "how": "no video has been read against this line yet"
+      },
+      "rules": {
+        "checked_on": "2026-10-15",
+        "passed": true,
+        "broken": [],
+        "carries_claim": false
+      },
+      "angle_id_proposed": "unclassified",
+      "entered": {
+        "on": "2026-10-15",
+        "tab": "general",
+        "displaced": "h-0016",
+        "by": "nicklac@drinkkenetik.com",
+        "figures": {
+          "in": "UNKNOWN",
+          "out": "UNKNOWN"
+        }
+      }
+    },
+    "h-0310": {
+      "hook_id": "h-0310",
+      "text": "“Late-night focus without the 2am ceiling stare.”",
+      "angle": "Says the payoff and the thing everyone is trying to avoid.",
+      "source": {
+        "kind": "composed",
+        "convention": "no a.hsrc source link on this line, which is how the page marks a line a creator said; an unmarked line is recorded as composed",
+        "how": "written by hand for the 10/15 late-day refresh, from the 10/14 tag-up"
+      },
+      "proof": {
+        "videos_made": "UNKNOWN",
+        "converting_videos": "UNKNOWN",
+        "distinct_creators": "UNKNOWN",
+        "revenue_usd": "UNKNOWN",
+        "as_of": "2026-10-15",
+        "how": "no video has been read against this line yet"
+      },
+      "rules": {
+        "checked_on": "2026-10-15",
+        "passed": true,
+        "broken": [],
+        "carries_claim": false
+      },
+      "angle_id_proposed": "unclassified",
+      "entered": {
+        "on": "2026-10-15",
+        "tab": "general",
+        "displaced": "h-0017",
+        "by": "nicklac@drinkkenetik.com",
+        "figures": {
+          "in": "UNKNOWN",
+          "out": "UNKNOWN"
+        }
+      }
+    },
+    "h-0311": {
+      "hook_id": "h-0311",
+      "text": "“I used to be wired and anxious by mid-afternoon. Now I’m just locked in.”",
+      "angle": "Before and after in one breath. Only use it if it is true for you.",
+      "source": {
+        "kind": "composed",
+        "convention": "no a.hsrc source link on this line, which is how the page marks a line a creator said; an unmarked line is recorded as composed",
+        "how": "written by hand for the 10/15 late-day refresh, from the 10/14 tag-up"
+      },
+      "proof": {
+        "videos_made": "UNKNOWN",
+        "converting_videos": "UNKNOWN",
+        "distinct_creators": "UNKNOWN",
+        "revenue_usd": "UNKNOWN",
+        "as_of": "2026-10-15",
+        "how": "no video has been read against this line yet"
+      },
+      "rules": {
+        "checked_on": "2026-10-15",
+        "passed": true,
+        "broken": [],
+        "carries_claim": false
+      },
+      "angle_id_proposed": "unclassified",
+      "entered": {
+        "on": "2026-10-15",
+        "tab": "general",
+        "displaced": "h-0019",
+        "by": "nicklac@drinkkenetik.com",
+        "figures": {
+          "in": "UNKNOWN",
+          "out": "UNKNOWN"
+        }
+      }
+    },
+    "h-0312": {
+      "hook_id": "h-0312",
+      "text": "“My last can of the day is at 8pm, and I still switch off when I’m done.”",
+      "angle": "The evening can, said plainly. Name your own time.",
+      "source": {
+        "kind": "composed",
+        "convention": "no a.hsrc source link on this line, which is how the page marks a line a creator said; an unmarked line is recorded as composed",
+        "how": "written by hand for the 10/15 late-day refresh, from the 10/14 tag-up"
+      },
+      "proof": {
+        "videos_made": "UNKNOWN",
+        "converting_videos": "UNKNOWN",
+        "distinct_creators": "UNKNOWN",
+        "revenue_usd": "UNKNOWN",
+        "as_of": "2026-10-15",
+        "how": "no video has been read against this line yet"
+      },
+      "rules": {
+        "checked_on": "2026-10-15",
+        "passed": true,
+        "broken": [],
+        "carries_claim": false
+      },
+      "angle_id_proposed": "unclassified",
+      "entered": {
+        "on": "2026-10-15",
+        "tab": "general",
+        "displaced": "h-0013",
+        "by": "nicklac@drinkkenetik.com",
+        "figures": {
+          "in": "UNKNOWN",
+          "out": "UNKNOWN"
+        }
+      }
     }
   },
   "tabs": [
@@ -8819,22 +9134,20 @@
           "text": "Open in the first 1 to 3 seconds with a line that stops your people mid-scroll."
         },
         {
-          "title": "Name the problem",
-          "text": "Call out the real moment they feel it: the foggy afternoon, the work still left at 8pm, the late coffee you pay for at midnight."
+          "title": "Name the moment",
+          "text": "The real time they feel it: the work still left at 8pm, the 4pm coffee you pay for at midnight, the jittery second energy drink."
         },
         {
           "title": "Kenetik is the answer",
-          "text": "Bring in Kenetik as clean, caffeine-free brain fuel, shown for real, and say when you drink it. You drinking it, your honest take. Say \"brain fuel\" at least once."
+          "text": "Crack a can on camera and say what time it is. Calm, clear focus, no caffeine keeping you up later. Say \"brain fuel\" at least once."
         }
       ],
       "dos": [
         "Say **\"brain fuel\"** at least once, every video.",
-        "Open on the problem or the moment in the first 1 to 3 seconds.",
-        "**Say what time it is.** 3pm at the desk, 9pm in the garage. A real time of day does more work than any adjective.",
+        "**Say what time it is.** 7pm at the desk, 9pm in the garage, hour ten of a shift. A real time of day does more work than any adjective.",
+        "Name what caffeine did to you, if it’s true: jittery, wired, anxious, staring at the ceiling at midnight.",
         "Show yourself actually drinking it. Real and native, like a post, not an ad.",
-        "Close the loop if it is true for you: the work got done, and you still slept like normal.",
-        "Caffeine is fair game as a hook: what it did to you, or what it’s like to lock in late without it.",
-        "Test a lot. Different openers, different moments, caffeine included. We put budget behind whatever works."
+        "Test a lot. Different openers, different moments. We put budget behind whatever works."
       ],
       "donts": [
         "Call it an energy drink, pre-workout or supplement. It’s metabolic brain fuel.",
@@ -8849,19 +9162,19 @@
     },
     {
       "slug": "top-3",
-      "label": "⭐ The Top 3 Right Now",
+      "label": "⭐ The 3 to Film Now",
       "nav_order": 1,
-      "title": "The top 3 right now",
-      "sub": "Of every hook in this library, these three are the ones actually returning money this month. Everything you need to film them is on this tab.",
+      "title": "The 3 to film now",
+      "sub": "Three videos built around the moment we want Kenetik known for: focus late in the day, without the jitters, the crash or a wrecked night. Everything you need to film them is on this tab.",
       "hook_ids": [
-        "h-0001",
-        "h-0002",
-        "h-0003",
-        "h-0004",
+        "h-0304",
+        "h-0305",
         "h-0005",
-        "h-0006",
-        "h-0281",
+        "h-0306",
+        "h-0003",
         "h-0282",
+        "h-0307",
+        "h-0281",
         "h-0296"
       ],
       "angles": [],
@@ -8891,33 +9204,33 @@
             },
             {
               "block": "northstar",
-              "text": "**These are the three openings converting best for Kenetik right now.** One about **the money it replaces**, one about the **afternoon slump**, one about **what it is not**. Any can works for any of them. **Whichever you film, say when you’re drinking it.** The 3pm desk, the 9pm garage, hour ten of a shift. Locking in late without it costing you your sleep is the moment we want every video to carry, and it fits all three."
+              "text": "**Every one of these is about the same moment:** it’s late, there’s still work to do, and you want to lock in without paying for it tonight. One video owns **the late lock-in**, one gets you **off the caffeine treadmill**, one is about feeling **calm, not wired**. Any can works for any of them. **Whichever you film, say what time it is.**"
             },
             {
               "block": "formula",
               "steps": [
                 {
-                  "title": "Video 1 · The Switch — you got off caffeine, and this is what replaced it",
-                  "text": "**What it is about:** the arithmetic, said out loud. Name what you were buying, name what it cost you, and name the one thing standing in for all of it. Our strongest hook, and the only one winning on TikTok Shop and in our paid ads at the same time."
+                  "title": "Video 1 · The Late Lock-In: it’s evening, and you’re still getting it done",
+                  "text": "**What it is about:** the hour most people write off. Film it at night, crack the can, say the time, and get to work."
                 },
                 {
-                  "title": "Video 2 · The Afternoon Slump — the 3pm fog, and why it happens",
-                  "text": "**What it is about:** the hour your focus goes, and the fact that your brain is underfuelled rather than short of caffeine. Filmed mid afternoon, in the room where it actually happens. The best opening we have, so save your effort for the ending."
+                  "title": "Video 2 · Off the Caffeine Treadmill: coffee to wake up, more to keep going, then no sleep",
+                  "text": "**What it is about:** the loop everyone knows. Name it, say how you got out, and what you drink instead."
                 },
                 {
-                  "title": "Video 3 · Not an Energy Drink · say the category out loud",
-                  "text": "**What it is about:** correcting the assumption the viewer turned up with. Say what people will take it for, take that away, and say what it actually is. The most repeated framing in our winners."
+                  "title": "Video 3 · Calm, Not Wired: focus without the jitters",
+                  "text": "**What it is about:** the difference between locked in and buzzing. Say what too much caffeine feels like for you, then show the other version."
                 },
                 {
                   "title": "Say “shop now” out loud in all three",
-                  "text": "Then post them close together, not spread over a month. Everything below is the detail on each one."
+                  "text": "Then post them close together, not spread over a month. The detail on each one is below."
                 }
               ]
             },
             {
               "block": "amber",
               "label": "Read this before you film",
-              "text": "These three change as the numbers change. We rework this page **every week** from what actually sold, so if what is here has moved since you last looked, **film whatever is live now**. You will never be marked down for filming the current three."
+              "text": "We update this page as the numbers come in. If what is here has changed since you last looked, **film whatever is live now**. You will never be marked down for filming the current three."
             },
             {
               "block": "eyebrow",
@@ -8933,8 +9246,8 @@
             },
             {
               "block": "amber",
-              "label": "Backed by what actually sold",
-              "text": "We put ad money behind creator videos and watch what comes back. These three are ranked on **what actually came back** from our TikTok Shop and Meta campaigns, measured on the **spoken opening line** rather than the caption. Whichever one your audience responds to is the one we put more budget behind, and **top videos graduate into our paid ads, where you earn commission again**."
+              "label": "Where they come from",
+              "text": "Videos 2 and 3 grow out of the two openings that have sold best for us: **the switch off caffeine** and **saying what Kenetik is not**. Video 1 is the moment our best customers describe when they tell us why they buy. We put budget behind whichever one your audience responds to, and **top videos graduate into our paid ads, where you earn commission again**."
             }
           ]
         },
@@ -9065,7 +9378,7 @@
             {
               "block": "amber",
               "label": "What to notice",
-              "text": "Some of these are ours and some are creators'. It genuinely does not matter which. **Every single one opens on something true and specific**, a sum anyone can check, a category named and then taken away, a morning that actually happened, a fact stated calmly, an hour of the day everybody recognises. None of them opens on a discount, and not one of them asks the viewer a question about what they drink."
+              "text": "**Every one opens on something true and specific:** a sum anyone can check, a category named and then taken away, a real time of day. None opens on a discount. Take the same honesty into the late-day moment."
             }
           ]
         },
@@ -9078,11 +9391,11 @@
           "blocks": [
             {
               "block": "heading",
-              "title": "Video 1 — The Switch"
+              "title": "Video 1: The Late Lock-In"
             },
             {
               "block": "sub",
-              "text": "**What it replaces, and what that was costing you.** Any can you already drink. The strongest hook we have on either platform, and it only works if you do the sum out loud."
+              "text": "**It’s evening, and you’re still getting it done.** Any can. Filmed at night, in the room where the work actually happens."
             },
             {
               "block": "eyebrow",
@@ -9090,7 +9403,7 @@
             },
             {
               "block": "northstar",
-              "text": "**\"I ran the numbers on Kenetik. It replaces my $6 energy drink, and it replaces my 2 cups of coffee in the morning.\"**"
+              "text": "**\"It’s 8pm, I’ve still got two hours of work, and I’m not touching caffeine this late.\"**"
             },
             {
               "block": "eyebrow",
@@ -9099,9 +9412,9 @@
             {
               "block": "hooks",
               "hook_ids": [
-                "h-0001",
-                "h-0002",
-                "h-0003"
+                "h-0304",
+                "h-0305",
+                "h-0005"
               ]
             },
             {
@@ -9110,7 +9423,7 @@
             },
             {
               "block": "northstar",
-              "text": "This is the highest returning hook family we have, and it wins on TikTok Shop and in our paid ads at the same time. Nothing else does both. **The versions that win do the arithmetic out loud.** They name what got replaced and what it was costing, in real numbers, so the viewer can run the same sum on their own week. The versions that stay vague about the cost, or that ask the viewer a question about what they drink, are our weakest performers. Count it, do not hint at it."
+              "text": "This is the moment we want Kenetik known for. Everyone has had the late coffee they paid for at midnight, so the viewer is nodding before the can appears. **The time of day is the hook.** Say it, show it, and let the scene prove it."
             },
             {
               "block": "eyebrow",
@@ -9120,35 +9433,31 @@
               "block": "formula",
               "steps": [
                 {
-                  "title": "Open on the sum",
-                  "text": "First 1 to 3 seconds, to camera. Say you ran the numbers, then say them. You are reporting, not persuading."
+                  "title": "Film it at the actual time",
+                  "text": "Evening light, real clutter, the laptop or the workbench. Do not shoot this at noon and pretend."
                 },
                 {
-                  "title": "Name what you were buying, and what it cost",
-                  "text": "Real prices beat adjectives. The $6 can, the two coffees, the 2:30 refill. One line of arithmetic anyone can check."
+                  "title": "Open on the time and what is left",
+                  "text": "First 1 to 3 seconds, to camera. What time it is and what you still have to do."
                 },
                 {
-                  "title": "Say what you switched to, by name",
-                  "text": "This is the half people skip. **Brain fuel is the destination.** Hold the can, say it out loud, and make it impossible to miss what replaced what."
+                  "title": "Name what you used to reach for",
+                  "text": "The coffee, the second energy drink. And what it cost you later."
                 },
                 {
-                  "title": "Make it concrete",
-                  "text": "Metabolic brain fuel, 12g of ketones, caffeine-free, and roughly when you made the change. Months, not “recently”."
+                  "title": "Crack the can and get to work",
+                  "text": "Brain fuel, 12g of ketones, no caffeine. Show yourself locked in."
                 },
                 {
-                  "title": "Add the night, if it’s true for you",
-                  "text": "**Example line, not a quote:** “I used to have a coffee at 4 and a can at 8, then lie awake past midnight. Now it’s one Kenetik when I need to lock in, and I’m asleep like normal.” Say it only if it’s your story."
-                },
-                {
-                  "title": "Close",
-                  "text": "Say **“shop now”** out loud."
+                  "title": "Close the loop, if it is true for you",
+                  "text": "The work got done and nothing in it kept you up. Then say **“shop now”**."
                 }
               ]
             },
             {
               "block": "amber",
               "label": "Watch out on this one",
-              "text": "**Half a switch is not a switch.** If your video only says what you stopped, the viewer has nothing to move to. Name brain fuel as the thing you switched to, every time. **If you use the energy drink killer line, the video has to make clear what Kenetik actually is.** The phrase describes what it replaced for you, never what it is. Land on metabolic brain fuel out loud, in the same video, every time. **Keep it to your own routine.** What you cut back on is your story. Do not tell anyone else what to quit, and never frame it as an addiction, a craving, a dependency or withdrawal. **Say what caffeine did to you, not what Kenetik does for you.** Jittery, wired, anxious, could not sleep: all fine as your reason for switching, because that is your own experience of a stimulant. What we cannot do is put Kenetik on the other side of it as the treatment. No health outcomes, no conditions, no before and after."
+              "text": "**Say what is not in it, never what it does to your sleep.** “No caffeine, so nothing is keeping me up” is fine. “It helps me sleep” or “I sleep better” is a claim we cannot make. Keep it to your own evening."
             }
           ]
         },
@@ -9161,11 +9470,11 @@
           "blocks": [
             {
               "block": "heading",
-              "title": "Video 2 — The Afternoon Slump"
+              "title": "Video 2: Off the Caffeine Treadmill"
             },
             {
               "block": "sub",
-              "text": "**The 3pm fog, and why it happens.** Any can, filmed mid afternoon. The fog is a fuel problem, not a caffeine shortage, and saying so is the video."
+              "text": "**Coffee to wake up, more to keep going, then you can’t sleep, so you need more coffee.** Any can. This one names the loop and how you got out of it."
             },
             {
               "block": "eyebrow",
@@ -9173,7 +9482,7 @@
             },
             {
               "block": "northstar",
-              "text": "**\"It's 3pm and I'm not tired. I'm foggy. There's a difference.\"**"
+              "text": "**\"Coffee to wake up, an energy drink at 3, then I’m up at midnight, so I need more coffee in the morning. I got off that loop.\"**"
             },
             {
               "block": "eyebrow",
@@ -9182,9 +9491,9 @@
             {
               "block": "hooks",
               "hook_ids": [
-                "h-0004",
-                "h-0005",
-                "h-0006"
+                "h-0306",
+                "h-0003",
+                "h-0282"
               ]
             },
             {
@@ -9193,7 +9502,7 @@
             },
             {
               "block": "northstar",
-              "text": "This is the one hook here that earns its place on attention rather than on return. It holds people and then loses them, which is why the close matters more on this one than on either of the others. **Give the last three seconds real effort.**"
+              "text": "It grows out of our best-selling family, **the switch**: people who got off caffeine and say what replaced it. The loop makes it bigger than one drink. **The viewer sees their own week** and wants the way out."
             },
             {
               "block": "eyebrow",
@@ -9203,39 +9512,31 @@
               "block": "formula",
               "steps": [
                 {
-                  "title": "Film it at the actual time",
-                  "text": "Mid afternoon, in the room where it happens. Do not shoot this fresh in the morning and pretend."
+                  "title": "Open on the loop",
+                  "text": "First 1 to 3 seconds. Three beats, fast: wake up, prop up, can’t switch off."
                 },
                 {
-                  "title": "Open on the distinction",
-                  "text": "Not tired, foggy. That difference is the whole hook. Say it in the first 3 seconds."
+                  "title": "Make it yours",
+                  "text": "Your real drinks, your real times. Real prices work too: the $6 can, the two coffees."
                 },
                 {
-                  "title": "Show the hour, do not describe it",
-                  "text": "The reread paragraph, the tab you keep reopening, the walk to the kitchen you did not need."
+                  "title": "Say what you drink instead, by name",
+                  "text": "**Brain fuel is the destination.** Hold the can and say it."
                 },
                 {
-                  "title": "Say why it is happening",
-                  "text": "**Your brain is underfuelled, not under-caffeinated.** That is the whole point of the video. Tired is a sleep problem. Foggy is a fuel problem, and more of a stimulant does not fuel anything."
+                  "title": "Say when you drink it now",
+                  "text": "The afternoon or evening can that used to be caffeine."
                 },
                 {
-                  "title": "Bring it in as the fix",
-                  "text": "Metabolic brain fuel, caffeine-free. Crack it on camera if you have not already."
-                },
-                {
-                  "title": "Or take it later",
-                  "text": "The same video works at 9pm. **Example line, not a quote:** “It’s 9pm, I’ve still got two hours of work, and I’m not touching caffeine this late.” Film it at the real time, whichever one is yours."
-                },
-                {
-                  "title": "Land the close",
-                  "text": "Say **“shop now”** out loud, and mean it. This is the one that leaks."
+                  "title": "Close",
+                  "text": "Say **“shop now”** out loud."
                 }
               ]
             },
             {
               "block": "amber",
               "label": "Watch out on this one",
-              "text": "**Describe your afternoon, not a condition.** “I hit a wall at 3” is your experience and it is fine. Naming brain fog as a diagnosis, or ADHD, or anything medical, is not. **The jitters and the wired feeling are fair game.** If caffeine used to leave you restless, anxious or unable to sleep, say so in the body of the video. That is your experience of a stimulant and it is one of the most common real reasons people switch. Keep it as something caffeine did to you, never as something Kenetik treats. **Do not let it drift into a slump video.** The hook is the distinction between tired and foggy. If you spend the whole video on how bad the afternoon is, there is nothing left to turn. **Do not frame it as needing more of a stimulant.** The fog is not a caffeine shortage and the fix is not a stronger version of what was not working. It is fuel your brain can actually use. Get that distinction on camera or the video argues for the wrong product."
+              "text": "**Half a switch is not a switch.** If you only say what you stopped, the viewer has nothing to move to. Name brain fuel, every time. **Say what caffeine did to you, not what Kenetik does for you.** Never frame it as an addiction, a dependency or withdrawal."
             }
           ]
         },
@@ -9248,11 +9549,11 @@
           "blocks": [
             {
               "block": "heading",
-              "title": "Video 3: Not an Energy Drink"
+              "title": "Video 3: Calm, Not Wired"
             },
             {
               "block": "sub",
-              "text": "**Name the category out loud, then take it away.** Any can. This one corrects the assumption the viewer turned up with, in the first three seconds, before they can argue with it."
+              "text": "**Focus without the jitters.** Any can. Say what too much caffeine feels like for you, then show the other version."
             },
             {
               "block": "eyebrow",
@@ -9260,7 +9561,7 @@
             },
             {
               "block": "northstar",
-              "text": "**\"These are not energy drinks. They're brain fuel. They don't have caffeine. They have ketones.\"**"
+              "text": "**\"Two energy drinks and my thoughts get ahead of me. This is what focus feels like without that.\"**"
             },
             {
               "block": "eyebrow",
@@ -9269,8 +9570,8 @@
             {
               "block": "hooks",
               "hook_ids": [
+                "h-0307",
                 "h-0281",
-                "h-0282",
                 "h-0296"
               ]
             },
@@ -9280,7 +9581,7 @@
             },
             {
               "block": "northstar",
-              "text": "It is the most repeated winning framing we have: **12 of the 50 top-earning videos open on some version of it**, and two creators have run it more than once and it keeps converting. It works because it answers the question the viewer is already asking. They have decided what this is before you say a word, and the video is over unless you correct them first."
+              "text": "It grows out of our most repeated winning framing, **saying what Kenetik is not.** Here the contrast is a feeling everyone knows: buzzing, scattered, heart racing. **Calm and locked in is the answer**, and you can show it in a single shot."
             },
             {
               "block": "eyebrow",
@@ -9290,24 +9591,16 @@
               "block": "formula",
               "steps": [
                 {
-                  "title": "Open on what it is not",
-                  "text": "First 1 to 3 seconds, to camera. Say the thing people will take it for, then take that away. Short sentences, one after another, no pause for agreement."
+                  "title": "Open on the wired feeling",
+                  "text": "First 1 to 3 seconds. Say what it is like, in your words. Racing thoughts, jittery hands, can’t sit still."
                 },
                 {
-                  "title": "Say what it is instead, immediately",
-                  "text": "**Brain fuel.** Do not leave a gap between the correction and the answer. A video that only says what Kenetik is not leaves the viewer holding nothing."
+                  "title": "Say what Kenetik is instead",
+                  "text": "Not an energy drink. **Brain fuel**, caffeine-free, 12g of ketones."
                 },
                 {
-                  "title": "Say what is actually in the can",
-                  "text": "12g of ketones, no caffeine. One clean sentence. This is the line that turns a claim into a fact."
-                },
-                {
-                  "title": "Hold the can while you say it",
-                  "text": "The correction lands harder when the thing being corrected is in shot."
-                },
-                {
-                  "title": "Say when you drink it",
-                  "text": "**Example line, not a quote:** “No caffeine in it, so I can crack one at 8pm and still sleep.” Say it only if it’s true for you."
+                  "title": "Show the calm version",
+                  "text": "One steady shot of you focused on real work."
                 },
                 {
                   "title": "Close",
@@ -9318,7 +9611,7 @@
             {
               "block": "amber",
               "label": "Watch out on this one",
-              "text": "**Say what it is, not only what it is not.** The correction is half a video on its own. Land on metabolic brain fuel out loud, in the same breath, every time. **Keep the ketone talk plain.** Say what is in the can and stop there. Do not tell anyone what it will do to their brain, their focus or their health, and leave conditions, diagnoses and before-and-afters out of it entirely. **Contrast the category, never a competitor.** Do not name another brand or put anyone else's drink down. The point is that this is a different kind of thing, not that theirs is bad. **Say what a stimulant did to you, not what Kenetik does for you.** Jittery, wired, could not sleep: all fine as your own reason. What we cannot do is put Kenetik on the other side of it as the treatment."
+              "text": "**The jitters and the anxious edge are yours to describe.** Kenetik treating anxiety, or any condition, is not ours to claim. Keep it to how caffeine felt for you and how this feels instead."
             }
           ]
         },
@@ -9353,36 +9646,24 @@
               "block": "formula",
               "steps": [
                 {
-                  "title": "Does it open on a feeling or a fact, not an ingredient?",
-                  "text": "If the first line contains \"ketones\", move it later."
-                },
-                {
-                  "title": "Is anything you claimed actually true?",
-                  "text": "Especially the sellout. Never invent one."
+                  "title": "Did you say what time it is?",
+                  "text": "The late-day moment is the story. Name the hour."
                 },
                 {
                   "title": "Did you say \"brain fuel\" at least once?",
-                  "text": "This is the category we are building. It only works if everyone says it."
+                  "text": "It is the category we are building. It only works if everyone says it."
                 },
                 {
                   "title": "Did you say “shop now”?",
-                  "text": "Out loud, not just on screen, and without naming the cart."
+                  "text": "Out loud, not just on screen."
                 },
                 {
                   "title": "Does it sound like you?",
-                  "text": "Read your first line back. If it sounds like a script you were handed, rewrite it in your own words before you film."
+                  "text": "If your first line sounds like a script you were handed, rewrite it before you film."
                 },
                 {
-                  "title": "Are all three openings different?",
-                  "text": "If two of your videos start the same way, you have only run one test."
-                },
-                {
-                  "title": "Any medical language?",
-                  "text": "Nothing about treating, curing, fixing, or any condition. Keep it to how it felt."
-                },
-                {
-                  "title": "Whose story is it?",
-                  "text": "Yours, and the viewer's. It should be about your day and what changed, with Kenetik as what made the change possible. Cut anything that sounds like the brand talking about itself."
+                  "title": "Any medical or sleep claims?",
+                  "text": "Nothing about treating a condition, and never that it improves sleep. Keep it to how it felt."
                 }
               ]
             },
@@ -9405,7 +9686,7 @@
               "block": "recap",
               "heading": "The bottom line",
               "paragraphs": [
-                "Three videos, three different first lines. **the money it replaces**, **the afternoon slump**, then **what it is not**. Every one of them opens on something real, brings in Kenetik as **metabolic brain fuel**, and closes on **“shop now”** out loud. Post them close together, keep them true, and let us find out which opening your audience actually responds to."
+                "Three videos, one moment: **the late lock-in**, **the caffeine treadmill**, **calm, not wired**. Every one says what time it is, brings in Kenetik as **metabolic brain fuel**, and closes on **“shop now”** out loud. Post them close together and let us find out which one your audience responds to."
               ]
             },
             {
@@ -9417,10 +9698,10 @@
     },
     {
       "slug": "top-10-now",
-      "label": "🔥 Top 10 Right Now",
+      "label": "🔥 What’s Selling",
       "nav_order": 2,
-      "title": "The top 10 right now",
-      "sub": "These are the ten Kenetik videos that sold the most on TikTok Shop over the last 90 days, with the line each one opened with.",
+      "title": "What’s selling right now",
+      "sub": "The ten Kenetik videos that sold the most on TikTok Shop over the last 90 days, with the line each one opened with. Borrow their energy, then tell it as the late-day moment.",
       "hook_ids": [
         "h-0271",
         "h-0272",
@@ -9702,10 +9983,10 @@
     },
     {
       "slug": "general",
-      "label": "🎯 General — All Creators",
+      "label": "🎯 All Creators",
       "nav_order": 3,
-      "title": "TikTok hooks to test — problem-solving & brain health",
-      "sub": "10 hooks to test · RANKED ON OUR OWN CONVERTING DATA",
+      "title": "Hooks for every creator",
+      "sub": "10 hooks that work for any audience · start with the late-day ones",
       "audience": "**Lead with the customer's problem, the moment their focus goes.** Kenetik is metabolic brain fuel, the category we own. Ketones are the mechanism and the credibility, so they come after the hook. Caffeine can open the video if it’s part of your story. Every line below opens on the problem or outcome in the first two seconds, and borrows a proven structure from our cross-brand TikTok audits. The promise underneath all of it: clarity and focus on demand, your best hours, back. **The moment we own across every audience: locking in late in the day, finishing strong, and still sleeping like normal.** Not every hook has to be about it, but it’s the moment we want people to think of us for.",
       "formula": [
         {
@@ -9726,16 +10007,11 @@
         }
       ],
       "dos": [
-        "Say the phrase “brain fuel” at least once — every video, non-negotiable.",
-        "Put it in your own words. Content that sounds like the creator beats content that sounds like a script, every time.",
-        "Say what caffeine did to you (jittery, wired, could not sleep) as your reason for switching. Just never claim Kenetik treats it.",
-        "Say **“shop now”** out loud before you finish. Saying it beats putting it on screen, and it is the one phrase that works on every platform we run you on.",
-        "Land it in the first two seconds.",
-        "Raw and one-take, with movement.",
-        "Clone hook 03, the taste one, across several mid-size creators.",
-        "Stay inside our claims.",
-        "Caffeine is fair game as a hook: what it did to you, or what it’s like to lock in late without it.",
-        "Test a lot. Different openers, different moments, caffeine included. We put budget behind whatever works."
+        "Say “brain fuel” at least once, every video.",
+        "Say what time it is. The late-day moment is the story.",
+        "Put it in your own words. Content that sounds like you beats content that sounds like a script.",
+        "Say what caffeine did to you (jittery, wired, couldn’t switch off) as your reason for switching. Just never claim Kenetik treats it.",
+        "Say **“shop now”** out loud before you finish."
       ],
       "donts": [
         "Call it an energy drink, pre-workout or supplement. It’s metabolic brain fuel.",
@@ -9745,16 +10021,16 @@
         "Lead with a discount. If there’s an offer, save it for the end."
       ],
       "hook_ids": [
+        "h-0308",
+        "h-0309",
         "h-0010",
-        "h-0011",
-        "h-0012",
-        "h-0013",
-        "h-0014",
+        "h-0310",
+        "h-0311",
+        "h-0312",
         "h-0015",
-        "h-0016",
-        "h-0017",
+        "h-0014",
         "h-0018",
-        "h-0019"
+        "h-0012"
       ],
       "angles": [],
       "layout": [
@@ -9790,16 +10066,16 @@
         {
           "block": "hooks",
           "hook_ids": [
+            "h-0308",
+            "h-0309",
             "h-0010",
-            "h-0011",
-            "h-0012",
-            "h-0013",
-            "h-0014",
+            "h-0310",
+            "h-0311",
+            "h-0312",
             "h-0015",
-            "h-0016",
-            "h-0017",
+            "h-0014",
             "h-0018",
-            "h-0019"
+            "h-0012"
           ]
         },
         {
@@ -12995,6 +13271,123 @@
       "owner": "nick",
       "claim_flagged": false,
       "position": 8
+    },
+    {
+      "kind": "hook_swap",
+      "tab": "top-3",
+      "in": "h-0306",
+      "out": "h-0001",
+      "decision": "approve",
+      "reason": "Hub refresh 10/15: late-day focus is the hero moment (10/14 tag-up). Written in session at Nick's direction.",
+      "by": "nicklac@drinkkenetik.com",
+      "at": "2026-10-15",
+      "owner": "nick",
+      "claim_flagged": false,
+      "position": 1
+    },
+    {
+      "kind": "hook_swap",
+      "tab": "top-3",
+      "in": "h-0304",
+      "out": "h-0002",
+      "decision": "approve",
+      "reason": "Hub refresh 10/15: late-day focus is the hero moment (10/14 tag-up). Written in session at Nick's direction.",
+      "by": "nicklac@drinkkenetik.com",
+      "at": "2026-10-15",
+      "owner": "nick",
+      "claim_flagged": false,
+      "position": 2
+    },
+    {
+      "kind": "hook_swap",
+      "tab": "top-3",
+      "in": "h-0305",
+      "out": "h-0004",
+      "decision": "approve",
+      "reason": "Hub refresh 10/15: late-day focus is the hero moment (10/14 tag-up). Written in session at Nick's direction.",
+      "by": "nicklac@drinkkenetik.com",
+      "at": "2026-10-15",
+      "owner": "nick",
+      "claim_flagged": false,
+      "position": 4
+    },
+    {
+      "kind": "hook_swap",
+      "tab": "top-3",
+      "in": "h-0307",
+      "out": "h-0006",
+      "decision": "approve",
+      "reason": "Hub refresh 10/15: late-day focus is the hero moment (10/14 tag-up). Written in session at Nick's direction.",
+      "by": "nicklac@drinkkenetik.com",
+      "at": "2026-10-15",
+      "owner": "nick",
+      "claim_flagged": false,
+      "position": 6
+    },
+    {
+      "kind": "hook_swap",
+      "tab": "general",
+      "in": "h-0308",
+      "out": "h-0011",
+      "decision": "approve",
+      "reason": "Hub refresh 10/15: late-day focus is the hero moment (10/14 tag-up). Written in session at Nick's direction.",
+      "by": "nicklac@drinkkenetik.com",
+      "at": "2026-10-15",
+      "owner": "nick",
+      "claim_flagged": false,
+      "position": 2
+    },
+    {
+      "kind": "hook_swap",
+      "tab": "general",
+      "in": "h-0309",
+      "out": "h-0016",
+      "decision": "approve",
+      "reason": "Hub refresh 10/15: late-day focus is the hero moment (10/14 tag-up). Written in session at Nick's direction.",
+      "by": "nicklac@drinkkenetik.com",
+      "at": "2026-10-15",
+      "owner": "nick",
+      "claim_flagged": false,
+      "position": 7
+    },
+    {
+      "kind": "hook_swap",
+      "tab": "general",
+      "in": "h-0310",
+      "out": "h-0017",
+      "decision": "approve",
+      "reason": "Hub refresh 10/15: late-day focus is the hero moment (10/14 tag-up). Written in session at Nick's direction.",
+      "by": "nicklac@drinkkenetik.com",
+      "at": "2026-10-15",
+      "owner": "nick",
+      "claim_flagged": false,
+      "position": 8
+    },
+    {
+      "kind": "hook_swap",
+      "tab": "general",
+      "in": "h-0311",
+      "out": "h-0019",
+      "decision": "approve",
+      "reason": "Hub refresh 10/15: late-day focus is the hero moment (10/14 tag-up). Written in session at Nick's direction.",
+      "by": "nicklac@drinkkenetik.com",
+      "at": "2026-10-15",
+      "owner": "nick",
+      "claim_flagged": false,
+      "position": 10
+    },
+    {
+      "kind": "hook_swap",
+      "tab": "general",
+      "in": "h-0312",
+      "out": "h-0013",
+      "decision": "approve",
+      "reason": "Hub refresh 10/15: late-day focus is the hero moment (10/14 tag-up). Written in session at Nick's direction.",
+      "by": "nicklac@drinkkenetik.com",
+      "at": "2026-10-15",
+      "owner": "nick",
+      "claim_flagged": false,
+      "position": 4
     }
   ],
   "grandfathered": [
@@ -13239,56 +13632,8 @@
       "note": "already live on the hub when the store was extracted 2026-09-16; the rule binds every new and every edited row from that day"
     },
     {
-      "where": "tabs.top-3.layout[3].blocks[3].steps[0].title",
-      "rule": "em_dash",
-      "since": "2026-09-11",
-      "note": "already live on the hub when the store was extracted 2026-09-16; the rule binds every new and every edited row from that day"
-    },
-    {
-      "where": "tabs.top-3.layout[3].blocks[3].steps[1].title",
-      "rule": "em_dash",
-      "since": "2026-09-11",
-      "note": "already live on the hub when the store was extracted 2026-09-16; the rule binds every new and every edited row from that day"
-    },
-    {
-      "where": "tabs.top-3.layout[7].blocks[0].title",
-      "rule": "em_dash",
-      "since": "2026-09-11",
-      "note": "already live on the hub when the store was extracted 2026-09-16; the rule binds every new and every edited row from that day"
-    },
-    {
-      "where": "tabs.top-3.layout[9].blocks[0].title",
-      "rule": "em_dash",
-      "since": "2026-09-11",
-      "note": "already live on the hub when the store was extracted 2026-09-16; the rule binds every new and every edited row from that day"
-    },
-    {
       "where": "tabs.top-3.layout[13].blocks[3].text",
       "rule": "cart_language",
-      "since": "2026-09-11",
-      "note": "already live on the hub when the store was extracted 2026-09-16; the rule binds every new and every edited row from that day"
-    },
-    {
-      "where": "tabs.top-3.layout[13].blocks[5].steps[3].text",
-      "rule": "cart_language",
-      "since": "2026-09-11",
-      "note": "already live on the hub when the store was extracted 2026-09-16; the rule binds every new and every edited row from that day"
-    },
-    {
-      "where": "tabs.general.label",
-      "rule": "em_dash",
-      "since": "2026-09-11",
-      "note": "already live on the hub when the store was extracted 2026-09-16; the rule binds every new and every edited row from that day"
-    },
-    {
-      "where": "tabs.general.title",
-      "rule": "em_dash",
-      "since": "2026-09-11",
-      "note": "already live on the hub when the store was extracted 2026-09-16; the rule binds every new and every edited row from that day"
-    },
-    {
-      "where": "tabs.general.dos[0]",
-      "rule": "em_dash",
       "since": "2026-09-11",
       "note": "already live on the hub when the store was extracted 2026-09-16; the rule binds every new and every edited row from that day"
     },
@@ -14163,12 +14508,6 @@
       "note": "live on the hub when the rule bound, 2026-09-28 (L-441). No committed artifact records this figure's base or dates; it comes out on Devon's or Nick's okay, and until then the rule binds every other row"
     },
     {
-      "where": "tabs.top-3.layout[11].blocks[7].text",
-      "rule": "performance_figure_on_a_public_page",
-      "since": "2026-09-28",
-      "note": "live on the hub when the rule bound, 2026-09-28 (L-441). No committed artifact records this figure's base or dates; it comes out on Devon's or Nick's okay, and until then the rule binds every other row"
-    },
-    {
       "where": "start_here.layout[13].items[0]",
       "rule": "card_figure_without_a_record",
       "since": "2026-09-28",
@@ -14196,7 +14535,7 @@
       },
       {
         "block": "northstar",
-        "text": "**Kenetik is metabolic brain fuel.** A caffeine-free drink with 12g of ketones, the same fuel your body makes when you fast or sleep. It gives you clear, calm focus that comes on steady and doesn’t crash. Sugar-free, nothing artificial, Informed Sport Certified."
+        "text": "**Kenetik is metabolic brain fuel.** A caffeine-free drink with 12g of ketones, the same fuel your body makes when you fast or sleep. It gives you calm, clear focus that comes on steady: **no jitters, no anxious edge, no crash.** Sugar-free, nothing artificial, Informed Sport Certified."
       },
       {
         "block": "eyebrow",
@@ -14204,7 +14543,7 @@
       },
       {
         "block": "northstar",
-        "text": "Most people hit a point in the day where there’s still work left and the tank is empty. The usual fix is another coffee at 3pm or a can of something loud at 8. It gets the job done, then keeps you up, and tomorrow starts tired, so you reach for more. **Kenetik fills that gap: lock in late, finish strong, and with no caffeine in the can, nothing in it is keeping you up once you’re done.** That’s the moment we own."
+        "text": "Most people hit a point in the day where there’s still work left and the tank is empty. The usual fix is another coffee at 3pm or a can of something loud at 8. It gets the job done, then you’re wired, you can’t switch off, tomorrow starts tired, and you reach for more. **Kenetik is the drink for that moment: lock in late, finish strong, and with no caffeine in the can, nothing in it is keeping you up once you’re done.** That’s the moment we own, and it’s the one every video should carry."
       },
       {
         "block": "eyebrow",
@@ -14212,7 +14551,7 @@
       },
       {
         "block": "northstar",
-        "text": "**You know your audience better than we do.** Take that moment and tell it the way your people talk: your day, your words, your reason. Your viewer is the hero and Kenetik is what made the difference, never the star. Two things every video does: say **“brain fuel”** and **“shop now”** out loud. One thing none of them do: medical claims."
+        "text": "**You know your audience better than we do.** Take that late-day moment and tell it the way your people talk: your evening, your words, your reason. Your viewer is the hero and Kenetik is what made the difference, never the star. Two things every video does: say **“brain fuel”** and **“shop now”** out loud. One thing none of them do: medical claims."
       },
       {
         "block": "eyebrow",
@@ -14223,8 +14562,8 @@
         "options": [
           {
             "kicker": "Fastest",
-            "title": "Show me what’s converting right now",
-            "description": "The three openings returning the most this month, with the flavor to use for each, the shot plan and the videos that earned it. If you only make three videos, make these.",
+            "title": "Show me the three to film now",
+            "description": "Three videos built around the late-day moment, with the hook, alternates and a shot plan for each. If you only make three videos, make these.",
             "go": "Take me there →",
             "primary": true,
             "target_slug": "top-3"
