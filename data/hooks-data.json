@@ -8605,12 +8605,12 @@
         "how": "quoted from a video that sold inside the proof window"
       },
       "proof": {
-        "videos_made": 1,
-        "converting_videos": 1,
-        "distinct_creators": 1,
-        "revenue_usd": 150.2,
-        "as_of": "2026-10-09",
-        "how": "Counted from the videos whose spoken opening matched this line and were posted between 2026-09-12 and 2026-10-09. One creator so far."
+        "videos_made": "UNKNOWN",
+        "converting_videos": "UNKNOWN",
+        "distinct_creators": "UNKNOWN",
+        "revenue_usd": "UNKNOWN",
+        "as_of": "2026-10-14",
+        "how": "no video has been read against this line yet"
       },
       "rules": {
         "checked_on": "2026-10-05",
