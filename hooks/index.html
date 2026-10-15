@@ -72,6 +72,8 @@ h1{font-family:var(--display);font-weight:900;font-size:40px;line-height:1.05;le
 .hbadge{display:inline-flex;align-items:center;font-size:11px;font-weight:700;letter-spacing:.4px;padding:3px 10px;border-radius:999px;background:var(--panel);color:var(--ink2);text-decoration:none;}
 .hbadge.quoted{background:#EAF3FB;color:var(--royal);}
 .hbadge.untested{color:var(--muted);}
+.hprompt{display:inline-flex;align-items:center;font-size:11.5px;font-weight:700;color:#C2410C;letter-spacing:.2px;}
+.hprompt:before{content:"\2192";margin-right:5px;}
 
 /* lists, steps, do and don't */
 ul.run{list-style:none;padding:0;margin:6px 0 0;}
@@ -304,9 +306,10 @@ function cardWords(tab, src){
     + ' on TikTok Shop' + (dates ? ', ' + dates : '');
 }
 
-/* Two small marks on every line, and both of them are honest.
-   A line a creator said carries their name. A line we wrote says so.
-   A line no video has carried yet says "not read yet" rather than a zero. */
+/* Small marks under every line, and all of them are honest.
+   A line a creator said carries their name, and its sales when we have them for this window.
+   A line no video has sold off yet says Untested, never a zero, and invites the reader to be
+   the first: the videos that sell are the ones this page features. */
 function badges(hook, tab){
   var src = hook.source || {};
   var proof = hook.proof || {};
@@ -319,10 +322,12 @@ function badges(hook, tab){
     } else {
       out.push('<span class="hbadge quoted">' + esc(who) + '</span>');
     }
-    out.push('<span class="hbadge">' + (words ? esc(words) : 'not read yet') + '</span>');
+    if(words) out.push('<span class="hbadge">' + esc(words) + '</span>');
+  } else if(words){
+    out.push('<span class="hbadge">' + esc(words) + '</span>');
   } else {
-    out.push('<span class="hbadge' + (words ? '' : ' untested') + '">'
-      + (words ? esc(words) : 'Untested') + '</span>');
+    out.push('<span class="hbadge untested">Untested</span>'
+      + '<span class="hprompt">Use this hook to be featured here</span>');
   }
   return '<div class="hbadges">' + out.join('') + '</div>';
 }
@@ -469,7 +474,7 @@ function renderTopNow(tab){
   var items = rows.map(function(r){
     var hook = placedHook(tab, r.hook_id);
     var figure = proofWords({converting_videos: r.converting_videos,
-                             distinct_creators: r.creators}) || 'not read yet';
+                             distinct_creators: r.creators}) || 'No sales counted yet';
     return '<li><b>' + rich(hook.text || r.hook_id) + '</b> ' + esc(figure) + '</li>';
   });
   return '<div class="eyebrow">Converting best right now</div>'
