@@ -11474,6 +11474,256 @@
           "out": "UNKNOWN"
         }
       }
+    },
+    "h-0393": {
+      "hook_id": "h-0393",
+      "text": "“Kenetik is D-BHB, the same ketone your body makes on its own when you fast or train. Twelve grams of it, no caffeine.”",
+      "angle": "The what-it-is line. Hold the can up and read it like a label.",
+      "source": {
+        "kind": "composed",
+        "convention": "no a.hsrc source link on this line, which is how the page marks a line a creator said; an unmarked line is recorded as composed",
+        "how": "written by hand 10/15 for the Science tool from the approved claims (claims-compliance.md, the 7/13 dose ruling), published at Nick's direction"
+      },
+      "proof": {
+        "videos_made": "UNKNOWN",
+        "converting_videos": "UNKNOWN",
+        "distinct_creators": "UNKNOWN",
+        "revenue_usd": "UNKNOWN",
+        "as_of": "2026-10-15",
+        "how": "no video has been read against this line yet"
+      },
+      "rules": {
+        "checked_on": "2026-10-15",
+        "passed": true,
+        "broken": [],
+        "carries_claim": false
+      },
+      "angle_id_proposed": "unclassified"
+    },
+    "h-0394": {
+      "hook_id": "h-0394",
+      "text": "“Your brain runs on two fuels: sugar and ketones. Most drinks give it sugar or caffeine. This gives it ketones.”",
+      "angle": "The simplest explainer. Count the two fuels on your fingers.",
+      "source": {
+        "kind": "composed",
+        "convention": "no a.hsrc source link on this line, which is how the page marks a line a creator said; an unmarked line is recorded as composed",
+        "how": "written by hand 10/15 for the Science tool from the approved claims (claims-compliance.md, the 7/13 dose ruling), published at Nick's direction"
+      },
+      "proof": {
+        "videos_made": "UNKNOWN",
+        "converting_videos": "UNKNOWN",
+        "distinct_creators": "UNKNOWN",
+        "revenue_usd": "UNKNOWN",
+        "as_of": "2026-10-15",
+        "how": "no video has been read against this line yet"
+      },
+      "rules": {
+        "checked_on": "2026-10-15",
+        "passed": true,
+        "broken": [],
+        "carries_claim": false
+      },
+      "angle_id_proposed": "unclassified"
+    },
+    "h-0395": {
+      "hook_id": "h-0395",
+      "text": "“Caffeine doesn’t give your brain energy. It blocks the signal that you’re tired. Ketones are actual fuel.”",
+      "angle": "Myth versus fact. Works best said straight to camera, calm.",
+      "source": {
+        "kind": "composed",
+        "convention": "no a.hsrc source link on this line, which is how the page marks a line a creator said; an unmarked line is recorded as composed",
+        "how": "written by hand 10/15 for the Science tool from the approved claims (claims-compliance.md, the 7/13 dose ruling), published at Nick's direction"
+      },
+      "proof": {
+        "videos_made": "UNKNOWN",
+        "converting_videos": "UNKNOWN",
+        "distinct_creators": "UNKNOWN",
+        "revenue_usd": "UNKNOWN",
+        "as_of": "2026-10-15",
+        "how": "no video has been read against this line yet"
+      },
+      "rules": {
+        "checked_on": "2026-10-15",
+        "passed": true,
+        "broken": [],
+        "carries_claim": false
+      },
+      "angle_id_proposed": "unclassified"
+    },
+    "h-0396": {
+      "hook_id": "h-0396",
+      "text": "“Ketones support focus and cognitive performance, and that’s backed by human trials. No caffeine required.”",
+      "angle": "The research line, word for word. Say it as written.",
+      "source": {
+        "kind": "composed",
+        "convention": "no a.hsrc source link on this line, which is how the page marks a line a creator said; an unmarked line is recorded as composed",
+        "how": "written by hand 10/15 for the Science tool from the approved claims (claims-compliance.md, the 7/13 dose ruling), published at Nick's direction"
+      },
+      "proof": {
+        "videos_made": "UNKNOWN",
+        "converting_videos": "UNKNOWN",
+        "distinct_creators": "UNKNOWN",
+        "revenue_usd": "UNKNOWN",
+        "as_of": "2026-10-15",
+        "how": "no video has been read against this line yet"
+      },
+      "rules": {
+        "checked_on": "2026-10-15",
+        "passed": true,
+        "broken": [],
+        "carries_claim": false
+      },
+      "angle_id_proposed": "unclassified"
+    },
+    "h-0397": {
+      "hook_id": "h-0397",
+      "text": "“Calm, focused mental state. That’s how the research describes ketones, and it’s how 8pm feels for me now.”",
+      "angle": "Science plus the late-day moment. Film it at your desk at night.",
+      "source": {
+        "kind": "composed",
+        "convention": "no a.hsrc source link on this line, which is how the page marks a line a creator said; an unmarked line is recorded as composed",
+        "how": "written by hand 10/15 for the Science tool from the approved claims (claims-compliance.md, the 7/13 dose ruling), published at Nick's direction"
+      },
+      "proof": {
+        "videos_made": "UNKNOWN",
+        "converting_videos": "UNKNOWN",
+        "distinct_creators": "UNKNOWN",
+        "revenue_usd": "UNKNOWN",
+        "as_of": "2026-10-15",
+        "how": "no video has been read against this line yet"
+      },
+      "rules": {
+        "checked_on": "2026-10-15",
+        "passed": true,
+        "broken": [],
+        "carries_claim": false
+      },
+      "angle_id_proposed": "unclassified"
+    },
+    "h-0398": {
+      "hook_id": "h-0398",
+      "text": "“Twelve grams of ketones in one can. With ketones, the dose is the whole point.”",
+      "angle": "The dose line. Point at the number on the can.",
+      "source": {
+        "kind": "composed",
+        "convention": "no a.hsrc source link on this line, which is how the page marks a line a creator said; an unmarked line is recorded as composed",
+        "how": "written by hand 10/15 for the Science tool from the approved claims (claims-compliance.md, the 7/13 dose ruling), published at Nick's direction"
+      },
+      "proof": {
+        "videos_made": "UNKNOWN",
+        "converting_videos": "UNKNOWN",
+        "distinct_creators": "UNKNOWN",
+        "revenue_usd": "UNKNOWN",
+        "as_of": "2026-10-15",
+        "how": "no video has been read against this line yet"
+      },
+      "rules": {
+        "checked_on": "2026-10-15",
+        "passed": true,
+        "broken": [],
+        "carries_claim": false
+      },
+      "angle_id_proposed": "unclassified"
+    },
+    "h-0399": {
+      "hook_id": "h-0399",
+      "text": "“No ketone salts, no caffeine. Just the ketone your brain already knows how to use.”",
+      "angle": "What is not in it. Short, for a quick cut.",
+      "source": {
+        "kind": "composed",
+        "convention": "no a.hsrc source link on this line, which is how the page marks a line a creator said; an unmarked line is recorded as composed",
+        "how": "written by hand 10/15 for the Science tool from the approved claims (claims-compliance.md, the 7/13 dose ruling), published at Nick's direction"
+      },
+      "proof": {
+        "videos_made": "UNKNOWN",
+        "converting_videos": "UNKNOWN",
+        "distinct_creators": "UNKNOWN",
+        "revenue_usd": "UNKNOWN",
+        "as_of": "2026-10-15",
+        "how": "no video has been read against this line yet"
+      },
+      "rules": {
+        "checked_on": "2026-10-15",
+        "passed": true,
+        "broken": [],
+        "carries_claim": false
+      },
+      "angle_id_proposed": "unclassified"
+    },
+    "h-0400": {
+      "hook_id": "h-0400",
+      "text": "“Informed Sport Certified, the testing pro athletes rely on. That’s why I trust what’s in the can.”",
+      "angle": "The trust line. Show the mark on the can.",
+      "source": {
+        "kind": "composed",
+        "convention": "no a.hsrc source link on this line, which is how the page marks a line a creator said; an unmarked line is recorded as composed",
+        "how": "written by hand 10/15 for the Science tool from the approved claims (claims-compliance.md, the 7/13 dose ruling), published at Nick's direction"
+      },
+      "proof": {
+        "videos_made": "UNKNOWN",
+        "converting_videos": "UNKNOWN",
+        "distinct_creators": "UNKNOWN",
+        "revenue_usd": "UNKNOWN",
+        "as_of": "2026-10-15",
+        "how": "no video has been read against this line yet"
+      },
+      "rules": {
+        "checked_on": "2026-10-15",
+        "passed": true,
+        "broken": [],
+        "carries_claim": false
+      },
+      "angle_id_proposed": "unclassified"
+    },
+    "h-0401": {
+      "hook_id": "h-0401",
+      "text": "“I’ve tried the other ketone drinks. This is the only one I actually like drinking.”",
+      "angle": "Use it only if it is true for you. Never name another brand.",
+      "source": {
+        "kind": "composed",
+        "convention": "no a.hsrc source link on this line, which is how the page marks a line a creator said; an unmarked line is recorded as composed",
+        "how": "written by hand 10/15 for the Science tool from the approved claims (claims-compliance.md, the 7/13 dose ruling), published at Nick's direction"
+      },
+      "proof": {
+        "videos_made": "UNKNOWN",
+        "converting_videos": "UNKNOWN",
+        "distinct_creators": "UNKNOWN",
+        "revenue_usd": "UNKNOWN",
+        "as_of": "2026-10-15",
+        "how": "no video has been read against this line yet"
+      },
+      "rules": {
+        "checked_on": "2026-10-15",
+        "passed": true,
+        "broken": [],
+        "carries_claim": false
+      },
+      "angle_id_proposed": "unclassified"
+    },
+    "h-0402": {
+      "hook_id": "h-0402",
+      "text": "“Same ketone your body makes, in a can that tastes like Raspberry Lychee. Science that doesn’t taste like science.”",
+      "angle": "Science and flavor together. Take a real sip on camera.",
+      "source": {
+        "kind": "composed",
+        "convention": "no a.hsrc source link on this line, which is how the page marks a line a creator said; an unmarked line is recorded as composed",
+        "how": "written by hand 10/15 for the Science tool from the approved claims (claims-compliance.md, the 7/13 dose ruling), published at Nick's direction"
+      },
+      "proof": {
+        "videos_made": "UNKNOWN",
+        "converting_videos": "UNKNOWN",
+        "distinct_creators": "UNKNOWN",
+        "revenue_usd": "UNKNOWN",
+        "as_of": "2026-10-15",
+        "how": "no video has been read against this line yet"
+      },
+      "rules": {
+        "checked_on": "2026-10-15",
+        "passed": true,
+        "broken": [],
+        "carries_claim": false
+      },
+      "angle_id_proposed": "unclassified"
     }
   },
   "tabs": [
@@ -15435,6 +15685,113 @@
         "Point at a shopping button on screen. Say “shop now” out loud instead, so the video still works when we run it as an ad.",
         "Lead with a discount. If there’s an offer, save it for the end."
       ]
+    },
+    {
+      "slug": "science",
+      "label": "🔬 The Science",
+      "nav_order": 29,
+      "title": "Hooks on the science of Kenetik",
+      "sub": "10 hooks · the moment: when a viewer asks what is actually in it",
+      "audience": "For the viewer who wants to know why it works, and for any creator who likes explaining things. Kenetik is D-BHB, the same ketone your body makes when you fast or train: 12g in a can, no caffeine, no ketone salts, Informed Sport Certified. Your brain can run on ketones as well as sugar, and human trials show ketones support focus and cognitive performance. **The moment to own here:** one clear fact, said simply, then the can in your hand.",
+      "claims_note": "Approved claims only, word for word where a line quotes the research.",
+      "formula": [
+        {
+          "title": "Hook",
+          "text": "Open in the first 1 to 3 seconds with a line below, or your own."
+        },
+        {
+          "title": "One fact",
+          "text": "Pick one fact from this page and say it simply. One fact per video lands better than five."
+        },
+        {
+          "title": "Kenetik is the answer",
+          "text": "Crack a can on camera and connect the fact to your own late-day moment. Say \"brain fuel\" at least once."
+        },
+        {
+          "title": "Close it",
+          "text": "One simple reason to try it (12g of ketones, and no caffeine keeping you up tonight), then say “shop now” out loud and give your code."
+        }
+      ],
+      "dos": [
+        "Say “brain fuel” at least once, every video.",
+        "Use the research lines as written. They are worded the way we are allowed to say them.",
+        "Keep it to one fact, and make it about how it feels for you.",
+        "Show the can: the 12g, the Informed Sport mark."
+      ],
+      "donts": [
+        "Call it an energy drink, pre-workout or supplement. It’s metabolic brain fuel.",
+        "Name another brand, or say Kenetik works better than anything else. Talk about what is in ours.",
+        "Quote study numbers, percentages or brain scans. Say “backed by human trials” instead.",
+        "Say it treats, cures or prevents anything, lowers blood sugar, or helps you sleep.",
+        "Point at a shopping button on screen. Say “shop now” out loud instead, so the video still works when we run it as an ad."
+      ],
+      "hook_ids": [
+        "h-0393",
+        "h-0394",
+        "h-0395",
+        "h-0396",
+        "h-0397",
+        "h-0398",
+        "h-0399",
+        "h-0400",
+        "h-0401",
+        "h-0402"
+      ],
+      "angles": [],
+      "layout": [
+        {
+          "block": "heading"
+        },
+        {
+          "block": "sub"
+        },
+        {
+          "block": "eyebrow",
+          "text": "Who you're talking to"
+        },
+        {
+          "block": "northstar"
+        },
+        {
+          "block": "eyebrow",
+          "text": "What a great video covers"
+        },
+        {
+          "block": "formula"
+        },
+        {
+          "block": "eyebrow",
+          "text": "The hooks"
+        },
+        {
+          "block": "hooks",
+          "hook_ids": [
+            "h-0393",
+            "h-0394",
+            "h-0395",
+            "h-0396",
+            "h-0397",
+            "h-0398",
+            "h-0399",
+            "h-0400",
+            "h-0401",
+            "h-0402"
+          ]
+        },
+        {
+          "block": "eyebrow",
+          "text": "Do's and don'ts"
+        },
+        {
+          "block": "twocol",
+          "pos": {
+            "heading": "Do"
+          },
+          "neg": {
+            "heading": "Don't"
+          }
+        }
+      ]
     }
   ],
   "changes_pending": [
@@ -17848,7 +18205,7 @@
       {
         "block": "note",
         "style": "apick-note",
-        "text": "Your audience tab gives you the moment. These tools take you deeper into the brand: how to answer the price question, how to borrow trust from our partners, how to run a street interview, and how to feature our shots. Use any of them alongside your audience."
+        "text": "Your audience tab gives you the moment. These tools take you deeper into the brand: how to answer the price question, how to borrow trust from our partners, how to run a street interview, how to feature our shots, and the science of what is in the can. Use any of them alongside your audience."
       },
       {
         "block": "picker",
@@ -17876,6 +18233,12 @@
             "description": "How to feature the shots, in any flavor.",
             "go": "Open →",
             "target_slug": "trx-shots"
+          },
+          {
+            "title": "The Science",
+            "description": "What is in the can, as hooks.",
+            "go": "Open →",
+            "target_slug": "science"
           }
         ]
       }
