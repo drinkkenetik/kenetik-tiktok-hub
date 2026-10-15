@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "updated": "2026-10-15",
+  "updated": "2026-10-14",
   "written_by": "scripts/hooks_hub_extract.py for the first write; the Monday turn writes the machine fields from 7-2 and people write the editorial fields by hand",
   "rules_version": "hooks-config@4402e2a7 · claims-list@daffab0b · reader@138f4b17",
   "footer": "Kenetik Creator Hub · Hook performance from our TikTok Shop and Meta ad campaigns, measured on each video's spoken opening line. Refreshed weekly. Figures are past performance and not a guarantee of what any individual video will earn.",
@@ -11187,7 +11187,7 @@
         },
         {
           "block": "stamp",
-          "text": "Updated 11 October 2026",
+          "text": "Updated 14 October 2026",
           "note": "· refreshed weekly"
         },
         {
@@ -11287,10 +11287,10 @@
                     "note": "TikTok Shop · 14 orders",
                     "source": "tiktok_shop",
                     "window": {
-                      "start": "2026-07-14",
-                      "end": "2026-10-11"
+                      "start": "2026-07-17",
+                      "end": "2026-10-14"
                     },
-                    "as_of": "2026-10-11"
+                    "as_of": "2026-10-14"
                   }
                 },
                 {
@@ -11307,10 +11307,10 @@
                     "note": "TikTok Shop · 23 orders",
                     "source": "tiktok_shop",
                     "window": {
-                      "start": "2026-07-14",
-                      "end": "2026-10-11"
+                      "start": "2026-07-17",
+                      "end": "2026-10-14"
                     },
-                    "as_of": "2026-10-11"
+                    "as_of": "2026-10-14"
                   }
                 },
                 {
@@ -11327,10 +11327,10 @@
                     "note": "TikTok Shop · 9 orders",
                     "source": "tiktok_shop",
                     "window": {
-                      "start": "2026-07-14",
-                      "end": "2026-10-11"
+                      "start": "2026-07-17",
+                      "end": "2026-10-14"
                     },
-                    "as_of": "2026-10-11"
+                    "as_of": "2026-10-14"
                   }
                 },
                 {
@@ -11347,10 +11347,10 @@
                     "note": "TikTok Shop · 1 order",
                     "source": "tiktok_shop",
                     "window": {
-                      "start": "2026-07-14",
-                      "end": "2026-10-11"
+                      "start": "2026-07-17",
+                      "end": "2026-10-14"
                     },
-                    "as_of": "2026-10-11"
+                    "as_of": "2026-10-14"
                   }
                 },
                 {
@@ -11367,10 +11367,10 @@
                     "note": "TikTok Shop · 1 order",
                     "source": "tiktok_shop",
                     "window": {
-                      "start": "2026-07-14",
-                      "end": "2026-10-11"
+                      "start": "2026-07-17",
+                      "end": "2026-10-14"
                     },
-                    "as_of": "2026-10-11"
+                    "as_of": "2026-10-14"
                   }
                 }
               ]
@@ -11701,7 +11701,7 @@
       "label": "🔥 What’s Selling",
       "nav_order": 2,
       "title": "What’s selling right now",
-      "sub": "The ten Kenetik videos that sold the most on TikTok Shop over the last 90 days, with the line each one opened with. Borrow their energy, then tell it as the late-day moment.",
+      "sub": "The Kenetik videos that sold the most on TikTok Shop over the last 90 days, with the line each one opened with. Borrow their energy, then tell it as the late-day moment.",
       "hook_ids": [
         "h-0271",
         "h-0272",
@@ -11724,7 +11724,7 @@
         },
         {
           "block": "stamp",
-          "text": "Updated 11 October 2026",
+          "text": "Updated 14 October 2026",
           "note": "· TikTok Shop sales only · refreshed weekly"
         },
         {
@@ -11742,68 +11742,208 @@
               "url": "https://www.tiktok.com/@healthy.lifestyle.vibe/video/7665560221292465439",
               "image": "https://database.euka.ai/storage/v1/object/public/creator_videos_photos/7665560221292465439.webp",
               "image_alt": "Creator video",
-              "tag": "The count, not the pitch",
-              "quote": "“Not six, not twelve, you get 24!”",
+              "tag": "Says exactly what you get",
+              "quote": "“Not six, not twelve, you get 24! You get 24 cans in this four flavor variety pack.”",
               "handle": "@healthy.lifestyle.vibe",
-              "figure": "$925",
-              "note": "TikTok Shop · 12 orders",
+              "figure": "$1,056",
+              "note": "TikTok Shop · 14 orders",
               "sales": {
                 "figure": "$1,056",
                 "note": "TikTok Shop · 14 orders",
                 "source": "tiktok_shop",
                 "window": {
-                  "start": "2026-07-14",
-                  "end": "2026-10-11"
+                  "start": "2026-07-17",
+                  "end": "2026-10-14"
                 },
-                "as_of": "2026-10-11"
+                "as_of": "2026-10-14"
               }
             },
             {
               "url": "https://www.tiktok.com/@thededicateddad/video/7674092193027493151",
               "image": "https://database.euka.ai/storage/v1/object/public/creator_videos_photos/7674092193027493151.webp",
               "image_alt": "Creator video",
-              "tag": "Gone before you finish",
+              "tag": "A real sellout, said as a worry",
               "quote": "“If these sell out anywhere as quick as these did, then you might not even get these before you see this video.”",
               "handle": "@thededicateddad",
-              "figure": "$807",
-              "note": "TikTok Shop · 17 orders",
+              "figure": "$1,015",
+              "note": "TikTok Shop · 23 orders",
               "sales": {
                 "figure": "$1,015",
                 "note": "TikTok Shop · 23 orders",
                 "source": "tiktok_shop",
                 "window": {
-                  "start": "2026-07-14",
-                  "end": "2026-10-11"
+                  "start": "2026-07-17",
+                  "end": "2026-10-14"
                 },
-                "as_of": "2026-10-11"
+                "as_of": "2026-10-14"
               }
             },
             {
               "url": "https://www.tiktok.com/@roidragetts/video/7667507988827016462",
               "image": "https://database.euka.ai/storage/v1/object/public/creator_videos_photos/7667507988827016462.webp",
               "image_alt": "Creator video",
-              "tag": "A room he puts you in",
-              "quote": "“POV: caffeine addicts anonymous meeting.”",
+              "tag": "Caffeine stopped working",
+              "quote": "“POV: caffeine addicts anonymous meeting. I am addicted to caffeine.”",
               "handle": "@roidragetts",
-              "figure": "$400",
-              "note": "TikTok Shop · 8 orders",
+              "figure": "$440",
+              "note": "TikTok Shop · 9 orders",
               "sales": {
                 "figure": "$440",
                 "note": "TikTok Shop · 9 orders",
                 "source": "tiktok_shop",
                 "window": {
-                  "start": "2026-07-14",
-                  "end": "2026-10-11"
+                  "start": "2026-07-17",
+                  "end": "2026-10-14"
                 },
-                "as_of": "2026-10-11"
+                "as_of": "2026-10-14"
+              }
+            },
+            {
+              "url": "https://www.tiktok.com/@yaboyhotway/video/7683317306402819359",
+              "image": "https://database.euka.ai/storage/v1/object/public/creator_videos_photos/7683317306402819359.webp",
+              "image_alt": "Creator video",
+              "tag": "Caption only",
+              "quote": "No spoken line. The video does the talking.",
+              "handle": "@yaboyhotway",
+              "figure": "$341",
+              "note": "TikTok Shop · 9 orders",
+              "sales": {
+                "figure": "$341",
+                "note": "TikTok Shop · 9 orders",
+                "source": "tiktok_shop",
+                "window": {
+                  "start": "2026-07-17",
+                  "end": "2026-10-14"
+                },
+                "as_of": "2026-10-14"
+              }
+            },
+            {
+              "url": "https://www.tiktok.com/@savastanodeals/video/7685528316568177933",
+              "image": "https://database.euka.ai/storage/v1/object/public/creator_videos_photos/7685528316568177933.webp",
+              "image_alt": "Creator video",
+              "tag": "Says what it is, and is not",
+              "quote": "“This is not what you're thinking. This is not your classic energy drink.”",
+              "handle": "@savastanodeals",
+              "figure": "$298",
+              "note": "TikTok Shop · 7 orders",
+              "sales": {
+                "figure": "$298",
+                "note": "TikTok Shop · 7 orders",
+                "source": "tiktok_shop",
+                "window": {
+                  "start": "2026-07-17",
+                  "end": "2026-10-14"
+                },
+                "as_of": "2026-10-14"
+              }
+            },
+            {
+              "url": "https://www.tiktok.com/@.outdoorsdad/video/7693673371019529502",
+              "image": "https://database.euka.ai/storage/v1/object/public/creator_videos_photos/7693673371019529502.webp",
+              "image_alt": "Creator video",
+              "tag": "Caffeine stopped working",
+              "quote": "“Want off caffeine? For a limited time you get one, two, three, four, five, six, seven, eight, nine, ten, eleven, twelve.”",
+              "handle": "@.outdoorsdad",
+              "figure": "$200",
+              "note": "TikTok Shop · 5 orders",
+              "sales": {
+                "figure": "$200",
+                "note": "TikTok Shop · 5 orders",
+                "source": "tiktok_shop",
+                "window": {
+                  "start": "2026-07-17",
+                  "end": "2026-10-14"
+                },
+                "as_of": "2026-10-14"
+              }
+            },
+            {
+              "url": "https://www.tiktok.com/@roidragetts/video/7673447504649751822",
+              "image": "https://database.euka.ai/storage/v1/object/public/creator_videos_photos/7673447504649751822.webp",
+              "image_alt": "Creator video",
+              "tag": "Caffeine stopped working",
+              "quote": "“Tired America? We just got home from a little road trip, night away, offroading all day yesterday.”",
+              "handle": "@roidragetts",
+              "figure": "$192",
+              "note": "TikTok Shop · 1 order",
+              "sales": {
+                "figure": "$192",
+                "note": "TikTok Shop · 1 order",
+                "source": "tiktok_shop",
+                "window": {
+                  "start": "2026-07-17",
+                  "end": "2026-10-14"
+                },
+                "as_of": "2026-10-14"
+              }
+            },
+            {
+              "url": "https://www.tiktok.com/@healthy.lifestyle.vibe/video/7684367075699166495",
+              "image": "https://database.euka.ai/storage/v1/object/public/creator_videos_photos/7684367075699166495.webp",
+              "image_alt": "Creator video",
+              "tag": "Says exactly what you get",
+              "quote": "“So I did some math on Kenetik. It replaces my $6 energy drink.”",
+              "handle": "@healthy.lifestyle.vibe",
+              "figure": "$188",
+              "note": "TikTok Shop · 5 orders",
+              "sales": {
+                "figure": "$188",
+                "note": "TikTok Shop · 5 orders",
+                "source": "tiktok_shop",
+                "window": {
+                  "start": "2026-07-17",
+                  "end": "2026-10-14"
+                },
+                "as_of": "2026-10-14"
+              }
+            },
+            {
+              "url": "https://www.tiktok.com/@unstablegenius64/video/7685520510037413133",
+              "image": "https://database.euka.ai/storage/v1/object/public/creator_videos_photos/7685520510037413133.webp",
+              "image_alt": "Creator video",
+              "tag": "Caffeine stopped working",
+              "quote": "“Don't feel like your one for the day? You know what I'm talking about.”",
+              "handle": "@unstablegenius64",
+              "figure": "$180",
+              "note": "TikTok Shop · 3 orders",
+              "sales": {
+                "figure": "$180",
+                "note": "TikTok Shop · 3 orders",
+                "source": "tiktok_shop",
+                "window": {
+                  "start": "2026-07-17",
+                  "end": "2026-10-14"
+                },
+                "as_of": "2026-10-14"
+              }
+            },
+            {
+              "url": "https://www.tiktok.com/@discountcomp/video/7693329256230718733",
+              "image": "https://database.euka.ai/storage/v1/object/public/creator_videos_photos/7693329256230718733.webp",
+              "image_alt": "Creator video",
+              "tag": "Leads with the price",
+              "quote": "“If ur card declines on this then we need to have a serious chat bc it's offensively cheap right now...”",
+              "handle": "@discountcomp",
+              "figure": "$174",
+              "note": "TikTok Shop · 2 orders",
+              "sales": {
+                "figure": "$174",
+                "note": "TikTok Shop · 2 orders",
+                "source": "tiktok_shop",
+                "window": {
+                  "start": "2026-07-17",
+                  "end": "2026-10-14"
+                },
+                "as_of": "2026-10-14"
               }
             },
             {
               "url": "https://www.tiktok.com/@.outdoorsdad/video/7678176777495153951",
               "image": "https://database.euka.ai/storage/v1/object/public/creator_videos_photos/7678176777495153951.webp",
               "image_alt": "Creator video",
-              "tag": "The problem, then the missing part",
-              "quote": "“Get rid of that brain fog without caffeine.”",
+              "tag": "Caffeine stopped working",
+              "quote": "“Get rid of that brain fog without caffeine. This is a limited drop by Kenetik and it's Raspberry Lychee.”",
               "handle": "@.outdoorsdad",
               "figure": "$167",
               "note": "TikTok Shop · 3 orders",
@@ -11812,18 +11952,58 @@
                 "note": "TikTok Shop · 3 orders",
                 "source": "tiktok_shop",
                 "window": {
-                  "start": "2026-07-14",
-                  "end": "2026-10-11"
+                  "start": "2026-07-17",
+                  "end": "2026-10-14"
                 },
-                "as_of": "2026-10-11"
+                "as_of": "2026-10-14"
+              }
+            },
+            {
+              "url": "https://www.tiktok.com/@donttellmyhubs/video/7674638258428513550",
+              "image": "https://database.euka.ai/storage/v1/object/public/creator_videos_photos/7674638258428513550.webp",
+              "image_alt": "Creator video",
+              "tag": "Says exactly what you get",
+              "quote": "“Whoa! Did you see how many you get for that price?”",
+              "handle": "@donttellmyhubs",
+              "figure": "$162",
+              "note": "TikTok Shop · 3 orders",
+              "sales": {
+                "figure": "$162",
+                "note": "TikTok Shop · 3 orders",
+                "source": "tiktok_shop",
+                "window": {
+                  "start": "2026-07-17",
+                  "end": "2026-10-14"
+                },
+                "as_of": "2026-10-14"
+              }
+            },
+            {
+              "url": "https://www.tiktok.com/@thededicateddad/video/7686294081051413791",
+              "image": "https://database.euka.ai/storage/v1/object/public/creator_videos_photos/7686294081051413791.webp",
+              "image_alt": "Creator video",
+              "tag": "Says what it is, and is not",
+              "quote": "“Not an energy drink but brain fuel.”",
+              "handle": "@thededicateddad",
+              "figure": "$160",
+              "note": "TikTok Shop · 4 orders",
+              "sales": {
+                "figure": "$160",
+                "note": "TikTok Shop · 4 orders",
+                "source": "tiktok_shop",
+                "window": {
+                  "start": "2026-07-17",
+                  "end": "2026-10-14"
+                },
+                "as_of": "2026-10-14"
               }
             },
             {
               "url": "https://www.tiktok.com/@lifefueltv/video/7665147180268735775",
               "image": "https://database.euka.ai/storage/v1/object/public/creator_videos_photos/7665147180268735775.webp",
               "image_alt": "Creator video",
-              "tag": "Myth on the screen",
-              "quote": "“Myth vs. Fact. Energy = More Sugar.”",
+              "tag": "Myth versus fact",
+              "quote": "“Myth vs. Fact. Energy = More Sugar. Ketones provide a different source of fuel.”",
               "handle": "@lifefueltv",
               "figure": "$157",
               "note": "TikTok Shop · 1 order",
@@ -11832,110 +12012,230 @@
                 "note": "TikTok Shop · 1 order",
                 "source": "tiktok_shop",
                 "window": {
-                  "start": "2026-07-14",
-                  "end": "2026-10-11"
+                  "start": "2026-07-17",
+                  "end": "2026-10-14"
                 },
-                "as_of": "2026-10-11"
+                "as_of": "2026-10-14"
               }
             },
             {
-              "url": "https://www.tiktok.com/@ash_lee0528/video/7659539458366131469",
-              "image": "https://database.euka.ai/storage/v1/object/public/creator_videos_photos/7659539458366131469.webp",
+              "url": "https://www.tiktok.com/@win.with.nick.2/video/7686203776956402957",
+              "image": "https://database.euka.ai/storage/v1/object/public/creator_videos_photos/7686203776956402957.webp",
               "image_alt": "Creator video",
-              "tag": "No jitters",
-              "quote": "“Completely caffeine-free. It’s not going to leave you with the jitters that pre-workout gives you.”",
+              "tag": "Says what it is, and is not",
+              "quote": "“This energy drink with no caffeine. Simply little weird. Until I figured out how it works.”",
+              "handle": "@win.with.nick.2",
+              "figure": "$150",
+              "note": "TikTok Shop · 2 orders",
+              "sales": {
+                "figure": "$150",
+                "note": "TikTok Shop · 2 orders",
+                "source": "tiktok_shop",
+                "window": {
+                  "start": "2026-07-17",
+                  "end": "2026-10-14"
+                },
+                "as_of": "2026-10-14"
+              }
+            },
+            {
+              "url": "https://www.tiktok.com/@ash_lee0528/video/7688094160829648141",
+              "image": "https://database.euka.ai/storage/v1/object/public/creator_videos_photos/7688094160829648141.webp",
+              "image_alt": "Creator video",
+              "tag": "Caffeine stopped working",
+              "quote": "“This is how I stay sharp all afternoon as someone who genuinely cannot do caffeine in the afternoon.”",
               "handle": "@ash_lee0528",
-              "figure": "$98",
+              "figure": "$131",
+              "note": "TikTok Shop · 2 orders",
+              "sales": {
+                "figure": "$131",
+                "note": "TikTok Shop · 2 orders",
+                "source": "tiktok_shop",
+                "window": {
+                  "start": "2026-07-17",
+                  "end": "2026-10-14"
+                },
+                "as_of": "2026-10-14"
+              }
+            },
+            {
+              "url": "https://www.tiktok.com/@stevemulhern/video/7680707131351338270",
+              "image": "https://database.euka.ai/storage/v1/object/public/creator_videos_photos/7680707131351338270.webp",
+              "image_alt": "Creator video",
+              "tag": "New flavor drop",
+              "quote": "“Kenetik Raspberry Lychee Kenetik Raspberry Lychee Kenetik Raspberry Lychee I just got my hands on the new Kenetik…”",
+              "handle": "@stevemulhern",
+              "figure": "$123",
+              "note": "TikTok Shop · 2 orders",
+              "sales": {
+                "figure": "$123",
+                "note": "TikTok Shop · 2 orders",
+                "source": "tiktok_shop",
+                "window": {
+                  "start": "2026-07-17",
+                  "end": "2026-10-14"
+                },
+                "as_of": "2026-10-14"
+              }
+            },
+            {
+              "url": "https://www.tiktok.com/@healthy.lifestyle.vibe/video/7665175058071047455",
+              "image": "https://database.euka.ai/storage/v1/object/public/creator_videos_photos/7665175058071047455.webp",
+              "image_alt": "Creator video",
+              "tag": "Says what it is, and is not",
+              "quote": "“Clarity. Focus. No caffeine. Just dialed in.”",
+              "handle": "@healthy.lifestyle.vibe",
+              "figure": "$120",
               "note": "TikTok Shop · 1 order",
               "sales": {
-                "figure": "$98",
+                "figure": "$120",
                 "note": "TikTok Shop · 1 order",
                 "source": "tiktok_shop",
                 "window": {
-                  "start": "2026-06-30",
-                  "end": "2026-09-27"
+                  "start": "2026-07-17",
+                  "end": "2026-10-14"
                 },
-                "as_of": "2026-09-27"
+                "as_of": "2026-10-14"
               }
             },
             {
-              "url": "https://www.tiktok.com/@healthy.lifestyle.vibe/video/7684367075699166495",
-              "image": "https://database.euka.ai/storage/v1/object/public/creator_videos_photos/7684367075699166495.webp",
+              "url": "https://www.tiktok.com/@discountcomp/video/7670579492892495117",
+              "image": "https://database.euka.ai/storage/v1/object/public/creator_videos_photos/7670579492892495117.webp",
               "image_alt": "Creator video",
-              "tag": "The math, out loud",
-              "quote": "“So I did some math on Kenetik. It replaces my $6 energy drink. It replaces my $6 cup of coffee. And I actually get the focus that I paid those items for. Kenetik is different. Zero caffeine.”",
-              "handle": "@healthy.lifestyle.vibe",
-              "figure": "$167",
+              "tag": "Leads with the price",
+              "quote": "“If ur card declines on this then we need to have a serious chat bc it's offensively cheap right now...”",
+              "handle": "@discountcomp",
+              "figure": "$105",
               "note": "TikTok Shop · 4 orders",
               "sales": {
-                "figure": "$188",
-                "note": "TikTok Shop · 5 orders",
+                "figure": "$105",
+                "note": "TikTok Shop · 4 orders",
                 "source": "tiktok_shop",
                 "window": {
-                  "start": "2026-07-14",
-                  "end": "2026-10-11"
+                  "start": "2026-07-17",
+                  "end": "2026-10-14"
                 },
-                "as_of": "2026-10-11"
+                "as_of": "2026-10-14"
               }
             },
             {
-              "url": "https://www.tiktok.com/@doortrashdadshop/video/7677606012035009822",
-              "image": "https://database.euka.ai/storage/v1/object/public/creator_videos_photos/7677606012035009822.webp",
+              "url": "https://www.tiktok.com/@.outdoorsdad/video/7693672636966112543",
+              "image": "https://database.euka.ai/storage/v1/object/public/creator_videos_photos/7693672636966112543.webp",
               "image_alt": "Creator video",
-              "tag": "Read the label",
-              "quote": "“Energy drinks are NOT healthy. The fact that we drink these every day blows my mind.”",
-              "handle": "@doortrashdadshop",
-              "figure": "$51",
-              "note": "TikTok Shop · 1 order",
+              "tag": "Says exactly what you get",
+              "quote": "“Highschool athlete approved. One, two, three, not four, five, six, seven, not eight, nine.”",
+              "handle": "@.outdoorsdad",
+              "figure": "$103",
+              "note": "TikTok Shop · 3 orders",
               "sales": {
-                "figure": "$51",
-                "note": "TikTok Shop · 1 order",
+                "figure": "$103",
+                "note": "TikTok Shop · 3 orders",
                 "source": "tiktok_shop",
                 "window": {
-                  "start": "2026-07-14",
-                  "end": "2026-10-11"
+                  "start": "2026-07-17",
+                  "end": "2026-10-14"
                 },
-                "as_of": "2026-10-11"
+                "as_of": "2026-10-14"
               }
             },
             {
-              "url": "https://www.tiktok.com/@jeremyreviews/video/7679663634837966110",
-              "image": "https://database.euka.ai/storage/v1/object/public/creator_videos_photos/7679663634837966110.webp",
+              "url": "https://www.tiktok.com/@mercedesmv17/video/7667294807391227149",
+              "image": "https://database.euka.ai/storage/v1/object/public/creator_videos_photos/7667294807391227149.webp",
               "image_alt": "Creator video",
-              "tag": "When it stops working",
-              "quote": "“If the caffeine of an energy drink doesn’t do it for you anymore, you need to try Kenetik.”",
-              "handle": "@jeremyreviews",
-              "figure": "$51",
+              "tag": "Caption only",
+              "quote": "No spoken line. The video does the talking.",
+              "handle": "@mercedesmv17",
+              "figure": "$96",
               "note": "TikTok Shop · 1 order",
               "sales": {
-                "figure": "$51",
+                "figure": "$96",
                 "note": "TikTok Shop · 1 order",
                 "source": "tiktok_shop",
                 "window": {
-                  "start": "2026-07-14",
-                  "end": "2026-10-11"
+                  "start": "2026-07-17",
+                  "end": "2026-10-14"
                 },
-                "as_of": "2026-10-11"
+                "as_of": "2026-10-14"
               }
             },
             {
-              "url": "https://www.tiktok.com/@pnwdad206/video/7672856549383032095",
-              "image": "https://database.euka.ai/storage/v1/object/public/creator_videos_photos/7672856549383032095.webp",
+              "url": "https://www.tiktok.com/@averagejoe_deals4u/video/7687451092606553374",
+              "image": "https://database.euka.ai/storage/v1/object/public/creator_videos_photos/7687451092606553374.webp",
               "image_alt": "Creator video",
-              "tag": "Two in the afternoon",
-              "quote": "“With that mid-afternoon crash a lot of times we go to reach for more caffeine and then we’re restless.”",
-              "handle": "@pnwdad206",
-              "figure": "$35",
+              "tag": "Caffeine stopped working",
+              "quote": "“These are an excellent alternative to energy drinks.”",
+              "handle": "@averagejoe_deals4u",
+              "figure": "$96",
               "note": "TikTok Shop · 1 order",
               "sales": {
-                "figure": "$35",
+                "figure": "$96",
                 "note": "TikTok Shop · 1 order",
                 "source": "tiktok_shop",
                 "window": {
-                  "start": "2026-07-14",
-                  "end": "2026-10-11"
+                  "start": "2026-07-17",
+                  "end": "2026-10-14"
                 },
-                "as_of": "2026-10-11"
+                "as_of": "2026-10-14"
+              }
+            },
+            {
+              "url": "https://www.tiktok.com/@savastanodeals/video/7685529499965869325",
+              "image": "https://database.euka.ai/storage/v1/object/public/creator_videos_photos/7685529499965869325.webp",
+              "image_alt": "Creator video",
+              "tag": "A real sellout, said as a worry",
+              "quote": "“They’re in all the QuikTrips. All them gas stations now fully stocked.”",
+              "handle": "@savastanodeals",
+              "figure": "$87",
+              "note": "TikTok Shop · 3 orders",
+              "sales": {
+                "figure": "$87",
+                "note": "TikTok Shop · 3 orders",
+                "source": "tiktok_shop",
+                "window": {
+                  "start": "2026-07-17",
+                  "end": "2026-10-14"
+                },
+                "as_of": "2026-10-14"
+              }
+            },
+            {
+              "url": "https://www.tiktok.com/@discountcomp/video/7680287878634540302",
+              "image": "https://database.euka.ai/storage/v1/object/public/creator_videos_photos/7680287878634540302.webp",
+              "image_alt": "Creator video",
+              "tag": "Leads with the price",
+              "quote": "“If ur card declines on this then we need to have a serious chat bc it's offensively cheap right now...”",
+              "handle": "@discountcomp",
+              "figure": "$83",
+              "note": "TikTok Shop · 2 orders",
+              "sales": {
+                "figure": "$83",
+                "note": "TikTok Shop · 2 orders",
+                "source": "tiktok_shop",
+                "window": {
+                  "start": "2026-07-17",
+                  "end": "2026-10-14"
+                },
+                "as_of": "2026-10-14"
+              }
+            },
+            {
+              "url": "https://www.tiktok.com/@shawnsfinds_/video/7678039004167687455",
+              "image": "https://database.euka.ai/storage/v1/object/public/creator_videos_photos/7678039004167687455.webp",
+              "image_alt": "Creator video",
+              "tag": "Leads with the price",
+              "quote": "“Random: Kenetik is on a BACK TO SCHOOL SALE 🤯 Random: I'm just gonna be honest, these are genuinely some of the best…”",
+              "handle": "@shawnsfinds_",
+              "figure": "$83",
+              "note": "TikTok Shop · 2 orders",
+              "sales": {
+                "figure": "$83",
+                "note": "TikTok Shop · 2 orders",
+                "source": "tiktok_shop",
+                "window": {
+                  "start": "2026-07-17",
+                  "end": "2026-10-14"
+                },
+                "as_of": "2026-10-14"
               }
             }
           ]
@@ -11953,7 +12253,7 @@
         },
         {
           "block": "eyebrow",
-          "text": "What all ten have in common"
+          "text": "What the best of them have in common"
         },
         {
           "block": "note",
@@ -11962,7 +12262,7 @@
         },
         {
           "block": "eyebrow",
-          "text": "The ten lines"
+          "text": "Ten lines to borrow"
         },
         {
           "block": "hooks",
@@ -16533,18 +16833,6 @@
       "rule": "performance_figure_on_a_public_page",
       "since": "2026-09-28",
       "note": "live on the hub when the rule bound, 2026-09-28 (L-441). No committed artifact records this figure's base or dates; it comes out on Devon's or Nick's okay, and until then the rule binds every other row"
-    },
-    {
-      "where": "start_here.layout[13].items[0]",
-      "rule": "card_figure_without_a_record",
-      "since": "2026-09-28",
-      "note": "live on the hub when the rule bound, 2026-09-28 (L-441). No committed artifact records this figure's base or dates; it comes out on Devon's or Nick's okay, and until then the rule binds every other row"
-    },
-    {
-      "where": "start_here.layout[13].items[2]",
-      "rule": "card_figure_without_a_record",
-      "since": "2026-09-28",
-      "note": "live on the hub when the rule bound, 2026-09-28 (L-441). No committed artifact records this figure's base or dates; it comes out on Devon's or Nick's okay, and until then the rule binds every other row"
     }
   ],
   "start_here": {
@@ -16611,53 +16899,96 @@
       },
       {
         "block": "note",
-        "text": "Real Kenetik videos still selling, and the line each one opened with out loud. The figure is what that video sold on TikTok Shop over the last 90 days. Tap any to watch.",
+        "text": "Ten real Kenetik videos that sold in the last 90 days and tell the story we want: no caffeine, no jitters, focus late in the day. The figure is what that video sold on TikTok Shop over the last 90 days. Tap any to watch.",
         "style": "pk"
       },
       {
         "block": "stamp",
-        "text": "Updated 11 October 2026",
+        "text": "Updated 14 October 2026",
         "note": "· rolling 90-day window"
       },
       {
         "block": "wins",
         "items": [
           {
-            "url": "https://www.tiktok.com/@2brothersepoxy/video/7538575914821602574",
-            "image": "https://database.euka.ai/storage/v1/object/public/creator_videos_photos/7538575914821602574.webp",
+            "url": "https://www.tiktok.com/@thededicateddad/video/7674092193027493151",
+            "image": "https://database.euka.ai/storage/v1/object/public/creator_videos_photos/7674092193027493151.webp",
             "image_alt": "Creator video",
-            "tag": "A borrowed verdict",
-            "quote": "“This is not an energy drink. If anything, it is the energy drink killer.”",
-            "handle": "@2brothersepoxy",
-            "figure": "$1,077"
-          },
-          {
-            "url": "https://www.tiktok.com/@healthy.lifestyle.vibe/video/7665560221292465439",
-            "image": "https://database.euka.ai/storage/v1/object/public/creator_videos_photos/7665560221292465439.webp",
-            "image_alt": "Creator video",
-            "tag": "Says exactly what you get",
-            "quote": "“Not six, not twelve. You get 24.”",
-            "handle": "@healthy.lifestyle.vibe",
-            "figure": "$951",
+            "tag": "Says what it is, and is not",
+            "quote": "“These are not energy drinks. They’re brain fuel. They don’t have caffeine. They have ketones.”",
+            "handle": "@thededicateddad",
+            "figure": "$1,015",
+            "note": "TikTok Shop · 23 orders",
             "sales": {
-              "figure": "$1,056",
-              "note": "TikTok Shop · 14 orders",
+              "figure": "$1,015",
+              "note": "TikTok Shop · 23 orders",
               "source": "tiktok_shop",
               "window": {
-                "start": "2026-07-14",
-                "end": "2026-10-11"
+                "start": "2026-07-17",
+                "end": "2026-10-14"
               },
-              "as_of": "2026-10-11"
+              "as_of": "2026-10-14"
             }
           },
           {
-            "url": "https://www.tiktok.com/@be.lush/video/7581321236278562062",
-            "image": "https://database.euka.ai/storage/v1/object/public/creator_videos_photos/7581321236278562062.webp",
+            "url": "https://www.tiktok.com/@roidragetts/video/7667507988827016462",
+            "image": "https://database.euka.ai/storage/v1/object/public/creator_videos_photos/7667507988827016462.webp",
             "image_alt": "Creator video",
-            "tag": "The switch",
-            "quote": "“If you’ve been wanting to get off the caffeine and on the ketones, now’s the time to do it.”",
-            "handle": "@be.lush",
-            "figure": "$305"
+            "tag": "The caffeine treadmill",
+            "quote": "“POV: caffeine addicts anonymous meeting. I am addicted to caffeine. Are you? Does it not work anymore?”",
+            "handle": "@roidragetts",
+            "figure": "$440",
+            "note": "TikTok Shop · 9 orders",
+            "sales": {
+              "figure": "$440",
+              "note": "TikTok Shop · 9 orders",
+              "source": "tiktok_shop",
+              "window": {
+                "start": "2026-07-17",
+                "end": "2026-10-14"
+              },
+              "as_of": "2026-10-14"
+            }
+          },
+          {
+            "url": "https://www.tiktok.com/@savastanodeals/video/7685528316568177933",
+            "image": "https://database.euka.ai/storage/v1/object/public/creator_videos_photos/7685528316568177933.webp",
+            "image_alt": "Creator video",
+            "tag": "Says what it is, and is not",
+            "quote": "“This is not what you’re thinking. This is not your classic energy drink.”",
+            "handle": "@savastanodeals",
+            "figure": "$298",
+            "note": "TikTok Shop · 7 orders",
+            "sales": {
+              "figure": "$298",
+              "note": "TikTok Shop · 7 orders",
+              "source": "tiktok_shop",
+              "window": {
+                "start": "2026-07-17",
+                "end": "2026-10-14"
+              },
+              "as_of": "2026-10-14"
+            }
+          },
+          {
+            "url": "https://www.tiktok.com/@unstablegenius64/video/7685520510037413133",
+            "image": "https://database.euka.ai/storage/v1/object/public/creator_videos_photos/7685520510037413133.webp",
+            "image_alt": "Creator video",
+            "tag": "Names the moment",
+            "quote": "“Don't feel like your one for the day? You know what I'm talking about.”",
+            "handle": "@unstablegenius64",
+            "figure": "$180",
+            "note": "TikTok Shop · 3 orders",
+            "sales": {
+              "figure": "$180",
+              "note": "TikTok Shop · 3 orders",
+              "source": "tiktok_shop",
+              "window": {
+                "start": "2026-07-17",
+                "end": "2026-10-14"
+              },
+              "as_of": "2026-10-14"
+            }
           },
           {
             "url": "https://www.tiktok.com/@.outdoorsdad/video/7678176777495153951",
@@ -16666,35 +16997,117 @@
             "tag": "Names the problem first",
             "quote": "“Get rid of that brain fog without caffeine.”",
             "handle": "@.outdoorsdad",
-            "figure": "$152",
+            "figure": "$167",
+            "note": "TikTok Shop · 3 orders",
             "sales": {
               "figure": "$167",
               "note": "TikTok Shop · 3 orders",
               "source": "tiktok_shop",
               "window": {
-                "start": "2026-07-14",
-                "end": "2026-10-11"
+                "start": "2026-07-17",
+                "end": "2026-10-14"
               },
-              "as_of": "2026-10-11"
+              "as_of": "2026-10-14"
             }
           },
           {
-            "url": "https://www.tiktok.com/@kenetik/video/7675020551605275918",
-            "image": "https://database.euka.ai/storage/v1/object/public/creator_videos_photos/7675020551605275918.webp",
-            "image_alt": "Kenetik video",
-            "tag": "The moment, not the product",
-            "quote": "“That’s how you know it’s 2pm.”",
-            "handle": "@kenetik",
-            "figure": "$102",
+            "url": "https://www.tiktok.com/@thededicateddad/video/7686294081051413791",
+            "image": "https://database.euka.ai/storage/v1/object/public/creator_videos_photos/7686294081051413791.webp",
+            "image_alt": "Creator video",
+            "tag": "Brain fuel, not caffeine",
+            "quote": "“Not an energy drink but brain fuel. Instead of caffeine you get 12g of ketones.”",
+            "handle": "@thededicateddad",
+            "figure": "$160",
+            "note": "TikTok Shop · 4 orders",
             "sales": {
-              "figure": "$102",
+              "figure": "$160",
+              "note": "TikTok Shop · 4 orders",
+              "source": "tiktok_shop",
+              "window": {
+                "start": "2026-07-17",
+                "end": "2026-10-14"
+              },
+              "as_of": "2026-10-14"
+            }
+          },
+          {
+            "url": "https://www.tiktok.com/@ash_lee0528/video/7688094160829648141",
+            "image": "https://database.euka.ai/storage/v1/object/public/creator_videos_photos/7688094160829648141.webp",
+            "image_alt": "Creator video",
+            "tag": "Late in the day, no caffeine",
+            "quote": "“This is how I stay sharp all afternoon as someone who genuinely cannot do caffeine in the afternoon.”",
+            "handle": "@ash_lee0528",
+            "figure": "$131",
+            "note": "TikTok Shop · 2 orders",
+            "sales": {
+              "figure": "$131",
+              "note": "TikTok Shop · 2 orders",
+              "source": "tiktok_shop",
+              "window": {
+                "start": "2026-07-17",
+                "end": "2026-10-14"
+              },
+              "as_of": "2026-10-14"
+            }
+          },
+          {
+            "url": "https://www.tiktok.com/@healthy.lifestyle.vibe/video/7665175058071047455",
+            "image": "https://database.euka.ai/storage/v1/object/public/creator_videos_photos/7665175058071047455.webp",
+            "image_alt": "Creator video",
+            "tag": "Calm, not wired",
+            "quote": "“Clarity. Focus. No caffeine. Just dialed in.”",
+            "handle": "@healthy.lifestyle.vibe",
+            "figure": "$120",
+            "note": "TikTok Shop · 1 order",
+            "sales": {
+              "figure": "$120",
               "note": "TikTok Shop · 1 order",
               "source": "tiktok_shop",
               "window": {
-                "start": "2026-07-14",
-                "end": "2026-10-11"
+                "start": "2026-07-17",
+                "end": "2026-10-14"
               },
-              "as_of": "2026-10-11"
+              "as_of": "2026-10-14"
+            }
+          },
+          {
+            "url": "https://www.tiktok.com/@averagejoe_deals4u/video/7687451092606553374",
+            "image": "https://database.euka.ai/storage/v1/object/public/creator_videos_photos/7687451092606553374.webp",
+            "image_alt": "Creator video",
+            "tag": "No jitters",
+            "quote": "“These are an excellent alternative to energy drinks. This right here does not give you jitters because it doesn’t have caffeine.”",
+            "handle": "@averagejoe_deals4u",
+            "figure": "$96",
+            "note": "TikTok Shop · 1 order",
+            "sales": {
+              "figure": "$96",
+              "note": "TikTok Shop · 1 order",
+              "source": "tiktok_shop",
+              "window": {
+                "start": "2026-07-17",
+                "end": "2026-10-14"
+              },
+              "as_of": "2026-10-14"
+            }
+          },
+          {
+            "url": "https://www.tiktok.com/@minadworkwife/video/7674376732123745550",
+            "image": "https://database.euka.ai/storage/v1/object/public/creator_videos_photos/7674376732123745550.webp",
+            "image_alt": "Creator video",
+            "tag": "The evening moment",
+            "quote": "“We're at the lake, it's 6 o'clock on a Monday night, we're gonna do a sunset cruise and I don't want to get the evening…”",
+            "handle": "@minadworkwife",
+            "figure": "$60",
+            "note": "TikTok Shop · 1 order",
+            "sales": {
+              "figure": "$60",
+              "note": "TikTok Shop · 1 order",
+              "source": "tiktok_shop",
+              "window": {
+                "start": "2026-07-17",
+                "end": "2026-10-14"
+              },
+              "as_of": "2026-10-14"
             }
           }
         ]
@@ -16702,7 +17115,7 @@
       {
         "block": "amber",
         "label": "What they have in common",
-        "text": "**Every one opens on a person or a moment, never on ketones, and sounds like the person who filmed it rather than an ad read.**"
+        "text": "**Every one opens on a person or a moment, never on ketones, and sounds like the person who filmed it rather than an ad read.** None of them has the 8pm lock-in yet. Be the first."
       },
       {
         "block": "eyebrow",

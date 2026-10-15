@@ -112,14 +112,15 @@ details.howto[open] summary:after{content:"\2212";}
 .pk{color:var(--ink2);font-size:14.5px;line-height:1.5;margin:0 0 12px;}
 
 /* video cards */
-.wins{display:grid;grid-template-columns:repeat(auto-fill,minmax(160px,1fr));gap:12px;}
+.wins{display:grid;grid-template-columns:repeat(auto-fit,minmax(170px,1fr));gap:14px;}
 .win{display:block;text-decoration:none;color:inherit;border:1px solid var(--line);border-radius:14px;overflow:hidden;background:#fff;transition:box-shadow .15s ease,transform .1s ease;}
 .win:hover{box-shadow:0 8px 24px rgba(53,87,183,.16);}
-.win img{display:block;width:100%;aspect-ratio:9/16;object-fit:cover;background:var(--panel);}
+.win img{display:block;width:100%;aspect-ratio:4/5;object-fit:cover;object-position:center 30%;background:var(--panel);}
 .win .wb{padding:11px 12px 13px;}
 .win .wtag{font-size:10.5px;letter-spacing:1.2px;text-transform:uppercase;font-weight:800;color:var(--violet);}
 .win .wq{font-size:13.5px;line-height:1.42;color:var(--ink);font-weight:700;margin:6px 0 8px;}
-.win .wm{font-size:12px;color:var(--ink2);display:flex;justify-content:space-between;align-items:center;gap:6px;}
+.win .wm{font-size:12px;color:var(--ink2);display:flex;flex-wrap:wrap;justify-content:space-between;align-items:baseline;gap:2px 8px;}
+.win .wm span{min-width:0;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;}
 .win .wm b{color:var(--orange);font-size:13px;}
 .win .wn{font-size:10.5px;line-height:1.35;color:var(--muted);margin-top:4px;letter-spacing:.3px;text-transform:uppercase;font-weight:700;}
 
