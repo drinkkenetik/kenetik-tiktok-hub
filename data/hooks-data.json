@@ -8445,12 +8445,12 @@
         "how": "quoted from a video that sold inside the proof window"
       },
       "proof": {
-        "videos_made": 1,
-        "converting_videos": 1,
-        "distinct_creators": 1,
-        "revenue_usd": 160.34,
-        "as_of": "2026-10-12",
-        "how": "Counted from the videos whose spoken opening matched this line and were posted between 2026-09-15 and 2026-10-12. One creator so far."
+        "videos_made": "UNKNOWN",
+        "converting_videos": "UNKNOWN",
+        "distinct_creators": "UNKNOWN",
+        "revenue_usd": "UNKNOWN",
+        "as_of": "2026-10-15",
+        "how": "no video has been read against this line yet"
       },
       "rules": {
         "checked_on": "2026-10-11",
@@ -8553,7 +8553,7 @@
         "broken": [],
         "carries_claim": false
       },
-      "angle_id_proposed": "unclassified",
+      "angle_id_proposed": "caffeine-stopped-working",
       "entered": {
         "on": "2026-10-15",
         "tab": "top-3",
@@ -8833,7 +8833,7 @@
         "broken": [],
         "carries_claim": false
       },
-      "angle_id_proposed": "unclassified",
+      "angle_id_proposed": "caffeine-stopped-working",
       "entered": {
         "on": "2026-10-15",
         "tab": "biohackers",
@@ -8868,7 +8868,7 @@
         "broken": [],
         "carries_claim": false
       },
-      "angle_id_proposed": "unclassified",
+      "angle_id_proposed": "what-it-is",
       "entered": {
         "on": "2026-10-15",
         "tab": "biohackers",
@@ -8903,7 +8903,7 @@
         "broken": [],
         "carries_claim": false
       },
-      "angle_id_proposed": "unclassified",
+      "angle_id_proposed": "what-it-is",
       "entered": {
         "on": "2026-10-15",
         "tab": "blue-collar",
@@ -8938,7 +8938,7 @@
         "broken": [],
         "carries_claim": false
       },
-      "angle_id_proposed": "unclassified",
+      "angle_id_proposed": "caffeine-stopped-working",
       "entered": {
         "on": "2026-10-15",
         "tab": "blue-collar",
@@ -8973,7 +8973,7 @@
         "broken": [],
         "carries_claim": false
       },
-      "angle_id_proposed": "unclassified",
+      "angle_id_proposed": "what-it-is",
       "entered": {
         "on": "2026-10-15",
         "tab": "blue-collar",
@@ -9008,7 +9008,7 @@
         "broken": [],
         "carries_claim": false
       },
-      "angle_id_proposed": "unclassified",
+      "angle_id_proposed": "caffeine-stopped-working",
       "entered": {
         "on": "2026-10-15",
         "tab": "brain-health",
@@ -9043,7 +9043,7 @@
         "broken": [],
         "carries_claim": false
       },
-      "angle_id_proposed": "unclassified",
+      "angle_id_proposed": "caffeine-stopped-working",
       "entered": {
         "on": "2026-10-15",
         "tab": "brain-health",
@@ -9078,7 +9078,7 @@
         "broken": [],
         "carries_claim": false
       },
-      "angle_id_proposed": "unclassified",
+      "angle_id_proposed": "what-it-is",
       "entered": {
         "on": "2026-10-15",
         "tab": "brain-health",
@@ -9113,7 +9113,7 @@
         "broken": [],
         "carries_claim": false
       },
-      "angle_id_proposed": "unclassified",
+      "angle_id_proposed": "caffeine-stopped-working",
       "entered": {
         "on": "2026-10-15",
         "tab": "cycling-endurance",
@@ -9253,7 +9253,7 @@
         "broken": [],
         "carries_claim": false
       },
-      "angle_id_proposed": "unclassified",
+      "angle_id_proposed": "caffeine-stopped-working",
       "entered": {
         "on": "2026-10-15",
         "tab": "entrepreneurs",
@@ -9288,7 +9288,7 @@
         "broken": [],
         "carries_claim": false
       },
-      "angle_id_proposed": "unclassified",
+      "angle_id_proposed": "what-it-is",
       "entered": {
         "on": "2026-10-15",
         "tab": "entrepreneurs",
@@ -9323,7 +9323,7 @@
         "broken": [],
         "carries_claim": false
       },
-      "angle_id_proposed": "unclassified",
+      "angle_id_proposed": "what-it-is",
       "entered": {
         "on": "2026-10-15",
         "tab": "first-responders",
@@ -9358,7 +9358,7 @@
         "broken": [],
         "carries_claim": false
       },
-      "angle_id_proposed": "unclassified",
+      "angle_id_proposed": "caffeine-stopped-working",
       "entered": {
         "on": "2026-10-15",
         "tab": "first-responders",
@@ -9393,7 +9393,7 @@
         "broken": [],
         "carries_claim": false
       },
-      "angle_id_proposed": "unclassified",
+      "angle_id_proposed": "what-it-is",
       "entered": {
         "on": "2026-10-15",
         "tab": "first-responders",
@@ -9428,7 +9428,7 @@
         "broken": [],
         "carries_claim": false
       },
-      "angle_id_proposed": "unclassified",
+      "angle_id_proposed": "in-the-moment",
       "entered": {
         "on": "2026-10-15",
         "tab": "fitness-gym",
@@ -9498,7 +9498,7 @@
         "broken": [],
         "carries_claim": false
       },
-      "angle_id_proposed": "unclassified",
+      "angle_id_proposed": "caffeine-stopped-working",
       "entered": {
         "on": "2026-10-15",
         "tab": "fitness-gym",
@@ -9533,7 +9533,7 @@
         "broken": [],
         "carries_claim": false
       },
-      "angle_id_proposed": "unclassified",
+      "angle_id_proposed": "in-the-moment",
       "entered": {
         "on": "2026-10-15",
         "tab": "fitness-moms",
@@ -9568,7 +9568,7 @@
         "broken": [],
         "carries_claim": false
       },
-      "angle_id_proposed": "unclassified",
+      "angle_id_proposed": "caffeine-stopped-working",
       "entered": {
         "on": "2026-10-15",
         "tab": "fitness-moms",
@@ -9603,7 +9603,7 @@
         "broken": [],
         "carries_claim": false
       },
-      "angle_id_proposed": "unclassified",
+      "angle_id_proposed": "what-it-is",
       "entered": {
         "on": "2026-10-15",
         "tab": "fitness-moms",
@@ -9638,7 +9638,7 @@
         "broken": [],
         "carries_claim": false
       },
-      "angle_id_proposed": "unclassified",
+      "angle_id_proposed": "what-it-is",
       "entered": {
         "on": "2026-10-15",
         "tab": "gaming",
@@ -9673,7 +9673,7 @@
         "broken": [],
         "carries_claim": false
       },
-      "angle_id_proposed": "unclassified",
+      "angle_id_proposed": "what-it-is",
       "entered": {
         "on": "2026-10-15",
         "tab": "gaming",
@@ -9708,7 +9708,7 @@
         "broken": [],
         "carries_claim": false
       },
-      "angle_id_proposed": "unclassified",
+      "angle_id_proposed": "caffeine-stopped-working",
       "entered": {
         "on": "2026-10-15",
         "tab": "gaming",
@@ -9743,7 +9743,7 @@
         "broken": [],
         "carries_claim": false
       },
-      "angle_id_proposed": "unclassified",
+      "angle_id_proposed": "what-it-is",
       "entered": {
         "on": "2026-10-15",
         "tab": "gearheads",
@@ -9813,7 +9813,7 @@
         "broken": [],
         "carries_claim": false
       },
-      "angle_id_proposed": "unclassified",
+      "angle_id_proposed": "what-it-is",
       "entered": {
         "on": "2026-10-15",
         "tab": "gearheads",
@@ -9848,7 +9848,7 @@
         "broken": [],
         "carries_claim": false
       },
-      "angle_id_proposed": "unclassified",
+      "angle_id_proposed": "what-it-is",
       "entered": {
         "on": "2026-10-15",
         "tab": "gen-z",
@@ -9883,7 +9883,7 @@
         "broken": [],
         "carries_claim": false
       },
-      "angle_id_proposed": "unclassified",
+      "angle_id_proposed": "caffeine-stopped-working",
       "entered": {
         "on": "2026-10-15",
         "tab": "gen-z",
@@ -9918,7 +9918,7 @@
         "broken": [],
         "carries_claim": false
       },
-      "angle_id_proposed": "unclassified",
+      "angle_id_proposed": "what-it-is",
       "entered": {
         "on": "2026-10-15",
         "tab": "gen-z",
@@ -9953,7 +9953,7 @@
         "broken": [],
         "carries_claim": false
       },
-      "angle_id_proposed": "unclassified",
+      "angle_id_proposed": "caffeine-stopped-working",
       "entered": {
         "on": "2026-10-15",
         "tab": "golf",
@@ -9988,7 +9988,7 @@
         "broken": [],
         "carries_claim": false
       },
-      "angle_id_proposed": "unclassified",
+      "angle_id_proposed": "caffeine-stopped-working",
       "entered": {
         "on": "2026-10-15",
         "tab": "golf",
@@ -10023,7 +10023,7 @@
         "broken": [],
         "carries_claim": false
       },
-      "angle_id_proposed": "unclassified",
+      "angle_id_proposed": "caffeine-stopped-working",
       "entered": {
         "on": "2026-10-15",
         "tab": "golf",
@@ -10058,7 +10058,7 @@
         "broken": [],
         "carries_claim": false
       },
-      "angle_id_proposed": "unclassified",
+      "angle_id_proposed": "what-it-is",
       "entered": {
         "on": "2026-10-15",
         "tab": "hyrox",
@@ -10093,7 +10093,7 @@
         "broken": [],
         "carries_claim": false
       },
-      "angle_id_proposed": "unclassified",
+      "angle_id_proposed": "what-it-is",
       "entered": {
         "on": "2026-10-15",
         "tab": "hyrox",
@@ -10128,7 +10128,7 @@
         "broken": [],
         "carries_claim": false
       },
-      "angle_id_proposed": "unclassified",
+      "angle_id_proposed": "caffeine-stopped-working",
       "entered": {
         "on": "2026-10-15",
         "tab": "hyrox",
@@ -10163,7 +10163,7 @@
         "broken": [],
         "carries_claim": false
       },
-      "angle_id_proposed": "unclassified",
+      "angle_id_proposed": "in-the-moment",
       "entered": {
         "on": "2026-10-15",
         "tab": "mma",
@@ -10233,7 +10233,7 @@
         "broken": [],
         "carries_claim": false
       },
-      "angle_id_proposed": "unclassified",
+      "angle_id_proposed": "in-the-moment",
       "entered": {
         "on": "2026-10-15",
         "tab": "mma",
@@ -10303,7 +10303,7 @@
         "broken": [],
         "carries_claim": false
       },
-      "angle_id_proposed": "unclassified",
+      "angle_id_proposed": "what-it-is",
       "entered": {
         "on": "2026-10-15",
         "tab": "mma",
@@ -10338,7 +10338,7 @@
         "broken": [],
         "carries_claim": false
       },
-      "angle_id_proposed": "unclassified",
+      "angle_id_proposed": "what-it-is",
       "entered": {
         "on": "2026-10-15",
         "tab": "nurses",
@@ -10373,7 +10373,7 @@
         "broken": [],
         "carries_claim": false
       },
-      "angle_id_proposed": "unclassified",
+      "angle_id_proposed": "caffeine-stopped-working",
       "entered": {
         "on": "2026-10-15",
         "tab": "nurses",
@@ -10408,7 +10408,7 @@
         "broken": [],
         "carries_claim": false
       },
-      "angle_id_proposed": "unclassified",
+      "angle_id_proposed": "what-it-is",
       "entered": {
         "on": "2026-10-15",
         "tab": "nurses",
@@ -10478,7 +10478,7 @@
         "broken": [],
         "carries_claim": false
       },
-      "angle_id_proposed": "unclassified",
+      "angle_id_proposed": "caffeine-stopped-working",
       "entered": {
         "on": "2026-10-15",
         "tab": "price",
@@ -10513,7 +10513,7 @@
         "broken": [],
         "carries_claim": false
       },
-      "angle_id_proposed": "unclassified",
+      "angle_id_proposed": "caffeine-stopped-working",
       "entered": {
         "on": "2026-10-15",
         "tab": "price",
@@ -10548,7 +10548,7 @@
         "broken": [],
         "carries_claim": false
       },
-      "angle_id_proposed": "unclassified",
+      "angle_id_proposed": "what-it-is",
       "entered": {
         "on": "2026-10-15",
         "tab": "racing",
@@ -10618,7 +10618,7 @@
         "broken": [],
         "carries_claim": false
       },
-      "angle_id_proposed": "unclassified",
+      "angle_id_proposed": "what-it-is",
       "entered": {
         "on": "2026-10-15",
         "tab": "racing",
@@ -10688,7 +10688,7 @@
         "broken": [],
         "carries_claim": false
       },
-      "angle_id_proposed": "unclassified",
+      "angle_id_proposed": "what-it-is",
       "entered": {
         "on": "2026-10-15",
         "tab": "travel",
@@ -10723,7 +10723,7 @@
         "broken": [],
         "carries_claim": false
       },
-      "angle_id_proposed": "unclassified",
+      "angle_id_proposed": "caffeine-stopped-working",
       "entered": {
         "on": "2026-10-15",
         "tab": "travel",
@@ -10758,7 +10758,7 @@
         "broken": [],
         "carries_claim": false
       },
-      "angle_id_proposed": "unclassified",
+      "angle_id_proposed": "what-it-is",
       "entered": {
         "on": "2026-10-15",
         "tab": "trx-shots",
@@ -10793,7 +10793,7 @@
         "broken": [],
         "carries_claim": false
       },
-      "angle_id_proposed": "unclassified",
+      "angle_id_proposed": "what-it-is",
       "entered": {
         "on": "2026-10-15",
         "tab": "trx-shots",
@@ -10828,7 +10828,7 @@
         "broken": [],
         "carries_claim": false
       },
-      "angle_id_proposed": "unclassified",
+      "angle_id_proposed": "caffeine-stopped-working",
       "entered": {
         "on": "2026-10-15",
         "tab": "ultra",
@@ -10898,7 +10898,7 @@
         "broken": [],
         "carries_claim": false
       },
-      "angle_id_proposed": "unclassified",
+      "angle_id_proposed": "caffeine-stopped-working",
       "entered": {
         "on": "2026-10-15",
         "tab": "ultra",
@@ -10933,7 +10933,7 @@
         "broken": [],
         "carries_claim": false
       },
-      "angle_id_proposed": "unclassified",
+      "angle_id_proposed": "caffeine-stopped-working",
       "entered": {
         "on": "2026-10-15",
         "tab": "women-18-30",
@@ -10968,7 +10968,7 @@
         "broken": [],
         "carries_claim": false
       },
-      "angle_id_proposed": "unclassified",
+      "angle_id_proposed": "what-it-is",
       "entered": {
         "on": "2026-10-15",
         "tab": "women-18-30",
@@ -11003,7 +11003,7 @@
         "broken": [],
         "carries_claim": false
       },
-      "angle_id_proposed": "unclassified",
+      "angle_id_proposed": "caffeine-stopped-working",
       "entered": {
         "on": "2026-10-15",
         "tab": "women-18-30",
@@ -11038,7 +11038,7 @@
         "broken": [],
         "carries_claim": false
       },
-      "angle_id_proposed": "unclassified",
+      "angle_id_proposed": "caffeine-stopped-working",
       "entered": {
         "on": "2026-10-15",
         "tab": "women-40-menopause",
@@ -11073,7 +11073,7 @@
         "broken": [],
         "carries_claim": false
       },
-      "angle_id_proposed": "unclassified",
+      "angle_id_proposed": "caffeine-stopped-working",
       "entered": {
         "on": "2026-10-15",
         "tab": "women-40-menopause",
@@ -11143,7 +11143,7 @@
         "broken": [],
         "carries_claim": false
       },
-      "angle_id_proposed": "unclassified"
+      "angle_id_proposed": "what-it-is"
     },
     "h-0381": {
       "hook_id": "h-0381",
@@ -11168,7 +11168,7 @@
         "broken": [],
         "carries_claim": false
       },
-      "angle_id_proposed": "unclassified"
+      "angle_id_proposed": "what-it-is"
     },
     "h-0382": {
       "hook_id": "h-0382",
@@ -11193,7 +11193,7 @@
         "broken": [],
         "carries_claim": false
       },
-      "angle_id_proposed": "unclassified"
+      "angle_id_proposed": "caffeine-stopped-working"
     },
     "h-0383": {
       "hook_id": "h-0383",
@@ -11293,7 +11293,7 @@
         "broken": [],
         "carries_claim": false
       },
-      "angle_id_proposed": "unclassified"
+      "angle_id_proposed": "caffeine-stopped-working"
     },
     "h-0387": {
       "hook_id": "h-0387",
@@ -11343,7 +11343,7 @@
         "broken": [],
         "carries_claim": false
       },
-      "angle_id_proposed": "unclassified"
+      "angle_id_proposed": "what-it-is"
     },
     "h-0389": {
       "hook_id": "h-0389",
@@ -11393,7 +11393,7 @@
         "broken": [],
         "carries_claim": false
       },
-      "angle_id_proposed": "unclassified",
+      "angle_id_proposed": "what-it-is",
       "entered": {
         "on": "2026-10-15",
         "tab": "trx-shots",
@@ -11428,7 +11428,7 @@
         "broken": [],
         "carries_claim": false
       },
-      "angle_id_proposed": "unclassified",
+      "angle_id_proposed": "what-it-is",
       "entered": {
         "on": "2026-10-15",
         "tab": "trx-shots",
@@ -11463,7 +11463,7 @@
         "broken": [],
         "carries_claim": false
       },
-      "angle_id_proposed": "unclassified",
+      "angle_id_proposed": "caffeine-stopped-working",
       "entered": {
         "on": "2026-10-15",
         "tab": "trx-shots",
@@ -11498,7 +11498,7 @@
         "broken": [],
         "carries_claim": false
       },
-      "angle_id_proposed": "unclassified"
+      "angle_id_proposed": "what-it-is"
     },
     "h-0394": {
       "hook_id": "h-0394",
@@ -11548,7 +11548,7 @@
         "broken": [],
         "carries_claim": false
       },
-      "angle_id_proposed": "unclassified"
+      "angle_id_proposed": "caffeine-stopped-working"
     },
     "h-0396": {
       "hook_id": "h-0396",
@@ -11573,7 +11573,7 @@
         "broken": [],
         "carries_claim": false
       },
-      "angle_id_proposed": "unclassified"
+      "angle_id_proposed": "what-it-is"
     },
     "h-0397": {
       "hook_id": "h-0397",
@@ -11623,7 +11623,7 @@
         "broken": [],
         "carries_claim": false
       },
-      "angle_id_proposed": "unclassified"
+      "angle_id_proposed": "what-it-is"
     },
     "h-0399": {
       "hook_id": "h-0399",
@@ -11648,7 +11648,7 @@
         "broken": [],
         "carries_claim": false
       },
-      "angle_id_proposed": "unclassified"
+      "angle_id_proposed": "what-it-is"
     },
     "h-0400": {
       "hook_id": "h-0400",
@@ -15797,55 +15797,6 @@
   "changes_pending": [
     {
       "kind": "hook_swap",
-      "tab": "general",
-      "in": "h-0297",
-      "out": "h-0019",
-      "owner": "nick",
-      "since": "2026-10-05",
-      "evidence": {
-        "in": {
-          "text": "This energy drink with no caffeine. Simply little weird. Until I figured out how it works. And this is Kenetik.",
-          "source": {
-            "kind": "quoted",
-            "creator": "7496167815652149509",
-            "euka_video_id": "7686203776956402957",
-            "video_url": "https://www.tiktok.com/@win.with.nick.2/video/7686203776956402957",
-            "verified_against": "transcript",
-            "verified_on": "2026-10-05",
-            "convention": "a line a creator said, taken from the transcript of this video rather than the caption under it",
-            "how": "quoted from a video that sold inside the proof window"
-          },
-          "proof": {
-            "converting_videos": 1,
-            "creators": 1,
-            "revenue_usd": 119.76,
-            "window": {
-              "start": "2026-09-08",
-              "end": "2026-10-05"
-            }
-          },
-          "rules": {
-            "passed": true,
-            "broken": [],
-            "carries_claim": false,
-            "how": "This line breaks no rule.",
-            "checked_on": "2026-10-05"
-          }
-        },
-        "out": {
-          "text": "“You know that feeling where the word is right there but your brain will not grab it?”",
-          "proof": {
-            "converting_videos": "UNKNOWN"
-          },
-          "why": "no video has been read against it yet, and an unread line is the weakest a tab has",
-          "position": 9
-        },
-        "verified": "transcript",
-        "how": "A creator said this line on one video that sold between 2026-09-08 and 2026-10-05, and no line on the hub matched it. It would take the place of the weakest line on this tab, which is there because no video has been read against it yet, and an unread line is the weakest a tab has."
-      }
-    },
-    {
-      "kind": "hook_swap",
       "tab": "top-10-now",
       "in": "h-0298",
       "out": "h-0276",
@@ -17427,6 +17378,18 @@
       "owner": "nick",
       "claim_flagged": false,
       "position": 10
+    },
+    {
+      "kind": "hook_swap",
+      "tab": "general",
+      "in": "h-0297",
+      "out": "h-0019",
+      "decision": "withdrawn",
+      "reason": "The line it would replace is no longer on this tab, so there is nothing for it to take the place of.",
+      "by": "the turn",
+      "at": "2026-10-15",
+      "owner": "nick",
+      "claim_flagged": false
     }
   ],
   "grandfathered": [
