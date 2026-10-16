@@ -487,9 +487,8 @@ function renderTopNow(tab){
         ? esc(' Counted from ' + inWords(window_.start) + ' to ' + inWords(window_.end) + '.') : '') + '</p>';
 }
 
-/* The video formula is the same on every audience tab and is shown in full on Start Here, so on
-   an audience tab it folds away under its own eyebrow rather than sitting between the reader and
-   the hooks. */
+/* The video formula sits under its own eyebrow on every audience tab, open by default (Nick,
+   10/16: a closed fold read as a heading, not as something to tap). It can still be folded away. */
 function isCoreTab(tab){ return CORE.indexOf(tab.slug) !== -1; }
 
 function foldFormula(tab, blocks){
@@ -526,7 +525,7 @@ function renderBlocks(tab, blocks, win){
       case 'formula':
         return renderFormula(b.steps != null ? b.steps : tab.formula);
       case 'howto':
-        return '<details class="howto"><summary>' + rich(b.title) + '</summary>'
+        return '<details class="howto" open><summary>' + rich(b.title) + '</summary>'
           + renderFormula(b.steps != null ? b.steps : tab.formula) + '</details>';
       case 'hooks':
         return renderHooks(tab, b.hook_ids || []);
