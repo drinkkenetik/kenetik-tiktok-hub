@@ -2547,7 +2547,7 @@
     "h-0090": {
       "hook_id": "h-0090",
       "text": "“If you’re blaming yourself for the brain fog, stop. You’re not slipping, your brain’s just running low on fuel. Here’s what actually helped me.”",
-      "angle": "A warm opener that takes the blame off. Say it gently, straight to camera.",
+      "angle": "Takes the blame off. Say it gently, like a friend would.",
       "format": "Video, direct-to-cam",
       "source": {
         "kind": "composed",
@@ -2599,7 +2599,7 @@
     "h-0092": {
       "hook_id": "h-0092",
       "text": "“For months I felt foggy and scattered every single afternoon. I changed one thing about how I fuel my brain, and I finally feel like me again.”",
-      "angle": "Use it if the afternoons really did feel like this for months. Show today’s afternoon.",
+      "angle": "Use it if the afternoons really felt like this. Show today’s afternoon.",
       "format": "Video, “feel like me again”",
       "source": {
         "kind": "composed",
@@ -2773,7 +2773,7 @@
     "h-0098": {
       "hook_id": "h-0098",
       "text": "“When your brain runs low on fuel you don’t feel tired, you feel foggy and forgetful. Here’s how I keep mine fueled, no caffeine needed.”",
-      "angle": "A simple explainer. Use it if you like teaching while you talk.",
+      "angle": "A simple explainer, for creators who like to teach while they talk.",
       "format": "Video, calm explainer",
       "source": {
         "kind": "composed",
@@ -11724,6 +11724,181 @@
         "carries_claim": false
       },
       "angle_id_proposed": "unclassified"
+    },
+    "h-0403": {
+      "hook_id": "h-0403",
+      "text": "“I’m not tired at 2pm. I’m foggy. There’s a difference, and coffee was never the answer to it.”",
+      "angle": "The opener that names the real problem. Say it plainly, straight to camera.",
+      "source": {
+        "kind": "composed",
+        "convention": "no a.hsrc source link on this line, which is how the page marks a line a creator said; an unmarked line is recorded as composed",
+        "how": "written by hand 10/16 from the Emily/Katie connect, at Nick's direction"
+      },
+      "proof": {
+        "videos_made": "UNKNOWN",
+        "converting_videos": "UNKNOWN",
+        "distinct_creators": "UNKNOWN",
+        "revenue_usd": "UNKNOWN",
+        "as_of": "2026-10-16",
+        "how": "no video has been read against this line yet"
+      },
+      "rules": {
+        "checked_on": "2026-10-16",
+        "passed": true,
+        "broken": [],
+        "carries_claim": false
+      },
+      "angle_id_proposed": "unclassified",
+      "entered": {
+        "on": "2026-10-16",
+        "tab": "women-40-menopause",
+        "displaced": "h-0377",
+        "by": "nicklac@drinkkenetik.com",
+        "figures": {
+          "in": "UNKNOWN",
+          "out": "UNKNOWN"
+        }
+      }
+    },
+    "h-0404": {
+      "hook_id": "h-0404",
+      "text": "“2pm is when my brain used to leave the room. Lost words, the same email three times. Now that’s when I crack this, and I feel like me again.”",
+      "angle": "Use it if your afternoons looked like this. Film it at your 2pm.",
+      "source": {
+        "kind": "composed",
+        "convention": "no a.hsrc source link on this line, which is how the page marks a line a creator said; an unmarked line is recorded as composed",
+        "how": "written by hand 10/16 from the Emily/Katie connect, at Nick's direction"
+      },
+      "proof": {
+        "videos_made": "UNKNOWN",
+        "converting_videos": "UNKNOWN",
+        "distinct_creators": "UNKNOWN",
+        "revenue_usd": "UNKNOWN",
+        "as_of": "2026-10-16",
+        "how": "no video has been read against this line yet"
+      },
+      "rules": {
+        "checked_on": "2026-10-16",
+        "passed": true,
+        "broken": [],
+        "carries_claim": false
+      },
+      "angle_id_proposed": "unclassified",
+      "entered": {
+        "on": "2026-10-16",
+        "tab": "women-40-menopause",
+        "displaced": "h-0378",
+        "by": "nicklac@drinkkenetik.com",
+        "figures": {
+          "in": "UNKNOWN",
+          "out": "UNKNOWN"
+        }
+      }
+    },
+    "h-0405": {
+      "hook_id": "h-0405",
+      "text": "“Coffee got me through the afternoon, then had me wide awake at 2am. I needed the first part without the second.”",
+      "angle": "The sleep line, said the right way: what coffee did, never what this does for sleep.",
+      "source": {
+        "kind": "composed",
+        "convention": "no a.hsrc source link on this line, which is how the page marks a line a creator said; an unmarked line is recorded as composed",
+        "how": "written by hand 10/16 from the Emily/Katie connect, at Nick's direction"
+      },
+      "proof": {
+        "videos_made": "UNKNOWN",
+        "converting_videos": "UNKNOWN",
+        "distinct_creators": "UNKNOWN",
+        "revenue_usd": "UNKNOWN",
+        "as_of": "2026-10-16",
+        "how": "no video has been read against this line yet"
+      },
+      "rules": {
+        "checked_on": "2026-10-16",
+        "passed": true,
+        "broken": [],
+        "carries_claim": false
+      },
+      "angle_id_proposed": "unclassified",
+      "entered": {
+        "on": "2026-10-16",
+        "tab": "women-40-menopause",
+        "displaced": "h-0095",
+        "by": "nicklac@drinkkenetik.com",
+        "figures": {
+          "in": "UNKNOWN",
+          "out": "UNKNOWN"
+        }
+      }
+    },
+    "h-0406": {
+      "hook_id": "h-0406",
+      "text": "“It doesn’t push me past myself the way caffeine did. It just brings me back. That’s my 2pm can.”",
+      "angle": "The recharge, not the push. Calm and steady on camera.",
+      "source": {
+        "kind": "composed",
+        "convention": "no a.hsrc source link on this line, which is how the page marks a line a creator said; an unmarked line is recorded as composed",
+        "how": "written by hand 10/16 from the Emily/Katie connect, at Nick's direction"
+      },
+      "proof": {
+        "videos_made": "UNKNOWN",
+        "converting_videos": "UNKNOWN",
+        "distinct_creators": "UNKNOWN",
+        "revenue_usd": "UNKNOWN",
+        "as_of": "2026-10-16",
+        "how": "no video has been read against this line yet"
+      },
+      "rules": {
+        "checked_on": "2026-10-16",
+        "passed": true,
+        "broken": [],
+        "carries_claim": false
+      },
+      "angle_id_proposed": "unclassified",
+      "entered": {
+        "on": "2026-10-16",
+        "tab": "women-40-menopause",
+        "displaced": "h-0379",
+        "by": "nicklac@drinkkenetik.com",
+        "figures": {
+          "in": "UNKNOWN",
+          "out": "UNKNOWN"
+        }
+      }
+    },
+    "h-0407": {
+      "hook_id": "h-0407",
+      "text": "“Practice pickup at 5, a work call at 6, and I need my head back by 4. Brain fuel, no caffeine, nothing keeping me up later.”",
+      "angle": "For the second shift of the day. Film it in the car or at the field.",
+      "source": {
+        "kind": "composed",
+        "convention": "no a.hsrc source link on this line, which is how the page marks a line a creator said; an unmarked line is recorded as composed",
+        "how": "written by hand 10/16 from the Emily/Katie connect, at Nick's direction"
+      },
+      "proof": {
+        "videos_made": "UNKNOWN",
+        "converting_videos": "UNKNOWN",
+        "distinct_creators": "UNKNOWN",
+        "revenue_usd": "UNKNOWN",
+        "as_of": "2026-10-16",
+        "how": "no video has been read against this line yet"
+      },
+      "rules": {
+        "checked_on": "2026-10-16",
+        "passed": true,
+        "broken": [],
+        "carries_claim": false
+      },
+      "angle_id_proposed": "unclassified",
+      "entered": {
+        "on": "2026-10-16",
+        "tab": "women-40-menopause",
+        "displaced": "h-0097",
+        "by": "nicklac@drinkkenetik.com",
+        "figures": {
+          "in": "UNKNOWN",
+          "out": "UNKNOWN"
+        }
+      }
     }
   },
   "tabs": [
@@ -13755,9 +13930,9 @@
       "slug": "women-40-menopause",
       "label": "🌿 Women 40+ / Menopause",
       "nav_order": 11,
-      "title": "Hooks for women 40 and over",
-      "sub": "10 hooks · the moment: 4pm, when coffee is off the table",
-      "audience": "Women in their 40s and 50s with a full evening still ahead: work, kids, dinner, the inbox. Many have dropped the afternoon coffee because it leaves them wired and lying awake. Kenetik is caffeine-free brain fuel for the 4pm slump and the hours after it, clear and on it with nothing in it keeping you up. **The moment to own here:** the afternoon and evening, when coffee is off the table because rest is already hard won.",
+      "title": "Hooks for women in perimenopause and menopause",
+      "sub": "10 hooks · the moment: 2pm brain fog",
+      "audience": "Women in perimenopause and menopause, mostly 40 to 60, many running a career and a household at once. The thing they name most now is brain fog, more than hot flashes: losing a word mid-sentence, rereading the same email, not feeling like yourself by 2pm. Coffee gets them through the afternoon, then they are wide awake at 2am. Kenetik is caffeine-free brain fuel. Think of it as a recharge back to yourself, never a push past it, with nothing in it keeping you up tonight. **The moment to own here:** the 2pm brain fog, and getting your head back for the rest of the day.",
       "formula": [
         {
           "title": "Hook",
@@ -13778,28 +13953,29 @@
       ],
       "dos": [
         "Say “brain fuel” at least once, every video.",
-        "Speak only to how it feels for you: clear, on it, like yourself. Menopause is your life stage, and the claim stays with how you feel.",
-        "Show your real 4pm: the school pickup, the third meeting, the dinner still to make.",
-        "Name the coffee you skip now, and why, in your own words."
+        "Lead with brain fog, in your own words: the lost word, the reread email, the 2pm fade. One problem per video.",
+        "Sleep comes second, and only as an absence: “nothing in it keeping me up at 2am.” Never that it helps you sleep.",
+        "Show the life you are running: the meeting, the workout, the pickup. Capable and on it, never a tired-and-aging cliché.",
+        "Talk like a friend who has been there, not an expert. Your real afternoon is the proof."
       ],
       "donts": [
         "Call it an energy drink, pre-workout or supplement. It’s metabolic brain fuel.",
-        "Make medical claims or promise better sleep. Menopause is the life stage you’re in, never something Kenetik treats.",
-        "Fake urgency. Only claim a sellout that actually happened, and name it.",
+        "Say it treats, balances or fixes menopause, hormones, brain fog or memory, or that it helps you sleep. Say how it feels for you.",
+        "Promise a buzz. The feeling is clear and like yourself, never wired or pushed.",
         "Point at a shopping button on screen. Say “shop now” out loud instead, so the video still works when we run it as an ad.",
         "Lead with a discount. If there’s an offer, save it for the end."
       ],
       "hook_ids": [
-        "h-0377",
-        "h-0378",
-        "h-0095",
-        "h-0379",
+        "h-0403",
         "h-0099",
-        "h-0092",
+        "h-0404",
+        "h-0405",
         "h-0090",
-        "h-0097",
-        "h-0098",
-        "h-0091"
+        "h-0406",
+        "h-0091",
+        "h-0092",
+        "h-0407",
+        "h-0098"
       ],
       "angles": [],
       "layout": [
@@ -13819,7 +13995,7 @@
         {
           "block": "amber",
           "label": "🧠 PERSONAL EXPERIENCE ONLY",
-          "text": "**This is the highest-sensitivity vertical.** Never claim Kenetik treats, cures, balances, prevents, or fixes menopause, perimenopause, hormones, brain fog, or memory. No hormone or menopause treatment claims of any kind. Speak only to the felt experience (the fog, the afternoon, forgetting a word) and what it does for YOU (“keeps me clear,” “I feel like me again”). Personal experience only."
+          "text": "**The most sensitive tab on the hub.** Never claim Kenetik treats, cures, balances, prevents or fixes menopause, perimenopause, hormones, brain fog or memory, or that it helps you sleep. Speak only to the felt experience (the fog, the lost word, the 2pm fade) and what it is like for you (“keeps me clear,” “I feel like me again”). Personal experience only."
         },
         {
           "block": "eyebrow",
@@ -13835,16 +14011,16 @@
         {
           "block": "hooks",
           "hook_ids": [
-            "h-0377",
-            "h-0378",
-            "h-0095",
-            "h-0379",
+            "h-0403",
             "h-0099",
-            "h-0092",
+            "h-0404",
+            "h-0405",
             "h-0090",
-            "h-0097",
-            "h-0098",
-            "h-0091"
+            "h-0406",
+            "h-0091",
+            "h-0092",
+            "h-0407",
+            "h-0098"
           ]
         },
         {
@@ -17391,6 +17567,71 @@
       "at": "2026-10-15",
       "owner": "nick",
       "claim_flagged": false
+    },
+    {
+      "kind": "hook_swap",
+      "tab": "women-40-menopause",
+      "in": "h-0403",
+      "out": "h-0377",
+      "decision": "approve",
+      "reason": "Menopause tab rewrite 10/16 from the Emily/Katie connect: brain fog first, sleep only as an absence, recharge not push. Written in session at Nick's direction.",
+      "by": "nicklac@drinkkenetik.com",
+      "at": "2026-10-16",
+      "owner": "nick",
+      "claim_flagged": false,
+      "position": 1
+    },
+    {
+      "kind": "hook_swap",
+      "tab": "women-40-menopause",
+      "in": "h-0404",
+      "out": "h-0378",
+      "decision": "approve",
+      "reason": "Menopause tab rewrite 10/16 from the Emily/Katie connect: brain fog first, sleep only as an absence, recharge not push. Written in session at Nick's direction.",
+      "by": "nicklac@drinkkenetik.com",
+      "at": "2026-10-16",
+      "owner": "nick",
+      "claim_flagged": false,
+      "position": 2
+    },
+    {
+      "kind": "hook_swap",
+      "tab": "women-40-menopause",
+      "in": "h-0405",
+      "out": "h-0095",
+      "decision": "approve",
+      "reason": "Menopause tab rewrite 10/16 from the Emily/Katie connect: brain fog first, sleep only as an absence, recharge not push. Written in session at Nick's direction.",
+      "by": "nicklac@drinkkenetik.com",
+      "at": "2026-10-16",
+      "owner": "nick",
+      "claim_flagged": false,
+      "position": 3
+    },
+    {
+      "kind": "hook_swap",
+      "tab": "women-40-menopause",
+      "in": "h-0406",
+      "out": "h-0379",
+      "decision": "approve",
+      "reason": "Menopause tab rewrite 10/16 from the Emily/Katie connect: brain fog first, sleep only as an absence, recharge not push. Written in session at Nick's direction.",
+      "by": "nicklac@drinkkenetik.com",
+      "at": "2026-10-16",
+      "owner": "nick",
+      "claim_flagged": false,
+      "position": 4
+    },
+    {
+      "kind": "hook_swap",
+      "tab": "women-40-menopause",
+      "in": "h-0407",
+      "out": "h-0097",
+      "decision": "approve",
+      "reason": "Menopause tab rewrite 10/16 from the Emily/Katie connect: brain fog first, sleep only as an absence, recharge not push. Written in session at Nick's direction.",
+      "by": "nicklac@drinkkenetik.com",
+      "at": "2026-10-16",
+      "owner": "nick",
+      "claim_flagged": false,
+      "position": 8
     }
   ],
   "grandfathered": [
@@ -18140,7 +18381,7 @@
           },
           {
             "title": "Women 40+ / Menopause",
-            "description": "Women 40+, focus through menopause.",
+            "description": "2pm brain fog, and feeling like yourself again.",
             "go": "Open →",
             "target_slug": "women-40-menopause",
             "group": "Health and life stage"
