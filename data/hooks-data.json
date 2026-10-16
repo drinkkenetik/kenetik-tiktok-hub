@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "updated": "2026-10-15",
+  "updated": "2026-10-16",
   "written_by": "scripts/hooks_hub_extract.py for the first write; the Monday turn writes the machine fields from 7-2 and people write the editorial fields by hand",
   "rules_version": "hooks-config@4402e2a7 · claims-list@daffab0b · reader@138f4b17",
   "footer": "Kenetik Creator Hub · Hook performance from our TikTok Shop and Meta ad campaigns, measured on each video's spoken opening line. Refreshed weekly. Figures are past performance and not a guarantee of what any individual video will earn.",
@@ -11984,7 +11984,7 @@
             {
               "block": "amber",
               "label": "What to notice",
-              "text": "**Every one opens on something true and specific:** a sum anyone can check, a category named and then taken away, a real time of day. None opens on a discount. Take the same honesty into the late-day moment."
+              "text": "**Every one opens on something true and specific:** a sum anyone can check, a category named and then taken away, a real time of day. None opens on a discount. Take the same honesty into the afternoon moment."
             }
           ]
         },
@@ -12966,7 +12966,7 @@
         },
         {
           "block": "note",
-          "text": "Where a hook links to a video, **that is the real video the number comes from**, and the line is what the creator actually said out loud. Hooks without a link are lines to test rather than transcripts, so the figure beside them belongs to the theme, not to that exact sentence.",
+          "text": "A hook with a creator’s name is a real line from a video that sold; tap the name to watch it. The rest are lines we wrote for you to test. Use one, and if your video sells, it gets featured here.",
           "style": "pk"
         },
         {
@@ -13221,8 +13221,8 @@
       "label": "🔧 Blue Collar / Trades",
       "nav_order": 6,
       "title": "Hooks for blue collar workers and the trades",
-      "sub": "10 hooks · the moment: the last hour of a long shift",
-      "audience": "The 4am start, long hours on the jobsite, a third energy drink by noon and still foggy when the work gets precise. Then wired at night and up again at 4. Kenetik is caffeine-free brain fuel for the late hours of the shift, with nothing in it keeping you up. **The moment to own here:** hour ten on the site, still sharp, with something left for the family and still switching off for the 4am start.",
+      "sub": "10 hooks · the moment: the 2pm wall on the jobsite, and the last hour of the shift",
+      "audience": "The 4am start, long hours on the jobsite, a third energy drink by noon and still foggy by 2 when the work gets precise. Then wired at night and up again at 4. Kenetik is caffeine-free brain fuel for the afternoon and the back half of the shift, with nothing in it keeping you up. **The moment to own here:** the 2pm wall on the site, still sharp through the last hour, with something left for the family and still switching off for the 4am start.",
       "formula": [
         {
           "title": "Hook",
@@ -13243,7 +13243,7 @@
       ],
       "dos": [
         "Say “brain fuel” at least once, every video.",
-        "Land it in the first two seconds, on the site or in the truck.",
+        "Film the afternoon on the site: the 2pm break, the truck, the last hour of the shift.",
         "Tie the late-shift focus to home: the family, the evening.",
         "Caffeine works as an opener: what it did to you, then what changed."
       ],
@@ -13327,8 +13327,8 @@
       "label": "👟 Fitness Moms / Active 40+",
       "nav_order": 7,
       "title": "Hooks for fitness moms and active women over 40",
-      "sub": "10 hooks · the moment: the after-school and after-dinner stretch",
-      "audience": "Active moms who train hard and still hit the afternoon fog, often while easing off caffeine because of how it made them feel. The day does not end at 5: homework, dinner, the evening workout. Kenetik is caffeine-free brain fuel for that stretch, with nothing in it keeping you up. **The moment to own here:** after school and after dinner, still clear, and still switching off when the house finally goes quiet.",
+      "sub": "10 hooks · the moment: the 2pm wall, and the after-dinner stretch",
+      "audience": "Active moms who train hard and still hit the afternoon fog, often while easing off caffeine because of how it made them feel. The day does not end at 5: pickup, homework, dinner, the evening workout. Kenetik is caffeine-free brain fuel for the afternoon and everything after it, with nothing in it keeping you up. **The moment to own here:** the 2pm wall before pickup, still clear through dinner, and still switching off when the house finally goes quiet.",
       "formula": [
         {
           "title": "Hook",
@@ -13349,7 +13349,7 @@
       ],
       "dos": [
         "Say “brain fuel” at least once, every video.",
-        "Hit the evening moment in the first two seconds: homework, dinner, the 8pm workout.",
+        "Hit your real moment in the first two seconds: the 2pm slump, pickup, homework, the 8pm workout.",
         "Keep it real and in her world, filmed at home.",
         "Strong body, clear head, and calm, never wired."
       ],
@@ -13433,8 +13433,8 @@
       "label": "🚗 Gearheads / Garage",
       "nav_order": 8,
       "title": "Hooks for gearheads and garage builders",
-      "sub": "10 hooks · the moment: 9pm in the garage, still on the build",
-      "audience": "Building is a focus craft, and the real work often happens after the day job, late in the garage. That is when you round a bolt or miss a torque spec, and a late coffee means you are still up at 2. Kenetik is caffeine-free brain fuel for the late build: steady hands, clear head, nothing in it keeping you up. **The moment to own here:** the late night in the garage, still dialed on the last bolt, and still switching off in time for work.",
+      "sub": "10 hooks · the moment: the 3pm shop slump, and the late build",
+      "audience": "Building is a focus craft. The afternoon is where the shop day drags and a socket gets dropped, and the real project often happens after the day job, late in the garage. A coffee at 3 means you are still up at 2. Kenetik is caffeine-free brain fuel for the afternoon and the late build: steady hands, clear head, nothing in it keeping you up. **The moment to own here:** the 3pm slump in the shop and the night on the build, still dialed on the last bolt, and still switching off in time for work.",
       "formula": [
         {
           "title": "Hook",
@@ -13455,7 +13455,7 @@
       ],
       "dos": [
         "Say “brain fuel” at least once, every video.",
-        "Film it where you build, late, under the shop lights.",
+        "Film it where you build: the shop in the afternoon, or late under the lights.",
         "Tie focus to precision: torque specs, wiring, the last bolt.",
         "Steady hands and a calm head beat wired and shaky. Show it."
       ],
@@ -13539,8 +13539,8 @@
       "label": "💼 Entrepreneurs / Family",
       "nav_order": 9,
       "title": "Hooks for entrepreneurs, dads and family life",
-      "sub": "10 hooks · the moment: the second shift after the kids are down",
-      "audience": "Run the business all day, be there for the family at dinner, then open the laptop again at 8. That second shift is where the real work gets done, and where a late coffee turns into lying awake. Kenetik is caffeine-free brain fuel for that late block, calm and locked in, with nothing in it keeping you up. **The moment to own here:** the second shift after the kids are down, without lying awake after.",
+      "sub": "10 hooks · the moment: the 2pm wall, and the second shift after the kids are down",
+      "audience": "Run the business all day, hit the wall at 2, be there for the family at dinner, then open the laptop again at 8. The afternoon coffee gets you through and the late one turns into lying awake. Kenetik is caffeine-free brain fuel for the afternoon and that late block, calm and locked in, with nothing in it keeping you up. **The moment to own here:** the 2pm wall and the second shift after the kids are down, without lying awake after.",
       "formula": [
         {
           "title": "Hook",
@@ -13645,8 +13645,8 @@
       "label": "💪 Fitness / Gym",
       "nav_order": 10,
       "title": "Hooks for gym-goers and lifters",
-      "sub": "10 hooks · the moment: the 7pm session after work",
-      "audience": "People who train after work, often on pre-workout, and pay for it later with a racing head and a 2am stare at the ceiling. Kenetik is caffeine-free brain fuel for the evening session: locked in on the last set, no jitters, no crash. **The moment to own here:** the 7pm session after work, locked in on the last set, with nothing keeping you up at midnight.",
+      "sub": "10 hooks · the moment: the 3pm slump, and the session after work",
+      "audience": "People who train after work, often on pre-workout, and pay for it later with a racing head and a 2am stare at the ceiling. The afternoon at the desk is where it starts: the 3pm slump, then the pre-workout at 6. Kenetik is caffeine-free brain fuel for the afternoon and the evening session: clear at the desk, locked in on the last set. **The moment to own here:** the 3pm slump and the session after work, with nothing keeping you up at midnight.",
       "formula": [
         {
           "title": "Hook",
@@ -13667,7 +13667,7 @@
       ],
       "dos": [
         "Say “brain fuel” at least once, every video.",
-        "Film the evening session: the clock on the wall, the parking lot at dusk, the last set.",
+        "Film your real day: the 3pm desk, then the evening session, the clock on the wall, the last set.",
         "Keep it in your head: focus, mind-muscle connection, no jitters. Never more reps or bigger lifts.",
         "Name the trade you used to make: pre-workout at six, wide awake at one."
       ],
@@ -13867,8 +13867,8 @@
       "label": "🌸 Women 18–30 / Wellness",
       "nav_order": 12,
       "title": "Hooks for women 18 to 30",
-      "sub": "10 hooks · the moment: the late study session or evening reset",
-      "audience": "Wellness-fluent women juggling class, work and a social life, who know the fourth iced coffee leaves them wired, scattered and awake at 1am. Kenetik is caffeine-free brain fuel for the late study session and the evening reset: calm and locked in, then able to switch off. **The moment to own here:** the late study session or the evening reset, clear and calm, and still switching off when you’re done.",
+      "sub": "10 hooks · the moment: the 2pm slump, and the late study session",
+      "audience": "Wellness-fluent women juggling class, work and a social life, who know the fourth iced coffee leaves them wired, scattered and awake at 1am. Kenetik is caffeine-free brain fuel for the 2pm slump and the late study session: calm and locked in, then able to switch off. **The moment to own here:** the afternoon slump and the late study session or evening reset, clear and calm, and still switching off when you are done.",
       "formula": [
         {
           "title": "Hook",
@@ -13890,7 +13890,7 @@
       "dos": [
         "Say “brain fuel” at least once, every video.",
         "Lead with the feeling you want: calm, clear, locked in. Let the jitters set it up.",
-        "Show the late moment: the 9pm library table, the desk lamp, your evening routine.",
+        "Show your real moment: the 2pm lecture, the library table, the desk lamp at night.",
         "Keep it about how it feels to you. Never anxiety, burnout or any condition."
       ],
       "donts": [
@@ -13978,8 +13978,8 @@
       "label": "🏁 Racing / Motorsports",
       "nav_order": 13,
       "title": "Hooks for racers and gearheads",
-      "sub": "10 hooks · the moment: 9pm in the garage before race day",
-      "audience": "Drivers, crews and gearheads whose day runs late: the 9pm garage session, the last run under the lights, the drive home from the track. Most of them run on coffee and cans and pay for it with shaky hands and a 1am stare. Kenetik is caffeine-free brain fuel for that late stretch, calm and locked in. **The moment to own here:** the late night at the track or in the shop, sharp for the last run, with nothing keeping you up before the early call.",
+      "sub": "10 hooks · the moment: the afternoon in the shop, and the late night before race day",
+      "audience": "Drivers, crews and gearheads whose day runs long: the afternoon in the shop, the 9pm garage session, the last run under the lights, the drive home from the track. Most of them run on coffee and cans and pay for it with shaky hands and a 1am stare. Kenetik is caffeine-free brain fuel for that long day, calm and locked in. **The moment to own here:** the 3pm slump in the shop and the late night before race day, sharp for the last run, with nothing keeping you up before the early call.",
       "formula": [
         {
           "title": "Hook",
@@ -14089,8 +14089,8 @@
       "label": "🩺 Nurses / Healthcare",
       "nav_order": 14,
       "title": "Hooks for nurses and healthcare workers",
-      "sub": "10 hooks · the moment: hour ten of a night shift",
-      "audience": "Twelve-hour shifts and nights, three coffees deep and still foggy at 3am, then wired when it is finally time to sleep. Kenetik is caffeine-free brain fuel for the back half of the shift: clear and calm for handoff, with nothing in it keeping you up when you get home. **The moment to own here:** hour ten of the shift, clear for handoff, and able to switch off when you finally get home.",
+      "sub": "10 hooks · the moment: the mid-shift wall, and hour ten",
+      "audience": "Twelve-hour shifts, days and nights, three coffees deep and still foggy at the halfway point, then wired when it is finally time to sleep. Kenetik is caffeine-free brain fuel for the back half of the shift: clear and calm for handoff, with nothing in it keeping you up when you get home. **The moment to own here:** the mid-shift wall, whether it is 2pm or 2am, clear for handoff, and able to switch off when you finally get home.",
       "formula": [
         {
           "title": "Hook",
@@ -14111,7 +14111,7 @@
       ],
       "dos": [
         "Say “brain fuel” at least once, every video.",
-        "Hit the late-shift moment in the first two seconds, in scrubs.",
+        "Hit the mid-shift wall in the first two seconds, in scrubs.",
         "Keep it about your own experience. Never a patient story or medical advice.",
         "Calm and clear for handoff, never wired. Say how it feels."
       ],
@@ -14195,8 +14195,8 @@
       "label": "🛋️ Overstimulated Parents",
       "nav_order": 15,
       "title": "Hooks for overstimulated moms and dads",
-      "sub": "10 hooks · the moment: the hour after bedtime",
-      "audience": "Parents who are touched out and talked out by dinner, then start a second shift once the kids are down: emails, lunches, laundry, the side project. Coffee at 4 gets them through the witching hour and then keeps them up at midnight. Kenetik is caffeine-free brain fuel for that hour: calm and clear, not wired, with nothing in it keeping you up. **The moment to own here:** the house finally goes quiet, and the hour that is yours is clear.",
+      "sub": "10 hooks · the moment: the 3pm wall, and the hour after bedtime",
+      "audience": "Parents who are touched out and talked out by dinner, then start a second shift once the kids are down: emails, lunches, laundry, the side project. Coffee at 3 gets them through the witching hour and then keeps them up at midnight. Kenetik is caffeine-free brain fuel for the afternoon and that late hour: calm and clear, not wired, with nothing in it keeping you up. **The moment to own here:** the 3pm wall before the witching hour, and the house finally going quiet with the hour that is yours still clear.",
       "formula": [
         {
           "title": "Hook",
@@ -14218,7 +14218,7 @@
       "dos": [
         "Say “brain fuel” at least once, every video.",
         "Show the noise first (the kids, the timers, the questions), then the quiet.",
-        "Say the real time on screen: 7pm, 8:30, after lights out.",
+        "Say the real time on screen: 3pm, 7pm, after lights out.",
         "Keep it light and honest. The joke is the chaos, never your kids."
       ],
       "donts": [
@@ -14301,8 +14301,8 @@
       "label": "🎮 Gaming",
       "nav_order": 16,
       "title": "Hooks for gamers and streamers",
-      "sub": "10 hooks · the moment: the last ranked game at 1am",
-      "audience": "Gamers play late, and most of them fuel it with energy drinks: the jitters in the clutch, the crash two hours in, then lying awake wired after they log off. Kenetik is caffeine-free brain fuel for the late session, calm and locked in instead of wired and scattered. **The moment to own here:** the last ranked game of the night, locked in, with nothing in the can keeping you up after.",
+      "sub": "10 hooks · the moment: the afternoon grind, and the last ranked game",
+      "audience": "Gamers play long, and most of them fuel it with energy drinks: the afternoon can to start the grind, the jitters in the clutch, the crash two hours in, then lying awake wired after they log off. Kenetik is caffeine-free brain fuel for the session, calm and locked in instead of wired and scattered. **The moment to own here:** the afternoon can you used to crack to start the grind, and the last ranked game of the night, with nothing in it keeping you up after.",
       "formula": [
         {
           "title": "Hook",
@@ -14407,8 +14407,8 @@
       "label": "🔥 Gen-Z / Brain Maxxing",
       "nav_order": 17,
       "title": "Hooks for Gen Z and brain maxxing",
-      "sub": "10 hooks · the moment: the 10pm lock-in before a deadline",
-      "audience": "Gen Z optimizes everything, and brain maxxing is the part almost nobody fuels: most of this crowd runs on energy drinks, then lies awake wired at 2am. Kenetik is caffeine-free brain fuel for the late lock-in, calm and focused instead of jittery and scattered. Keep it trend-native and keep the promise honest. **The moment to own here:** the 10pm lock-in, studying or building, and nothing in it keeping you up after.",
+      "sub": "10 hooks · the moment: the 2pm slump, and the 10pm lock-in",
+      "audience": "Gen Z optimizes everything, and brain maxxing is the part almost nobody fuels: most of this crowd runs on energy drinks from the 2pm slump onward, then lies awake wired at 2am. Kenetik is caffeine-free brain fuel for the afternoon and the late lock-in, calm and focused instead of jittery and scattered. Keep it trend-native and keep the promise honest. **The moment to own here:** the 2pm slump and the 10pm lock-in, studying or building, and nothing in it keeping you up after.",
       "formula": [
         {
           "title": "Hook",
@@ -14429,7 +14429,7 @@
       ],
       "dos": [
         "Say “brain fuel” at least once, every video.",
-        "Show the late hour: the desk lamp, the laptop, the clock past ten.",
+        "Show your real hour: the 2pm slump, or the desk lamp and the clock past ten.",
         "Talk about how caffeine felt for you, wired or jittery, then show the calm version.",
         "Keep it about how you feel, never about fixing brain rot or anything medical."
       ],
@@ -14518,8 +14518,8 @@
       "label": "🥊 MMA / Combat Sports",
       "nav_order": 18,
       "title": "Hooks for fighters and combat sports",
-      "sub": "10 hooks · the moment: evening sparring after the day job",
-      "audience": "Fighters and grapplers who train at night after work and have to be up for the day job. Pre-workout gets them through sparring, then keeps them staring at the ceiling. Kenetik is caffeine-free brain fuel, Informed Sport Certified, for the evening session: sharp in the last round and calm on the mat. **The moment to own here:** the evening session after the day job, sharp in sparring, with nothing keeping you up for tomorrow.",
+      "sub": "10 hooks · the moment: the afternoon wall, and evening sparring",
+      "audience": "Fighters and grapplers who train at night after work and have to be up for the day job. The afternoon at work is where the energy drink starts, and pre-workout gets them through sparring, then keeps them staring at the ceiling. Kenetik is caffeine-free brain fuel, Informed Sport Certified, for the afternoon and the evening session: sharp in the last round and calm on the mat. **The moment to own here:** the afternoon wall at the day job and the evening session after it, with nothing keeping you up for tomorrow.",
       "formula": [
         {
           "title": "Hook",
@@ -14735,8 +14735,8 @@
       "label": "🚑 First Responders",
       "nav_order": 20,
       "title": "Hooks for first responders",
-      "sub": "10 hooks · the moment: hour twenty of a twenty-four",
-      "audience": "Twenty-four-hour shifts, 3am calls, and a head that has to be clear the second the tones drop. Station coffee keeps you going, then keeps you up when the shift is over. Kenetik is caffeine-free brain fuel for the late hours: calm and locked in, with nothing in it keeping you up. **The moment to own here:** hour twenty of a twenty-four, clear when the tones drop, and able to switch off when the shift is over.",
+      "sub": "10 hooks · the moment: the mid-shift wall, and hour twenty",
+      "audience": "Twenty-four-hour shifts, afternoon lulls, 3am calls, and a head that has to be clear the second the tones drop. Station coffee keeps you going, then keeps you up when the shift is over. Kenetik is caffeine-free brain fuel for the long middle of the shift: calm and locked in, with nothing in it keeping you up. **The moment to own here:** the mid-shift wall, clear when the tones drop, and able to switch off when the shift is over.",
       "formula": [
         {
           "title": "Hook",
@@ -14757,7 +14757,7 @@
       ],
       "dos": [
         "Say “brain fuel” at least once, every video.",
-        "Hit the late-shift moment in the first two seconds, in the bay or the rig.",
+        "Hit the mid-shift moment in the first two seconds, in the bay or the rig.",
         "Keep it about your own experience. Never a call story with details.",
         "Calm and locked in, never wired and shaky. Say how it feels."
       ],
@@ -14846,8 +14846,8 @@
       "label": "🚴 Cycling / Endurance",
       "nav_order": 21,
       "title": "Hooks for cyclists and endurance athletes",
-      "sub": "10 hooks · the moment: the after-work ride",
-      "audience": "Riders who train after work: the 6pm group ride, the 8pm trainer session, the back half of a long day. The gels in their pocket wire them, hit the gut, and leave them staring at the ceiling. Kenetik is caffeine-free brain fuel for the late ride, a clear head to the finish. **The moment to own here:** the after-work ride or the back half of a long day, clear-headed to the finish, and nothing keeping you up after.",
+      "sub": "10 hooks · the moment: the 3pm desk slump, and the after-work ride",
+      "audience": "Riders who train after work: the 3pm slump at the desk, the 6pm group ride, the 8pm trainer session. The coffee that gets them through the afternoon and the gels in their pocket wire them and leave them staring at the ceiling. Kenetik is caffeine-free brain fuel for the afternoon and the ride, a clear head to the finish. **The moment to own here:** the 3pm slump before the after-work ride, clear-headed to the finish, and nothing keeping you up after.",
       "formula": [
         {
           "title": "Hook",
@@ -14958,7 +14958,7 @@
       "nav_order": 22,
       "title": "Hooks for ultrarunners and people who do hard things",
       "sub": "10 hooks · the moment: the night section at mile 60",
-      "audience": "Ultrarunners and do-hard-things people who know the mind quits before the body, and that it gets loudest after dark. Coffee and gels get them through the night section, then leaves them jittery and fried for days. Kenetik is caffeine-free brain fuel for when it gets dark: calm, clear and still making good calls. **The moment to own here:** the night section, still clear at mile 60, and the after-work training run in the dark.",
+      "audience": "Ultrarunners and do-hard-things people who know the mind quits before the body, and that it gets loudest after dark. Coffee and gels get them through the night section, then leave them jittery and fried for days. Kenetik is caffeine-free brain fuel for when it gets dark: calm, clear and still making good calls. **The moment to own here:** the night section, still clear at mile 60, and the after-work training run in the dark.",
       "formula": [
         {
           "title": "Hook",
@@ -15068,8 +15068,8 @@
       "label": "🏅 HYROX / Hybrid",
       "nav_order": 23,
       "title": "Hooks for HYROX and hybrid athletes",
-      "sub": "10 hooks · the moment: the 7pm session after a full workday",
-      "audience": "Hybrid athletes train after work, smoked from the day, and the mind goes before the body does. Most reach for pre-workout or a late coffee and pay for it at midnight. Kenetik is caffeine-free brain fuel for the evening session: head in it, calm, and still switching off after. Stay on the mental side only, never times, reps or recovery. **The moment to own here:** the evening session after work, locked in when you’re smoked, and nothing keeping you up after.",
+      "sub": "10 hooks · the moment: the 3pm slump, and the session after work",
+      "audience": "Hybrid athletes train after work, smoked from the day, and the mind goes before the body does. The 3pm coffee and the pre-workout at 6 get them through and cost them at midnight. Kenetik is caffeine-free brain fuel for the afternoon and the evening session: head in it, calm, and still switching off after. Stay on the mental side only, never times, reps or recovery. **The moment to own here:** the 3pm slump at work and the session after it, locked in when you are smoked, and nothing keeping you up after.",
       "formula": [
         {
           "title": "Hook",
@@ -15179,8 +15179,8 @@
       "label": "✈️ Travel",
       "nav_order": 24,
       "title": "Hooks for travelers and road warriors",
-      "sub": "10 hooks · the moment: landing late with work still to do",
-      "audience": "Travel runs late: the evening landing, the hotel desk at 10pm, hour six of the drive after dark. The usual answer is another coffee, and then lying awake in a hotel bed. The 2oz shot is caffeine-free brain fuel that fits the quart bag, so you can be clear for the late work and still switch off after. Routine and format only: never say it fixes jet lag, tiredness or anything else. **The moment to own here:** landing late with work still to do, clear for it, and nothing in it keeping you up in the hotel after.",
+      "sub": "10 hooks · the moment: the afternoon slump in transit, and landing late",
+      "audience": "Travel runs long: the 2pm slump at the gate, the evening landing, the hotel desk at 10pm, hour six of the drive. The usual answer is another coffee, and then lying awake in a hotel bed. The 2oz shot is caffeine-free brain fuel that fits the quart bag, so you can be clear for the afternoon and the late work and still switch off after. Routine and format only: never say it fixes jet lag, tiredness or anything else. **The moment to own here:** the afternoon slump at the gate and landing late with work still to do, with nothing in it keeping you up in the hotel after.",
       "claims_note": "One hard line: we never say it fixes jet lag, tiredness or anything else.",
       "formula": [
         {
@@ -15399,7 +15399,7 @@
       "nav_order": 26,
       "title": "Hooks for borrowing a partner’s trust",
       "sub": "10 hooks · the moment: the name that earns the first two seconds",
-      "audience": "A name your audience already believes buys you the first two seconds, the hardest part. Then pivot straight to your own late-day story, the 8pm work session or the late drive, because the name earns attention and only your story keeps it. One name per video. Never put words in a partner’s mouth, and never talk about anyone’s health, injuries or medical history, including Matt Hughes.",
+      "audience": "A name your audience already believes buys you the first two seconds, the hardest part. Then pivot straight to your own afternoon story, the 2pm wall or the late drive, because the name earns attention and only your story keeps it. One name per video. Never put words in a partner’s mouth, and never talk about anyone’s health, injuries or medical history, including Matt Hughes.",
       "formula": [
         {
           "title": "Hook",
@@ -15476,7 +15476,7 @@
         "Say “brain fuel” at least once, every video.",
         "One name per video, then straight into your own story.",
         "Keep it to who they are and the fact they back the brand.",
-        "Make your half the late-day moment: when you drink it and how the evening goes."
+        "Make your half the afternoon moment: when you drink it and how the rest of the day goes."
       ]
     },
     {
@@ -15484,8 +15484,8 @@
       "label": "🎤 Street Interviews",
       "nav_order": 27,
       "title": "Hooks for street interviews",
-      "sub": "10 questions · the moment: the stranger with a long evening ahead",
-      "audience": "Stopping strangers works because the viewer learns at the same speed the stranger does. Ask when they hit their wall and what they drink to get through the evening, let them guess wrong about what Kenetik is, then correct them in one sentence: caffeine-free brain fuel for focus late in the day. Ask the question before you name the brand, teach one thing per person, and film the first sip.",
+      "sub": "10 questions · the moment: the stranger hitting the afternoon wall",
+      "audience": "Stopping strangers works because the viewer learns at the same speed the stranger does. Ask when they hit their wall and what they drink to get through the afternoon, let them guess wrong about what Kenetik is, then correct them in one sentence: caffeine-free brain fuel for afternoon focus, without messing with your sleep. Ask the question before you name the brand, teach one thing per person, and film the first sip.",
       "formula": [
         {
           "title": "Hook",
@@ -15507,7 +15507,7 @@
       "dos": [
         "Say “brain fuel” at least once, every video.",
         "Ask the question before you say the brand name.",
-        "Film in the late afternoon or evening, when people feel the wall.",
+        "Film in the afternoon, when people feel the wall.",
         "Film the first sip every time, and get a clear yes to being filmed."
       ],
       "donts": [
@@ -15706,7 +15706,7 @@
         },
         {
           "title": "Kenetik is the answer",
-          "text": "Crack a can on camera and connect the fact to your own late-day moment. Say \"brain fuel\" at least once."
+          "text": "Crack a can on camera and connect the fact to your own afternoon moment. Say \"brain fuel\" at least once."
         },
         {
           "title": "Close it",
