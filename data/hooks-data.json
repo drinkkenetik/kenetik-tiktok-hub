@@ -11751,6 +11751,7 @@
         "Say **\"brain fuel\"** at least once, every video.",
         "**Say what time it is.** 2pm at the desk, 3pm in the shop, hour ten of a shift. A real time of day does more work than any adjective.",
         "Name what caffeine did to you, if it’s true: jittery, wired, anxious, staring at the ceiling at midnight.",
+        "**Show it as a habit:** the same can at the same time every day, at your 2pm wall. Routines are what viewers copy.",
         "Show yourself actually drinking it. Real and native, like a post, not an ad.",
         "Test a lot. Different openers, different moments. We put budget behind whatever works."
       ],
@@ -17697,6 +17698,11 @@
       },
       {
         "block": "northstar",
+        "style": "big",
+        "text": "**Caffeine-free brain fuel** for afternoon clarity and focus, without messing with your sleep."
+      },
+      {
+        "block": "northstar",
         "text": "**Kenetik is metabolic brain fuel.** A caffeine-free drink with 12g of ketones, the same fuel your body makes when you fast or sleep. It gives you calm, clear focus that comes on steady, **without messing with your sleep.** Nothing artificial, Informed Sport Certified."
       },
       {
@@ -17705,7 +17711,25 @@
       },
       {
         "block": "northstar",
-        "text": "Most people hit a wall around **2 or 3pm**. The usual fix is another coffee or an energy drink. It gets you through the afternoon, then it is still working at midnight, tomorrow starts tired, and you reach for more. **Kenetik is the drink for that moment: when you would normally reach for an afternoon coffee or energy drink, reach for Kenetik instead.** Clear and focused for the rest of the day, and into the evening if the work runs late, with no caffeine in it to keep you up tonight. **That 2pm reach is the habit we want to own,** and it is the moment every video should carry."
+        "style": "big",
+        "text": "When you feel the **2 or 3pm pull** toward a coffee or an energy drink, reach for Kenetik instead."
+      },
+      {
+        "block": "northstar",
+        "text": "Most people hit a wall around **2 or 3pm**. The usual fix is another coffee or an energy drink. It gets you through the afternoon, then it is still working at midnight, tomorrow starts tired, and you reach for more. Clear and focused for the rest of the day, and into the evening if the work runs late, with no caffeine in it to keep you up tonight. **That 2pm reach is the habit we want to own,** and it is the moment every video should carry."
+      },
+      {
+        "block": "eyebrow",
+        "text": "Why ketones, not caffeine"
+      },
+      {
+        "block": "northstar",
+        "style": "big",
+        "text": "Caffeine hides that you are tired. **Ketones are fuel.**"
+      },
+      {
+        "block": "northstar",
+        "text": "Caffeine works by blocking the signal that tells your brain it is tired, and it keeps blocking it for hours, which is why a 3pm coffee is still working at midnight. Kenetik gives your brain fuel instead: **12g of ketones, the same fuel your body makes on its own when you fast or train.** Human trials show ketones support focus and cognitive performance, with no caffeine at all. That is all you need to say it with confidence. For more, the Science tab under Creator tools has ten lines built on it."
       },
       {
         "block": "eyebrow",
@@ -17713,7 +17737,12 @@
       },
       {
         "block": "northstar",
-        "text": "**You know your audience better than we do.** Take that afternoon moment, or your evening one, and tell it the way your people talk: your day, your words, your reason. Your viewer is the hero and Kenetik is what made the difference, never the star. Two things every video does: say **“brain fuel”** and **“shop now”** out loud. One thing none of them do: medical claims."
+        "style": "big",
+        "text": "Your viewer is the hero. Kenetik is what made the difference."
+      },
+      {
+        "block": "northstar",
+        "text": "**You know your audience better than we do.** Take that afternoon moment, or your evening one, and tell it the way your people talk: your day, your words, your reason. Kenetik is never the star. Two things every video does: say **“brain fuel”** and **“shop now”** out loud. One thing none of them do: medical claims."
       },
       {
         "block": "eyebrow",

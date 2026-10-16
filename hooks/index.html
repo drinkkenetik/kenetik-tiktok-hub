@@ -52,9 +52,12 @@ button{font:inherit;color:inherit;}
 .crumb:hover{text-decoration:underline;}
 h1{font-family:var(--display);font-weight:900;font-size:40px;line-height:1.05;letter-spacing:-.8px;margin:0 0 10px;text-wrap:balance;}
 .sec h1{font-size:30px;letter-spacing:-.5px;}
-.sub{color:var(--ink2);font-size:16.5px;line-height:1.5;margin-bottom:10px;max-width:62ch;}
+.sub{color:var(--ink2);font-size:16.5px;line-height:1.5;margin-bottom:10px;}
 .eyebrow{font-family:var(--display);color:var(--violet);font-weight:800;font-size:13px;letter-spacing:1.8px;text-transform:uppercase;margin:40px 0 12px;}
 .northstar{background:var(--panel);padding:16px 20px;border-radius:14px;}
+/* the one big statement above a section's detail, in the display face (the creator pages' look) */
+.bigline{font-family:var(--display);font-size:32px;line-height:1.2;font-weight:800;letter-spacing:-.6px;color:var(--ink);margin:0 0 14px;}
+.bigline b{background:var(--grad);-webkit-background-clip:text;background-clip:text;color:transparent;}
 .northstar p{margin:0;font-size:16px;line-height:1.6;color:var(--ink2);} .northstar b{color:var(--ink);}
 .amber{background:#FFF6EA;border:1px solid #F9DDB5;padding:13px 18px;border-radius:14px;margin-top:14px;}
 .amber-label{color:#B4500F;font-weight:800;font-size:11.5px;letter-spacing:1.4px;text-transform:uppercase;margin-bottom:5px;}
@@ -169,6 +172,7 @@ details.howto[open] summary:after{content:"\2212";}
   .tabs{padding:9px max(16px,env(safe-area-inset-right)) 9px max(16px,env(safe-area-inset-left));}
   .main{padding:20px max(16px,env(safe-area-inset-right)) 56px max(16px,env(safe-area-inset-left));}
   h1{font-size:30px;}
+  .bigline{font-size:23px;}
   .sec[id^="video-"]{padding:4px 16px 18px;}
   .twocol,.fork{flex-direction:column;}
   .wins{grid-template-columns:repeat(2,minmax(0,1fr));}
@@ -517,6 +521,7 @@ function renderBlocks(tab, blocks, win){
       case 'eyebrow':
         return '<div class="eyebrow"' + (b.id ? ' id="' + attr(b.id) + '"' : '') + '>' + rich(b.text) + '</div>';
       case 'northstar':
+        if(b.style === 'big') return '<div class="bigline">' + rich(b.text) + '</div>';
         return '<div class="northstar"><p>' + rich(b.text != null ? b.text : tab.audience) + '</p></div>';
       case 'formula':
         return renderFormula(b.steps != null ? b.steps : tab.formula);
