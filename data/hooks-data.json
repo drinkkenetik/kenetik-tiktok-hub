@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "updated": "2026-10-18",
+  "updated": "2026-10-19",
   "written_by": "scripts/hooks_hub_extract.py for the first write; the Monday turn writes the machine fields from 7-2 and people write the editorial fields by hand",
   "rules_version": "hooks-config@4402e2a7 · claims-list@daffab0b · reader@138f4b17",
   "footer": "Kenetik Creator Hub · Hook performance from our TikTok Shop and Meta ad campaigns, measured on each video's spoken opening line. Refreshed weekly. Figures are past performance and not a guarantee of what any individual video will earn.",
@@ -12578,6 +12578,146 @@
         "broken": [],
         "carries_claim": false
       }
+    },
+    "h-0428": {
+      "hook_id": "h-0428",
+      "text": "“Perimenopause gave me a 3pm personality, and I was trying to fix it with more coffee.”",
+      "angle": "Lead with perimenopause and say it plainly, with a smile. Then reach for the can instead of the coffee.",
+      "source": {
+        "kind": "composed",
+        "convention": "no a.hsrc source link on this line, which is how the page marks a line a creator said; an unmarked line is recorded as composed",
+        "how": "adapted 10/19 from the EUKA TikTok Shop menopause audit (claude.ai/artifact/9KQUZHuHyyeGvEze7oqmXn), at Nick's direction"
+      },
+      "proof": {
+        "videos_made": "UNKNOWN",
+        "converting_videos": "UNKNOWN",
+        "distinct_creators": "UNKNOWN",
+        "revenue_usd": "UNKNOWN",
+        "as_of": "2026-10-19",
+        "how": "no video has been read against this line yet"
+      },
+      "rules": {
+        "checked_on": "2026-10-19",
+        "passed": true,
+        "broken": [],
+        "carries_claim": false
+      },
+      "angle_id_proposed": "unclassified",
+      "entered": {
+        "on": "2026-10-19",
+        "tab": "women-40-menopause",
+        "displaced": "h-0423",
+        "by": "nicklac@drinkkenetik.com",
+        "figures": {
+          "in": "UNKNOWN",
+          "out": "UNKNOWN"
+        }
+      }
+    },
+    "h-0429": {
+      "hook_id": "h-0429",
+      "text": "“The strangest part of perimenopause? Suddenly not feeling like myself, especially in the afternoons.”",
+      "angle": "Only if it’s true for you. Say it softly, then show what your afternoon looks like now.",
+      "source": {
+        "kind": "composed",
+        "convention": "no a.hsrc source link on this line, which is how the page marks a line a creator said; an unmarked line is recorded as composed",
+        "how": "adapted 10/19 from the EUKA TikTok Shop menopause audit (claude.ai/artifact/9KQUZHuHyyeGvEze7oqmXn), at Nick's direction"
+      },
+      "proof": {
+        "videos_made": "UNKNOWN",
+        "converting_videos": "UNKNOWN",
+        "distinct_creators": "UNKNOWN",
+        "revenue_usd": "UNKNOWN",
+        "as_of": "2026-10-19",
+        "how": "no video has been read against this line yet"
+      },
+      "rules": {
+        "checked_on": "2026-10-19",
+        "passed": true,
+        "broken": [],
+        "carries_claim": false
+      },
+      "angle_id_proposed": "unclassified",
+      "entered": {
+        "on": "2026-10-19",
+        "tab": "women-40-menopause",
+        "displaced": "h-0419",
+        "by": "nicklac@drinkkenetik.com",
+        "figures": {
+          "in": "UNKNOWN",
+          "out": "UNKNOWN"
+        }
+      }
+    },
+    "h-0430": {
+      "hook_id": "h-0430",
+      "text": "“I’m not going to tell you this fixes menopause. I’m going to tell you why it became part of my routine.”",
+      "angle": "The honest one. Tell us why it stuck for you, never what it fixes.",
+      "source": {
+        "kind": "composed",
+        "convention": "no a.hsrc source link on this line, which is how the page marks a line a creator said; an unmarked line is recorded as composed",
+        "how": "adapted 10/19 from the EUKA TikTok Shop menopause audit (claude.ai/artifact/9KQUZHuHyyeGvEze7oqmXn), at Nick's direction"
+      },
+      "proof": {
+        "videos_made": "UNKNOWN",
+        "converting_videos": "UNKNOWN",
+        "distinct_creators": "UNKNOWN",
+        "revenue_usd": "UNKNOWN",
+        "as_of": "2026-10-19",
+        "how": "no video has been read against this line yet"
+      },
+      "rules": {
+        "checked_on": "2026-10-19",
+        "passed": true,
+        "broken": [],
+        "carries_claim": false
+      },
+      "angle_id_proposed": "unclassified",
+      "entered": {
+        "on": "2026-10-19",
+        "tab": "women-40-menopause",
+        "displaced": "h-0422",
+        "by": "nicklac@drinkkenetik.com",
+        "figures": {
+          "in": "UNKNOWN",
+          "out": "UNKNOWN"
+        }
+      }
+    },
+    "h-0431": {
+      "hook_id": "h-0431",
+      "text": "“Zero caffeine, 12 grams of ketones, and no shaker or supplement cabinet required.”",
+      "angle": "Put “12g ketones” and “caffeine-free” on screen in the first second, then crack the can.",
+      "source": {
+        "kind": "composed",
+        "convention": "no a.hsrc source link on this line, which is how the page marks a line a creator said; an unmarked line is recorded as composed",
+        "how": "adapted 10/19 from the EUKA TikTok Shop menopause audit (claude.ai/artifact/9KQUZHuHyyeGvEze7oqmXn), at Nick's direction"
+      },
+      "proof": {
+        "videos_made": "UNKNOWN",
+        "converting_videos": "UNKNOWN",
+        "distinct_creators": "UNKNOWN",
+        "revenue_usd": "UNKNOWN",
+        "as_of": "2026-10-19",
+        "how": "no video has been read against this line yet"
+      },
+      "rules": {
+        "checked_on": "2026-10-19",
+        "passed": true,
+        "broken": [],
+        "carries_claim": false
+      },
+      "angle_id_proposed": "unclassified",
+      "entered": {
+        "on": "2026-10-19",
+        "tab": "women-40-menopause",
+        "displaced": "h-0424",
+        "by": "nicklac@drinkkenetik.com",
+        "figures": {
+          "in": "UNKNOWN",
+          "out": "UNKNOWN"
+        }
+      }
     }
   },
   "tabs": [
@@ -14623,7 +14763,7 @@
         },
         {
           "title": "Kenetik is the answer",
-          "text": "Crack a can on camera. This is your recharge. Then tell us how it feels, the way you’d tell a friend. Say “brain fuel” at least once."
+          "text": "Crack a can on camera. This is your recharge. Then tell us how it feels and how it tastes, the way you’d tell a friend. Say “brain fuel” at least once."
         },
         {
           "title": "Close it",
@@ -14633,7 +14773,9 @@
       "dos": [
         "Say “brain fuel” at least once, every video.",
         "Talk like you’re telling a friend, not reading a script. Pauses, tangents and “honestly” are all fine.",
+        "Say “perimenopause” or “menopause” plainly if it’s your life stage. Women stop scrolling when they hear their own word.",
         "Describe the fog in your own words: the lost word, the email you read three times. One problem per video.",
+        "Show the can early and give a real taste reaction. Taste is why people keep reaching for it.",
         "Make the payoff what you get back, and film it: focus for the meeting, patience at pickup, being there at practice. Busy and capable, never a tired-and-aging cliché.",
         "If you were skeptical at first, say so. “I wasn’t sure about this” is more believable than any line we can write.",
         "Only bring up sleep to say what coffee used to do to you. Never say Kenetik helps you sleep."
@@ -14648,16 +14790,16 @@
         "Lead with a discount. If there’s an offer, save it for the end."
       ],
       "hook_ids": [
+        "h-0428",
         "h-0418",
-        "h-0419",
+        "h-0429",
         "h-0420",
         "h-0410",
+        "h-0430",
         "h-0421",
-        "h-0422",
-        "h-0423",
+        "h-0431",
         "h-0412",
-        "h-0416",
-        "h-0424"
+        "h-0416"
       ],
       "angles": [],
       "layout": [
@@ -14693,16 +14835,16 @@
         {
           "block": "hooks",
           "hook_ids": [
+            "h-0428",
             "h-0418",
-            "h-0419",
+            "h-0429",
             "h-0420",
             "h-0410",
+            "h-0430",
             "h-0421",
-            "h-0422",
-            "h-0423",
+            "h-0431",
             "h-0412",
-            "h-0416",
-            "h-0424"
+            "h-0416"
           ]
         },
         {
@@ -18308,6 +18450,58 @@
       "at": "2026-10-18",
       "owner": "nick",
       "claim_flagged": false
+    },
+    {
+      "kind": "hook_swap",
+      "tab": "women-40-menopause",
+      "in": "h-0428",
+      "out": "h-0423",
+      "decision": "approve",
+      "reason": "Menopause tab 10/19: best hooks from the EUKA TikTok Shop menopause audit, two leading with perimenopause (Nick), the honest line and a convenience line with the number up front. Written in session at Nick's direction.",
+      "by": "nicklac@drinkkenetik.com",
+      "at": "2026-10-19",
+      "owner": "nick",
+      "claim_flagged": false,
+      "position": 1
+    },
+    {
+      "kind": "hook_swap",
+      "tab": "women-40-menopause",
+      "in": "h-0429",
+      "out": "h-0419",
+      "decision": "approve",
+      "reason": "Menopause tab 10/19: best hooks from the EUKA TikTok Shop menopause audit, two leading with perimenopause (Nick), the honest line and a convenience line with the number up front. Written in session at Nick's direction.",
+      "by": "nicklac@drinkkenetik.com",
+      "at": "2026-10-19",
+      "owner": "nick",
+      "claim_flagged": false,
+      "position": 3
+    },
+    {
+      "kind": "hook_swap",
+      "tab": "women-40-menopause",
+      "in": "h-0430",
+      "out": "h-0422",
+      "decision": "approve",
+      "reason": "Menopause tab 10/19: best hooks from the EUKA TikTok Shop menopause audit, two leading with perimenopause (Nick), the honest line and a convenience line with the number up front. Written in session at Nick's direction.",
+      "by": "nicklac@drinkkenetik.com",
+      "at": "2026-10-19",
+      "owner": "nick",
+      "claim_flagged": false,
+      "position": 6
+    },
+    {
+      "kind": "hook_swap",
+      "tab": "women-40-menopause",
+      "in": "h-0431",
+      "out": "h-0424",
+      "decision": "approve",
+      "reason": "Menopause tab 10/19: best hooks from the EUKA TikTok Shop menopause audit, two leading with perimenopause (Nick), the honest line and a convenience line with the number up front. Written in session at Nick's direction.",
+      "by": "nicklac@drinkkenetik.com",
+      "at": "2026-10-19",
+      "owner": "nick",
+      "claim_flagged": false,
+      "position": 8
     }
   ],
   "grandfathered": [
