@@ -12718,6 +12718,111 @@
           "out": "UNKNOWN"
         }
       }
+    },
+    "h-0432": {
+      "hook_id": "h-0432",
+      "text": "“If you’re going through perimenopause or menopause and reaching for another coffee every afternoon, try this instead.”",
+      "angle": "The direct one. Name the life stage and the habit in one breath, then grab the can from the fridge.",
+      "source": {
+        "kind": "composed",
+        "convention": "no a.hsrc source link on this line, which is how the page marks a line a creator said; an unmarked line is recorded as composed",
+        "how": "from the five ad reads Nick sent a creator on 10/19 (built on the EUKA menopause audit), at Nick's direction"
+      },
+      "proof": {
+        "videos_made": "UNKNOWN",
+        "converting_videos": "UNKNOWN",
+        "distinct_creators": "UNKNOWN",
+        "revenue_usd": "UNKNOWN",
+        "as_of": "2026-10-19",
+        "how": "no video has been read against this line yet"
+      },
+      "rules": {
+        "checked_on": "2026-10-19",
+        "passed": true,
+        "broken": [],
+        "carries_claim": false
+      },
+      "angle_id_proposed": "unclassified",
+      "entered": {
+        "on": "2026-10-19",
+        "tab": "women-40-menopause",
+        "displaced": "h-0416",
+        "by": "nicklac@drinkkenetik.com",
+        "figures": {
+          "in": "UNKNOWN",
+          "out": "UNKNOWN"
+        }
+      }
+    },
+    "h-0433": {
+      "hook_id": "h-0433",
+      "text": "“The hardest part of midlife energy changes was feeling like I wasn’t quite myself.”",
+      "angle": "Only if it’s true for you. Say it softly, then show the afternoon you still have ahead of you.",
+      "source": {
+        "kind": "composed",
+        "convention": "no a.hsrc source link on this line, which is how the page marks a line a creator said; an unmarked line is recorded as composed",
+        "how": "from the five ad reads Nick sent a creator on 10/19 (built on the EUKA menopause audit), at Nick's direction"
+      },
+      "proof": {
+        "videos_made": "UNKNOWN",
+        "converting_videos": "UNKNOWN",
+        "distinct_creators": "UNKNOWN",
+        "revenue_usd": "UNKNOWN",
+        "as_of": "2026-10-19",
+        "how": "no video has been read against this line yet"
+      },
+      "rules": {
+        "checked_on": "2026-10-19",
+        "passed": true,
+        "broken": [],
+        "carries_claim": false
+      },
+      "angle_id_proposed": "unclassified",
+      "entered": {
+        "on": "2026-10-19",
+        "tab": "women-40-menopause",
+        "displaced": "h-0429",
+        "by": "nicklac@drinkkenetik.com",
+        "figures": {
+          "in": "UNKNOWN",
+          "out": "UNKNOWN"
+        }
+      }
+    },
+    "h-0434": {
+      "hook_id": "h-0434",
+      "text": "“If your solution to feeling tired is always ‘I need more coffee,’ you may be on the caffeine treadmill.”",
+      "angle": "Name the cycle everyone knows: coffee to start, coffee after lunch. Then show the can instead.",
+      "source": {
+        "kind": "composed",
+        "convention": "no a.hsrc source link on this line, which is how the page marks a line a creator said; an unmarked line is recorded as composed",
+        "how": "from the five ad reads Nick sent a creator on 10/19 (built on the EUKA menopause audit), at Nick's direction"
+      },
+      "proof": {
+        "videos_made": "UNKNOWN",
+        "converting_videos": "UNKNOWN",
+        "distinct_creators": "UNKNOWN",
+        "revenue_usd": "UNKNOWN",
+        "as_of": "2026-10-19",
+        "how": "no video has been read against this line yet"
+      },
+      "rules": {
+        "checked_on": "2026-10-19",
+        "passed": true,
+        "broken": [],
+        "carries_claim": false
+      },
+      "angle_id_proposed": "unclassified",
+      "entered": {
+        "on": "2026-10-19",
+        "tab": "women-40-menopause",
+        "displaced": "h-0412",
+        "by": "nicklac@drinkkenetik.com",
+        "figures": {
+          "in": "UNKNOWN",
+          "out": "UNKNOWN"
+        }
+      }
     }
   },
   "tabs": [
@@ -14790,16 +14895,16 @@
         "Lead with a discount. If there’s an offer, save it for the end."
       ],
       "hook_ids": [
+        "h-0432",
+        "h-0433",
+        "h-0434",
         "h-0428",
-        "h-0418",
-        "h-0429",
-        "h-0420",
-        "h-0410",
         "h-0430",
+        "h-0418",
+        "h-0410",
+        "h-0420",
         "h-0421",
-        "h-0431",
-        "h-0412",
-        "h-0416"
+        "h-0431"
       ],
       "angles": [],
       "layout": [
@@ -14835,16 +14940,16 @@
         {
           "block": "hooks",
           "hook_ids": [
+            "h-0432",
+            "h-0433",
+            "h-0434",
             "h-0428",
-            "h-0418",
-            "h-0429",
-            "h-0420",
-            "h-0410",
             "h-0430",
+            "h-0418",
+            "h-0410",
+            "h-0420",
             "h-0421",
-            "h-0431",
-            "h-0412",
-            "h-0416"
+            "h-0431"
           ]
         },
         {
@@ -18502,6 +18607,45 @@
       "owner": "nick",
       "claim_flagged": false,
       "position": 8
+    },
+    {
+      "kind": "hook_swap",
+      "tab": "women-40-menopause",
+      "in": "h-0432",
+      "out": "h-0416",
+      "decision": "approve",
+      "reason": "Menopause tab 10/19: feature the five ad reads Nick sent a creator to film as the first five hooks. Written in session at Nick's direction.",
+      "by": "nicklac@drinkkenetik.com",
+      "at": "2026-10-19",
+      "owner": "nick",
+      "claim_flagged": false,
+      "position": 1
+    },
+    {
+      "kind": "hook_swap",
+      "tab": "women-40-menopause",
+      "in": "h-0433",
+      "out": "h-0429",
+      "decision": "approve",
+      "reason": "Menopause tab 10/19: feature the five ad reads Nick sent a creator to film as the first five hooks. Written in session at Nick's direction.",
+      "by": "nicklac@drinkkenetik.com",
+      "at": "2026-10-19",
+      "owner": "nick",
+      "claim_flagged": false,
+      "position": 2
+    },
+    {
+      "kind": "hook_swap",
+      "tab": "women-40-menopause",
+      "in": "h-0434",
+      "out": "h-0412",
+      "decision": "approve",
+      "reason": "Menopause tab 10/19: feature the five ad reads Nick sent a creator to film as the first five hooks. Written in session at Nick's direction.",
+      "by": "nicklac@drinkkenetik.com",
+      "at": "2026-10-19",
+      "owner": "nick",
+      "claim_flagged": false,
+      "position": 3
     }
   ],
   "grandfathered": [
