@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "updated": "2026-10-20",
+  "updated": "2026-10-21",
   "written_by": "scripts/hooks_hub_extract.py for the first write; the Monday turn writes the machine fields from 7-2 and people write the editorial fields by hand",
   "rules_version": "hooks-config@4402e2a7 · claims-list@daffab0b · reader@138f4b17",
   "footer": "Kenetik Creator Hub · Hook performance from our TikTok Shop and Meta ad campaigns, measured on each video's spoken opening line. Refreshed weekly. Figures are past performance and not a guarantee of what any individual video will earn.",
@@ -21751,6 +21751,76 @@
           "out": "UNKNOWN"
         }
       }
+    },
+    "h-0690": {
+      "hook_id": "h-0690",
+      "text": "“What time of day does your brain officially give up on you?”",
+      "angle": "Concept 1, for anyone. Let them name the time, then ask what they usually do about it.",
+      "source": {
+        "kind": "composed",
+        "convention": "no a.hsrc source link on this line, which is how the page marks a line a creator said; an unmarked line is recorded as composed",
+        "how": "RTS Media content brief (Issey, 10/21), worded by RTS and placed in session at Nick's direction"
+      },
+      "proof": {
+        "videos_made": "UNKNOWN",
+        "converting_videos": "UNKNOWN",
+        "distinct_creators": "UNKNOWN",
+        "revenue_usd": "UNKNOWN",
+        "as_of": "2026-10-21",
+        "how": "no video has been read against this line yet"
+      },
+      "rules": {
+        "checked_on": "2026-10-21",
+        "passed": true,
+        "broken": [],
+        "carries_claim": false
+      },
+      "angle_id_proposed": "unclassified",
+      "entered": {
+        "on": "2026-10-21",
+        "tab": "street-interview",
+        "displaced": "h-0287",
+        "by": "nicklac@drinkkenetik.com",
+        "figures": {
+          "in": "UNKNOWN",
+          "out": "UNKNOWN"
+        }
+      }
+    },
+    "h-0691": {
+      "hook_id": "h-0691",
+      "text": "“Does brain fog hit differently once you’re over 40?”",
+      "angle": "Concept 2, women 40 and up, woman host. Follow with the room she walked into and forgot why.",
+      "source": {
+        "kind": "composed",
+        "convention": "no a.hsrc source link on this line, which is how the page marks a line a creator said; an unmarked line is recorded as composed",
+        "how": "RTS Media content brief (Issey, 10/21), worded by RTS and placed in session at Nick's direction"
+      },
+      "proof": {
+        "videos_made": "UNKNOWN",
+        "converting_videos": "UNKNOWN",
+        "distinct_creators": "UNKNOWN",
+        "revenue_usd": "UNKNOWN",
+        "as_of": "2026-10-21",
+        "how": "no video has been read against this line yet"
+      },
+      "rules": {
+        "checked_on": "2026-10-21",
+        "passed": true,
+        "broken": [],
+        "carries_claim": false
+      },
+      "angle_id_proposed": "unclassified",
+      "entered": {
+        "on": "2026-10-21",
+        "tab": "street-interview",
+        "displaced": "h-0686",
+        "by": "nicklac@drinkkenetik.com",
+        "figures": {
+          "in": "UNKNOWN",
+          "out": "UNKNOWN"
+        }
+      }
     }
   },
   "tabs": [
@@ -25562,24 +25632,24 @@
       "label": "🎤 Street Interviews",
       "nav_order": 27,
       "title": "Hooks for street interviews",
-      "sub": "10 questions · the moment: the afternoon wall, and the fog that comes with it",
-      "audience": "Stopping strangers works because the viewer learns at the same speed the stranger does. Ask about their afternoon before you name the brand, let them guess wrong about what Kenetik is, then answer in one sentence: caffeine-free brain fuel, 12 grams of ketones, and nothing in it to keep you up tonight. Then hand them the can and film the first sip. **Two kinds of video:** the everyday ones, for anyone hitting the afternoon wall, and the menopause ones, where a woman host stops women 40 and up and asks about the afternoon fog. A woman asking another woman gets an honest answer.",
+      "sub": "3 concepts · 10 questions · the moment: the afternoon wall, and the fog that comes with it",
+      "audience": "Stopping strangers works because the viewer learns at the same speed the stranger does. Ask about their afternoon before you name the brand, let them answer in their own words, then say what Kenetik is in one sentence and hand them the can. **Three concepts, ten videos:** five everyday videos from concepts 1 and 3, for anyone who hits the afternoon wall, and five from concept 2, where a woman host stops women 40 and up and asks about the afternoon fog. A woman asking another woman gets an honest answer.",
       "formula": [
         {
           "title": "The question",
-          "text": "Open on one of the questions below, before the brand comes up. The first 1 to 3 seconds are the question and their face."
+          "text": "Open on the concept’s question, before the brand comes up. The first 1 to 3 seconds are the question and their face."
         },
         {
-          "title": "Their answer",
-          "text": "Let them answer in their own words, wrong guesses included. That is the part people watch. Never feed them a line."
+          "title": "The follow-ups",
+          "text": "Ask two or three follow-ups and let them answer in their own words, wrong guesses included. That is the part people watch. Never feed them a line."
         },
         {
           "title": "One sentence back",
-          "text": "“It’s caffeine-free brain fuel, 12 grams of ketones.” Then hand them the can and film the first sip, reaction and all."
+          "text": "“This is Kenetik, caffeine-free brain fuel, 12 grams of ketones.” Then hand them the can and film the first sip, reaction and all."
         },
         {
           "title": "Close it",
-          "text": "End on their honest verdict, then “Would you try it?” For the ad cut, the host says “shop now” out loud at the end."
+          "text": "Ask the concept’s closing question and keep their honest answer. For the ad cut, the host says “shop now” out loud at the end."
         }
       ],
       "dos": [
@@ -25599,12 +25669,12 @@
         "Make Kenetik the hero. Their afternoon is the story, and Kenetik is the thing that helped."
       ],
       "hook_ids": [
-        "h-0287",
+        "h-0690",
         "h-0285",
+        "h-0691",
         "h-0288",
         "h-0672",
         "h-0685",
-        "h-0686",
         "h-0687",
         "h-0688",
         "h-0689",
@@ -25627,24 +25697,74 @@
         },
         {
           "block": "eyebrow",
-          "text": "What a great one covers"
+          "text": "What every video covers"
         },
         {
           "block": "formula"
         },
         {
           "block": "eyebrow",
-          "text": "The ten questions, and what to say back"
+          "text": "Concept 1 · What time does your brain give up?"
+        },
+        {
+          "block": "list",
+          "items": [
+            "**Who:** anyone. One of the five everyday videos.",
+            "**Open:** “What time of day does your brain officially give up on you?”",
+            "**Follow up:** “What do you usually do when that happens?” “How many coffees have you had today?” “Does that afternoon coffee ever mess with your sleep?”",
+            "**Say back:** “This is Kenetik. It’s caffeine-free brain fuel, 12 grams of ketones, for afternoon focus with nothing in it to keep you up tonight.”",
+            "**Then:** hand them the can and keep their honest first reaction.",
+            "**Close:** “Would you reach for Kenetik instead of another coffee at 3pm?” Then “shop now” for the ad cut."
+          ]
+        },
+        {
+          "block": "eyebrow",
+          "text": "Concept 2 · Brain fog after 40"
+        },
+        {
+          "block": "amber",
+          "label": "Personal experience only",
+          "text": "**Kenetik is not a menopause product, and it does not treat brain fog.** It is what she might reach for in the afternoon instead of another coffee. Never ask whether she is in menopause, and let her bring it up. In the edit, cut any line where someone says it fixed her fog, her memory, her hormones or her sleep."
+        },
+        {
+          "block": "list",
+          "items": [
+            "**Who:** women 40 and up, asked by a woman host. The five menopause videos.",
+            "**Open:** “Does brain fog hit differently once you’re over 40?”",
+            "**Follow up:** “Have you ever walked into a room and completely forgotten why?” “Have you noticed your focus changing since you turned 40?” “When that afternoon brain fog hits, what do you usually reach for?”",
+            "**Say back:** “This is Kenetik. It’s caffeine-free brain fuel, 12 grams of ketones, for afternoon clarity and focus without messing with your sleep.”",
+            "**Then:** hand her the can and keep her honest first reaction.",
+            "**Close:** “Now that you’ve tried it, who’s the first woman over 40 you’d tell about it, and why?” Then “shop now” for the ad cut."
+          ]
+        },
+        {
+          "block": "eyebrow",
+          "text": "Concept 3 · How many coffees deep are you?"
+        },
+        {
+          "block": "list",
+          "items": [
+            "**Who:** anyone, best of all someone holding a coffee. One of the five everyday videos.",
+            "**Open:** “How many coffees deep are you right now?”",
+            "**Follow up:** “What time was your last coffee?” “Have you ever had coffee late in the day and struggled to sleep?” “What if you could get through the afternoon without another coffee?”",
+            "**Say back:** “This is Kenetik. Instead of caffeine, it’s 12 grams of ketones to fuel your brain, with nothing in it to keep you up tonight.”",
+            "**Then:** hand them the can and keep their honest taste-test reaction.",
+            "**Close:** “Would you swap your next afternoon coffee for Kenetik?” Then “shop now” for the ad cut."
+          ]
+        },
+        {
+          "block": "eyebrow",
+          "text": "All ten questions, to rotate between videos"
         },
         {
           "block": "hooks",
           "hook_ids": [
-            "h-0287",
+            "h-0690",
             "h-0285",
+            "h-0691",
             "h-0288",
             "h-0672",
             "h-0685",
-            "h-0686",
             "h-0687",
             "h-0688",
             "h-0689",
@@ -30903,6 +31023,32 @@
       "owner": "nick",
       "claim_flagged": false,
       "position": 9
+    },
+    {
+      "kind": "hook_swap",
+      "tab": "street-interview",
+      "in": "h-0690",
+      "out": "h-0287",
+      "decision": "approve",
+      "reason": "Street interview tab 10/21: rebuilt from the RTS content brief (three concepts), at Nick's direction. The concept 1 and 2 openers take RTS's own wording.",
+      "by": "nicklac@drinkkenetik.com",
+      "at": "2026-10-21",
+      "owner": "nick",
+      "claim_flagged": false,
+      "position": 1
+    },
+    {
+      "kind": "hook_swap",
+      "tab": "street-interview",
+      "in": "h-0691",
+      "out": "h-0686",
+      "decision": "approve",
+      "reason": "Street interview tab 10/21: rebuilt from the RTS content brief (three concepts), at Nick's direction. The concept 1 and 2 openers take RTS's own wording.",
+      "by": "nicklac@drinkkenetik.com",
+      "at": "2026-10-21",
+      "owner": "nick",
+      "claim_flagged": false,
+      "position": 3
     }
   ],
   "grandfathered": [
