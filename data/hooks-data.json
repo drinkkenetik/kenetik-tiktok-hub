@@ -2,7 +2,7 @@
   "schema_version": "1.0",
   "updated": "2026-10-25",
   "written_by": "scripts/hooks_hub_extract.py for the first write; the Monday turn writes the machine fields from 7-2 and people write the editorial fields by hand",
-  "rules_version": "hooks-config@4402e2a7 · claims-list@daffab0b · reader@138f4b17",
+  "rules_version": "hooks-config@4402e2a7 · claims-list@9712b169 · reader@138f4b17",
   "footer": "Kenetik Creator Hub · Hook performance from our TikTok Shop and Meta ad campaigns, measured on each video's spoken opening line. Refreshed weekly. Figures are past performance and not a guarantee of what any individual video will earn.",
   "top_now": {
     "window": {
@@ -2815,7 +2815,7 @@
         "how": "no video has been read against this line yet"
       },
       "rules": {
-        "checked_on": "2026-09-11",
+        "checked_on": "2026-10-26",
         "passed": true,
         "broken": [],
         "carries_claim": false
@@ -21871,19 +21871,20 @@
         "how": "quoted from a video that sold inside the proof window"
       },
       "proof": {
-        "videos_made": "UNKNOWN",
-        "converting_videos": "UNKNOWN",
-        "distinct_creators": "UNKNOWN",
-        "revenue_usd": "UNKNOWN",
-        "as_of": "2026-10-25",
-        "how": "no video has been read against this line yet"
+        "videos_made": 1,
+        "converting_videos": 1,
+        "distinct_creators": 1,
+        "revenue_usd": 150.13,
+        "as_of": "2026-10-26",
+        "how": "Counted from the videos whose spoken opening matched this line and were posted between 2026-09-29 and 2026-10-26. One creator so far."
       },
       "rules": {
         "checked_on": "2026-10-25",
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "unclassified"
     },
     "h-0694": {
       "hook_id": "h-0694",
@@ -21899,19 +21900,20 @@
         "how": "quoted from a video that sold inside the proof window"
       },
       "proof": {
-        "videos_made": "UNKNOWN",
-        "converting_videos": "UNKNOWN",
-        "distinct_creators": "UNKNOWN",
-        "revenue_usd": "UNKNOWN",
-        "as_of": "2026-10-25",
-        "how": "no video has been read against this line yet"
+        "videos_made": 1,
+        "converting_videos": 1,
+        "distinct_creators": 1,
+        "revenue_usd": 70.56,
+        "as_of": "2026-10-26",
+        "how": "Counted from the videos whose spoken opening matched this line and were posted between 2026-09-29 and 2026-10-26. One creator so far."
       },
       "rules": {
         "checked_on": "2026-10-25",
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "what-it-is"
     },
     "h-0695": {
       "hook_id": "h-0695",
@@ -21927,19 +21929,20 @@
         "how": "quoted from a video that outsold a Top 10 card over the turn's window"
       },
       "proof": {
-        "videos_made": "UNKNOWN",
-        "converting_videos": "UNKNOWN",
-        "distinct_creators": "UNKNOWN",
-        "revenue_usd": "UNKNOWN",
-        "as_of": "2026-10-25",
-        "how": "no video has been read against this line yet"
+        "videos_made": 1,
+        "converting_videos": 1,
+        "distinct_creators": 1,
+        "revenue_usd": 150.13,
+        "as_of": "2026-10-26",
+        "how": "Counted from the videos whose spoken opening matched this line and were posted between 2026-09-29 and 2026-10-26. One creator so far."
       },
       "rules": {
         "checked_on": "2026-10-25",
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "unclassified"
     },
     "h-0696": {
       "hook_id": "h-0696",
@@ -21967,7 +21970,8 @@
         "passed": true,
         "broken": [],
         "carries_claim": false
-      }
+      },
+      "angle_id_proposed": "unclassified"
     }
   },
   "tabs": [
