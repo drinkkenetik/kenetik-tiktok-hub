@@ -32275,6 +32275,12 @@
       }
     ]
   },
+  "nav_links": [
+    {
+      "label": "Black Friday ↗",
+      "href": "/black-friday-sweepstakes/"
+    }
+  ],
   "_doc": {
     "what": "The hooks hub's content. One store, read by hub/hooks/index.html through the mirror the publish workflow writes. The page holds no copy of its own.",
     "hooks_are_a_library": "hook_id is frozen for the life of a line so proof accrues to the line, not to a copy of it; a tab holds an ordered list of placements (hook_ids).",

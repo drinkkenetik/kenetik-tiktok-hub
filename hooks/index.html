@@ -40,6 +40,7 @@ button{font:inherit;color:inherit;}
 .tab:hover{color:var(--ink);border-color:#CFC8DE;}
 .tab.active{background:var(--ink);border-color:var(--ink);color:#fff;}
 .tab em{display:none;}
+a.tab{text-decoration:none;} .tab.tab-link{color:var(--plum);border-color:var(--plum);}
 .hint{display:none;}
 
 /* reading column */
@@ -639,6 +640,12 @@ function render(){
     nav.push('<button class="tab" data-for="' + attr(page.slug) + '" onclick="' + attr('openSlug(\'' + page.slug + '\')')
       + '"><span>' + esc(page.title) + '</span><em></em></button>');
   });
+  /* A nav link (a seasonal brief, say) sits right after Start Here, so a phone shows it without scrolling. It opens
+     another hub page, so it is a link, never lit as the active tab. */
+  var links = (DATA.nav_links || []).filter(function(l){ return /^\/[a-z0-9]/.test(l.href || ''); }).map(function(l){
+    return '<a class="tab tab-link" href="' + attr(l.href) + '"><span>' + esc(l.label) + '</span></a>';
+  });
+  nav.splice.apply(nav, [Math.min(1, nav.length), 0].concat(links));
   document.getElementById('tabs').innerHTML = nav.join('');
   document.getElementById('main').innerHTML = tabs.map(function(t, i){
     var topNow = (t.slug === 'top-3' || t.slug === 'start-here') ? renderTopNow(t) : '';
