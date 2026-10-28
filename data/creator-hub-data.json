@@ -8,6 +8,10 @@
   "assets": {},
   "navLinks": [
     {
+      "label": "Black Friday ↗",
+      "href": "/black-friday-sweepstakes/"
+    },
+    {
       "label": "Hook Library ↗",
       "href": "/hooks"
     },
