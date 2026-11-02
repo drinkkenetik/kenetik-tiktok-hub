@@ -535,5 +535,42 @@
       "text": "~$35K",
       "detail": "carries '$35K'; the public hub shows counts and multiples about money, and the only dollar figures on it are the revenue chip on a featured video and the GMV headline"
     }
+  ],
+  "changes_pending": [
+    {
+      "kind": "roster_swap",
+      "in": "7673447504649751822",
+      "out": "7674092193027493151",
+      "owner": "nick",
+      "since": "2026-11-01",
+      "evidence": {
+        "in": {
+          "handle": "UNKNOWN",
+          "hook": "Tired America? We just got home from a little road trip, night away, offroading all day yesterday. I'm unpacking my cooler and one of the things that I obviously took with me is Kenetix.",
+          "revenue_usd": 191.93,
+          "primary": "$192",
+          "secondary": "1.1K views",
+          "age": "3mo ago",
+          "href": "https://www.tiktok.com/@roidragetts/video/7673447504649751822",
+          "thumb": "https://database.euka.ai/storage/v1/object/public/creator_videos_photos/7673447504649751822.webp",
+          "rules": {
+            "passed": true,
+            "broken": [],
+            "how": "This line breaks no rule.",
+            "checked_on": "2026-11-01"
+          },
+          "verified": "transcript"
+        },
+        "out": {
+          "handle": "@thededicateddad",
+          "hook": "If these sell out anywhere as quick as these did, you might not even get these before you see this video.",
+          "revenue_usd": 48.0,
+          "primary": "$48",
+          "rank": "5",
+          "why": "the least this roster has sold on TikTok Shop"
+        },
+        "how": "UNKNOWN sold $192 on TikTok Shop off a line they said on camera, and the weakest card on the hub has sold $48. Approving puts this video in that card's place and leaves the words on it for you to write."
+      }
+    }
   ]
 }
