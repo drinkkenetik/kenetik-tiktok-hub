@@ -47,10 +47,17 @@ h1{font-family:var(--display);font-weight:900;font-size:40px;line-height:1.05;le
 @media(max-width:760px){.band-in{padding:12px 16px;}.wordmark{font-size:18px;}.main{padding:22px 16px 56px;}
 h1{font-size:30px;}.big{font-size:22px;padding:20px;}.twocol{flex-direction:column;}.msg{padding:16px;gap:12px;}.mnum{flex-basis:24px;font-size:24px;}.mhead{font-size:19px;}}
 .formula{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:12px;}
-.step{background:var(--panel);border-radius:14px;padding:16px 18px;}
-.step .sn{display:inline-flex;width:28px;height:28px;border-radius:50%;background:var(--grad);color:#fff;font-family:var(--display);font-weight:900;font-size:14px;align-items:center;justify-content:center;margin-bottom:8px;}
-.step b{display:block;font-family:var(--display);font-size:17px;font-weight:800;color:var(--ink);}
-.step p{margin:4px 0 0;font-size:14.5px;line-height:1.5;color:var(--ink2);}
+.step{position:relative;overflow:hidden;background:var(--panel);border-radius:16px;padding:22px 20px 20px;}
+.step::before{content:"";position:absolute;left:0;right:0;top:0;height:4px;background:var(--grad);}
+.step .sh{display:flex;align-items:center;gap:10px;margin-bottom:10px;}
+.step .sn{display:inline-flex;flex:none;width:30px;height:30px;border-radius:50%;background:var(--grad);color:#fff;font-family:var(--display);font-weight:900;font-size:14px;align-items:center;justify-content:center;}
+.step .st{font-family:var(--display);font-size:18px;font-weight:800;letter-spacing:-.2px;color:var(--ink);}
+.step p{margin:0;font-size:15px;line-height:1.55;color:var(--ink2);}
+.step p b{font-weight:700;color:var(--ink);}
+.step.cta{background:linear-gradient(135deg,#7B2A86 0%,#5A3E9E 50%,#3557B7 100%);}
+.step.cta::before{display:none;}
+.step.cta .sn{background:#fff;color:var(--violet);}
+.step.cta .st,.step.cta p,.step.cta p b{color:#fff;}
 .note{font-size:14.5px;line-height:1.55;color:var(--ink2);margin:12px 2px 0;}
 .hook{display:flex;gap:18px;padding:20px 22px;border:1px solid var(--line);border-radius:16px;background:#fff;}
 @media(max-width:760px){.hook{padding:16px;gap:12px;}}
@@ -64,10 +71,10 @@ h1{font-size:30px;}.big{font-size:22px;padding:20px;}.twocol{flex-direction:colu
 <div class="eyebrow">Your angle</div><div class="northstar"><p>You already said it best: more focused and energized to keep up with the kids. Lead with the afternoon moment every mom recognises, and make Kenetik your find, the way you'd share anything else that works in your house.</p></div>
 <div class="eyebrow">What a great video covers</div>
 <div class="formula">
-<div class="step"><span class="sn">1</span><b>Hook</b><p>Open in the first 1 to 3 seconds with one of your lines below.</p></div>
-<div class="step"><span class="sn">2</span><b>The problem</b><p>3pm, the kids are bouncing off the walls, dinner isn't started, and the afternoon wall hits.</p></div>
-<div class="step"><span class="sn">3</span><b>Kenetik</b><p>Crack one open, show your honest take. Say "brain fuel" once. Caffeine-free is the twist.</p></div>
-<div class="step"><span class="sn">4</span><b>Close</b><p>One reason to try it (caffeine-free, 12g of ketones) and your code VANBUNCH or your link.</p></div>
+<div class="step"><div class="sh"><span class="sn">1</span><span class="st">Hook</span></div><p>Open in the first 1 to 3 seconds with one of your lines below.</p></div>
+<div class="step"><div class="sh"><span class="sn">2</span><span class="st">The problem</span></div><p>3pm, the kids are bouncing off the walls, dinner isn't started, and the afternoon wall hits.</p></div>
+<div class="step"><div class="sh"><span class="sn">3</span><span class="st">Kenetik</span></div><p>Crack one open, show your honest take. Say "brain fuel" once. Caffeine-free is the twist.</p></div>
+<div class="step cta"><div class="sh"><span class="sn">4</span><span class="st">Close</span></div><p>One reason to try it (caffeine-free, 12g of ketones) and your code VANBUNCH or your link.</p></div>
 </div><p class="note">Talk to camera and day-in-the-life are your strengths. Film the afternoon as it really happens, crack the can in the kitchen, and keep it light.</p>
 <div class="eyebrow">Your 5 hooks</div><div class="msgs"><div class="hook"><div class="mnum">1</div><div class="mbody"><div class="mhead">“It's 3pm, the kids have energy for days, and I have none. This is my afternoon find.”</div><div class="msay"><span>Video idea</span>Talk to camera in the kitchen mid-chaos, crack a Kenetik, then a quick cut of you keeping up with the kids.</div><div class="mwhy"><span>Why it works</span>Every mom watching knows that exact hour, so the first line does the work before you say anything about the product.</div></div></div><div class="hook"><div class="mnum">2</div><div class="mbody"><div class="mhead">“My afternoon pick-me-up that doesn't make me jittery.”</div><div class="msay"><span>Video idea</span>Day-in-the-life clip around the after-school rush, the can on the counter.</div><div class="mwhy"><span>Why it works</span>Simple and true to what you said. Jitters are the thing people are trying to avoid, so naming them is enough.</div></div></div><div class="hook"><div class="mnum">3</div><div class="mbody"><div class="mhead">“Family-friendly finds I actually use, this one is for me.”</div><div class="msay"><span>Video idea</span>Your usual finds format with three quick items, Kenetik last as the one that's yours.</div><div class="mwhy"><span>Why it works</span>It fits a format your audience already likes, and saving it for last gives it the most weight.</div></div></div><div class="hook"><div class="mnum">4</div><div class="mbody"><div class="mhead">“Keeping up with three kids after school, here's what helps me.”</div><div class="msay"><span>Video idea</span>After-school pickup through homework, with the can in your hand once.</div><div class="mwhy"><span>Why it works</span>A specific routine makes it relatable, and your audience copies what works for you.</div></div></div><div class="hook"><div class="mnum">5</div><div class="mbody"><div class="mhead">“The one thing in my fridge that's just for me.”</div><div class="msay"><span>Video idea</span>Fridge tour, kids' snacks everywhere, one shelf with Kenetik.</div><div class="mwhy"><span>Why it works</span>A small moment of something for yourself is relatable and a little funny, which keeps people watching.</div></div></div></div>
 <div class="eyebrow">Do's and don'ts</div><div class="twocol">

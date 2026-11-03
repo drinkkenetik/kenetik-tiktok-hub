@@ -47,10 +47,17 @@ h1{font-family:var(--display);font-weight:900;font-size:40px;line-height:1.05;le
 @media(max-width:760px){.band-in{padding:12px 16px;}.wordmark{font-size:18px;}.main{padding:22px 16px 56px;}
 h1{font-size:30px;}.big{font-size:22px;padding:20px;}.twocol{flex-direction:column;}.msg{padding:16px;gap:12px;}.mnum{flex-basis:24px;font-size:24px;}.mhead{font-size:19px;}}
 .formula{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:12px;}
-.step{background:var(--panel);border-radius:14px;padding:16px 18px;}
-.step .sn{display:inline-flex;width:28px;height:28px;border-radius:50%;background:var(--grad);color:#fff;font-family:var(--display);font-weight:900;font-size:14px;align-items:center;justify-content:center;margin-bottom:8px;}
-.step b{display:block;font-family:var(--display);font-size:17px;font-weight:800;color:var(--ink);}
-.step p{margin:4px 0 0;font-size:14.5px;line-height:1.5;color:var(--ink2);}
+.step{position:relative;overflow:hidden;background:var(--panel);border-radius:16px;padding:22px 20px 20px;}
+.step::before{content:"";position:absolute;left:0;right:0;top:0;height:4px;background:var(--grad);}
+.step .sh{display:flex;align-items:center;gap:10px;margin-bottom:10px;}
+.step .sn{display:inline-flex;flex:none;width:30px;height:30px;border-radius:50%;background:var(--grad);color:#fff;font-family:var(--display);font-weight:900;font-size:14px;align-items:center;justify-content:center;}
+.step .st{font-family:var(--display);font-size:18px;font-weight:800;letter-spacing:-.2px;color:var(--ink);}
+.step p{margin:0;font-size:15px;line-height:1.55;color:var(--ink2);}
+.step p b{font-weight:700;color:var(--ink);}
+.step.cta{background:linear-gradient(135deg,#7B2A86 0%,#5A3E9E 50%,#3557B7 100%);}
+.step.cta::before{display:none;}
+.step.cta .sn{background:#fff;color:var(--violet);}
+.step.cta .st,.step.cta p,.step.cta p b{color:#fff;}
 .note{font-size:14.5px;line-height:1.55;color:var(--ink2);margin:12px 2px 0;}
 .hook{display:flex;gap:18px;padding:20px 22px;border:1px solid var(--line);border-radius:16px;background:#fff;}
 @media(max-width:760px){.hook{padding:16px;gap:12px;}}
@@ -64,10 +71,10 @@ h1{font-size:30px;}.big{font-size:22px;padding:20px;}.twocol{flex-direction:colu
 <div class="eyebrow">Your angle</div><div class="northstar"><p>Cinematic storytelling is your strength, so tell a story, not an ad. The movement is the hook, and the focus behind it is the story. Kenetik is part of how you get your head right before you train. Keep it about your mind: locked in and present for the movement, never jumping higher or recovering faster.</p></div>
 <div class="eyebrow">What a great video covers</div>
 <div class="formula">
-<div class="step"><span class="sn">1</span><b>Hook</b><p>Open in the first 1 to 3 seconds with one of your lines below.</p></div>
-<div class="step"><span class="sn">2</span><b>The problem</b><p>Getting your head right before a session, without the jittery edge of a pre-workout or the midday crash after the morning coffee.</p></div>
-<div class="step"><span class="sn">3</span><b>Kenetik</b><p>Crack one open, show your honest take. Say "brain fuel" once. Caffeine-free is the twist.</p></div>
-<div class="step"><span class="sn">4</span><b>Close</b><p>One reason to try it (caffeine-free, 12g of ketones) and your code ANDREI15 or your link.</p></div>
+<div class="step"><div class="sh"><span class="sn">1</span><span class="st">Hook</span></div><p>Open in the first 1 to 3 seconds with one of your lines below.</p></div>
+<div class="step"><div class="sh"><span class="sn">2</span><span class="st">The problem</span></div><p>Getting your head right before a session, without the jittery edge of a pre-workout or the midday crash after the morning coffee.</p></div>
+<div class="step"><div class="sh"><span class="sn">3</span><span class="st">Kenetik</span></div><p>Crack one open, show your honest take. Say "brain fuel" once. Caffeine-free is the twist.</p></div>
+<div class="step cta"><div class="sh"><span class="sn">4</span><span class="st">Close</span></div><p>One reason to try it (caffeine-free, 12g of ketones) and your code ANDREI15 or your link.</p></div>
 </div><p class="note">Instagram Reels first, TikTok second. Your cinematic edits are the format: a slow build, the spot, the run-up, the move. Put the can in the story the way a filmmaker would, in the prep, at the spot before the line, on the walk home. Keep any line about Kenetik short, in voiceover or on-screen text.</p>
 <div class="eyebrow">Your 5 hooks</div><div class="msgs"><div class="hook"><div class="mnum">1</div><div class="mbody"><div class="mhead">“Every line starts in my head long before my feet leave the ground.”</div><div class="msay"><span>Video idea</span>Cinematic open on you studying the spot, can in hand, then the line itself.</div><div class="mwhy"><span>Why it works</span>It is your philosophy and the moment Kenetik lives in, in one sentence, and the visuals pay it off.</div></div></div><div class="hook"><div class="mnum">2</div><div class="mbody"><div class="mhead">“More than flips. This is what the minutes before a session actually look like.”</div><div class="msay"><span>Video idea</span>A prep ritual sequence: shoes, warm-up, the can, the first move.</div><div class="mwhy"><span>Why it works</span>Your audience comes for the story behind the movement, and the prep is where the can belongs.</div></div></div><div class="hook"><div class="mnum">3</div><div class="mbody"><div class="mhead">“No coffee, no pre-workout, and my head is still in it on the last run of the day.”</div><div class="msay"><span>Video idea</span>End-of-day session, golden light, the last line you planned, then the walk home.</div><div class="mwhy"><span>Why it works</span>It shows the difference over a whole day instead of claiming it, which is more believable.</div></div></div><div class="hook"><div class="mnum">4</div><div class="mbody"><div class="mhead">“Parkour is ten percent jumping and ninety percent deciding to jump.”</div><div class="msay"><span>Video idea</span>Slow motion at the edge, the hesitation, then the commit. The can sits at the start of the session.</div><div class="mwhy"><span>Why it works</span>A line people repeat and share, and it frames Kenetik around your head, not your legs.</div></div></div><div class="hook"><div class="mnum">5</div><div class="mbody"><div class="mhead">“What is in my bag for a full day of training, and it is not an energy drink.”</div><div class="msay"><span>Video idea</span>A bag dump: shoes, chalk, tape, then Kenetik last.</div><div class="mwhy"><span>Why it works</span>Bag dumps are easy to watch, and the contrast with the usual energy drink is your point of difference.</div></div></div></div>
 <div class="eyebrow">Do's and don'ts</div><div class="twocol">

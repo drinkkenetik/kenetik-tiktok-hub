@@ -47,10 +47,17 @@ h1{font-family:var(--display);font-weight:900;font-size:40px;line-height:1.05;le
 @media(max-width:760px){.band-in{padding:12px 16px;}.wordmark{font-size:18px;}.main{padding:22px 16px 56px;}
 h1{font-size:30px;}.big{font-size:22px;padding:20px;}.twocol{flex-direction:column;}.msg{padding:16px;gap:12px;}.mnum{flex-basis:24px;font-size:24px;}.mhead{font-size:19px;}}
 .formula{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:12px;}
-.step{background:var(--panel);border-radius:14px;padding:16px 18px;}
-.step .sn{display:inline-flex;width:28px;height:28px;border-radius:50%;background:var(--grad);color:#fff;font-family:var(--display);font-weight:900;font-size:14px;align-items:center;justify-content:center;margin-bottom:8px;}
-.step b{display:block;font-family:var(--display);font-size:17px;font-weight:800;color:var(--ink);}
-.step p{margin:4px 0 0;font-size:14.5px;line-height:1.5;color:var(--ink2);}
+.step{position:relative;overflow:hidden;background:var(--panel);border-radius:16px;padding:22px 20px 20px;}
+.step::before{content:"";position:absolute;left:0;right:0;top:0;height:4px;background:var(--grad);}
+.step .sh{display:flex;align-items:center;gap:10px;margin-bottom:10px;}
+.step .sn{display:inline-flex;flex:none;width:30px;height:30px;border-radius:50%;background:var(--grad);color:#fff;font-family:var(--display);font-weight:900;font-size:14px;align-items:center;justify-content:center;}
+.step .st{font-family:var(--display);font-size:18px;font-weight:800;letter-spacing:-.2px;color:var(--ink);}
+.step p{margin:0;font-size:15px;line-height:1.55;color:var(--ink2);}
+.step p b{font-weight:700;color:var(--ink);}
+.step.cta{background:linear-gradient(135deg,#7B2A86 0%,#5A3E9E 50%,#3557B7 100%);}
+.step.cta::before{display:none;}
+.step.cta .sn{background:#fff;color:var(--violet);}
+.step.cta .st,.step.cta p,.step.cta p b{color:#fff;}
 .note{font-size:14.5px;line-height:1.55;color:var(--ink2);margin:12px 2px 0;}
 .hook{display:flex;gap:18px;padding:20px 22px;border:1px solid var(--line);border-radius:16px;background:#fff;}
 @media(max-width:760px){.hook{padding:16px;gap:12px;}}
@@ -64,10 +71,10 @@ h1{font-size:30px;}.big{font-size:22px;padding:20px;}.twocol{flex-direction:colu
 <div class="eyebrow">Your angle</div><div class="northstar"><p>You're a practitioner, so lead with what you'd tell a client about your own routine: why you chose a caffeine-free drink, what's in it, and how you use it. Answer the questions your group already asks. Talk about your own experience and the ingredients, and never about treating or fixing anything.</p></div>
 <div class="eyebrow">What a great video covers</div>
 <div class="formula">
-<div class="step"><span class="sn">1</span><b>Hook</b><p>Open in the first 1 to 3 seconds with one of your lines below.</p></div>
-<div class="step"><span class="sn">2</span><b>The problem</b><p>A long day of clients and questions, an afternoon dip in focus, and a group full of women tired of drinks that leave them wired.</p></div>
-<div class="step"><span class="sn">3</span><b>Kenetik</b><p>Crack one open, show your honest take. Say "brain fuel" once. Caffeine-free is the twist.</p></div>
-<div class="step"><span class="sn">4</span><b>Close</b><p>One reason to try it (caffeine-free, 12g of ketones) and your code GLOW or your link.</p></div>
+<div class="step"><div class="sh"><span class="sn">1</span><span class="st">Hook</span></div><p>Open in the first 1 to 3 seconds with one of your lines below.</p></div>
+<div class="step"><div class="sh"><span class="sn">2</span><span class="st">The problem</span></div><p>A long day of clients and questions, an afternoon dip in focus, and a group full of women tired of drinks that leave them wired.</p></div>
+<div class="step"><div class="sh"><span class="sn">3</span><span class="st">Kenetik</span></div><p>Crack one open, show your honest take. Say "brain fuel" once. Caffeine-free is the twist.</p></div>
+<div class="step cta"><div class="sh"><span class="sn">4</span><span class="st">Close</span></div><p>One reason to try it (caffeine-free, 12g of ketones) and your code GLOW or your link.</p></div>
 </div><p class="note">Talk to camera and simple label close-ups work best for you. Facebook group posts can be a short video plus a written answer to the most common question. Keep every word to your own experience and the label.</p>
 <div class="eyebrow">Your 5 hooks</div><div class="msgs"><div class="hook"><div class="mnum">1</div><div class="mbody"><div class="mhead">“As a naturopath, I read every label. Here's why this one is in my bag.”</div><div class="msay"><span>Video idea</span>Talk to camera with the can, then a close-up of the ingredient panel.</div><div class="mwhy"><span>Why it works</span>Your credential plus a label read is a reason to trust you, and it invites questions you're good at answering.</div></div></div><div class="hook"><div class="mnum">2</div><div class="mbody"><div class="mhead">“The question I get most in my groups: what do you drink instead of caffeine?”</div><div class="msay"><span>Video idea</span>Answer it straight to camera with the can in hand, then post the same answer in the group.</div><div class="mwhy"><span>Why it works</span>Answering a real question from your community lands better than any pitch.</div></div></div><div class="hook"><div class="mnum">3</div><div class="mbody"><div class="mhead">“My afternoon routine between clients, start to finish.”</div><div class="msay"><span>Video idea</span>Short day-in-the-life between appointments, the can on your desk.</div><div class="mwhy"><span>Why it works</span>Seeing how a practitioner actually works makes it easy to copy, and the product is part of it.</div></div></div><div class="hook"><div class="mnum">4</div><div class="mbody"><div class="mhead">“What's actually in this can, read by a naturopath.”</div><div class="msay"><span>Video idea</span>Label read: caffeine-free, 12g of ketones, nothing artificial. Plain and calm.</div><div class="mwhy"><span>Why it works</span>Facts read calmly come across as credible. Stick to what's on the label.</div></div></div><div class="hook"><div class="mnum">5</div><div class="mbody"><div class="mhead">“Women in my groups asked me to try it. Here's my honest take after a few weeks.”</div><div class="msay"><span>Video idea</span>Talk to camera, sharing what you noticed in your own day, including anything you'd change.</div><div class="mwhy"><span>Why it works</span>An honest review with a small criticism is more believable than praise alone.</div></div></div></div>
 <div class="eyebrow">Do's and don'ts</div><div class="twocol">

@@ -47,10 +47,17 @@ h1{font-family:var(--display);font-weight:900;font-size:40px;line-height:1.05;le
 @media(max-width:760px){.band-in{padding:12px 16px;}.wordmark{font-size:18px;}.main{padding:22px 16px 56px;}
 h1{font-size:30px;}.big{font-size:22px;padding:20px;}.twocol{flex-direction:column;}.msg{padding:16px;gap:12px;}.mnum{flex-basis:24px;font-size:24px;}.mhead{font-size:19px;}}
 .formula{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:12px;}
-.step{background:var(--panel);border-radius:14px;padding:16px 18px;}
-.step .sn{display:inline-flex;width:28px;height:28px;border-radius:50%;background:var(--grad);color:#fff;font-family:var(--display);font-weight:900;font-size:14px;align-items:center;justify-content:center;margin-bottom:8px;}
-.step b{display:block;font-family:var(--display);font-size:17px;font-weight:800;color:var(--ink);}
-.step p{margin:4px 0 0;font-size:14.5px;line-height:1.5;color:var(--ink2);}
+.step{position:relative;overflow:hidden;background:var(--panel);border-radius:16px;padding:22px 20px 20px;}
+.step::before{content:"";position:absolute;left:0;right:0;top:0;height:4px;background:var(--grad);}
+.step .sh{display:flex;align-items:center;gap:10px;margin-bottom:10px;}
+.step .sn{display:inline-flex;flex:none;width:30px;height:30px;border-radius:50%;background:var(--grad);color:#fff;font-family:var(--display);font-weight:900;font-size:14px;align-items:center;justify-content:center;}
+.step .st{font-family:var(--display);font-size:18px;font-weight:800;letter-spacing:-.2px;color:var(--ink);}
+.step p{margin:0;font-size:15px;line-height:1.55;color:var(--ink2);}
+.step p b{font-weight:700;color:var(--ink);}
+.step.cta{background:linear-gradient(135deg,#7B2A86 0%,#5A3E9E 50%,#3557B7 100%);}
+.step.cta::before{display:none;}
+.step.cta .sn{background:#fff;color:var(--violet);}
+.step.cta .st,.step.cta p,.step.cta p b{color:#fff;}
 .note{font-size:14.5px;line-height:1.55;color:var(--ink2);margin:12px 2px 0;}
 .hook{display:flex;gap:18px;padding:20px 22px;border:1px solid var(--line);border-radius:16px;background:#fff;}
 @media(max-width:760px){.hook{padding:16px;gap:12px;}}
@@ -64,10 +71,10 @@ h1{font-size:30px;}.big{font-size:22px;padding:20px;}.twocol{flex-direction:colu
 <div class="eyebrow">Your angle</div><div class="northstar"><p>Keep it the way your channel already works. Kenetik shows up inside the day, never as a stop for an ad. The story is staying dialed in through the drive, the filming and the edit without the jitters or the afternoon crash.</p></div>
 <div class="eyebrow">What a great video covers</div>
 <div class="formula">
-<div class="step"><span class="sn">1</span><b>Hook</b><p>Open in the first 1 to 3 seconds with one of your lines below.</p></div>
-<div class="step"><span class="sn">2</span><b>The problem</b><p>Hour nine of the drive, a load to deliver, footage to edit tonight, and a brain going in a million directions.</p></div>
-<div class="step"><span class="sn">3</span><b>Kenetik</b><p>Crack one open, show your honest take. Say "brain fuel" once. Caffeine-free is the twist.</p></div>
-<div class="step"><span class="sn">4</span><b>Close</b><p>One reason to try it (caffeine-free, 12g of ketones) and your code ODIE or your link.</p></div>
+<div class="step"><div class="sh"><span class="sn">1</span><span class="st">Hook</span></div><p>Open in the first 1 to 3 seconds with one of your lines below.</p></div>
+<div class="step"><div class="sh"><span class="sn">2</span><span class="st">The problem</span></div><p>Hour nine of the drive, a load to deliver, footage to edit tonight, and a brain going in a million directions.</p></div>
+<div class="step"><div class="sh"><span class="sn">3</span><span class="st">Kenetik</span></div><p>Crack one open, show your honest take. Say "brain fuel" once. Caffeine-free is the twist.</p></div>
+<div class="step cta"><div class="sh"><span class="sn">4</span><span class="st">Close</span></div><p>One reason to try it (caffeine-free, 12g of ketones) and your code ODIE or your link.</p></div>
 </div><p class="note">Day-in-the-life with talk to camera and voiceover is your format. Work Kenetik into a moment that already happens: the fuel stop, the cab before a long stretch, the laptop after dark.</p>
 <div class="eyebrow">Your 5 hooks</div><div class="msgs"><div class="hook"><div class="mnum">1</div><div class="mbody"><div class="mhead">“Hour nine on the road and I still have a full edit tonight. Here's how I stay locked in.”</div><div class="msay"><span>Video idea</span>Cab shot at hour nine, crack a Kenetik, then cut to the laptop in the camper that night.</div><div class="mwhy"><span>Why it works</span>Viewers already follow your days, so a real time stamp and a real job left to do makes the product part of the story, not an ad break.</div></div></div><div class="hook"><div class="mnum">2</div><div class="mbody"><div class="mhead">“I already drink coffee. This is what I reach for when I need to focus without more of it.”</div><div class="msay"><span>Video idea</span>Coffee in the cupholder, Kenetik in hand, quick voiceover over the drive.</div><div class="mwhy"><span>Why it works</span>Most of your viewers drink coffee too, so you're adding something to their routine instead of asking them to give anything up.</div></div></div><div class="hook"><div class="mnum">3</div><div class="mbody"><div class="mhead">“Cooking dinner at a truck stop after a 600 mile day. Still sharp enough to film it.”</div><div class="msay"><span>Video idea</span>Road cooking segment with Kenetik on the tailgate next to the stove.</div><div class="mwhy"><span>Why it works</span>Your cooking clips already hold attention. Putting the can into that scene means the product rides on content that works.</div></div></div><div class="hook"><div class="mnum">4</div><div class="mbody"><div class="mhead">“Nobody tells you running a business from the road means editing until midnight.”</div><div class="msay"><span>Video idea</span>Talk to camera from the bunk with the laptop open, Kenetik on the shelf.</div><div class="mwhy"><span>Why it works</span>An honest line about the grind pulls in other owner-operators, and they stay to see how you handle it.</div></div></div><div class="hook"><div class="mnum">5</div><div class="mbody"><div class="mhead">“Long haul tomorrow. Here's everything going in the cab.”</div><div class="msay"><span>Video idea</span>Packing-the-cab segment: cooler, gear, snacks, Kenetik going in last.</div><div class="mwhy"><span>Why it works</span>Packing videos are easy to watch and easy to copy, and the product gets a natural close-up.</div></div></div></div>
 <div class="eyebrow">Do's and don'ts</div><div class="twocol">

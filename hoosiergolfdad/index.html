@@ -47,10 +47,17 @@ h1{font-family:var(--display);font-weight:900;font-size:40px;line-height:1.05;le
 @media(max-width:760px){.band-in{padding:12px 16px;}.wordmark{font-size:18px;}.main{padding:22px 16px 56px;}
 h1{font-size:30px;}.big{font-size:22px;padding:20px;}.twocol{flex-direction:column;}.msg{padding:16px;gap:12px;}.mnum{flex-basis:24px;font-size:24px;}.mhead{font-size:19px;}}
 .formula{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:12px;}
-.step{background:var(--panel);border-radius:14px;padding:16px 18px;}
-.step .sn{display:inline-flex;width:28px;height:28px;border-radius:50%;background:var(--grad);color:#fff;font-family:var(--display);font-weight:900;font-size:14px;align-items:center;justify-content:center;margin-bottom:8px;}
-.step b{display:block;font-family:var(--display);font-size:17px;font-weight:800;color:var(--ink);}
-.step p{margin:4px 0 0;font-size:14.5px;line-height:1.5;color:var(--ink2);}
+.step{position:relative;overflow:hidden;background:var(--panel);border-radius:16px;padding:22px 20px 20px;}
+.step::before{content:"";position:absolute;left:0;right:0;top:0;height:4px;background:var(--grad);}
+.step .sh{display:flex;align-items:center;gap:10px;margin-bottom:10px;}
+.step .sn{display:inline-flex;flex:none;width:30px;height:30px;border-radius:50%;background:var(--grad);color:#fff;font-family:var(--display);font-weight:900;font-size:14px;align-items:center;justify-content:center;}
+.step .st{font-family:var(--display);font-size:18px;font-weight:800;letter-spacing:-.2px;color:var(--ink);}
+.step p{margin:0;font-size:15px;line-height:1.55;color:var(--ink2);}
+.step p b{font-weight:700;color:var(--ink);}
+.step.cta{background:linear-gradient(135deg,#7B2A86 0%,#5A3E9E 50%,#3557B7 100%);}
+.step.cta::before{display:none;}
+.step.cta .sn{background:#fff;color:var(--violet);}
+.step.cta .st,.step.cta p,.step.cta p b{color:#fff;}
 .note{font-size:14.5px;line-height:1.55;color:var(--ink2);margin:12px 2px 0;}
 .hook{display:flex;gap:18px;padding:20px 22px;border:1px solid var(--line);border-radius:16px;background:#fff;}
 @media(max-width:760px){.hook{padding:16px;gap:12px;}}
@@ -64,10 +71,10 @@ h1{font-size:30px;}.big{font-size:22px;padding:20px;}.twocol{flex-direction:colu
 <div class="eyebrow">Your angle</div><div class="northstar"><p>Your story is the swap. You were leaning hard on caffeine, you cut it completely, and your motivation and focus went up. Lead with the challenge, let the round prove the focus, and drop the swap story in once people are already watching.</p></div>
 <div class="eyebrow">What a great video covers</div>
 <div class="formula">
-<div class="step"><span class="sn">1</span><b>Hook</b><p>Open in the first 1 to 3 seconds with one of your lines below.</p></div>
-<div class="step"><span class="sn">2</span><b>The problem</b><p>The late-round fade: a lazy read on the green, a rushed swing on 16, the double you didn't need.</p></div>
-<div class="step"><span class="sn">3</span><b>Kenetik</b><p>Crack one open, show your honest take. Say "brain fuel" once. Caffeine-free is the twist.</p></div>
-<div class="step"><span class="sn">4</span><b>Close</b><p>One reason to try it (caffeine-free, 12g of ketones) and your code GOLFDAD or your link.</p></div>
+<div class="step"><div class="sh"><span class="sn">1</span><span class="st">Hook</span></div><p>Open in the first 1 to 3 seconds with one of your lines below.</p></div>
+<div class="step"><div class="sh"><span class="sn">2</span><span class="st">The problem</span></div><p>The late-round fade: a lazy read on the green, a rushed swing on 16, the double you didn't need.</p></div>
+<div class="step"><div class="sh"><span class="sn">3</span><span class="st">Kenetik</span></div><p>Crack one open, show your honest take. Say "brain fuel" once. Caffeine-free is the twist.</p></div>
+<div class="step cta"><div class="sh"><span class="sn">4</span><span class="st">Close</span></div><p>One reason to try it (caffeine-free, 12g of ketones) and your code GOLFDAD or your link.</p></div>
 </div><p class="note">Challenge rounds are your strongest format. Keep the scorecard on screen, keep a can in frame at the turn, and save any talking-head review for the cooldown at the end.</p>
 <div class="eyebrow">Your 5 hooks</div><div class="msgs"><div class="hook"><div class="mnum">1</div><div class="mbody"><div class="mhead">“Driver only for eighteen holes. The hard part isn't the swing, it's staying locked in on the back nine.”</div><div class="msay"><span>Video idea</span>Driver-only challenge round with a running scorecard. Crack a Kenetik at the turn and keep the cut to the back nine.</div><div class="mwhy"><span>Why it works</span>A rule the viewer can check keeps them watching to the last hole, and the back nine is where everyone has felt the fade.</div></div></div><div class="hook"><div class="mnum">2</div><div class="mbody"><div class="mhead">“Range ball versus Pro V1, nine holes each. Same golfer, same focus all day.”</div><div class="msay"><span>Video idea</span>Split-screen scorecard, range ball front nine, Pro V1 back nine. Kenetik out at the turn between the nines.</div><div class="mwhy"><span>Why it works</span>The comparison is the hook, so the product can sit in the background. Viewers stay to see the result, and the can is in every shot of the second half.</div></div></div><div class="hook"><div class="mnum">3</div><div class="mbody"><div class="mhead">“I quit caffeine this year and my golf got better. Here's the round that proved it.”</div><div class="msay"><span>Video idea</span>Talk to camera at the first tee for one line, then cut to the round. End on the scorecard.</div><div class="mwhy"><span>Why it works</span>A personal change plus a measurable result is a story people finish. Keep it to your own round, never a promise about theirs.</div></div></div><div class="hook"><div class="mnum">4</div><div class="mbody"><div class="mhead">“Hole fourteen is where my round usually falls apart. Not today.”</div><div class="msay"><span>Video idea</span>Open on the tee box at 14 with the scorecard showing, then play it out. Show the can earlier in the round.</div><div class="mwhy"><span>Why it works</span>Naming the exact hole makes every golfer check their own scorecard in their head, and the tension carries the clip.</div></div></div><div class="hook"><div class="mnum">5</div><div class="mbody"><div class="mhead">“The 7am can and the 2pm can. That's my whole golf routine now.”</div><div class="msay"><span>Video idea</span>Day-in-the-life: morning can before the range, afternoon can before the back nine, quick cuts of the shots in between.</div><div class="mwhy"><span>Why it works</span>A routine is easy to copy, and the times make it concrete. It shows when you drink it without having to explain anything.</div></div></div></div>
 <div class="eyebrow">Do's and don'ts</div><div class="twocol">

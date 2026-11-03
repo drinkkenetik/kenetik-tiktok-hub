@@ -47,10 +47,17 @@ h1{font-family:var(--display);font-weight:900;font-size:40px;line-height:1.05;le
 @media(max-width:760px){.band-in{padding:12px 16px;}.wordmark{font-size:18px;}.main{padding:22px 16px 56px;}
 h1{font-size:30px;}.big{font-size:22px;padding:20px;}.twocol{flex-direction:column;}.msg{padding:16px;gap:12px;}.mnum{flex-basis:24px;font-size:24px;}.mhead{font-size:19px;}}
 .formula{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:12px;}
-.step{background:var(--panel);border-radius:14px;padding:16px 18px;}
-.step .sn{display:inline-flex;width:28px;height:28px;border-radius:50%;background:var(--grad);color:#fff;font-family:var(--display);font-weight:900;font-size:14px;align-items:center;justify-content:center;margin-bottom:8px;}
-.step b{display:block;font-family:var(--display);font-size:17px;font-weight:800;color:var(--ink);}
-.step p{margin:4px 0 0;font-size:14.5px;line-height:1.5;color:var(--ink2);}
+.step{position:relative;overflow:hidden;background:var(--panel);border-radius:16px;padding:22px 20px 20px;}
+.step::before{content:"";position:absolute;left:0;right:0;top:0;height:4px;background:var(--grad);}
+.step .sh{display:flex;align-items:center;gap:10px;margin-bottom:10px;}
+.step .sn{display:inline-flex;flex:none;width:30px;height:30px;border-radius:50%;background:var(--grad);color:#fff;font-family:var(--display);font-weight:900;font-size:14px;align-items:center;justify-content:center;}
+.step .st{font-family:var(--display);font-size:18px;font-weight:800;letter-spacing:-.2px;color:var(--ink);}
+.step p{margin:0;font-size:15px;line-height:1.55;color:var(--ink2);}
+.step p b{font-weight:700;color:var(--ink);}
+.step.cta{background:linear-gradient(135deg,#7B2A86 0%,#5A3E9E 50%,#3557B7 100%);}
+.step.cta::before{display:none;}
+.step.cta .sn{background:#fff;color:var(--violet);}
+.step.cta .st,.step.cta p,.step.cta p b{color:#fff;}
 .note{font-size:14.5px;line-height:1.55;color:var(--ink2);margin:12px 2px 0;}
 .hook{display:flex;gap:18px;padding:20px 22px;border:1px solid var(--line);border-radius:16px;background:#fff;}
 @media(max-width:760px){.hook{padding:16px;gap:12px;}}
@@ -64,10 +71,10 @@ h1{font-size:30px;}.big{font-size:22px;padding:20px;}.twocol{flex-direction:colu
 <div class="eyebrow">Your angle</div><div class="northstar"><p>Your talking-to-camera videos convert best, so lead there. The story is calm: you felt on edge and snappy on too much caffeine, and your mornings feel calmer and clearer now. Keep it to your own experience and let your honesty sell it.</p></div>
 <div class="eyebrow">What a great video covers</div>
 <div class="formula">
-<div class="step"><span class="sn">1</span><b>Hook</b><p>Open in the first 1 to 3 seconds with one of your lines below.</p></div>
-<div class="step"><span class="sn">2</span><b>The problem</b><p>Remote work, a 15 month old, and a morning that needs you sharp, while too much caffeine leaves you shaky and short with people.</p></div>
-<div class="step"><span class="sn">3</span><b>Kenetik</b><p>Crack one open, show your honest take. Say "brain fuel" once. Caffeine-free is the twist.</p></div>
-<div class="step"><span class="sn">4</span><b>Close</b><p>One reason to try it (caffeine-free, 12g of ketones) and your code MEGANTABER or your link.</p></div>
+<div class="step"><div class="sh"><span class="sn">1</span><span class="st">Hook</span></div><p>Open in the first 1 to 3 seconds with one of your lines below.</p></div>
+<div class="step"><div class="sh"><span class="sn">2</span><span class="st">The problem</span></div><p>Remote work, a 15 month old, and a morning that needs you sharp, while too much caffeine leaves you shaky and short with people.</p></div>
+<div class="step"><div class="sh"><span class="sn">3</span><span class="st">Kenetik</span></div><p>Crack one open, show your honest take. Say "brain fuel" once. Caffeine-free is the twist.</p></div>
+<div class="step cta"><div class="sh"><span class="sn">4</span><span class="st">Close</span></div><p>One reason to try it (caffeine-free, 12g of ketones) and your code MEGANTABER or your link.</p></div>
 </div><p class="note">Talk to camera first, voiceover second. Morning routine and work-from-home setups suit you. Your UGC audience also likes seeing how you'd shoot a product, so a behind-the-scenes version can work too.</p>
 <div class="eyebrow">Your 5 hooks</div><div class="msgs"><div class="hook"><div class="mnum">1</div><div class="mbody"><div class="mhead">“I caught myself snapping at people on too much caffeine. This is my morning now.”</div><div class="msay"><span>Video idea</span>Talk to camera at the kitchen counter in the morning, baby monitor in frame, crack a Kenetik.</div><div class="mwhy"><span>Why it works</span>An honest admission stops the scroll, and it is your own story told in your own words.</div></div></div><div class="hook"><div class="mnum">2</div><div class="mbody"><div class="mhead">“Working from home with a 15 month old means I need to be on at 7am.”</div><div class="msay"><span>Video idea</span>Morning routine: baby up, laptop open, Kenetik on the desk, quick cuts.</div><div class="mwhy"><span>Why it works</span>Working moms see themselves in the first second, and the specific age makes it real.</div></div></div><div class="hook"><div class="mnum">3</div><div class="mbody"><div class="mhead">“How I'd film a UGC ad for a drink I actually use.”</div><div class="msay"><span>Video idea</span>Behind-the-scenes of you shooting a Kenetik UGC clip, then the finished clip.</div><div class="mwhy"><span>Why it works</span>It teaches your core audience something useful, and the product is the subject of the lesson.</div></div></div><div class="hook"><div class="mnum">4</div><div class="mbody"><div class="mhead">“Shaky, on edge and anxious was my normal morning. Here's what I changed.”</div><div class="msay"><span>Video idea</span>Talk to camera, calm and direct, with the can in hand for the second half.</div><div class="mwhy"><span>Why it works</span>Naming the feeling exactly is what makes people stay. Keep it about your mornings and how you feel, never a promise about anyone else.</div></div></div><div class="hook"><div class="mnum">5</div><div class="mbody"><div class="mhead">“My calm morning, as an actor, singer and mom in NYC.”</div><div class="msay"><span>Video idea</span>Day-in-the-life morning across the apartment, rehearsal warm-up, the can on the piano.</div><div class="mwhy"><span>Why it works</span>Your life is the interesting part. The product just has to be in it.</div></div></div></div>
 <div class="eyebrow">Do's and don'ts</div><div class="twocol">
