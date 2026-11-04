@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "updated": "2026-11-01",
+  "updated": "2026-11-04",
   "written_by": "scripts/hooks_hub_extract.py for the first write; the Monday turn writes the machine fields from 7-2 and people write the editorial fields by hand",
   "rules_version": "hooks-config@4402e2a7 · claims@3f303d75 · reader@4bc1536f",
   "footer": "Kenetik Creator Hub · Hook performance from our TikTok Shop and Meta ad campaigns, measured on each video's spoken opening line. Refreshed weekly. Figures are past performance and not a guarantee of what any individual video will earn.",
@@ -21399,6 +21399,246 @@
         "broken": []
       },
       "angle_id_proposed": "unclassified"
+    },
+    "h-0700": {
+      "hook_id": "h-0700",
+      "text": "“Not drinking tonight? Here’s what’s in my hand.”",
+      "angle": "Open at the venue with the can, then say what it is: caffeine-free brain fuel. It answers the question everyone gets asked on a night out.",
+      "source": {
+        "kind": "composed",
+        "convention": "no a.hsrc source link on this line, which is how the page marks a line a creator said; an unmarked line is recorded as composed",
+        "how": "written 11/4 in session for the Nightlife tab at Nick's direction; claims_rules.py and the hook rules passed on every line"
+      },
+      "proof": {
+        "videos_made": "UNKNOWN",
+        "converting_videos": "UNKNOWN",
+        "distinct_creators": "UNKNOWN",
+        "revenue_usd": "UNKNOWN",
+        "as_of": "2026-11-04",
+        "how": "no video has been read against this line yet"
+      },
+      "rules": {
+        "checked_on": "2026-11-04",
+        "passed": true,
+        "broken": []
+      },
+      "angle_id_proposed": "unclassified"
+    },
+    "h-0701": {
+      "hook_id": "h-0701",
+      "text": "“Everyone’s grabbing an energy drink at 10pm. I’m not, because I want to sleep tonight.”",
+      "angle": "Show the table, then your can, then cut to you home and in bed at a normal hour.",
+      "source": {
+        "kind": "composed",
+        "convention": "no a.hsrc source link on this line, which is how the page marks a line a creator said; an unmarked line is recorded as composed",
+        "how": "written 11/4 in session for the Nightlife tab at Nick's direction; claims_rules.py and the hook rules passed on every line"
+      },
+      "proof": {
+        "videos_made": "UNKNOWN",
+        "converting_videos": "UNKNOWN",
+        "distinct_creators": "UNKNOWN",
+        "revenue_usd": "UNKNOWN",
+        "as_of": "2026-11-04",
+        "how": "no video has been read against this line yet"
+      },
+      "rules": {
+        "checked_on": "2026-11-04",
+        "passed": true,
+        "broken": []
+      },
+      "angle_id_proposed": "unclassified"
+    },
+    "h-0702": {
+      "hook_id": "h-0702",
+      "text": "“Out late, still sharp, and I still sleep when I get home.”",
+      "angle": "A quick night montage, with the can at the table in every shot.",
+      "source": {
+        "kind": "composed",
+        "convention": "no a.hsrc source link on this line, which is how the page marks a line a creator said; an unmarked line is recorded as composed",
+        "how": "written 11/4 in session for the Nightlife tab at Nick's direction; claims_rules.py and the hook rules passed on every line"
+      },
+      "proof": {
+        "videos_made": "UNKNOWN",
+        "converting_videos": "UNKNOWN",
+        "distinct_creators": "UNKNOWN",
+        "revenue_usd": "UNKNOWN",
+        "as_of": "2026-11-04",
+        "how": "no video has been read against this line yet"
+      },
+      "rules": {
+        "checked_on": "2026-11-04",
+        "passed": true,
+        "broken": []
+      },
+      "angle_id_proposed": "unclassified"
+    },
+    "h-0703": {
+      "hook_id": "h-0703",
+      "text": "“Game night until 1am, no caffeine, still locked in.”",
+      "angle": "Controller in one hand, can in the other. GTA 6 drops 11/19, so launch week is the moment.",
+      "source": {
+        "kind": "composed",
+        "convention": "no a.hsrc source link on this line, which is how the page marks a line a creator said; an unmarked line is recorded as composed",
+        "how": "written 11/4 in session for the Nightlife tab at Nick's direction; claims_rules.py and the hook rules passed on every line"
+      },
+      "proof": {
+        "videos_made": "UNKNOWN",
+        "converting_videos": "UNKNOWN",
+        "distinct_creators": "UNKNOWN",
+        "revenue_usd": "UNKNOWN",
+        "as_of": "2026-11-04",
+        "how": "no video has been read against this line yet"
+      },
+      "rules": {
+        "checked_on": "2026-11-04",
+        "passed": true,
+        "broken": []
+      },
+      "angle_id_proposed": "unclassified"
+    },
+    "h-0704": {
+      "hook_id": "h-0704",
+      "text": "“My night-out drink now: Kenetik on ice with a squeeze of lime.”",
+      "angle": "Make it on camera before you head out, then take it with you. A ritual people can copy.",
+      "source": {
+        "kind": "composed",
+        "convention": "no a.hsrc source link on this line, which is how the page marks a line a creator said; an unmarked line is recorded as composed",
+        "how": "written 11/4 in session for the Nightlife tab at Nick's direction; claims_rules.py and the hook rules passed on every line"
+      },
+      "proof": {
+        "videos_made": "UNKNOWN",
+        "converting_videos": "UNKNOWN",
+        "distinct_creators": "UNKNOWN",
+        "revenue_usd": "UNKNOWN",
+        "as_of": "2026-11-04",
+        "how": "no video has been read against this line yet"
+      },
+      "rules": {
+        "checked_on": "2026-11-04",
+        "passed": true,
+        "broken": []
+      },
+      "angle_id_proposed": "unclassified"
+    },
+    "h-0705": {
+      "hook_id": "h-0705",
+      "text": "“Designated driver tonight, and I’m actually having fun.”",
+      "angle": "Keys in one hand, can in the other, then the night itself.",
+      "source": {
+        "kind": "composed",
+        "convention": "no a.hsrc source link on this line, which is how the page marks a line a creator said; an unmarked line is recorded as composed",
+        "how": "written 11/4 in session for the Nightlife tab at Nick's direction; claims_rules.py and the hook rules passed on every line"
+      },
+      "proof": {
+        "videos_made": "UNKNOWN",
+        "converting_videos": "UNKNOWN",
+        "distinct_creators": "UNKNOWN",
+        "revenue_usd": "UNKNOWN",
+        "as_of": "2026-11-04",
+        "how": "no video has been read against this line yet"
+      },
+      "rules": {
+        "checked_on": "2026-11-04",
+        "passed": true,
+        "broken": []
+      },
+      "angle_id_proposed": "unclassified"
+    },
+    "h-0706": {
+      "hook_id": "h-0706",
+      "text": "“Concert starts at 9. I’m not touching an energy drink, because I want to sleep after.”",
+      "angle": "The line outside the venue, then the show, then you home and switching off.",
+      "source": {
+        "kind": "composed",
+        "convention": "no a.hsrc source link on this line, which is how the page marks a line a creator said; an unmarked line is recorded as composed",
+        "how": "written 11/4 in session for the Nightlife tab at Nick's direction; claims_rules.py and the hook rules passed on every line"
+      },
+      "proof": {
+        "videos_made": "UNKNOWN",
+        "converting_videos": "UNKNOWN",
+        "distinct_creators": "UNKNOWN",
+        "revenue_usd": "UNKNOWN",
+        "as_of": "2026-11-04",
+        "how": "no video has been read against this line yet"
+      },
+      "rules": {
+        "checked_on": "2026-11-04",
+        "passed": true,
+        "broken": []
+      },
+      "angle_id_proposed": "unclassified"
+    },
+    "h-0707": {
+      "hook_id": "h-0707",
+      "text": "“Early workout tomorrow, so tonight I’m out, and I’ll still be up for it.”",
+      "angle": "Dinner with friends tonight, then tomorrow’s alarm and gym bag.",
+      "source": {
+        "kind": "composed",
+        "convention": "no a.hsrc source link on this line, which is how the page marks a line a creator said; an unmarked line is recorded as composed",
+        "how": "written 11/4 in session for the Nightlife tab at Nick's direction; claims_rules.py and the hook rules passed on every line"
+      },
+      "proof": {
+        "videos_made": "UNKNOWN",
+        "converting_videos": "UNKNOWN",
+        "distinct_creators": "UNKNOWN",
+        "revenue_usd": "UNKNOWN",
+        "as_of": "2026-11-04",
+        "how": "no video has been read against this line yet"
+      },
+      "rules": {
+        "checked_on": "2026-11-04",
+        "passed": true,
+        "broken": []
+      },
+      "angle_id_proposed": "unclassified"
+    },
+    "h-0708": {
+      "hook_id": "h-0708",
+      "text": "“Everyone asks what I’m drinking. It’s brain fuel, and there’s no caffeine in it.”",
+      "angle": "A friend asks on camera and you answer. Then hand them one to try.",
+      "source": {
+        "kind": "composed",
+        "convention": "no a.hsrc source link on this line, which is how the page marks a line a creator said; an unmarked line is recorded as composed",
+        "how": "written 11/4 in session for the Nightlife tab at Nick's direction; claims_rules.py and the hook rules passed on every line"
+      },
+      "proof": {
+        "videos_made": "UNKNOWN",
+        "converting_videos": "UNKNOWN",
+        "distinct_creators": "UNKNOWN",
+        "revenue_usd": "UNKNOWN",
+        "as_of": "2026-11-04",
+        "how": "no video has been read against this line yet"
+      },
+      "rules": {
+        "checked_on": "2026-11-04",
+        "passed": true,
+        "broken": []
+      },
+      "angle_id_proposed": "unclassified"
+    },
+    "h-0709": {
+      "hook_id": "h-0709",
+      "text": "“11pm, still out, and I’m the sharpest person at the table.”",
+      "angle": "Clock on screen, the table laughing, your can in frame.",
+      "source": {
+        "kind": "composed",
+        "convention": "no a.hsrc source link on this line, which is how the page marks a line a creator said; an unmarked line is recorded as composed",
+        "how": "written 11/4 in session for the Nightlife tab at Nick's direction; claims_rules.py and the hook rules passed on every line"
+      },
+      "proof": {
+        "videos_made": "UNKNOWN",
+        "converting_videos": "UNKNOWN",
+        "distinct_creators": "UNKNOWN",
+        "revenue_usd": "UNKNOWN",
+        "as_of": "2026-11-04",
+        "how": "no video has been read against this line yet"
+      },
+      "rules": {
+        "checked_on": "2026-11-04",
+        "passed": true,
+        "broken": []
+      },
+      "angle_id_proposed": "unclassified"
     }
   },
   "tabs": [
@@ -25006,9 +25246,117 @@
       ]
     },
     {
+      "slug": "nightlife",
+      "label": "🌙 Nightlife / Going Out",
+      "nav_order": 25,
+      "title": "Hooks for going out",
+      "sub": "10 hooks · the moment: late in the night, when everyone else reaches for an energy drink",
+      "audience": "Adults who go out but want to wake up feeling like themselves: people drinking less, the designated driver, the friend with an early workout, and anyone done with 10pm energy drinks. More people are skipping drinks on a night out, and nobody wants an energy drink that keeps them up until 3. **The moment to own here:** late in the night, still out and still sharp, with nothing in your can keeping you up when you get home.",
+      "formula": [
+        {
+          "title": "Hook",
+          "text": "Open with one of the lines below in the first 1 to 3 seconds. Put it in your own words. If it doesn’t sound like you, change it until it does."
+        },
+        {
+          "title": "The moment",
+          "text": "Show the night: the venue, the table, the group, late enough that everyone else is reaching for an energy drink. Saying the time is a great way to set the scene, if it’s true for you."
+        },
+        {
+          "title": "Kenetik is the answer",
+          "text": "Crack a can on camera, on ice with a lime if you like. Tell us how it feels and how it tastes, the way you’d tell a friend. Say “brain fuel” at least once."
+        },
+        {
+          "title": "Close it",
+          "text": "One simple reason to try it (no caffeine, so you still sleep when you get home), then say “shop now” out loud and give your code."
+        }
+      ],
+      "dos": [
+        "Say “brain fuel” at least once, every video.",
+        "Show the night: the venue, the table, the friends. Keep the can in frame.",
+        "Keep Kenetik as its own drink, on ice with a lime if you like.",
+        "Talk about sleep the way you feel it: you’re out late and still sleep fine.",
+        "Close on getting home and still switching off, then say “shop now”."
+      ],
+      "donts": [
+        "Call it an energy drink, pre-workout or supplement. It’s caffeine-free brain fuel.",
+        "Make medical claims, or promise better sleep or recovery. Say how it feels to you, not what it will do for them.",
+        "Mix Kenetik into another drink or show it as a mixer.",
+        "Film or speak to anyone under 21. This tab is for adults on a night out.",
+        "Point at a shopping button on screen. Say “shop now” out loud instead, so the video still works when we run it as an ad.",
+        "Lead with a discount. If there’s an offer, save it for the end."
+      ],
+      "hook_ids": [
+        "h-0700",
+        "h-0701",
+        "h-0702",
+        "h-0703",
+        "h-0704",
+        "h-0705",
+        "h-0706",
+        "h-0707",
+        "h-0708",
+        "h-0709"
+      ],
+      "angles": [],
+      "layout": [
+        {
+          "block": "heading"
+        },
+        {
+          "block": "sub"
+        },
+        {
+          "block": "eyebrow",
+          "text": "Who you're talking to"
+        },
+        {
+          "block": "northstar"
+        },
+        {
+          "block": "eyebrow",
+          "text": "What a great video covers"
+        },
+        {
+          "block": "formula"
+        },
+        {
+          "block": "eyebrow",
+          "text": "The hooks"
+        },
+        {
+          "block": "hooks",
+          "hook_ids": [
+            "h-0700",
+            "h-0701",
+            "h-0702",
+            "h-0703",
+            "h-0704",
+            "h-0705",
+            "h-0706",
+            "h-0707",
+            "h-0708",
+            "h-0709"
+          ]
+        },
+        {
+          "block": "eyebrow",
+          "text": "Do's and don'ts"
+        },
+        {
+          "block": "twocol",
+          "pos": {
+            "heading": "Do"
+          },
+          "neg": {
+            "heading": "Don't"
+          }
+        }
+      ]
+    },
+    {
       "slug": "price",
       "label": "💰 Getting Past Price",
-      "nav_order": 25,
+      "nav_order": 26,
       "title": "Hooks for getting past the price",
       "sub": "10 hooks · the moment: the 4pm can that doesn’t cost you the night",
       "audience": "Kenetik is a new premium category, so for some people the price is a hump to get over. The play is never a discount, it is making the value obvious: the late coffee and the 3pm energy drink it replaces, and the night you don’t pay for afterwards. Use these with any audience. If a live offer is running, mention it at the very end, never as the hook.",
@@ -25121,7 +25469,7 @@
     {
       "slug": "partner-proof",
       "label": "🤝 Partner Proof",
-      "nav_order": 26,
+      "nav_order": 27,
       "title": "Hooks for borrowing a partner’s trust",
       "sub": "10 hooks · the moment: the name that earns the first two seconds",
       "audience": "A name your audience already believes buys you the first two seconds, the hardest part. Then pivot straight to your own afternoon story, the 2pm wall or the late drive, because the name earns attention and only your story keeps it. One name per video. Never put words in a partner’s mouth, and never talk about anyone’s health, injuries or medical history, including Matt Hughes.",
@@ -25208,7 +25556,7 @@
     {
       "slug": "street-interview",
       "label": "🎤 Street Interviews",
-      "nav_order": 27,
+      "nav_order": 28,
       "title": "Hooks for street interviews",
       "sub": "3 concepts · 10 questions · the moment: the afternoon wall, and the fog that comes with it",
       "audience": "Stopping strangers works because the viewer learns at the same speed the stranger does. Ask about their afternoon before you name the brand, let them answer in their own words, then say what Kenetik is in one sentence and hand them the can. **Three concepts, ten videos:** five everyday videos from concepts 1 and 3, for anyone who hits the afternoon wall, and five from concept 2, where a woman host stops women 40 and up and asks about the afternoon fog. A woman asking another woman gets an honest answer.",
@@ -25361,7 +25709,7 @@
     {
       "slug": "trx-shots",
       "label": "🥤 Performance Shots",
-      "nav_order": 28,
+      "nav_order": 29,
       "title": "Hooks for Kenetik performance shots",
       "sub": "10 hooks · the moment: one in the bag for the late session",
       "audience": "This tab is for our shots, not the can: Tangerine, the TRX x Kenetik Lemon-Lime shot, and any flavor we launch next. A shot is two ounces with 10g of ketones and no caffeine, small enough for a gym bag, a pocket or a carry-on. It is for the moment you change gears: the evening session after a full workday, the last client at 8pm, the drive to the late game. Lead with the flavor and the moment, never the partner name alone. **The moment to own here:** one shot, gone in one go, and a clear head for whatever comes next tonight.",
@@ -25470,7 +25818,7 @@
     {
       "slug": "science",
       "label": "🔬 The Science",
-      "nav_order": 29,
+      "nav_order": 30,
       "title": "Hooks on the science of Kenetik",
       "sub": "10 hooks · the moment: when a viewer asks what is actually in it",
       "audience": "For the viewer who wants to know why it works, and for any creator who likes explaining things. Kenetik is D-BHB, the same ketone your body makes when you fast or train: 12g in a can, no caffeine, no ketone salts, Informed Sport Certified. Your brain can run on ketones as well as sugar, and human trials show ketones support focus and cognitive performance. **The moment to own here:** one clear fact, said simply, then the can in your hand.",
@@ -31885,6 +32233,13 @@
             "description": "Late flights and hotel-room work.",
             "go": "Open →",
             "target_slug": "travel",
+            "group": "Play and travel"
+          },
+          {
+            "title": "Nightlife / Going Out",
+            "description": "Out late, still sharp, and still sleep after.",
+            "go": "Open →",
+            "target_slug": "nightlife",
             "group": "Play and travel"
           }
         ]
