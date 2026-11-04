@@ -12122,12 +12122,12 @@
         "how": "quoted from a video that sold inside the proof window"
       },
       "proof": {
-        "videos_made": 1,
-        "converting_videos": 1,
-        "distinct_creators": 1,
-        "revenue_usd": 200.46,
-        "as_of": "2026-10-19",
-        "how": "Counted from the videos whose spoken opening matched this line and were posted between 2026-09-22 and 2026-10-19. One creator so far."
+        "videos_made": "UNKNOWN",
+        "converting_videos": "UNKNOWN",
+        "distinct_creators": "UNKNOWN",
+        "revenue_usd": "UNKNOWN",
+        "as_of": "2026-11-03",
+        "how": "no video has been read against this line yet"
       },
       "rules": {
         "checked_on": "2026-11-01",
@@ -12338,12 +12338,12 @@
         "how": "from the five ad reads Nick sent a creator on 10/19 (built on the EUKA menopause audit), at Nick's direction"
       },
       "proof": {
-        "videos_made": "UNKNOWN",
-        "converting_videos": "UNKNOWN",
-        "distinct_creators": "UNKNOWN",
-        "revenue_usd": "UNKNOWN",
-        "as_of": "2026-10-19",
-        "how": "no video has been read against this line yet"
+        "videos_made": 1,
+        "converting_videos": 0,
+        "distinct_creators": 0,
+        "revenue_usd": 0.0,
+        "as_of": "2026-11-03",
+        "how": "Counted from the videos whose spoken opening matched this line and were posted between 2026-10-07 and 2026-11-03."
       },
       "rules": {
         "checked_on": "2026-11-01",
