@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "updated": "2026-11-04",
+  "updated": "2026-11-05",
   "written_by": "scripts/hooks_hub_extract.py for the first write; the Monday turn writes the machine fields from 7-2 and people write the editorial fields by hand",
   "rules_version": "hooks-config@4402e2a7 · claims@3f303d75 · reader@4bc1536f",
   "footer": "Kenetik Creator Hub · Hook performance from our TikTok Shop and Meta ad campaigns, measured on each video's spoken opening line. Refreshed weekly. Figures are past performance and not a guarantee of what any individual video will earn.",
@@ -31759,6 +31759,10 @@
       {
         "block": "northstar",
         "text": "**Kenetik is metabolic brain fuel.** A caffeine-free drink with 12g of ketones, the same fuel your body makes when you fast or sleep. It gives you calm, clear focus that comes on steady, **without messing with your sleep.** Nothing artificial, Informed Sport Certified."
+      },
+      {
+        "block": "northstar",
+        "text": "**Say it right:** Kenetik is said “kuh-NET-ik,” like kinetic. Ketones is said “KEE-tones.”"
       },
       {
         "block": "eyebrow",
