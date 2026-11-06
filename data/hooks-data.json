@@ -2,7 +2,7 @@
   "schema_version": "1.0",
   "updated": "2026-11-05",
   "written_by": "scripts/hooks_hub_extract.py for the first write; the Monday turn writes the machine fields from 7-2 and people write the editorial fields by hand",
-  "rules_version": "hooks-config@4402e2a7 · claims@3f303d75 · reader@4bc1536f",
+  "rules_version": "hooks-config@4402e2a7 · claims@047d4c4d · reader@4bc1536f",
   "footer": "Kenetik Creator Hub · Hook performance from our TikTok Shop and Meta ad campaigns, measured on each video's spoken opening line. Refreshed weekly. Figures are past performance and not a guarantee of what any individual video will earn.",
   "top_now": {
     "window": {
@@ -21662,7 +21662,7 @@
         "passed": true,
         "broken": []
       },
-      "angle_id_proposed": "unclassified"
+      "angle_id_proposed": "caffeine-stopped-working"
     },
     "h-0711": {
       "hook_id": "h-0711",
@@ -21686,7 +21686,7 @@
         "passed": true,
         "broken": []
       },
-      "angle_id_proposed": "unclassified"
+      "angle_id_proposed": "caffeine-stopped-working"
     },
     "h-0712": {
       "hook_id": "h-0712",
@@ -21830,7 +21830,7 @@
         "passed": true,
         "broken": []
       },
-      "angle_id_proposed": "unclassified"
+      "angle_id_proposed": "caffeine-stopped-working"
     },
     "h-0718": {
       "hook_id": "h-0718",
@@ -21854,7 +21854,7 @@
         "passed": true,
         "broken": []
       },
-      "angle_id_proposed": "unclassified"
+      "angle_id_proposed": "caffeine-stopped-working"
     },
     "h-0719": {
       "hook_id": "h-0719",
