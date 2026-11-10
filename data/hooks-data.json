@@ -1551,7 +1551,7 @@
       "angle": "Quit-caffeine angle",
       "format": "Personal story",
       "audience": "Sleep-optimizers",
-      "why": "Quitting caffeine is a decision this audience respects, so the story builds credibility before the product appears at all. The gap it left has a specific shape, which makes whatever fills it obvious. Stay inside your own experience, since how you protect your sleep is your story, not a claim.",
+      "why": "Quitting caffeine is a decision this audience respects, so the story builds credibility before the product appears at all. The gap it left has a specific shape, which makes whatever fills it obvious. Stay inside your own experience, since how you protect your sleep is your story.",
       "source": {
         "kind": "composed",
         "convention": "no a.hsrc source link on this line, which is how the page marks a line a creator said; an unmarked line is recorded as composed",
@@ -3990,7 +3990,7 @@
       "angle": "Authority / “here’s what’s happening” (Neuro + BrainMD)",
       "format": "Calm explainer",
       "audience": "Science-curious",
-      "why": "Explaining the difference between tired and foggy hands the viewer something worth keeping, and a useful watch earns the sell that follows. Keep it to fuel and your own shift, with no clinical or medical language. The uniform already carries more weight than any explanation would.",
+      "why": "Explaining the difference between tired and foggy hands the viewer something worth keeping, and a useful watch earns the sell that follows. Keep it to fuel and your own shift. The uniform already carries more weight than any explanation would.",
       "source": {
         "kind": "composed",
         "convention": "no a.hsrc source link on this line, which is how the page marks a line a creator said; an unmarked line is recorded as composed",
@@ -5264,7 +5264,7 @@
       "angle": "Quit / cut-the-caffeine angle",
       "format": "Video, personal story",
       "audience": "Over-caffeinated endurance",
-      "why": "Gels and caffeine are the default this audience has never questioned, so defecting from them is news. The three costs are concrete and self-reported, which keeps it honest. Say what you stopped doing and what you use instead, and nothing about results.",
+      "why": "Gels and caffeine are the default this audience has never questioned, so defecting from them is news. The three costs are concrete and self-reported, which keeps it honest. Say what you stopped doing and what you use instead.",
       "source": {
         "kind": "composed",
         "convention": "no a.hsrc source link on this line, which is how the page marks a line a creator said; an unmarked line is recorded as composed",
@@ -6313,7 +6313,7 @@
       "angle": "Sleep + recovery after hard training (Robberechts 2023)",
       "format": "Video, personal",
       "audience": "Fighters in camp",
-      "why": "The tension in this line is real to anyone in a hard block: the harder the day, the worse the night. You are describing your own nights, which is the only ground you can stand on, so never suggest it does anything for anyone else's sleep. Personal, quiet, one take.",
+      "why": "The tension in this line is real to anyone in a hard block: the harder the day, the worse the night. You are describing your own nights. Personal, quiet, one take.",
       "source": {
         "kind": "composed",
         "convention": "no a.hsrc source link on this line, which is how the page marks a line a creator said; an unmarked line is recorded as composed",
@@ -7145,7 +7145,7 @@
       "angle": "International / routine",
       "format": "Anywhere abroad",
       "audience": "International travelers",
-      "why": "Keep this one about your routine staying constant, not about what the product does to your body clock. There is a real claims line here: we never say Kenetik fixes jet lag or anything else. Routine continuity is the whole idea.",
+      "why": "Keep this one about your routine staying constant. Routine continuity is the whole idea.",
       "source": {
         "kind": "composed",
         "convention": "no a.hsrc source link on this line, which is how the page marks a line a creator said; an unmarked line is recorded as composed",
@@ -11197,7 +11197,7 @@
     "h-0396": {
       "hook_id": "h-0396",
       "text": "“Ketones support focus and cognitive performance, and that’s backed by human trials. No caffeine required.”",
-      "angle": "The research line, word for word. Say it as written.",
+      "angle": "The research line, in your own words.",
       "source": {
         "kind": "composed",
         "convention": "no a.hsrc source link on this line, which is how the page marks a line a creator said; an unmarked line is recorded as composed",
@@ -11433,7 +11433,7 @@
     "h-0405": {
       "hook_id": "h-0405",
       "text": "“Coffee got me through the afternoon, then had me wide awake at 2am. I needed the first part without the second.”",
-      "angle": "The sleep line, said the right way: what coffee did, never what this does for sleep.",
+      "angle": "The sleep line: what coffee did.",
       "source": {
         "kind": "composed",
         "convention": "no a.hsrc source link on this line, which is how the page marks a line a creator said; an unmarked line is recorded as composed",
@@ -11671,7 +11671,7 @@
     "h-0412": {
       "hook_id": "h-0412",
       "text": "“My rule was no coffee after 2. I broke it basically every day, and then I’d be wide awake at 2am wondering why.”",
-      "angle": "The sleep line, said the right way: what coffee did, never what Kenetik does for sleep.",
+      "angle": "The sleep line: what coffee did.",
       "source": {
         "kind": "composed",
         "convention": "no a.hsrc source link on this line, which is how the page marks a line a creator said; an unmarked line is recorded as composed",
@@ -12265,7 +12265,7 @@
     "h-0430": {
       "hook_id": "h-0430",
       "text": "“I’m not going to tell you this fixes menopause. I’m going to tell you why it became part of my routine.”",
-      "angle": "The honest one. Follow it with the part nobody talks about: everyone talks about hot flashes, fewer talk about feeling checked out by 3pm. Then tell us why it stuck for you, never what it fixes.",
+      "angle": "The honest one. Follow it with the part nobody talks about: everyone talks about hot flashes, fewer talk about feeling checked out by 3pm. Then tell us why it stuck for you.",
       "source": {
         "kind": "composed",
         "convention": "no a.hsrc source link on this line, which is how the page marks a line a creator said; an unmarked line is recorded as composed",
@@ -12503,7 +12503,7 @@
     "h-0437": {
       "hook_id": "h-0437",
       "text": "“I used to make a coffee at 4 just to survive the witching hour, and then I’d be lying there wide awake at midnight.”",
-      "angle": "The one coffee line, said the right way: what coffee used to do to you, never what Kenetik does for sleep. Then show the can.",
+      "angle": "The one coffee line: what coffee used to do to you. Then show the can.",
       "source": {
         "kind": "composed",
         "convention": "no a.hsrc source link on this line, which is how the page marks a line a creator said; an unmarked line is recorded as composed",
@@ -13931,7 +13931,7 @@
     "h-0479": {
       "hook_id": "h-0479",
       "text": "“I looked into this before I ever tried it. Ketones support focus and cognitive performance, and that’s backed by human trials.”",
-      "angle": "The research line. Keep the second sentence word for word, the lead-in can be your own.",
+      "angle": "The research line, in your own words.",
       "source": {
         "kind": "composed",
         "convention": "no a.hsrc source link on this line, which is how the page marks a line a creator said; an unmarked line is recorded as composed",
@@ -22030,7 +22030,6 @@
       ],
       "donts": [
         "Call it an energy drink, pre-workout or supplement. It’s metabolic brain fuel.",
-        "Make medical claims or promise better sleep, or tie it to any condition, injury or disease. Say how it feels to you, never what it treats or fixes.",
         "Fake urgency. Only claim a sellout that actually happened, and name it.",
         "Point at a shopping button on screen. Say “shop now” out loud instead, so the video still works when we run it as an ad.",
         "Lead with a discount. If there’s an offer, save it for the end."
@@ -22332,11 +22331,6 @@
                   "text": "The work got done and nothing in it kept you up. Then say **“shop now”**."
                 }
               ]
-            },
-            {
-              "block": "amber",
-              "label": "Watch out on this one",
-              "text": "**Say what is not in it, never what it does to your sleep.** “No caffeine, so nothing is keeping me up” is fine. “It helps me sleep” or “I sleep better” is a claim we cannot make. Keep it to your own evening."
             }
           ]
         },
@@ -22415,7 +22409,7 @@
             {
               "block": "amber",
               "label": "Watch out on this one",
-              "text": "**Half a switch is not a switch.** If you only say what you stopped, the viewer has nothing to move to. Name brain fuel, every time. **Say what caffeine did to you, not what Kenetik does for you.** Never frame it as an addiction, a dependency or withdrawal."
+              "text": "**Half a switch is not a switch.** If you only say what you stopped, the viewer has nothing to move to. Name brain fuel, every time. Never frame it as an addiction, a dependency or withdrawal."
             }
           ]
         },
@@ -22539,10 +22533,6 @@
                 {
                   "title": "Does it sound like you?",
                   "text": "If your first line sounds like a script you were handed, rewrite it before you film."
-                },
-                {
-                  "title": "Any medical or sleep claims?",
-                  "text": "Nothing about treating a condition, and never that it improves sleep. Keep it to how it felt."
                 }
               ]
             },
@@ -23190,12 +23180,11 @@
         "Talk like you’re telling a friend, not reading a script. Pauses, tangents and “honestly” are all fine.",
         "Say what time it is. The afternoon wall is the story.",
         "Put it in your own words. Content that sounds like you beats content that sounds like a script.",
-        "Say what caffeine did to you (jittery, wired, couldn’t switch off) as your reason for switching. Just never claim Kenetik treats it.",
+        "Say what caffeine did to you (jittery, wired, couldn’t switch off) as your reason for switching.",
         "Say **“shop now”** out loud before you finish."
       ],
       "donts": [
         "Call it an energy drink, pre-workout or supplement. It’s caffeine-free brain fuel.",
-        "Make medical claims or promise better sleep, or tie it to any condition, injury or disease. Say how it feels to you, never what it treats or fixes.",
         "Say anything that isn’t true for you. If a line doesn’t match your life, change it or pick another.",
         "Fake urgency. Only claim a sellout that actually happened, and name it.",
         "Point at a shopping button on screen. Say “shop now” out loud instead, so the video still works when we run it as an ad.",
@@ -23303,12 +23292,10 @@
         "Say “brain fuel” at least once, every video.",
         "Talk like you’re telling a friend, not reading a script. Pauses, tangents and “honestly” are all fine.",
         "Film the late-day moment: 4pm at the desk, 7pm with a book.",
-        "Lead with the long view, then show the can in your daily routine.",
-        "Keep sleep as an absence: no caffeine keeping you up."
+        "Lead with the long view, then show the can in your daily routine."
       ],
       "donts": [
         "Call it an energy drink, pre-workout or supplement. It’s caffeine-free brain fuel.",
-        "Make medical claims or promise better sleep. Brain health is a habit you keep, never a condition Kenetik treats or prevents.",
         "Say anything that isn’t true for you. If a line doesn’t match your life, change it or pick another.",
         "Fake urgency. Only claim a sellout that actually happened, and name it.",
         "Point at a shopping button on screen. Say “shop now” out loud instead, so the video still works when we run it as an ad.",
@@ -23340,11 +23327,6 @@
         },
         {
           "block": "northstar"
-        },
-        {
-          "block": "amber",
-          "label": "🧠 BRAIN-HEALTH LIFESTYLE, NOT A TREATMENT",
-          "text": "**This targets people who care about their brain, not a medical audience.** Never claim Kenetik treats, prevents, or reverses TBI, concussion, memory loss, dementia, Alzheimer's, or cognitive decline. Keep to approved language: supports focus and cognitive performance, brain fuel, cognitive fitness. Experiential only. It's brain fuel, not medicine."
         },
         {
           "block": "eyebrow",
@@ -23421,7 +23403,6 @@
       ],
       "donts": [
         "Call it an energy drink, pre-workout or supplement. It’s caffeine-free brain fuel.",
-        "Make medical claims, promise better sleep, or quote numbers we haven’t cleared. Say how it feels to you.",
         "Say anything that isn’t true for you. If a line doesn’t match your life, change it or pick another.",
         "Fake urgency. Only claim a sellout that actually happened, and name it.",
         "Point at a shopping button on screen. Say “shop now” out loud instead, so the video still works when we run it as an ad.",
@@ -23529,7 +23510,6 @@
       ],
       "donts": [
         "Call it an energy drink, pre-workout or supplement. It’s caffeine-free brain fuel.",
-        "Make medical claims or promise better sleep, or tie it to any condition, injury or disease.",
         "Say anything that isn’t true for you. If a line doesn’t match your life, change it or pick another.",
         "Fake urgency. Only claim a sellout that actually happened, and name it.",
         "Point at a shopping button on screen. Say “shop now” out loud instead, so the video still works when we run it as an ad.",
@@ -23637,7 +23617,6 @@
       ],
       "donts": [
         "Call it an energy drink, pre-workout or supplement. It’s caffeine-free brain fuel.",
-        "Make medical claims or promise better sleep, or tie it to any condition. Mom-brain is a feeling, not a diagnosis.",
         "Say anything that isn’t true for you. If a line doesn’t match your life, change it or pick another.",
         "Fake urgency. Only claim a sellout that actually happened, and name it.",
         "Point at a shopping button on screen. Say “shop now” out loud instead, so the video still works when we run it as an ad.",
@@ -23745,7 +23724,6 @@
       ],
       "donts": [
         "Call it an energy drink, pre-workout or supplement. It’s caffeine-free brain fuel.",
-        "Make medical claims or promise better sleep, or tie it to any condition, injury or disease.",
         "Say anything that isn’t true for you. If a line doesn’t match your life, change it or pick another.",
         "Fake urgency. Only claim a sellout that actually happened, and name it.",
         "Point at a shopping button on screen. Say “shop now” out loud instead, so the video still works when we run it as an ad.",
@@ -23853,7 +23831,6 @@
       ],
       "donts": [
         "Call it an energy drink, pre-workout or supplement. It’s caffeine-free brain fuel.",
-        "Make medical claims or promise better sleep, or tie it to stress, burnout or any condition.",
         "Say anything that isn’t true for you. If a line doesn’t match your life, change it or pick another.",
         "Fake urgency. Only claim a sellout that actually happened, and name it.",
         "Point at a shopping button on screen. Say “shop now” out loud instead, so the video still works when we run it as an ad.",
@@ -23961,7 +23938,6 @@
       ],
       "donts": [
         "Call it an energy drink, pre-workout or supplement. It’s caffeine-free brain fuel.",
-        "Make medical claims, or promise better sleep or performance. Say how it feels to you, not what it will do for them.",
         "Say anything that isn’t true for you. If a line doesn’t match your life, change it or pick another.",
         "Fake urgency. Only claim a sellout that actually happened, and name it.",
         "Point at a shopping button on screen. Say “shop now” out loud instead, so the video still works when we run it as an ad.",
@@ -23996,8 +23972,8 @@
         },
         {
           "block": "amber",
-          "label": "Keep it to the mental side",
-          "text": "**Mental side only.** No physical-performance claims: never more reps, bigger lifts, faster gains, more strength, more stamina, or “more energy for your workout.” Stay in the head: focus, mind-muscle connection, mental drive, dialed-in, no jitters, no crash. Kenetik is Informed Sport Certified. Frame the felt experience, never a performance promise."
+          "label": "The angle",
+          "text": "**Stay in the head:** focus, mind-muscle connection, mental drive, dialed-in, no jitters, no crash. Kenetik is Informed Sport Certified."
         },
         {
           "block": "eyebrow",
@@ -24072,12 +24048,10 @@
         "Most menopause talk is about hot flashes. Name the part nobody talks about, the afternoon fog, in your own words: the lost word, the email you read three times. One problem per video.",
         "Show the can early and give a real taste reaction. Taste is why people keep reaching for it.",
         "Make the payoff what you get back, and film it: focus for the meeting, patience at pickup, being there at practice. Busy and capable, never a tired-and-aging cliché.",
-        "If you were skeptical at first, say so. “I wasn’t sure about this” is more believable than any line we can write.",
-        "Only bring up sleep to say what coffee used to do to you. Never say Kenetik helps you sleep."
+        "If you were skeptical at first, say so. “I wasn’t sure about this” is more believable than any line we can write."
       ],
       "donts": [
         "Call it an energy drink, pre-workout or supplement. It’s caffeine-free brain fuel.",
-        "Say it treats, balances or fixes menopause, hormones, brain fog or memory, or that it helps you sleep. Say how it feels for you.",
         "Make coffee the villain. One line on why more coffee stopped working for you is plenty. The story is what you get back.",
         "Say anything that isn’t true for you. If a line doesn’t match your experience, change it or pick another.",
         "Promise a buzz. It feels clear and like yourself, never wired.",
@@ -24113,8 +24087,8 @@
         },
         {
           "block": "amber",
-          "label": "🧠 PERSONAL EXPERIENCE ONLY",
-          "text": "**The most sensitive tab on the hub.** Never claim Kenetik treats, cures, balances, prevents or fixes menopause, perimenopause, hormones, brain fog or memory, or that it helps you sleep. Talk only about how you feel (the fog, the lost word, the email you read three times) and what Kenetik is like for you (“keeps me clear,” “I feel like me again”)."
+          "label": "Watch out on this one",
+          "text": "**The most sensitive tab on the hub.** Talk about how you feel (the fog, the lost word, the email you read three times) and what Kenetik is like for you (“keeps me clear,” “I feel like me again”)."
         },
         {
           "block": "eyebrow",
@@ -24164,11 +24138,10 @@
       "title": "Hooks for teaching the science of midlife brain fog",
       "sub": "10 hooks · advanced · the moment: she’s tried everything and wants to know why",
       "audience": "**An advanced tab, for creators who can teach:** nurse practitioners, nurses, dietitians, menopause-trained clinicians and health coaches. Your viewer is a woman in perimenopause or menopause whose feed is full of products making the same promises, so how it feels won’t be enough on its own here. One piece of real science, said plainly by someone who understands it, will. The science in one breath: the brain runs mostly on glucose, and in midlife brain cells get worse at using it. Ketones are a second fuel the brain can burn, and brain cells can use them without insulin. Kenetik is 12g of ketones in a can, with no caffeine. If you speak only from your own experience, start at the Women 40+ / Menopause tab. **The moment to own here:** she has tried everything, and she wants to know why this would be different.",
-      "claims_note": "The research lines are worded the way we’re allowed to say them. Say them as written, and add no numbers of your own.",
       "formula": [
         {
           "title": "Hook",
-          "text": "Open with one of the lines below in the first 1 to 3 seconds. Put it in your own words, but keep the science as written. If it doesn’t sound like you, pick another."
+          "text": "Open with one of the lines below in the first 1 to 3 seconds. Put it in your own words. If it doesn’t sound like you, pick another."
         },
         {
           "title": "One fact",
@@ -24187,18 +24160,14 @@
         "Say “brain fuel” at least once, every video.",
         "Teach one fact per video, in plain words. Explain it like you would to a friend, not a lecture hall.",
         "Say what you do (NP, dietitian, nurse, coach) only if it’s yours. It’s why she’ll listen.",
-        "Use the research lines as written. If you name the study, call it “a 2025 study in PNAS” and put the link in your caption.",
-        "If you make a claim for Kenetik, use one of these two, word for word: “supports focus and cognitive performance” or “supports cognitive health through midlife.”",
+        "Put the research lines in your own words. If you name the study, call it “a 2025 study in PNAS” and put the link in your caption.",
         "Say “perimenopause” or “menopause” plainly, about women in general or about yourself.",
         "After the science, make it personal: how it feels for you, and how it tastes."
       ],
       "donts": [
         "Call it an energy drink, pre-workout or supplement. It’s caffeine-free brain fuel.",
         "Give medical advice, tell a patient story, or say you recommend it to patients. You’re sharing what you know and what you drink.",
-        "Say it treats, prevents, balances or fixes menopause, hormones, brain fog, memory or cognitive decline, or that it helps you sleep.",
         "Say Kenetik was in the study. The research is on ketones; Kenetik is 12g of them in a can.",
-        "Add numbers, percentages or studies that aren’t on this page.",
-        "Tie it to alcohol, hangovers, weight or belly fat.",
         "Say “your menopause” or guess her age. Name the stage in general terms.",
         "Point at a shopping button on screen. Say “shop now” out loud instead, so the video still works when we run it as an ad."
       ],
@@ -24232,7 +24201,7 @@
         {
           "block": "amber",
           "label": "🎓 ADVANCED: FOR CREATORS WHO CAN TEACH",
-          "text": "**The hardest pitch on the hub.** This tab teaches the why: one fact, said as written, then the can. Never medical advice, and never a claim that Kenetik treats or fixes anything. Talk about what the research found on ketones, and what Kenetik is like for you."
+          "text": "**The hardest pitch on the hub.** This tab teaches the why: one fact, in your own words, then the can. Talk about what the research found on ketones, and what Kenetik is like for you."
         },
         {
           "block": "eyebrow",
@@ -24309,7 +24278,6 @@
       ],
       "donts": [
         "Call it an energy drink, pre-workout or supplement. It’s caffeine-free brain fuel.",
-        "Make medical claims or promise better sleep, or tie it to anxiety, burnout or any mental-health condition.",
         "Say anything that isn’t true for you. If a line doesn’t match your life, change it or pick another.",
         "Fake urgency. Only claim a sellout that actually happened, and name it.",
         "Point at a shopping button on screen. Say “shop now” out loud instead, so the video still works when we run it as an ad.",
@@ -24344,8 +24312,8 @@
         },
         {
           "block": "amber",
-          "label": "🧠 PERSONAL EXPERIENCE ONLY",
-          "text": "**Wellbeing needs care.** Never claim Kenetik treats, cures, or fixes anxiety, depression, stress, burnout, or any mental-health condition. Speak to the felt experience (the fog, the jitters, the late-day spiral) and how it makes YOU feel (calm, clear, focused). Caffeine-free is a real hook here (many cut caffeine for anxiety and sleep). It's brain fuel, not medicine."
+          "label": "Watch out on this one",
+          "text": "**Wellbeing needs care.** Speak to the felt experience (the fog, the jitters, the late-day spiral) and how it makes YOU feel (calm, clear, focused). Caffeine-free is a real hook here (many cut caffeine for anxiety and sleep). It's brain fuel, not medicine."
         },
         {
           "block": "eyebrow",
@@ -24417,12 +24385,11 @@
         "Say “brain fuel” at least once, every video.",
         "Talk like you’re telling a friend, not reading a script. Pauses, tangents and “honestly” are all fine.",
         "Film it where it happens: the shop at night, the pits under the lights.",
-        "Keep it in your head: calm, focus, a clear head when it gets chaotic. Never faster laps or quicker reactions.",
+        "Keep it in your head: calm, focus, a clear head when it gets chaotic.",
         "Show the second can you used to need at midnight, and what you drink now."
       ],
       "donts": [
         "Call it an energy drink, pre-workout or supplement. It’s caffeine-free brain fuel.",
-        "Make medical claims, or promise better sleep or performance. Say how it feels to you.",
         "Say anything that isn’t true for you. If a line doesn’t match your life, change it or pick another.",
         "Fake urgency. Only claim a sellout that actually happened, and name it.",
         "Point at a shopping button on screen. Say “shop now” out loud instead, so the video still works when we run it as an ad.",
@@ -24457,8 +24424,8 @@
         },
         {
           "block": "amber",
-          "label": "Keep it to the mental side",
-          "text": "**Keep it to the head, not the car.** No physical-performance claims: never faster laps, quicker reaction time, better car control, or reflexes. Stay in composure, focus, a clear head under pressure, and staying calm when the race gets chaotic. Frame the felt experience, never a performance promise. Never call Kenetik an energy drink."
+          "label": "The angle",
+          "text": "Stay in composure, focus, a clear head under pressure, and staying calm when the race gets chaotic. Never call Kenetik an energy drink."
         },
         {
           "block": "eyebrow",
@@ -24535,7 +24502,6 @@
       ],
       "donts": [
         "Call it an energy drink, pre-workout or supplement. It’s caffeine-free brain fuel.",
-        "Make medical claims or promise better sleep, or tie it to patient care or any condition.",
         "Say anything that isn’t true for you. If a line doesn’t match your life, change it or pick another.",
         "Fake urgency. Only claim a sellout that actually happened, and name it.",
         "Point at a shopping button on screen. Say “shop now” out loud instead, so the video still works when we run it as an ad.",
@@ -24643,7 +24609,6 @@
       ],
       "donts": [
         "Call it an energy drink, pre-workout or supplement. It’s caffeine-free brain fuel.",
-        "Say it treats stress, anxiety or overstimulation, or promise better sleep. Say how it feels to you.",
         "Make coffee the villain. One mention of your old habit is plenty. The story is the hour you get back.",
         "Say anything that isn’t true for you. If a line doesn’t match your life, change it or pick another.",
         "Show a child drinking it or holding the can. It is for the grown-ups.",
@@ -24752,7 +24717,6 @@
       ],
       "donts": [
         "Call it an energy drink, pre-workout or supplement. It’s caffeine-free brain fuel.",
-        "Make medical claims, or promise better sleep or performance. Say how it feels to you, not what it will do for their rank.",
         "Say anything that isn’t true for you. If a line doesn’t match your life, change it or pick another.",
         "Fake urgency. Only claim a sellout that actually happened, and name it.",
         "Point at a shopping button on screen. Say “shop now” out loud instead, so the video still works when we run it as an ad.",
@@ -24855,12 +24819,10 @@
         "Say “brain fuel” at least once, every video.",
         "Talk like you’re telling a friend, not reading a script. Pauses, tangents and “honestly” are all fine.",
         "Show your real hour: the 2pm slump, or the desk lamp and the clock past ten.",
-        "Talk about how caffeine felt for you, wired or jittery, then show the calm version.",
-        "Keep it about how you feel, never about fixing brain rot or anything medical."
+        "Talk about how caffeine felt for you, wired or jittery, then show the calm version."
       ],
       "donts": [
         "Call it an energy drink, pre-workout or supplement. It’s caffeine-free brain fuel.",
-        "Make medical claims or promise better sleep, or tie it to ADHD, brain rot as a condition, or anything medical.",
         "Say anything that isn’t true for you. If a line doesn’t match your life, change it or pick another.",
         "Fake urgency. Only claim a sellout that actually happened, and name it.",
         "Point at a shopping button on screen. Say “shop now” out loud instead, so the video still works when we run it as an ad.",
@@ -24895,8 +24857,8 @@
         },
         {
           "block": "amber",
-          "label": "Personal experience only, keep it lifestyle",
-          "text": "**Speak to how it makes YOU feel, not what it treats.** Locked in, clear, focused: great. Never claim Kenetik cures, fixes, or treats “brain rot,” ADHD, anxiety, focus disorders, or any condition. It's brain fuel, not medicine. Caffeine-free is a real hook here (a lot of this crowd cut energy drinks for sleep and anxiety). Never call it an energy drink."
+          "label": "Keep it lifestyle",
+          "text": "Locked in, clear, focused: great. It's brain fuel, not medicine. Caffeine-free is a real hook here (a lot of this crowd cut energy drinks for sleep and anxiety). Never call it an energy drink."
         },
         {
           "block": "eyebrow",
@@ -24967,13 +24929,11 @@
       "dos": [
         "Say “brain fuel” at least once, every video.",
         "Talk like you’re telling a friend, not reading a script. Pauses, tangents and “honestly” are all fine.",
-        "Keep the approved framing: “helps me stay sharp,” never “makes me faster” or “hits harder.”",
         "Informed Sport Certified is your strongest line if you get tested.",
         "Film the late session: the 8pm class, the walk out of the gym, the drive home."
       ],
       "donts": [
         "Call it an energy drink, pre-workout or supplement. It’s caffeine-free brain fuel.",
-        "Make medical claims, or promise better sleep or performance. “Helps me stay sharp”, never “makes me faster”, and nothing about concussions or injury.",
         "Say anything that isn’t true for you. If a line doesn’t match your life, change it or pick another.",
         "Fake urgency. Only claim a sellout that actually happened, and name it.",
         "Point at a shopping button on screen. Say “shop now” out loud instead, so the video still works when we run it as an ad.",
@@ -25005,11 +24965,6 @@
         },
         {
           "block": "northstar"
-        },
-        {
-          "block": "amber",
-          "label": "Say it the right way",
-          "text": "**Keep the wording about how it feels to you.** “Helps me stay sharp,” “supports my focus,” “calm and clear in the last round.” Never “makes you faster,” “hit harder” or “quicker reaction time,” and skip anything about cutting weight."
         },
         {
           "block": "eyebrow",
@@ -25086,7 +25041,6 @@
       ],
       "donts": [
         "Call it an energy drink, pre-workout or supplement. It’s caffeine-free brain fuel.",
-        "Make medical claims, or promise better sleep or performance. Say how it feels to you.",
         "Say anything that isn’t true for you. If a line doesn’t match your life, change it or pick another.",
         "Fake urgency. Only claim a sellout that actually happened, and name it.",
         "Point at a shopping button on screen. Say “shop now” out loud instead, so the video still works when we run it as an ad.",
@@ -25194,7 +25148,6 @@
       ],
       "donts": [
         "Call it an energy drink, pre-workout or supplement. It’s caffeine-free brain fuel.",
-        "Make medical claims or promise better sleep, or say it improves your response time, decisions or anything on the job.",
         "Say anything that isn’t true for you. If a line doesn’t match your life, change it or pick another.",
         "Fake urgency. Only claim a sellout that actually happened, and name it.",
         "Point at a shopping button on screen. Say “shop now” out loud instead, so the video still works when we run it as an ad.",
@@ -25229,8 +25182,8 @@
         },
         {
           "block": "amber",
-          "label": "Personal experience only",
-          "text": "**Speak to how it makes YOU feel, never what it does on the job.** Clear, steady, calm: great. Never claim Kenetik improves your response time, your decisions on a call, patient or public safety, or any job outcome. It is brain fuel, not a performance or safety tool. Caffeine-free is a real hook here (shift workers cut caffeine for sleep). Never call it an energy drink."
+          "label": "The angle",
+          "text": "Clear, steady, calm: great. Caffeine-free is a real hook here (shift workers cut caffeine for sleep). Never call it an energy drink."
         },
         {
           "block": "eyebrow",
@@ -25307,7 +25260,6 @@
       ],
       "donts": [
         "Call it an energy drink, pre-workout or supplement. It’s caffeine-free brain fuel.",
-        "Make medical claims, or promise better sleep or performance. Say how it feels to you.",
         "Say anything that isn’t true for you. If a line doesn’t match your life, change it or pick another.",
         "Fake urgency. Only claim a sellout that actually happened, and name it.",
         "Point at a shopping button on screen. Say “shop now” out loud instead, so the video still works when we run it as an ad.",
@@ -25342,8 +25294,8 @@
         },
         {
           "block": "amber",
-          "label": "Keep it to the mental side",
-          "text": "**For endurance, keep every hook on the mental side.** No physical-performance claims: never faster, longer, more power or watts, VO2, PRs or endurance gains. The angle is focus, clear decisions, and the head that holds up when the legs are gassed. Kenetik is Informed Sport Certified, so athletes can trust exactly what is in it."
+          "label": "The angle",
+          "text": "The angle is focus, clear decisions, and the head that holds up when the legs are gassed. Kenetik is Informed Sport Certified, so athletes can trust exactly what is in it."
         },
         {
           "block": "eyebrow",
@@ -25415,12 +25367,11 @@
         "Say “brain fuel” at least once, every video.",
         "Talk like you’re telling a friend, not reading a script. Pauses, tangents and “honestly” are all fine.",
         "Film it where you suffer: the headlamp, the night aid station, the late run after work.",
-        "Keep it in your head: clarity, discipline, a clear mind in the dark. Never faster or farther.",
+        "Keep it in your head: clarity, discipline, a clear mind in the dark.",
         "Name what caffeine at mile 60 used to do to you, then show what you drink now."
       ],
       "donts": [
         "Call it an energy drink, pre-workout or supplement. It’s caffeine-free brain fuel.",
-        "Make medical claims, or promise better sleep or performance. Say how it feels to you.",
         "Say anything that isn’t true for you. If a line doesn’t match your life, change it or pick another.",
         "Fake urgency. Only claim a sellout that actually happened, and name it.",
         "Point at a shopping button on screen. Say “shop now” out loud instead, so the video still works when we run it as an ad.",
@@ -25455,8 +25406,8 @@
         },
         {
           "block": "amber",
-          "label": "Keep it to the mental side",
-          "text": "**Mental side only.** No physical-performance claims: never faster, farther, more miles, more endurance, or quicker recovery. Stay in the head, mental clarity, focus, discipline, keeping a clear head when it gets dark. Kenetik is Informed Sport Certified (matters for tested athletes). Frame the felt experience, never a performance promise."
+          "label": "The angle",
+          "text": "Stay in the head, mental clarity, focus, discipline, keeping a clear head when it gets dark. Kenetik is Informed Sport Certified (matters for tested athletes)."
         },
         {
           "block": "eyebrow",
@@ -25505,7 +25456,7 @@
       "nav_order": 24,
       "title": "Hooks for HYROX and hybrid athletes",
       "sub": "10 hooks · the moment: the 3pm slump, and the session after work",
-      "audience": "Hybrid athletes train after work, smoked from the day, and the mind goes before the body does. The 3pm coffee and the pre-workout at 6 get them through and cost them at midnight. Kenetik is caffeine-free brain fuel for the afternoon and the evening session: head in it, calm, and still switching off after. Stay on the mental side only, never times, reps or recovery. **The moment to own here:** the 3pm slump at work and the session after it, locked in when you are smoked, and nothing keeping you up after.",
+      "audience": "Hybrid athletes train after work, smoked from the day, and the mind goes before the body does. The 3pm coffee and the pre-workout at 6 get them through and cost them at midnight. Kenetik is caffeine-free brain fuel for the afternoon and the evening session: head in it, calm, and still switching off after. **The moment to own here:** the 3pm slump at work and the session after it, locked in when you are smoked, and nothing keeping you up after.",
       "formula": [
         {
           "title": "Hook",
@@ -25533,7 +25484,6 @@
       ],
       "donts": [
         "Call it an energy drink, pre-workout or supplement. It’s caffeine-free brain fuel.",
-        "Make medical claims, or promise better sleep or performance. Say how it feels to you.",
         "Say anything that isn’t true for you. If a line doesn’t match your life, change it or pick another.",
         "Fake urgency. Only claim a sellout that actually happened, and name it.",
         "Point at a shopping button on screen. Say “shop now” out loud instead, so the video still works when we run it as an ad.",
@@ -25568,8 +25518,8 @@
         },
         {
           "block": "amber",
-          "label": "Keep it to the mental side",
-          "text": "**Mental side only.** No physical-performance claims: never faster splits, better times, more reps, faster transitions, more endurance, or quicker recovery. Stay in the head, focus, clarity, staying sharp when you're smoked, decisions under fatigue. Kenetik is Informed Sport Certified (matters for tested athletes). Frame the felt experience, never a performance promise."
+          "label": "The angle",
+          "text": "Stay in the head, focus, clarity, staying sharp when you're smoked, decisions under fatigue. Kenetik is Informed Sport Certified (matters for tested athletes)."
         },
         {
           "block": "eyebrow",
@@ -25618,8 +25568,7 @@
       "nav_order": 25,
       "title": "Hooks for travelers and road warriors",
       "sub": "10 hooks · the moment: the afternoon slump in transit, and landing late",
-      "audience": "Travel runs long: the 2pm slump at the gate, the evening landing, the hotel desk at 10pm, hour six of the drive. The usual answer is another coffee, and then lying awake in a hotel bed. The 2oz shot is caffeine-free brain fuel that fits the quart bag, so you can be clear for the afternoon and the late work and still switch off after. Routine and format only: never say it fixes jet lag, tiredness or anything else. **The moment to own here:** the afternoon slump at the gate and landing late with work still to do, with nothing in it keeping you up in the hotel after.",
-      "claims_note": "One hard line: we never say it fixes jet lag, tiredness or anything else.",
+      "audience": "Travel runs long: the 2pm slump at the gate, the evening landing, the hotel desk at 10pm, hour six of the drive. The usual answer is another coffee, and then lying awake in a hotel bed. The 2oz shot is caffeine-free brain fuel that fits the quart bag, so you can be clear for the afternoon and the late work and still switch off after. **The moment to own here:** the afternoon slump at the gate and landing late with work still to do, with nothing in it keeping you up in the hotel after.",
       "formula": [
         {
           "title": "Hook",
@@ -25647,7 +25596,6 @@
       ],
       "donts": [
         "Call it an energy drink, pre-workout or supplement. It’s caffeine-free brain fuel.",
-        "Make medical claims or promise better sleep, including that it fixes jet lag, tiredness or anything else.",
         "Say anything that isn’t true for you. If a line doesn’t match your life, change it or pick another.",
         "Fake urgency. Only claim a sellout that actually happened, and name it.",
         "Point at a shopping button on screen. Say “shop now” out loud instead, so the video still works when we run it as an ad.",
@@ -25755,7 +25703,6 @@
       ],
       "donts": [
         "Call it an energy drink, pre-workout or supplement. It’s caffeine-free brain fuel.",
-        "Make medical claims, or promise better sleep or recovery. Say how it feels to you, not what it will do for them.",
         "Mix Kenetik into another drink or show it as a mixer.",
         "Film or speak to anyone under 21. This tab is for adults on a night out.",
         "Point at a shopping button on screen. Say “shop now” out loud instead, so the video still works when we run it as an ad.",
@@ -26066,7 +26013,6 @@
         "Correct them twice. One sentence, then move on.",
         "Script their answer or use a friend and pass them off as a stranger.",
         "Ask anyone whether they are in menopause. Ask about their afternoons and let them bring it up.",
-        "Keep a line where someone says it treats, fixes or helps with a symptom or with sleep. Cut it in the edit.",
         "Name a price or a discount on camera.",
         "Make Kenetik the hero. Their afternoon is the story, and Kenetik is the thing that helped."
       ],
@@ -26125,8 +26071,8 @@
         },
         {
           "block": "amber",
-          "label": "Personal experience only",
-          "text": "**Kenetik is not a menopause product, and it does not treat brain fog.** It is what she might reach for in the afternoon instead of another coffee. Never ask whether she is in menopause, and let her bring it up. In the edit, cut any line where someone says it fixed her fog, her memory, her hormones or her sleep."
+          "label": "Watch out on this one",
+          "text": "**Kenetik is not a menopause product.** It is what she might reach for in the afternoon instead of another coffee. Never ask whether she is in menopause, and let her bring it up."
         },
         {
           "block": "list",
@@ -26189,7 +26135,6 @@
       "title": "Hooks for Kenetik performance shots",
       "sub": "10 hooks · the moment: one in the bag for the late session",
       "audience": "This tab is for our shots, not the can: Tangerine, the TRX x Kenetik Lemon-Lime shot, and any flavor we launch next. A shot is two ounces with 10g of ketones and no caffeine, small enough for a gym bag, a pocket or a carry-on. It is for the moment you change gears: the evening session after a full workday, the last client at 8pm, the drive to the late game. Lead with the flavor and the moment, never the partner name alone. **The moment to own here:** one shot, gone in one go, and a clear head for whatever comes next tonight.",
-      "claims_note": "No medical claims, and no strength, endurance or race performance claims.",
       "hook_ids": [
         "h-0675",
         "h-0676",
@@ -26262,7 +26207,7 @@
         "Talk like you’re telling a friend, not reading a script. Pauses, tangents and “honestly” are all fine.",
         "Name the flavor you are holding. Flavor first, partner second.",
         "Show the size: in the bag, in your pocket, gone in one go.",
-        "Keep it about focus and a clear head, never strength, reps or recovery."
+        "Keep it about focus and a clear head."
       ],
       "formula": [
         {
@@ -26284,7 +26229,6 @@
       ],
       "donts": [
         "Call it an energy drink, pre-workout or supplement. It’s caffeine-free brain fuel.",
-        "Promise better workouts, more power, faster times or better recovery. Talk about your head, not your body.",
         "Say anything that isn’t true for you. If a line doesn’t match your life, change it or pick another.",
         "Take it mid-race or mid-set on camera. Show it before the session or on the way there.",
         "Point at a shopping button on screen. Say “shop now” out loud instead, so the video still works when we run it as an ad.",
@@ -26298,7 +26242,6 @@
       "title": "Hooks on the science of Kenetik",
       "sub": "10 hooks · the moment: when a viewer asks what is actually in it",
       "audience": "For the viewer who wants to know why it works, and for any creator who likes explaining things. Kenetik is D-BHB, the same ketone your body makes when you fast or train: 12g in a can, no caffeine, no ketone salts, Informed Sport Certified. Your brain can run on ketones as well as sugar, and human trials show ketones support focus and cognitive performance. **The moment to own here:** one clear fact, said simply, then the can in your hand.",
-      "claims_note": "Approved claims only, word for word where a line quotes the research.",
       "formula": [
         {
           "title": "Hook",
@@ -26320,7 +26263,7 @@
       "dos": [
         "Say “brain fuel” at least once, every video.",
         "Talk like you’re telling a friend, not reading a script. Pauses, tangents and “honestly” are all fine.",
-        "Use the research lines as written. They are worded the way we are allowed to say them.",
+        "Put the research lines in your own words.",
         "Keep it to one fact, and make it about how it feels for you.",
         "Show the can: the 12g, the Informed Sport mark."
       ],
@@ -26328,8 +26271,6 @@
         "Call it an energy drink, pre-workout or supplement. It’s caffeine-free brain fuel.",
         "Name another brand, or say Kenetik works better than anything else. Talk about what is in ours.",
         "Say anything that isn’t true for you. If a line doesn’t match your life, change it or pick another.",
-        "Quote study numbers, percentages or brain scans. Say “backed by human trials” instead.",
-        "Say it treats, cures or prevents anything, lowers blood sugar, or helps you sleep.",
         "Point at a shopping button on screen. Say “shop now” out loud instead, so the video still works when we run it as an ad."
       ],
       "hook_ids": [
@@ -32079,7 +32020,7 @@
       },
       {
         "block": "northstar",
-        "text": "**You know your audience better than we do.** Take that afternoon moment, or your evening one, and tell it the way your people talk: your day, your words, your reason. Kenetik is never the star. Two things every video does: say **“brain fuel”** and **“shop now”** out loud. One thing none of them do: medical claims."
+        "text": "**You know your audience better than we do.** Take that afternoon moment, or your evening one, and tell it the way your people talk: your day, your words, your reason. Kenetik is never the star. Two things every video does: say **“brain fuel”** and **“shop now”** out loud."
       },
       {
         "block": "eyebrow",
@@ -32603,7 +32544,6 @@
       "tabs[].sub",
       "tabs[].audience",
       "tabs[].formula",
-      "tabs[].claims_note",
       "tabs[].dos",
       "tabs[].donts",
       "tabs[].layout",
@@ -32645,5 +32585,293 @@
     "quoted": 6,
     "composed": 262,
     "attribution_convention_found": "an a.hsrc link in a hook's meta line, carrying the creator's handle and their TikTok video URL; every unmarked line is recorded as composed"
-  }
+  },
+  "claims_rule": "Say what Kenetik does in your own words, but only a benefit we have proof for. A safety claim is said only in the words we have on file. Never say it treats, cures or prevents a disease or condition. We have no proof on file yet for “Clinically proven focus”, “sugar-free”, “0g sugar” or “Safe for kids”, so don't say them.",
+  "claims_on_file": [
+    {
+      "claim": "A can carries 12 g of ketones.",
+      "kind": "label",
+      "serving": "one 12 oz can"
+    },
+    {
+      "claim": "A KenetikPro serving carries 20 g of D-BHB.",
+      "kind": "label",
+      "serving": "one 1 oz KenetikPro serving"
+    },
+    {
+      "claim": "Kenetik is D-BHB with R-1,3-butanediol.",
+      "kind": "label",
+      "serving": ""
+    },
+    {
+      "claim": "Kenetik is caffeine-free.",
+      "kind": "label",
+      "serving": ""
+    },
+    {
+      "claim": "The 12 oz can and the 2 oz shots are Informed Sport Certified.",
+      "kind": "label",
+      "serving": "the 12 oz can and the 2 oz shots only"
+    },
+    {
+      "claim": "One serving of Kenetik increases functional brain activity by 18%.",
+      "kind": "benefit",
+      "serving": "one serving (one bottle in the study)"
+    },
+    {
+      "claim": "Kenetik raises your blood ketones fast, peaking about 15 minutes after you drink it.",
+      "kind": "benefit",
+      "serving": "one serving, about 10 g of ketones"
+    },
+    {
+      "claim": "Ketones help keep your blood oxygen up in thin air.",
+      "kind": "benefit",
+      "serving": "with KenetikPro"
+    },
+    {
+      "claim": "Early research shows ketones help keep your brain oxygenated in thin air.",
+      "kind": "benefit",
+      "serving": "with KenetikPro, repeated through the day"
+    },
+    {
+      "claim": "Early research shows ketones help hold your thinking when the air is thin.",
+      "kind": "benefit",
+      "serving": "two or more KenetikPro servings"
+    },
+    {
+      "claim": "Early research shows ketones raise erythropoietin, the signal to make red blood cells, over weeks of daily use.",
+      "kind": "benefit",
+      "serving": "with KenetikPro daily"
+    },
+    {
+      "claim": "Early research shows ketones ease hunger for a few hours.",
+      "kind": "benefit",
+      "serving": "one to two KenetikPro servings"
+    },
+    {
+      "claim": "Ketones fuel your brain.",
+      "kind": "benefit",
+      "serving": ""
+    },
+    {
+      "claim": "Ketones help your brain save glucose.",
+      "kind": "benefit",
+      "serving": "with KenetikPro"
+    },
+    {
+      "claim": "Ketones change how blood flows to your brain.",
+      "kind": "benefit",
+      "serving": "with KenetikPro"
+    },
+    {
+      "claim": "Early research shows daily ketones raise blood flow to your brain.",
+      "kind": "benefit",
+      "serving": "three servings a day"
+    },
+    {
+      "claim": "Early research shows ketones help keep your brain oxygenated at high altitude.",
+      "kind": "benefit",
+      "serving": "with KenetikPro, repeated through the day"
+    },
+    {
+      "claim": "Ketones help steady your brain's networks.",
+      "kind": "benefit",
+      "serving": "with KenetikPro"
+    },
+    {
+      "claim": "Early research shows ketones shift your brain's chemical messengers.",
+      "kind": "benefit",
+      "serving": "with KenetikPro"
+    },
+    {
+      "claim": "Early research shows daily ketones give your brain more fuel.",
+      "kind": "benefit",
+      "serving": "two servings a day"
+    },
+    {
+      "claim": "Early research shows ketones give your thinking a small lift.",
+      "kind": "benefit",
+      "serving": "with KenetikPro"
+    },
+    {
+      "claim": "Early research shows ketones help fuel your brain when blood sugar runs low.",
+      "kind": "benefit",
+      "serving": ""
+    },
+    {
+      "claim": "Early research shows ketones help hold your thinking when the air is thin.",
+      "kind": "benefit",
+      "serving": "two or more KenetikPro servings"
+    },
+    {
+      "claim": "Early research shows ketones help hold your focus when you're short on sleep.",
+      "kind": "benefit",
+      "serving": ""
+    },
+    {
+      "claim": "Early research shows your body burns ketones for energy in place of carbs.",
+      "kind": "benefit",
+      "serving": ""
+    },
+    {
+      "claim": "Ketones raise your blood ketones just as well day after day.",
+      "kind": "benefit",
+      "serving": ""
+    },
+    {
+      "claim": "Lowers blood sugar on an empty stomach.",
+      "kind": "benefit",
+      "serving": ""
+    },
+    {
+      "claim": "Early research shows it lowers blood sugar with little extra insulin.",
+      "kind": "benefit",
+      "serving": ""
+    },
+    {
+      "claim": "Helps the liver release less sugar into the blood.",
+      "kind": "benefit",
+      "serving": ""
+    },
+    {
+      "claim": "Slows the release of stored fat into the blood.",
+      "kind": "benefit",
+      "serving": ""
+    },
+    {
+      "claim": "Early research shows it slows how fast sugar from a meal enters your blood.",
+      "kind": "benefit",
+      "serving": "two KenetikPro servings"
+    },
+    {
+      "claim": "Early research shows it softens the blood sugar rise from a meal when you drink it first.",
+      "kind": "benefit",
+      "serving": "two KenetikPro servings"
+    },
+    {
+      "claim": "Lowers blood sugar, fasting or after a sugary drink.",
+      "kind": "benefit",
+      "serving": "two KenetikPro servings"
+    },
+    {
+      "claim": "Early research shows it lowers the blood sugar rise after a meal when you drink it half an hour before.",
+      "kind": "benefit",
+      "serving": "two KenetikPro servings"
+    },
+    {
+      "claim": "Keeps blood sugar lower during and after exercise.",
+      "kind": "benefit",
+      "serving": ""
+    },
+    {
+      "claim": "Early research shows it helps fuel your brain when blood sugar runs low.",
+      "kind": "benefit",
+      "serving": "with KenetikPro"
+    },
+    {
+      "claim": "Raises how much blood your heart pumps at rest.",
+      "kind": "benefit",
+      "serving": "with KenetikPro"
+    },
+    {
+      "claim": "Early research shows it helps your blood vessels widen.",
+      "kind": "benefit",
+      "serving": "one can before each meal"
+    },
+    {
+      "claim": "Early research shows your heart takes up ketones for fuel.",
+      "kind": "benefit",
+      "serving": "with KenetikPro"
+    },
+    {
+      "claim": "Early research shows ketones help limit muscle inflammation after your longest runs.",
+      "kind": "benefit",
+      "serving": "a little over one KenetikPro serving before the run, every hour during it and several times the day after"
+    },
+    {
+      "claim": "Early research shows ketones leave a tag on your immune cells' proteins.",
+      "kind": "benefit",
+      "serving": "about two and a half KenetikPro servings at once"
+    },
+    {
+      "claim": "Early research shows ketones act as a signal in your muscles and fat, not only a fuel.",
+      "kind": "benefit",
+      "serving": "with KenetikPro, repeated over a few hours"
+    },
+    {
+      "claim": "Early research shows ketones help lift your mood under mental strain.",
+      "kind": "benefit",
+      "serving": ""
+    },
+    {
+      "claim": "Early research shows ketones after hard training help your muscles adapt.",
+      "kind": "benefit",
+      "serving": "about two cans, or more than one KenetikPro serving, after each session and before sleep"
+    },
+    {
+      "claim": "Early research shows daily ketones give your brain more fuel.",
+      "kind": "benefit",
+      "serving": "two servings a day"
+    },
+    {
+      "claim": "Early research shows ketones can be taken through long rides without upsetting your stomach.",
+      "kind": "benefit",
+      "serving": "up to about three KenetikPro servings across a 3-hour ride, with carbohydrate"
+    },
+    {
+      "claim": "Ketones are easy on the stomach at an everyday serving.",
+      "kind": "safety",
+      "serving": ""
+    },
+    {
+      "claim": "Early research shows ketones help protect REM sleep after your hardest training days.",
+      "kind": "benefit",
+      "serving": "with KenetikPro after each session and before bed"
+    },
+    {
+      "claim": "Early research shows ketones help you get more deep sleep on short nights.",
+      "kind": "benefit",
+      "serving": ""
+    },
+    {
+      "claim": "Early research shows ketones help hold your thinking when the air is thin.",
+      "kind": "benefit",
+      "serving": "two or more KenetikPro servings"
+    },
+    {
+      "claim": "Ketones help keep your blood oxygen up in thin air.",
+      "kind": "benefit",
+      "serving": "with KenetikPro"
+    },
+    {
+      "claim": "Early research shows ketones help you get more deep sleep on short nights.",
+      "kind": "benefit",
+      "serving": ""
+    },
+    {
+      "claim": "Early research shows ketones help fuel your brain when blood sugar runs low.",
+      "kind": "benefit",
+      "serving": ""
+    },
+    {
+      "claim": "Early research shows ketones help hold your thinking through demanding mental work.",
+      "kind": "benefit",
+      "serving": ""
+    },
+    {
+      "claim": "Early research shows ketones help protect REM sleep after your hardest training days.",
+      "kind": "benefit",
+      "serving": "with KenetikPro after each session and before bed"
+    },
+    {
+      "claim": "Early research shows ketones after hard training help your muscles adapt.",
+      "kind": "benefit",
+      "serving": "about two cans, or more than one KenetikPro serving, after each session and before sleep"
+    },
+    {
+      "claim": "Early research shows ketones help limit muscle inflammation after your longest runs.",
+      "kind": "benefit",
+      "serving": "a little over one KenetikPro serving before the run, every hour during it and several times the day after"
+    }
+  ]
 }

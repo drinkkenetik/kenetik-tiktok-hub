@@ -308,7 +308,7 @@
       "href": "https://www.tiktok.com/@az_momlife/video/7655397131263429918",
       "thumb": "https://database.euka.ai/storage/v1/object/public/creator_videos_photos/7655397131263429918.webp",
       "why": "She holds the product up and reads the real label numbers back to back, then lands on the shocker (124g of sugar). The this-for-this rhythm makes the math impossible to un-see. @az_momlife ran the exact format for two different brands and it converted both times, proof it's the format, not the creator.",
-      "caveat": "Borrow the label-read rhythm. Keep it to our proof set and the brain-fuel story, no health claims and no energy-drink framing."
+      "caveat": "Borrow the label-read rhythm. Keep it to our proof set and the brain-fuel story, with no energy-drink framing."
     },
     {
       "brand": "Nello",
@@ -319,7 +319,7 @@
       "href": "https://tiktok.com/@hkapproved/video/7617192215911124238",
       "thumb": "https://database.euka.ai/storage/v1/object/public/creator_videos_photos/7617192215911124238.webp",
       "why": "A pattern-interrupt that stops the scroll in the first second by telling you NOT to do something. Curiosity forces the watch, and it works for a functional drink exactly like ours.",
-      "caveat": "Borrow the warning hook. Drop the hormonal, PCOS, and non-medicated framing, we can't make those claims."
+      "caveat": "Borrow the warning hook. Drop the hormonal, PCOS, and non-medicated framing."
     },
     {
       "brand": "Fire Salt",
@@ -330,7 +330,7 @@
       "href": "https://tiktok.com/@tru_cru/video/7653192218005540110",
       "thumb": "https://database.euka.ai/storage/v1/object/public/creator_videos_photos/7653192218005540110.webp",
       "why": "Opens on a problem the viewer is already living, then reframes the cause in the same breath. Naming the exact frustration in the first line is what makes them stay for the fix.",
-      "caveat": "Borrow the relatable-problem open. Keep the reframe to the brain-fuel problem, no hydration or medical claims."
+      "caveat": "Borrow the relatable-problem open. Keep the reframe to the brain-fuel problem, not hydration."
     },
     {
       "brand": "Nello",
@@ -341,7 +341,7 @@
       "href": "https://tiktok.com/@chaosonthecoast_/video/7559593716642532663",
       "thumb": "https://database.euka.ai/storage/v1/object/public/creator_videos_photos/7559593716642532663.webp",
       "why": "A listicle wrapped in a personal story. 'Things I wish I knew' pulls the viewer in and gives them a reason to save and share. Low-lift to shoot, high on relatability.",
-      "caveat": "Borrow the story-list format. Keep every line experiential, no condition or medical framing."
+      "caveat": "Borrow the story-list format."
     },
     {
       "brand": "Medicube",
@@ -352,7 +352,7 @@
       "href": "https://tiktok.com/@cakedfinds/video/7655929538240679198",
       "thumb": "assets/teardown-medicube.jpg",
       "why": "A provocative curiosity hook that dares you to keep watching. 'How is this even legal' implies a result so good it feels against the rules. A pure open loop.",
-      "caveat": "Borrow the curiosity hook only. The cosmetic and anti-aging claims do not transfer to a drink, stay experiential."
+      "caveat": "Borrow the curiosity hook only. The cosmetic and anti-aging claims do not transfer to a drink."
     },
     {
       "brand": "BrainMD",
@@ -363,7 +363,7 @@
       "href": "https://tiktok.com/@philsmypharmacist/video/7593901307686030606",
       "thumb": "https://database.euka.ai/storage/v1/object/public/creator_videos_photos/7593901307686030606.webp",
       "why": "A credible voice calmly explaining what happens when you swap. Authority converts at elite efficiency, people trust an expert-framed explainer over a hype ad.",
-      "caveat": "Borrow the calm authority framing. Never reference conditions, ADHD, anxiety, or medications, that's their lane, not ours."
+      "caveat": "Borrow the calm authority framing. Conditions and medications are their lane, not ours."
     }
   ],
   "dos": [
@@ -379,7 +379,6 @@
   ],
   "donts": [
     "Kenetik is brain fuel, so never label it an energy drink, and don't frame it against that category at all. Lead with what it is and the problem it solves.",
-    "Don't make health or medical claims. No “treats,” “cures,” “clinically proven,” or conditions. Personal experience only.",
     "Don't lead with a discount or “X% off.”",
     "Don't read a stiff script, and don't over-polish."
   ],
@@ -449,7 +448,7 @@
     },
     {
       "q": "What can I say, and what should I avoid?",
-      "a": "Talk from your own experience: steady focus, no 2pm crash, 12 grams of ketones, no jitters, caffeine-free, and it tastes good. Keep every line experiential, and make sure you say “brain fuel” at least once. Don't make health or medical claims like treats, cures, or clinically proven, and never call Kenetik an energy drink. It's metabolic brain fuel, the fix for the foggy afternoon, not another stimulant."
+      "a": "Talk from your own experience: steady focus, no 2pm crash, 12 grams of ketones, no jitters, caffeine-free, and it tastes good. Make sure you say “brain fuel” at least once, and never call Kenetik an energy drink. It's metabolic brain fuel, the fix for the foggy afternoon, not another stimulant."
     },
     {
       "q": "Does it have caffeine? What's in it?",
@@ -479,11 +478,7 @@
   "notThat": [
     "Don't frame Kenetik against the energy-drink category at all. Lead with brain fuel and the problem it solves.",
     "“Energy drink,” even “a healthier energy drink.”",
-    "“Treats,” “cures,” “prevents,” or any health condition.",
-    "“Clinically proven.” (We say “clinically studied.”)",
-    "“Reduces inflammation,” “antioxidant,” or disease claims.",
-    "Hard stats like “focus up 20%” or “brain activity up X%.”",
-    "Promises or guarantees, and don't lead with a discount."
+    "Don't lead with a discount."
   ],
   "grandfathered": [
     {
@@ -547,6 +542,294 @@
       "by": "the turn",
       "at": "2026-11-09",
       "owner": "nick"
+    }
+  ],
+  "claims_rule": "Say what Kenetik does in your own words, but only a benefit we have proof for. A safety claim is said only in the words we have on file. Never say it treats, cures or prevents a disease or condition. We have no proof on file yet for “Clinically proven focus”, “sugar-free”, “0g sugar” or “Safe for kids”, so don't say them.",
+  "claims_on_file": [
+    {
+      "claim": "A can carries 12 g of ketones.",
+      "kind": "label",
+      "serving": "one 12 oz can"
+    },
+    {
+      "claim": "A KenetikPro serving carries 20 g of D-BHB.",
+      "kind": "label",
+      "serving": "one 1 oz KenetikPro serving"
+    },
+    {
+      "claim": "Kenetik is D-BHB with R-1,3-butanediol.",
+      "kind": "label",
+      "serving": ""
+    },
+    {
+      "claim": "Kenetik is caffeine-free.",
+      "kind": "label",
+      "serving": ""
+    },
+    {
+      "claim": "The 12 oz can and the 2 oz shots are Informed Sport Certified.",
+      "kind": "label",
+      "serving": "the 12 oz can and the 2 oz shots only"
+    },
+    {
+      "claim": "One serving of Kenetik increases functional brain activity by 18%.",
+      "kind": "benefit",
+      "serving": "one serving (one bottle in the study)"
+    },
+    {
+      "claim": "Kenetik raises your blood ketones fast, peaking about 15 minutes after you drink it.",
+      "kind": "benefit",
+      "serving": "one serving, about 10 g of ketones"
+    },
+    {
+      "claim": "Ketones help keep your blood oxygen up in thin air.",
+      "kind": "benefit",
+      "serving": "with KenetikPro"
+    },
+    {
+      "claim": "Early research shows ketones help keep your brain oxygenated in thin air.",
+      "kind": "benefit",
+      "serving": "with KenetikPro, repeated through the day"
+    },
+    {
+      "claim": "Early research shows ketones help hold your thinking when the air is thin.",
+      "kind": "benefit",
+      "serving": "two or more KenetikPro servings"
+    },
+    {
+      "claim": "Early research shows ketones raise erythropoietin, the signal to make red blood cells, over weeks of daily use.",
+      "kind": "benefit",
+      "serving": "with KenetikPro daily"
+    },
+    {
+      "claim": "Early research shows ketones ease hunger for a few hours.",
+      "kind": "benefit",
+      "serving": "one to two KenetikPro servings"
+    },
+    {
+      "claim": "Ketones fuel your brain.",
+      "kind": "benefit",
+      "serving": ""
+    },
+    {
+      "claim": "Ketones help your brain save glucose.",
+      "kind": "benefit",
+      "serving": "with KenetikPro"
+    },
+    {
+      "claim": "Ketones change how blood flows to your brain.",
+      "kind": "benefit",
+      "serving": "with KenetikPro"
+    },
+    {
+      "claim": "Early research shows daily ketones raise blood flow to your brain.",
+      "kind": "benefit",
+      "serving": "three servings a day"
+    },
+    {
+      "claim": "Early research shows ketones help keep your brain oxygenated at high altitude.",
+      "kind": "benefit",
+      "serving": "with KenetikPro, repeated through the day"
+    },
+    {
+      "claim": "Ketones help steady your brain's networks.",
+      "kind": "benefit",
+      "serving": "with KenetikPro"
+    },
+    {
+      "claim": "Early research shows ketones shift your brain's chemical messengers.",
+      "kind": "benefit",
+      "serving": "with KenetikPro"
+    },
+    {
+      "claim": "Early research shows daily ketones give your brain more fuel.",
+      "kind": "benefit",
+      "serving": "two servings a day"
+    },
+    {
+      "claim": "Early research shows ketones give your thinking a small lift.",
+      "kind": "benefit",
+      "serving": "with KenetikPro"
+    },
+    {
+      "claim": "Early research shows ketones help fuel your brain when blood sugar runs low.",
+      "kind": "benefit",
+      "serving": ""
+    },
+    {
+      "claim": "Early research shows ketones help hold your thinking when the air is thin.",
+      "kind": "benefit",
+      "serving": "two or more KenetikPro servings"
+    },
+    {
+      "claim": "Early research shows ketones help hold your focus when you're short on sleep.",
+      "kind": "benefit",
+      "serving": ""
+    },
+    {
+      "claim": "Early research shows your body burns ketones for energy in place of carbs.",
+      "kind": "benefit",
+      "serving": ""
+    },
+    {
+      "claim": "Ketones raise your blood ketones just as well day after day.",
+      "kind": "benefit",
+      "serving": ""
+    },
+    {
+      "claim": "Lowers blood sugar on an empty stomach.",
+      "kind": "benefit",
+      "serving": ""
+    },
+    {
+      "claim": "Early research shows it lowers blood sugar with little extra insulin.",
+      "kind": "benefit",
+      "serving": ""
+    },
+    {
+      "claim": "Helps the liver release less sugar into the blood.",
+      "kind": "benefit",
+      "serving": ""
+    },
+    {
+      "claim": "Slows the release of stored fat into the blood.",
+      "kind": "benefit",
+      "serving": ""
+    },
+    {
+      "claim": "Early research shows it slows how fast sugar from a meal enters your blood.",
+      "kind": "benefit",
+      "serving": "two KenetikPro servings"
+    },
+    {
+      "claim": "Early research shows it softens the blood sugar rise from a meal when you drink it first.",
+      "kind": "benefit",
+      "serving": "two KenetikPro servings"
+    },
+    {
+      "claim": "Lowers blood sugar, fasting or after a sugary drink.",
+      "kind": "benefit",
+      "serving": "two KenetikPro servings"
+    },
+    {
+      "claim": "Early research shows it lowers the blood sugar rise after a meal when you drink it half an hour before.",
+      "kind": "benefit",
+      "serving": "two KenetikPro servings"
+    },
+    {
+      "claim": "Keeps blood sugar lower during and after exercise.",
+      "kind": "benefit",
+      "serving": ""
+    },
+    {
+      "claim": "Early research shows it helps fuel your brain when blood sugar runs low.",
+      "kind": "benefit",
+      "serving": "with KenetikPro"
+    },
+    {
+      "claim": "Raises how much blood your heart pumps at rest.",
+      "kind": "benefit",
+      "serving": "with KenetikPro"
+    },
+    {
+      "claim": "Early research shows it helps your blood vessels widen.",
+      "kind": "benefit",
+      "serving": "one can before each meal"
+    },
+    {
+      "claim": "Early research shows your heart takes up ketones for fuel.",
+      "kind": "benefit",
+      "serving": "with KenetikPro"
+    },
+    {
+      "claim": "Early research shows ketones help limit muscle inflammation after your longest runs.",
+      "kind": "benefit",
+      "serving": "a little over one KenetikPro serving before the run, every hour during it and several times the day after"
+    },
+    {
+      "claim": "Early research shows ketones leave a tag on your immune cells' proteins.",
+      "kind": "benefit",
+      "serving": "about two and a half KenetikPro servings at once"
+    },
+    {
+      "claim": "Early research shows ketones act as a signal in your muscles and fat, not only a fuel.",
+      "kind": "benefit",
+      "serving": "with KenetikPro, repeated over a few hours"
+    },
+    {
+      "claim": "Early research shows ketones help lift your mood under mental strain.",
+      "kind": "benefit",
+      "serving": ""
+    },
+    {
+      "claim": "Early research shows ketones after hard training help your muscles adapt.",
+      "kind": "benefit",
+      "serving": "about two cans, or more than one KenetikPro serving, after each session and before sleep"
+    },
+    {
+      "claim": "Early research shows daily ketones give your brain more fuel.",
+      "kind": "benefit",
+      "serving": "two servings a day"
+    },
+    {
+      "claim": "Early research shows ketones can be taken through long rides without upsetting your stomach.",
+      "kind": "benefit",
+      "serving": "up to about three KenetikPro servings across a 3-hour ride, with carbohydrate"
+    },
+    {
+      "claim": "Ketones are easy on the stomach at an everyday serving.",
+      "kind": "safety",
+      "serving": ""
+    },
+    {
+      "claim": "Early research shows ketones help protect REM sleep after your hardest training days.",
+      "kind": "benefit",
+      "serving": "with KenetikPro after each session and before bed"
+    },
+    {
+      "claim": "Early research shows ketones help you get more deep sleep on short nights.",
+      "kind": "benefit",
+      "serving": ""
+    },
+    {
+      "claim": "Early research shows ketones help hold your thinking when the air is thin.",
+      "kind": "benefit",
+      "serving": "two or more KenetikPro servings"
+    },
+    {
+      "claim": "Ketones help keep your blood oxygen up in thin air.",
+      "kind": "benefit",
+      "serving": "with KenetikPro"
+    },
+    {
+      "claim": "Early research shows ketones help you get more deep sleep on short nights.",
+      "kind": "benefit",
+      "serving": ""
+    },
+    {
+      "claim": "Early research shows ketones help fuel your brain when blood sugar runs low.",
+      "kind": "benefit",
+      "serving": ""
+    },
+    {
+      "claim": "Early research shows ketones help hold your thinking through demanding mental work.",
+      "kind": "benefit",
+      "serving": ""
+    },
+    {
+      "claim": "Early research shows ketones help protect REM sleep after your hardest training days.",
+      "kind": "benefit",
+      "serving": "with KenetikPro after each session and before bed"
+    },
+    {
+      "claim": "Early research shows ketones after hard training help your muscles adapt.",
+      "kind": "benefit",
+      "serving": "about two cans, or more than one KenetikPro serving, after each session and before sleep"
+    },
+    {
+      "claim": "Early research shows ketones help limit muscle inflammation after your longest runs.",
+      "kind": "benefit",
+      "serving": "a little over one KenetikPro serving before the run, every hour during it and several times the day after"
     }
   ]
 }

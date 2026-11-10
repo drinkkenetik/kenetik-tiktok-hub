@@ -162,7 +162,7 @@
     <span style="font-size:13px;color:#8A8B95;">From our Brand Audit Library · Updated <span data-updated></span></span>
   </div>
   <h2 style="font-size:clamp(28px,3.4vw,42px);font-weight:700;line-height:1.08;margin:0 0 12px;max-width:24ch;">Big-brand teardowns, with the Kenetik spin.</h2>
-  <p style="font-size:17px;font-weight:300;color:#5A5B66;max-width:58ch;margin:0 0 40px;">The exact creative winning for the biggest shops on TikTok, what it earned, and a claims-safe way to run it for Kenetik. Borrow the format, never the claims.</p>
+  <p style="font-size:17px;font-weight:300;color:#5A5B66;max-width:58ch;margin:0 0 40px;">The exact creative winning for the biggest shops on TikTok, what it earned, and a way to run it for Kenetik. Borrow the format; what you can say about Kenetik is in <a href="#rules">the do's and don'ts</a>.</p>
   <div id="teardownsGrid" style="display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:16px;"></div>
 </section>
 
@@ -175,14 +175,14 @@
       <div class="card" style="padding:28px;"><div style="font-size:13px;font-weight:700;letter-spacing:.1em;text-transform:uppercase;color:#1F8A5B;margin-bottom:16px;">✓ Do</div><div id="dos"></div></div>
       <div class="card" style="padding:28px;"><div style="font-size:13px;font-weight:700;letter-spacing:.1em;text-transform:uppercase;color:#C0392B;margin-bottom:16px;">✕ Don't</div><div id="donts"></div></div>
     </div>
-  <div style="margin-top:clamp(30px,4vw,48px);"><div class="eyebrow" style="color:#FFE3D0;margin-bottom:8px;">Say this, not that</div><p style="font-size:15px;font-weight:300;line-height:1.55;color:#E5E1EE;max-width:62ch;margin:0 0 20px;">Keep every video claims-safe: speak from your own experience and the facts on the can. Never medical or results claims.</p><div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:16px;"><div class="card" style="padding:28px;"><div style="font-size:13px;font-weight:700;letter-spacing:.1em;text-transform:uppercase;color:#1F8A5B;margin-bottom:16px;">✓ Say this</div><div id="sayThis"></div></div><div class="card" style="padding:28px;"><div style="font-size:13px;font-weight:700;letter-spacing:.1em;text-transform:uppercase;color:#C0392B;margin-bottom:16px;">✕ Not that</div><div id="notThat"></div></div></div></div></div>
+  <div style="margin-top:clamp(30px,4vw,48px);"><div class="eyebrow" style="color:#FFE3D0;margin-bottom:8px;">Say this, not that</div><p id="claimsRule" style="font-size:15px;font-weight:300;line-height:1.55;color:#E5E1EE;max-width:62ch;margin:0 0 20px;"></p><div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:16px;"><div class="card" style="padding:28px;"><div style="font-size:13px;font-weight:700;letter-spacing:.1em;text-transform:uppercase;color:#1F8A5B;margin-bottom:16px;">✓ Say this</div><div id="sayThis"></div></div><div class="card" style="padding:28px;"><div style="font-size:13px;font-weight:700;letter-spacing:.1em;text-transform:uppercase;color:#C0392B;margin-bottom:16px;">✕ Not that</div><div id="notThat"></div></div></div></div></div>
 </section>
 
 <!-- CLIPS -->
 <section id="clips" class="wrap">
   <div class="eyebrow" style="color:#2E6BE6;margin-bottom:16px;">Clip archive</div>
   <h2 style="font-size:clamp(28px,3.4vw,42px);font-weight:700;line-height:1.08;margin:0 0 12px;max-width:24ch;">The tools to make powerful content.</h2>
-  <p style="font-size:17px;font-weight:300;color:#5A5B66;max-width:58ch;margin:0 0 40px;">A library you can duet, stitch, or cut over to boost your views. Keep claims clean and it's all yours to use.</p>
+  <p style="font-size:17px;font-weight:300;color:#5A5B66;max-width:58ch;margin:0 0 40px;">A library you can duet, stitch, or cut over to boost your views. It's all yours to use, and what you can say about Kenetik is in <a href="#rules">the do's and don'ts</a>.</p>
   <div id="clipsGrid" style="display:grid;grid-template-columns:repeat(auto-fit,minmax(250px,1fr));gap:16px;"></div>
 </section>
 
@@ -249,7 +249,7 @@
     <div style="font-weight:700;font-size:18px;color:#fff;margin-bottom:20px;">KENETIK</div>
     <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:20px;font-size:13px;line-height:1.6;margin-bottom:32px;">
       <div><b style="color:#EDE9F5;">Disclose your partnership.</b> Kenetik partner content must be marked as an ad or paid partnership (#ad).</div>
-      <div><b style="color:#EDE9F5;">Claims.</b> Kenetik statements are experiential and not medical claims. This product is not intended to diagnose, treat, cure, or prevent any disease.</div>
+      <div>This product is not intended to diagnose, treat, cure, or prevent any disease.</div>
     </div>
     <div style="display:flex;flex-wrap:wrap;gap:16px;justify-content:space-between;align-items:center;padding-top:24px;border-top:1px solid rgba(255,255,255,.1);font-size:12px;">
       <span>© 2026 Kenetik. Momentum for life.</span>
@@ -305,6 +305,8 @@ document.getElementById("liveVideos").innerHTML=(d.liveVideos||[]).map(function(
   document.getElementById("donts").innerHTML=(d.donts||[]).map(t=>li(t,"#C0392B")).join("");
   document.getElementById("sayThis").innerHTML=(d.sayThis||[]).map(t=>li(t,"#1F8A5B")).join("");
   document.getElementById("notThat").innerHTML=(d.notThat||[]).map(t=>li(t,"#C0392B")).join("");
+  // the claims rule in plain words, which the publish writes from the rule file and the proof file
+  document.getElementById("claimsRule").textContent=d.claims_rule||"";
   // clips
   document.getElementById("clipsGrid").innerHTML=(d.clips||[]).map(c=>`<div class="card" style="overflow:hidden;display:flex;flex-direction:column;"><div style="aspect-ratio:16/10;background:linear-gradient(150deg,#2A1846,#1E1230);position:relative;overflow:hidden;">${c.thumb?`<img src="${esc(c.thumb)}" alt="" loading="lazy" style="position:absolute;inset:0;width:100%;height:100%;object-fit:cover;"><div style="position:absolute;inset:0;background:linear-gradient(to top,rgba(11,7,20,.72),rgba(11,7,20,.12) 60%,rgba(11,7,20,.34));"></div>`:`<div style="position:absolute;inset:0;background:repeating-linear-gradient(115deg,rgba(255,255,255,.05) 0 2px,transparent 2px 24px);"></div>`}<div style="position:absolute;top:14px;left:14px;font-size:10px;font-weight:600;letter-spacing:.14em;text-transform:uppercase;color:#C9A9F0;">${esc(c.tag)}</div><div style="position:absolute;top:50%;left:50%;transform:translate(-50%,-50%);width:46px;height:46px;border-radius:999px;background:rgba(255,255,255,.12);border:1px solid rgba(255,255,255,.3);display:flex;align-items:center;justify-content:center;color:#fff;font-size:15px;">&#9654;</div></div><div style="padding:20px;display:flex;flex-direction:column;flex:1;"><div style="font-size:17px;font-weight:600;margin-bottom:8px;">${esc(c.title)}</div><div style="font-size:14px;font-weight:300;line-height:1.5;color:#5A5B66;flex:1;margin-bottom:18px;">${esc(c.desc)}</div><a href="${esc(c.href)}" ${String(c.href).startsWith("http")?'target="_blank" rel="noopener"':''} class="btn" style="background:#1E1230;color:#fff;padding:11px 18px;align-self:flex-start;">Browse clips</a></div></div>`).join("");
   // perks short

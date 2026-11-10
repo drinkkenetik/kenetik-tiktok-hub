@@ -116,6 +116,11 @@ details.howto[open] summary:after{content:"\2212";}
 .divider{height:0;margin:28px 0;}
 .roi{display:none;}
 .pk{color:var(--ink2);font-size:14.5px;line-height:1.5;margin:0 0 12px;}
+.pk.rule{margin-top:12px;}
+details.onfile{margin-top:4px;}
+details.onfile ul{margin:0 0 12px;padding-left:18px;}
+details.onfile li{font-size:14px;line-height:1.5;color:var(--ink2);padding:3px 0;}
+details.onfile .sv{color:var(--muted);font-size:13px;}
 
 /* video cards */
 .wins{display:grid;grid-template-columns:repeat(auto-fit,minmax(170px,1fr));gap:14px;}
@@ -371,6 +376,19 @@ function renderFormula(steps){
   }).join('') + '</div>';
 }
 
+/* Under a tab's own do's and don'ts: the claims rule in plain words, then the claims on file, folded. Both come from
+   the mirror (`claims_rule`, `claims_on_file`), which the publish writes from the rule file and the proof file, so the
+   store keeps no claims list of its own. */
+function renderClaims(){
+  var rule = DATA.claims_rule ? '<p class="pk rule">' + esc(DATA.claims_rule) + '</p>' : '';
+  var items = (DATA.claims_on_file || []).map(function(c){
+    return '<li>' + esc(c.claim) + (c.serving ? ' <span class="sv">' + esc('Serving: ' + c.serving) + '</span>' : '')
+      + '</li>';
+  });
+  return rule + (items.length ? '<details class="howto onfile"><summary>What we have proof for</summary><ul>'
+    + items.join('') + '</ul></details>' : '');
+}
+
 function renderPillar(side, pillar, fallback){
   var body;
   if(pillar && pillar.items){
@@ -541,8 +559,11 @@ function renderBlocks(tab, blocks, win){
           + renderFormula(b.steps != null ? b.steps : tab.formula) + '</details>';
       case 'hooks':
         return renderHooks(tab, b.hook_ids || []);
-      case 'twocol':
-        return '<div class="twocol">' + renderPillar('pos', b.pos, tab.dos) + renderPillar('neg', b.neg, tab.donts) + '</div>';
+      case 'twocol': {
+        var own = !(b.neg && (b.neg.items || typeof b.neg.text === 'string'));
+        return '<div class="twocol">' + renderPillar('pos', b.pos, tab.dos) + renderPillar('neg', b.neg, tab.donts) + '</div>'
+          + (own ? renderClaims() : '');
+      }
       case 'amber': {
         /* A clickable callout is reachable by keyboard as well as by pointer, the way the page
            already does it: a role, a tab stop, and Enter or Space opening the same tab. */
