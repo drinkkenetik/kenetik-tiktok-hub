@@ -12150,12 +12150,12 @@
         "how": "quoted from a video that sold inside the proof window"
       },
       "proof": {
-        "videos_made": 1,
-        "converting_videos": 1,
-        "distinct_creators": 1,
-        "revenue_usd": 111.95,
-        "as_of": "2026-10-19",
-        "how": "Counted from the videos whose spoken opening matched this line and were posted between 2026-09-22 and 2026-10-19. One creator so far."
+        "videos_made": "UNKNOWN",
+        "converting_videos": "UNKNOWN",
+        "distinct_creators": "UNKNOWN",
+        "revenue_usd": "UNKNOWN",
+        "as_of": "2026-11-09",
+        "how": "no video has been read against this line yet"
       },
       "rules": {
         "checked_on": "2026-11-01",
@@ -12178,12 +12178,12 @@
         "how": "quoted from a video that outsold a Top 10 card over the turn's window"
       },
       "proof": {
-        "videos_made": 1,
-        "converting_videos": 1,
-        "distinct_creators": 1,
-        "revenue_usd": 111.95,
-        "as_of": "2026-10-19",
-        "how": "Counted from the videos whose spoken opening matched this line and were posted between 2026-09-22 and 2026-10-19. One creator so far."
+        "videos_made": "UNKNOWN",
+        "converting_videos": "UNKNOWN",
+        "distinct_creators": "UNKNOWN",
+        "revenue_usd": "UNKNOWN",
+        "as_of": "2026-11-09",
+        "how": "no video has been read against this line yet"
       },
       "rules": {
         "checked_on": "2026-11-01",
@@ -21894,18 +21894,19 @@
         "how": "quoted from a video that sold inside the proof window"
       },
       "proof": {
-        "videos_made": "UNKNOWN",
-        "converting_videos": "UNKNOWN",
-        "distinct_creators": "UNKNOWN",
-        "revenue_usd": "UNKNOWN",
-        "as_of": "2026-11-08",
-        "how": "no video has been read against this line yet"
+        "videos_made": 1,
+        "converting_videos": 1,
+        "distinct_creators": 1,
+        "revenue_usd": 202.57,
+        "as_of": "2026-11-09",
+        "how": "Counted from the videos whose spoken opening matched this line and were posted between 2026-10-13 and 2026-11-09. One creator so far."
       },
       "rules": {
         "checked_on": "2026-11-08",
         "passed": true,
         "broken": []
-      }
+      },
+      "angle_id_proposed": "caffeine-stopped-working"
     },
     "h-0721": {
       "hook_id": "h-0721",
@@ -21921,18 +21922,19 @@
         "how": "quoted from a video that sold inside the proof window"
       },
       "proof": {
-        "videos_made": "UNKNOWN",
-        "converting_videos": "UNKNOWN",
-        "distinct_creators": "UNKNOWN",
-        "revenue_usd": "UNKNOWN",
-        "as_of": "2026-11-08",
-        "how": "no video has been read against this line yet"
+        "videos_made": 1,
+        "converting_videos": 1,
+        "distinct_creators": 1,
+        "revenue_usd": 125.73,
+        "as_of": "2026-11-09",
+        "how": "Counted from the videos whose spoken opening matched this line and were posted between 2026-10-13 and 2026-11-09. One creator so far."
       },
       "rules": {
         "checked_on": "2026-11-08",
         "passed": true,
         "broken": []
-      }
+      },
+      "angle_id_proposed": "unclassified"
     },
     "h-0722": {
       "hook_id": "h-0722",
@@ -21948,18 +21950,19 @@
         "how": "quoted from a video that outsold a Top 10 card over the turn's window"
       },
       "proof": {
-        "videos_made": "UNKNOWN",
-        "converting_videos": "UNKNOWN",
-        "distinct_creators": "UNKNOWN",
-        "revenue_usd": "UNKNOWN",
-        "as_of": "2026-11-08",
-        "how": "no video has been read against this line yet"
+        "videos_made": 1,
+        "converting_videos": 1,
+        "distinct_creators": 1,
+        "revenue_usd": 202.57,
+        "as_of": "2026-11-09",
+        "how": "Counted from the videos whose spoken opening matched this line and were posted between 2026-10-13 and 2026-11-09. One creator so far."
       },
       "rules": {
         "checked_on": "2026-11-08",
         "passed": true,
         "broken": []
-      }
+      },
+      "angle_id_proposed": "caffeine-stopped-working"
     },
     "h-0723": {
       "hook_id": "h-0723",
@@ -21975,18 +21978,19 @@
         "how": "quoted from a video that outsold a Top 10 card over the turn's window"
       },
       "proof": {
-        "videos_made": "UNKNOWN",
-        "converting_videos": "UNKNOWN",
-        "distinct_creators": "UNKNOWN",
-        "revenue_usd": "UNKNOWN",
-        "as_of": "2026-11-08",
-        "how": "no video has been read against this line yet"
+        "videos_made": 1,
+        "converting_videos": 1,
+        "distinct_creators": 1,
+        "revenue_usd": 125.73,
+        "as_of": "2026-11-09",
+        "how": "Counted from the videos whose spoken opening matched this line and were posted between 2026-10-13 and 2026-11-09. One creator so far."
       },
       "rules": {
         "checked_on": "2026-11-08",
         "passed": true,
         "broken": []
-      }
+      },
+      "angle_id_proposed": "unclassified"
     }
   },
   "tabs": [
