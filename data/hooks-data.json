@@ -2,7 +2,7 @@
   "schema_version": "1.0",
   "updated": "2026-11-08",
   "written_by": "scripts/hooks_hub_extract.py for the first write; since 2026-11-08 every write goes through scripts/hubs_writer.py: the Monday turn writes the machine fields from 7-2, the console writes decisions, and people write the editorial fields with its set, put and apply verbs",
-  "rules_version": "hooks-config@23a3129e · claims@e7aa8cad · reader@4bc1536f",
+  "rules_version": "hooks-config@23a3129e · claims@a267c02f · reader@4bc1536f",
   "footer": "Kenetik Creator Hub · Hook performance from our TikTok Shop and Meta ad campaigns, measured on each video's spoken opening line. Refreshed weekly. Figures are past performance and not a guarantee of what any individual video will earn.",
   "top_now": {
     "window": {
@@ -26449,148 +26449,6 @@
         "verified": "transcript",
         "how": "A creator said this line on one video that sold between 2026-10-12 and 2026-11-08, and no line on the hub matched it. It would take the place of the weakest line on this tab, which is there because no video has been read against it yet, and an unread line is the weakest a tab has."
       }
-    },
-    {
-      "kind": "hook_swap",
-      "tab": "top-10-now",
-      "in": "h-0722",
-      "out": "h-0275",
-      "owner": "nick",
-      "since": "2026-11-08",
-      "evidence": {
-        "in": {
-          "text": "Your not old, your brain just needs some help. I thought brain fog was just part of getting older, along with the fatigue, but I found out that what I was actually missing was what my brain wanted.",
-          "source": {
-            "kind": "quoted",
-            "creator": "7496079153193585388",
-            "euka_video_id": "7701186068984433950",
-            "video_url": "https://www.tiktok.com/@.outdoorsdad/video/7701186068984433950",
-            "verified_against": "transcript",
-            "verified_on": "2026-11-08",
-            "convention": "a line a creator said, taken from the transcript of this video rather than the caption under it",
-            "how": "quoted from a video that outsold a Top 10 card over the turn's window"
-          },
-          "proof": {
-            "converting_videos": "UNKNOWN",
-            "creators": "UNKNOWN",
-            "revenue_usd": 202.57,
-            "window": {
-              "start": "2026-08-11",
-              "end": "2026-11-08"
-            }
-          },
-          "rules": {
-            "passed": true,
-            "broken": [],
-            "how": "This line breaks no rule.",
-            "checked_on": "2026-11-08"
-          }
-        },
-        "out": {
-          "text": "“Myth vs. Fact. Energy = More Sugar.”",
-          "proof": {
-            "converting_videos": "UNKNOWN",
-            "revenue_usd": "UNKNOWN"
-          },
-          "why": "its video has no figure the turn can see, the least of the ten",
-          "position": 13,
-          "video_id": "7665147180268735775"
-        },
-        "card": {
-          "video_id": "7701186068984433950",
-          "url": "https://www.tiktok.com/@.outdoorsdad/video/7701186068984433950",
-          "image": "https://database.euka.ai/storage/v1/object/public/creator_videos_photos/7701186068984433950.webp",
-          "image_alt": "Creator video",
-          "tag": "",
-          "quote": "“Your not old, your brain just needs some help. I thought brain fog was just part of getting older, along with the fatigue, but I found out that what I was actually missing was what my brain wanted.”",
-          "handle": "@.outdoorsdad",
-          "figure": "$203",
-          "note": "TikTok Shop · 4 orders",
-          "sales": {
-            "figure": "$203",
-            "note": "TikTok Shop · 4 orders",
-            "source": "tiktok_shop",
-            "window": {
-              "start": "2026-08-11",
-              "end": "2026-11-08"
-            },
-            "as_of": "2026-11-08"
-          }
-        },
-        "verified": "transcript",
-        "how": "This video sold $203 on TikTok Shop over the turn's window and is not on the Top 10, which says it lists the ten videos that sold the most. It would take the place of the card whose video has no figure the turn can see. Approving it replaces the card and its line together; the card's short tag starts empty for you to write."
-      }
-    },
-    {
-      "kind": "hook_swap",
-      "tab": "top-10-now",
-      "in": "h-0695",
-      "out": "h-0273",
-      "owner": "nick",
-      "since": "2026-11-08",
-      "evidence": {
-        "in": {
-          "text": "I wouldn't dare crack open an energy drink this late in the day. But if you're a working class parent, then you know how bad you actually need some energy this late in the day.",
-          "source": {
-            "kind": "quoted",
-            "creator": "7494016372948042911",
-            "euka_video_id": "7700041087217421598",
-            "video_url": "https://www.tiktok.com/@thededicateddad/video/7700041087217421598",
-            "verified_against": "transcript",
-            "verified_on": "2026-10-25",
-            "convention": "a line a creator said, taken from the transcript of this video rather than the caption under it",
-            "how": "quoted from a video that outsold a Top 10 card over the turn's window"
-          },
-          "proof": {
-            "converting_videos": "UNKNOWN",
-            "creators": "UNKNOWN",
-            "revenue_usd": 150.13,
-            "window": {
-              "start": "2026-08-11",
-              "end": "2026-11-08"
-            }
-          },
-          "rules": {
-            "passed": true,
-            "broken": [],
-            "how": "This line breaks no rule.",
-            "checked_on": "2026-11-08"
-          }
-        },
-        "out": {
-          "text": "“POV: caffeine addicts anonymous meeting.”",
-          "proof": {
-            "converting_videos": "UNKNOWN",
-            "revenue_usd": "UNKNOWN"
-          },
-          "why": "its video has no figure the turn can see, the least of the ten",
-          "position": 2,
-          "video_id": "7667507988827016462"
-        },
-        "card": {
-          "video_id": "7700041087217421598",
-          "url": "https://www.tiktok.com/@thededicateddad/video/7700041087217421598",
-          "image": "https://database.euka.ai/storage/v1/object/public/creator_videos_photos/7700041087217421598.webp",
-          "image_alt": "Creator video",
-          "tag": "",
-          "quote": "“I wouldn't dare crack open an energy drink this late in the day. But if you're a working class parent, then you know how bad you actually need some energy this late in the day.”",
-          "handle": "@thededicateddad",
-          "figure": "$150",
-          "note": "TikTok Shop · 3 orders",
-          "sales": {
-            "figure": "$150",
-            "note": "TikTok Shop · 3 orders",
-            "source": "tiktok_shop",
-            "window": {
-              "start": "2026-08-11",
-              "end": "2026-11-08"
-            },
-            "as_of": "2026-11-08"
-          }
-        },
-        "verified": "transcript",
-        "how": "This video sold $150 on TikTok Shop over the turn's window and is not on the Top 10, which says it lists the ten videos that sold the most. It would take the place of the card whose video has no figure the turn can see. Approving it replaces the card and its line together; the card's short tag starts empty for you to write."
-      }
     }
   ],
   "decisions": [
@@ -31699,6 +31557,28 @@
       "reason": "This line says Kenetik IS \"energy drinks\" and \"energy drink\", and the category is metabolic brain fuel.",
       "by": "the turn",
       "at": "2026-11-10",
+      "owner": "nick"
+    },
+    {
+      "kind": "hook_swap",
+      "tab": "top-10-now",
+      "in": "h-0722",
+      "out": "h-0275",
+      "decision": "withdrawn",
+      "reason": "Another line on this tab is now weaker than the one it would replace, so today's figures don't raise this swap.",
+      "by": "the turn",
+      "at": "2026-11-09",
+      "owner": "nick"
+    },
+    {
+      "kind": "hook_swap",
+      "tab": "top-10-now",
+      "in": "h-0695",
+      "out": "h-0273",
+      "decision": "withdrawn",
+      "reason": "Another line on this tab is now weaker than the one it would replace, so today's figures don't raise this swap.",
+      "by": "the turn",
+      "at": "2026-11-09",
       "owner": "nick"
     }
   ],
