@@ -315,13 +315,24 @@ function cardWords(tab, src){
    A line a creator said carries their name, and its sales when we have them for this window.
    A line no video has sold off yet says Untested, never a zero, and invites the reader to be
    the first: the videos that sell are the ones this page features. */
+/* The name a reader knows the creator by. The turn records a quoted line's creator by their EUKA id (a run of
+   digits), which means nothing on the page; the handle is in the line's own video link, so show that instead. */
+function creatorName(src){
+  var who = String(src.creator || '');
+  if(/^\d+$/.test(who)){
+    var m = String(src.video_url || '').match(/tiktok\.com\/(@[^\/?#]+)/);
+    if(m) return m[1];
+  }
+  return who;
+}
+
 function badges(hook, tab){
   var src = hook.source || {};
   var proof = hook.proof || {};
   var out = [];
   var words = proofWords(proof) || cardWords(tab, src);
   if(src.kind === 'quoted'){
-    var who = src.creator ? ('Said by ' + src.creator) : 'Said out loud';
+    var who = src.creator ? ('Said by ' + creatorName(src)) : 'Said out loud';
     if(src.video_url){
       out.push('<a class="hbadge quoted" href="' + attr(src.video_url) + '" target="_blank" rel="noopener">' + esc(who) + '</a>');
     } else {
