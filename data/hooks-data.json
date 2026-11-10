@@ -2,7 +2,7 @@
   "schema_version": "1.0",
   "updated": "2026-11-08",
   "written_by": "scripts/hooks_hub_extract.py for the first write; since 2026-11-08 every write goes through scripts/hubs_writer.py: the Monday turn writes the machine fields from 7-2, the console writes decisions, and people write the editorial fields with its set, put and apply verbs",
-  "rules_version": "hooks-config@f3ab01a1 · claims@e7aa8cad · reader@4bc1536f",
+  "rules_version": "hooks-config@23a3129e · claims@e7aa8cad · reader@4bc1536f",
   "footer": "Kenetik Creator Hub · Hook performance from our TikTok Shop and Meta ad campaigns, measured on each video's spoken opening line. Refreshed weekly. Figures are past performance and not a guarantee of what any individual video will earn.",
   "top_now": {
     "window": {
@@ -8007,9 +8007,11 @@
         "how": "no video has been read against this line yet"
       },
       "rules": {
-        "checked_on": "2026-11-01",
-        "passed": true,
-        "broken": []
+        "checked_on": "2026-11-10",
+        "passed": false,
+        "broken": [
+          "off_category_identity"
+        ]
       },
       "angle_id_proposed": "what-it-is"
     },
@@ -21930,9 +21932,11 @@
         "how": "Counted from the videos whose spoken opening matched this line and were posted between 2026-10-13 and 2026-11-09. One creator so far."
       },
       "rules": {
-        "checked_on": "2026-11-08",
-        "passed": true,
-        "broken": []
+        "checked_on": "2026-11-10",
+        "passed": false,
+        "broken": [
+          "off_category_identity"
+        ]
       },
       "angle_id_proposed": "unclassified"
     },
@@ -21986,9 +21990,11 @@
         "how": "Counted from the videos whose spoken opening matched this line and were posted between 2026-10-13 and 2026-11-09. One creator so far."
       },
       "rules": {
-        "checked_on": "2026-11-08",
-        "passed": true,
-        "broken": []
+        "checked_on": "2026-11-10",
+        "passed": false,
+        "broken": [
+          "off_category_identity"
+        ]
       },
       "angle_id_proposed": "unclassified"
     }
@@ -26446,54 +26452,6 @@
     },
     {
       "kind": "hook_swap",
-      "tab": "general",
-      "in": "h-0721",
-      "out": "h-0010",
-      "owner": "nick",
-      "since": "2026-11-08",
-      "evidence": {
-        "in": {
-          "text": "Yo, check these out! Guess what I got sent. These amazing energy drinks and I'm super excited to try. This energy drink gives from Kenetik and I'm really impressed on how it looks and feels.",
-          "source": {
-            "kind": "quoted",
-            "creator": "7494213206184986295",
-            "euka_video_id": "7704429290510699789",
-            "video_url": "https://www.tiktok.com/@robot_drinker/video/7704429290510699789",
-            "verified_against": "transcript",
-            "verified_on": "2026-11-08",
-            "convention": "a line a creator said, taken from the transcript of this video rather than the caption under it",
-            "how": "quoted from a video that sold inside the proof window"
-          },
-          "proof": {
-            "converting_videos": 1,
-            "creators": 1,
-            "revenue_usd": 125.73,
-            "window": {
-              "start": "2026-10-12",
-              "end": "2026-11-08"
-            }
-          },
-          "rules": {
-            "passed": true,
-            "broken": [],
-            "how": "This line breaks no rule.",
-            "checked_on": "2026-11-08"
-          }
-        },
-        "out": {
-          "text": "“I used to run on three coffees before noon. I stopped, and this is the only reason it stuck.”",
-          "proof": {
-            "converting_videos": "UNKNOWN"
-          },
-          "why": "no video has been read against it yet, and an unread line is the weakest a tab has",
-          "position": 5
-        },
-        "verified": "transcript",
-        "how": "A creator said this line on one video that sold between 2026-10-12 and 2026-11-08, and no line on the hub matched it. It would take the place of the weakest line on this tab, which is there because no video has been read against it yet, and an unread line is the weakest a tab has."
-      }
-    },
-    {
-      "kind": "hook_swap",
       "tab": "top-10-now",
       "in": "h-0722",
       "out": "h-0275",
@@ -26632,77 +26590,6 @@
         },
         "verified": "transcript",
         "how": "This video sold $150 on TikTok Shop over the turn's window and is not on the Top 10, which says it lists the ten videos that sold the most. It would take the place of the card whose video has no figure the turn can see. Approving it replaces the card and its line together; the card's short tag starts empty for you to write."
-      }
-    },
-    {
-      "kind": "hook_swap",
-      "tab": "top-10-now",
-      "in": "h-0723",
-      "out": "h-0271",
-      "owner": "nick",
-      "since": "2026-11-08",
-      "evidence": {
-        "in": {
-          "text": "Yo, check these out! Guess what I got sent. These amazing energy drinks and I'm super excited to try. This energy drink gives from Kenetik and I'm really impressed on how it looks and feels.",
-          "source": {
-            "kind": "quoted",
-            "creator": "7494213206184986295",
-            "euka_video_id": "7704429290510699789",
-            "video_url": "https://www.tiktok.com/@robot_drinker/video/7704429290510699789",
-            "verified_against": "transcript",
-            "verified_on": "2026-11-08",
-            "convention": "a line a creator said, taken from the transcript of this video rather than the caption under it",
-            "how": "quoted from a video that outsold a Top 10 card over the turn's window"
-          },
-          "proof": {
-            "converting_videos": "UNKNOWN",
-            "creators": "UNKNOWN",
-            "revenue_usd": 125.73,
-            "window": {
-              "start": "2026-08-11",
-              "end": "2026-11-08"
-            }
-          },
-          "rules": {
-            "passed": true,
-            "broken": [],
-            "how": "This line breaks no rule.",
-            "checked_on": "2026-11-08"
-          }
-        },
-        "out": {
-          "text": "“Not six, not twelve, you get 24!”",
-          "proof": {
-            "converting_videos": "UNKNOWN",
-            "revenue_usd": "UNKNOWN"
-          },
-          "why": "its video has no figure the turn can see, the least of the ten",
-          "position": 0,
-          "video_id": "7665560221292465439"
-        },
-        "card": {
-          "video_id": "7704429290510699789",
-          "url": "https://www.tiktok.com/@robot_drinker/video/7704429290510699789",
-          "image": "https://database.euka.ai/storage/v1/object/public/creator_videos_photos/7704429290510699789.webp",
-          "image_alt": "Creator video",
-          "tag": "",
-          "quote": "“Yo, check these out! Guess what I got sent. These amazing energy drinks and I'm super excited to try. This energy drink gives from Kenetix and I'm really impressed on how it looks and feels.”",
-          "handle": "@robot_drinker",
-          "figure": "$126",
-          "note": "TikTok Shop · 2 orders",
-          "sales": {
-            "figure": "$126",
-            "note": "TikTok Shop · 2 orders",
-            "source": "tiktok_shop",
-            "window": {
-              "start": "2026-08-11",
-              "end": "2026-11-08"
-            },
-            "as_of": "2026-11-08"
-          }
-        },
-        "verified": "transcript",
-        "how": "This video sold $126 on TikTok Shop over the turn's window and is not on the Top 10, which says it lists the ten videos that sold the most. It would take the place of the card whose video has no figure the turn can see. Approving it replaces the card and its line together; the card's short tag starts empty for you to write."
       }
     }
   ],
@@ -31791,6 +31678,28 @@
       "by": "the turn",
       "at": "2026-11-08",
       "owner": "nick"
+    },
+    {
+      "kind": "hook_swap",
+      "tab": "general",
+      "in": "h-0721",
+      "out": "h-0010",
+      "decision": "withdrawn",
+      "reason": "This line says Kenetik IS \"energy drinks\" and \"energy drink\", and the category is metabolic brain fuel.",
+      "by": "the turn",
+      "at": "2026-11-10",
+      "owner": "nick"
+    },
+    {
+      "kind": "hook_swap",
+      "tab": "top-10-now",
+      "in": "h-0723",
+      "out": "h-0271",
+      "decision": "withdrawn",
+      "reason": "This line says Kenetik IS \"energy drinks\" and \"energy drink\", and the category is metabolic brain fuel.",
+      "by": "the turn",
+      "at": "2026-11-10",
+      "owner": "nick"
     }
   ],
   "grandfathered": [
@@ -32201,6 +32110,30 @@
       "rule": "legal_line",
       "since": "2026-11-01",
       "note": "a sugar absolute already live when the claims rule reached the hub (Devon, 2026-11-01: a hub line is new copy); Katie and Nick replace the wording, and removing this row turns the rule back on for it"
+    },
+    {
+      "where": "hooks.h-0721.text",
+      "rule": "off_category_identity",
+      "since": "2026-11-10",
+      "note": "never live: a creator's line the 2026-11-08 turn proposed while off_category_identity read only a cue ahead of the term, withdrawn on 2026-11-10 when the rule learned to read a sentence that opens on 'These amazing energy drinks' and 'energy drink ... from Kenetik'. It sits on no tab and the proposal step refuses it, but this row excuses its text wherever it is put, so a hand placement removes the row first; removing it turns the rule back on for it"
+    },
+    {
+      "where": "hooks.h-0723.text",
+      "rule": "off_category_identity",
+      "since": "2026-11-10",
+      "note": "never live: a creator's line the 2026-11-08 turn proposed while off_category_identity read only a cue ahead of the term, withdrawn on 2026-11-10 when the rule learned to read a sentence that opens on 'These amazing energy drinks' and 'energy drink ... from Kenetik'. It sits on no tab and the proposal step refuses it, but this row excuses its text wherever it is put, so a hand placement removes the row first; removing it turns the rule back on for it"
+    },
+    {
+      "where": "hooks.h-0297.text",
+      "rule": "off_category_identity",
+      "since": "2026-11-10",
+      "note": "already in the library when off_category_identity learned, on 2026-11-10, to read a sentence that opens on 'This energy drink'. It sits on no tab, but its words are the Top 10 Now card quote grandfathered beside it. Nick's ask (subject hooks.h-0297, outbox 20261110T174744Z) decides the wording; removing this row turns the rule back on for it"
+    },
+    {
+      "where": "tabs.top-10-now.layout[5].items[14].quote",
+      "rule": "off_category_identity",
+      "since": "2026-11-10",
+      "note": "already live on Top 10 Now when off_category_identity learned, on 2026-11-10, to read a sentence that opens on 'This energy drink': the card quotes h-0297. The quote is Nick's card copy; his ask (subject hooks.h-0297, outbox 20261110T174744Z) decides it, and removing this row turns the rule back on for it"
     }
   ],
   "start_here": {
