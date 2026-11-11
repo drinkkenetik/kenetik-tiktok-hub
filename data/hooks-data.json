@@ -26342,56 +26342,7 @@
       ]
     }
   ],
-  "changes_pending": [
-    {
-      "kind": "hook_swap",
-      "tab": "top-3",
-      "in": "h-0720",
-      "out": "h-0281",
-      "owner": "nick",
-      "since": "2026-11-08",
-      "evidence": {
-        "in": {
-          "text": "Your not old, your brain just needs some help. I thought brain fog was just part of getting older, along with the fatigue, but I found out that what I was actually missing was what my brain wanted.",
-          "source": {
-            "kind": "quoted",
-            "creator": "7496079153193585388",
-            "euka_video_id": "7701186068984433950",
-            "video_url": "https://www.tiktok.com/@.outdoorsdad/video/7701186068984433950",
-            "verified_against": "transcript",
-            "verified_on": "2026-11-08",
-            "convention": "a line a creator said, taken from the transcript of this video rather than the caption under it",
-            "how": "quoted from a video that sold inside the proof window"
-          },
-          "proof": {
-            "converting_videos": 1,
-            "creators": 1,
-            "revenue_usd": 202.57,
-            "window": {
-              "start": "2026-10-12",
-              "end": "2026-11-08"
-            }
-          },
-          "rules": {
-            "passed": true,
-            "broken": [],
-            "how": "This line breaks no rule.",
-            "checked_on": "2026-11-08"
-          }
-        },
-        "out": {
-          "text": "“It’s really early, we’re getting ready for the day, and my body doesn’t want caffeine. It wants brain fuel.”",
-          "proof": {
-            "converting_videos": "UNKNOWN"
-          },
-          "why": "no video has been read against it yet, and an unread line is the weakest a tab has",
-          "position": 7
-        },
-        "verified": "transcript",
-        "how": "A creator said this line on one video that sold between 2026-10-12 and 2026-11-08, and no line on the hub matched it. It would take the place of the weakest line on this tab, which is there because no video has been read against it yet, and an unread line is the weakest a tab has."
-      }
-    }
-  ],
+  "changes_pending": [],
   "decisions": [
     {
       "kind": "hook_swap",
@@ -31520,6 +31471,17 @@
       "reason": "Another line on this tab is now weaker than the one it would replace, so today's figures don't raise this swap.",
       "by": "the turn",
       "at": "2026-11-09",
+      "owner": "nick"
+    },
+    {
+      "kind": "hook_swap",
+      "tab": "top-3",
+      "in": "h-0720",
+      "out": "h-0281",
+      "decision": "withdrawn",
+      "reason": "Today's run can't read any line on this tab, and a figure nobody read is never the weakest, so today's figures don't raise this swap.",
+      "by": "the turn",
+      "at": "2026-11-10",
       "owner": "nick"
     }
   ],
