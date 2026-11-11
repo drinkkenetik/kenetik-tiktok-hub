@@ -59,7 +59,7 @@ h1{font-size:30px;}.big{font-size:22px;padding:20px;}.twocol{flex-direction:colu
 <div class="eyebrow">Do's and don'ts</div><div class="twocol">
 <div class="pillar pos"><h4>Do</h4><ul><li>Talk about how and when you really drink it.</li><li>Say <b>caffeine-free</b> first, then ketones if it comes up.</li><li>Keep it short. One real moment beats a list of features.</li></ul></div>
 <div class="pillar neg"><h4>Don't</h4><ul><li>Call it an energy drink. It's caffeine-free brain fuel.</li><li>Read it off a page. Tell it from how you actually use it.</li></ul></div>
-</div><p class="rule"><span class="lbl">Claims</span><span id="claims-rule"><a class="lnk" href="/hooks/#start-here">See what you can claim, on the hooks page</a></span></p>
-<script>fetch('../data/hooks-data.json',{cache:'no-cache'}).then(function(r){if(!r.ok)throw new Error(r.status);return r.json();}).then(function(d){var t=d&&d.claims_rule;if(typeof t==='string'&&t){document.getElementById('claims-rule').textContent=t;}}).catch(function(){});</script>
+</div><p class="rule"><span class="lbl">Claims</span><span id="claims-rule"></span><a class="lnk" href="/hooks/#start-here">See what you can claim, on the hooks page</a></p>
+<script>fetch('../data/hooks-data.json',{cache:'no-cache'}).then(function(r){if(!r.ok)throw new Error(r.status);return r.json();}).then(function(d){var t=d&&d.claims_rule;if(typeof t==='string'&&t){document.getElementById('claims-rule').textContent=t+' ';}}).catch(function(){});</script>
 <div class="recap"><h3>The bottom line</h3><p><b>Next time you would reach for an afternoon coffee or energy drink, grab a Kenetik.</b> If listeners remember one thing, that is it: caffeine-free afternoon focus, without messing with your sleep. How you say it is up to you.</p></div>
 </main></body></html>

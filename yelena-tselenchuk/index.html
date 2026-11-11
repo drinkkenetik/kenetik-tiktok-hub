@@ -82,7 +82,7 @@ h1{font-size:30px;}.big{font-size:22px;padding:20px;}.twocol{flex-direction:colu
 <div class="eyebrow">Do's and don'ts</div><div class="twocol">
 <div class="pillar pos"><h4>Do</h4><ul><li>Say <b>brain fuel</b> once.</li><li>Lead with your practitioner's eye and the label.</li><li>Answer the questions your groups actually ask.</li><li>Keep it to your own experience and what's in the can.</li></ul></div>
 <div class="pillar neg"><h4>Don't</h4><ul><li>Call it an energy drink (you're contrasting against them).</li><li>Open with caffeine or ketones.</li><li>Over-produce it.</li><li>Cram everything into the opener.</li></ul></div>
-</div><p class="rule"><span class="lbl">Claims</span><span id="claims-rule"><a class="lnk" href="/hooks/#start-here">See what you can claim, on the hooks page</a></span></p>
-<script>fetch('../data/hooks-data.json',{cache:'no-cache'}).then(function(r){if(!r.ok)throw new Error(r.status);return r.json();}).then(function(d){var t=d&&d.claims_rule;if(typeof t==='string'&&t){document.getElementById('claims-rule').textContent=t;}}).catch(function(){});</script>
+</div><p class="rule"><span class="lbl">Claims</span><span id="claims-rule"></span><a class="lnk" href="/hooks/#start-here">See what you can claim, on the hooks page</a></p>
+<script>fetch('../data/hooks-data.json',{cache:'no-cache'}).then(function(r){if(!r.ok)throw new Error(r.status);return r.json();}).then(function(d){var t=d&&d.claims_rule;if(typeof t==='string'&&t){document.getElementById('claims-rule').textContent=t+' ';}}).catch(function(){});</script>
 <div class="recap"><h3>The bottom line</h3><p>Your lane is the practitioner who reads the label first and shares what she actually drinks: caffeine-free <b>brain fuel</b>. Answer your group's questions, show the label, and keep it to your own experience.</p></div>
 </main></body></html>
