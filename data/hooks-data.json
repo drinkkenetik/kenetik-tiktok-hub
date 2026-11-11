@@ -2,7 +2,7 @@
   "schema_version": "1.0",
   "updated": "2026-11-08",
   "written_by": "scripts/hooks_hub_extract.py for the first write; since 2026-11-08 every write goes through scripts/hubs_writer.py: the Monday turn writes the machine fields from 7-2, the console writes decisions, and people write the editorial fields with its set, put and apply verbs",
-  "rules_version": "hooks-config@23a3129e · claims@a267c02f · reader@4bc1536f",
+  "rules_version": "hooks-config@23a3129e · claims@c6fc20f7 · reader@4bc1536f",
   "footer": "Kenetik Creator Hub · Hook performance from our TikTok Shop and Meta ad campaigns, measured on each video's spoken opening line. Refreshed weekly. Figures are past performance and not a guarantee of what any individual video will earn.",
   "top_now": {
     "window": {
