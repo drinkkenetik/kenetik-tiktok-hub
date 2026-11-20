@@ -32559,7 +32559,7 @@
     "composed": 262,
     "attribution_convention_found": "an a.hsrc link in a hook's meta line, carrying the creator's handle and their TikTok video URL; every unmarked line is recorded as composed"
   },
-  "claims_rule": "Say what Kenetik does in your own words, but only a benefit we have proof for. A safety claim is said only in the words we have on file. Never say it treats, cures or prevents a disease or condition. We have no proof on file yet for “Clinically proven focus”, “sugar-free”, “0g sugar” or “Safe for kids”, so don't say them.",
+  "claims_rule": "Say what Kenetik does in your own words, but only a benefit we have proof for. A claim marked early evidence (graded Emerging) is said as early evidence, in your own words. A safety claim is said only in the words we have on file. Never say it treats, cures or prevents a disease or condition. We have no proof on file yet for “Clinically proven focus”, “sugar-free”, “0g sugar” or “Safe for kids”, so don't say them.",
   "claims_on_file": [
     {
       "claim": "A can carries 12 g of ketones.",
@@ -32599,252 +32599,302 @@
     {
       "claim": "Ketones help keep your blood oxygen up in thin air.",
       "kind": "benefit",
-      "serving": "with KenetikPro"
+      "serving": "with KenetikPro",
+      "grade": "Strong"
     },
     {
-      "claim": "Early research shows ketones help keep your brain oxygenated in thin air.",
+      "claim": "Ketones help keep your brain oxygenated in thin air.",
       "kind": "benefit",
-      "serving": "with KenetikPro, repeated through the day"
+      "serving": "with KenetikPro, repeated through the day",
+      "grade": "Emerging"
     },
     {
-      "claim": "Early research shows ketones help hold your thinking when the air is thin.",
+      "claim": "Ketones help hold your thinking when the air is thin.",
       "kind": "benefit",
-      "serving": "two or more KenetikPro servings"
+      "serving": "two or more KenetikPro servings",
+      "grade": "Emerging"
     },
     {
-      "claim": "Early research shows ketones raise erythropoietin, the signal to make red blood cells, over weeks of daily use.",
+      "claim": "Ketones raise erythropoietin, the signal to make red blood cells, over weeks of daily use.",
       "kind": "benefit",
-      "serving": "with KenetikPro daily"
+      "serving": "with KenetikPro daily",
+      "grade": "Emerging"
     },
     {
-      "claim": "Early research shows ketones ease hunger for a few hours.",
+      "claim": "Ketones ease hunger for a few hours.",
       "kind": "benefit",
-      "serving": "one to two KenetikPro servings"
+      "serving": "one to two KenetikPro servings",
+      "grade": "Emerging"
     },
     {
       "claim": "Ketones fuel your brain.",
       "kind": "benefit",
-      "serving": ""
+      "serving": "",
+      "grade": "Established"
     },
     {
       "claim": "Ketones help your brain save glucose.",
       "kind": "benefit",
-      "serving": "with KenetikPro"
+      "serving": "with KenetikPro",
+      "grade": "Strong"
     },
     {
       "claim": "Ketones change how blood flows to your brain.",
       "kind": "benefit",
-      "serving": "with KenetikPro"
+      "serving": "with KenetikPro",
+      "grade": "Strong"
     },
     {
-      "claim": "Early research shows daily ketones raise blood flow to your brain.",
+      "claim": "Daily ketones raise blood flow to your brain.",
       "kind": "benefit",
-      "serving": "three servings a day"
+      "serving": "three servings a day",
+      "grade": "Emerging"
     },
     {
-      "claim": "Early research shows ketones help keep your brain oxygenated at high altitude.",
+      "claim": "Ketones help keep your brain oxygenated at high altitude.",
       "kind": "benefit",
-      "serving": "with KenetikPro, repeated through the day"
+      "serving": "with KenetikPro, repeated through the day",
+      "grade": "Emerging"
     },
     {
       "claim": "Ketones help steady your brain's networks.",
       "kind": "benefit",
-      "serving": "with KenetikPro"
+      "serving": "with KenetikPro",
+      "grade": "Strong"
     },
     {
-      "claim": "Early research shows ketones shift your brain's chemical messengers.",
+      "claim": "Ketones shift your brain's chemical messengers.",
       "kind": "benefit",
-      "serving": "with KenetikPro"
+      "serving": "with KenetikPro",
+      "grade": "Emerging"
     },
     {
-      "claim": "Early research shows daily ketones give your brain more fuel.",
+      "claim": "Daily ketones give your brain more fuel.",
       "kind": "benefit",
-      "serving": "two servings a day"
+      "serving": "two servings a day",
+      "grade": "Emerging"
     },
     {
-      "claim": "Early research shows ketones give your thinking a small lift.",
+      "claim": "Ketones give your thinking a small lift.",
       "kind": "benefit",
-      "serving": "with KenetikPro"
+      "serving": "with KenetikPro",
+      "grade": "Emerging"
     },
     {
-      "claim": "Early research shows ketones help fuel your brain when blood sugar runs low.",
+      "claim": "Ketones help fuel your brain when blood sugar runs low.",
       "kind": "benefit",
-      "serving": ""
+      "serving": "",
+      "grade": "Emerging"
     },
     {
-      "claim": "Early research shows ketones help hold your thinking when the air is thin.",
+      "claim": "Ketones help hold your thinking when the air is thin.",
       "kind": "benefit",
-      "serving": "two or more KenetikPro servings"
+      "serving": "two or more KenetikPro servings",
+      "grade": "Emerging"
     },
     {
-      "claim": "Early research shows ketones help hold your focus when you're short on sleep.",
+      "claim": "Ketones help hold your focus when you're short on sleep.",
       "kind": "benefit",
-      "serving": ""
+      "serving": "",
+      "grade": "Emerging"
     },
     {
-      "claim": "Early research shows your body burns ketones for energy in place of carbs.",
+      "claim": "Your body burns ketones for energy in place of carbs.",
       "kind": "benefit",
-      "serving": ""
+      "serving": "",
+      "grade": "Emerging"
     },
     {
       "claim": "Ketones raise your blood ketones just as well day after day.",
       "kind": "benefit",
-      "serving": ""
+      "serving": "",
+      "grade": "Strong"
     },
     {
       "claim": "Lowers blood sugar on an empty stomach.",
       "kind": "benefit",
-      "serving": ""
+      "serving": "",
+      "grade": "Established"
     },
     {
-      "claim": "Early research shows it lowers blood sugar with little extra insulin.",
+      "claim": "It lowers blood sugar with little extra insulin.",
       "kind": "benefit",
-      "serving": ""
+      "serving": "",
+      "grade": "Emerging"
     },
     {
       "claim": "Helps the liver release less sugar into the blood.",
       "kind": "benefit",
-      "serving": ""
+      "serving": "",
+      "grade": "Strong"
     },
     {
       "claim": "Slows the release of stored fat into the blood.",
       "kind": "benefit",
-      "serving": ""
+      "serving": "",
+      "grade": "Established"
     },
     {
-      "claim": "Early research shows it slows how fast sugar from a meal enters your blood.",
+      "claim": "It slows how fast sugar from a meal enters your blood.",
       "kind": "benefit",
-      "serving": "two KenetikPro servings"
+      "serving": "two KenetikPro servings",
+      "grade": "Emerging"
     },
     {
-      "claim": "Early research shows it softens the blood sugar rise from a meal when you drink it first.",
+      "claim": "It softens the blood sugar rise from a meal when you drink it first.",
       "kind": "benefit",
-      "serving": "two KenetikPro servings"
+      "serving": "two KenetikPro servings",
+      "grade": "Emerging"
     },
     {
       "claim": "Lowers blood sugar, fasting or after a sugary drink.",
       "kind": "benefit",
-      "serving": "two KenetikPro servings"
+      "serving": "two KenetikPro servings",
+      "grade": "Strong"
     },
     {
-      "claim": "Early research shows it lowers the blood sugar rise after a meal when you drink it half an hour before.",
+      "claim": "It lowers the blood sugar rise after a meal when you drink it half an hour before.",
       "kind": "benefit",
-      "serving": "two KenetikPro servings"
+      "serving": "two KenetikPro servings",
+      "grade": "Emerging"
     },
     {
       "claim": "Keeps blood sugar lower during and after exercise.",
       "kind": "benefit",
-      "serving": ""
+      "serving": "",
+      "grade": "Strong"
     },
     {
-      "claim": "Early research shows it helps fuel your brain when blood sugar runs low.",
+      "claim": "It helps fuel your brain when blood sugar runs low.",
       "kind": "benefit",
-      "serving": "with KenetikPro"
+      "serving": "with KenetikPro",
+      "grade": "Emerging"
     },
     {
       "claim": "Raises how much blood your heart pumps at rest.",
       "kind": "benefit",
-      "serving": "with KenetikPro"
+      "serving": "with KenetikPro",
+      "grade": "Strong"
     },
     {
-      "claim": "Early research shows it helps your blood vessels widen.",
+      "claim": "It helps your blood vessels widen.",
       "kind": "benefit",
-      "serving": "one can before each meal"
+      "serving": "one can before each meal",
+      "grade": "Emerging"
     },
     {
-      "claim": "Early research shows your heart takes up ketones for fuel.",
+      "claim": "Your heart takes up ketones for fuel.",
       "kind": "benefit",
-      "serving": "with KenetikPro"
+      "serving": "with KenetikPro",
+      "grade": "Emerging"
     },
     {
-      "claim": "Early research shows ketones help limit muscle inflammation after your longest runs.",
+      "claim": "Ketones help limit muscle inflammation after your longest runs.",
       "kind": "benefit",
-      "serving": "a little over one KenetikPro serving before the run, every hour during it and several times the day after"
+      "serving": "a little over one KenetikPro serving before the run, every hour during it and several times the day after",
+      "grade": "Emerging"
     },
     {
-      "claim": "Early research shows ketones leave a tag on your immune cells' proteins.",
+      "claim": "Ketones leave a tag on your immune cells' proteins.",
       "kind": "benefit",
-      "serving": "about two and a half KenetikPro servings at once"
+      "serving": "about two and a half KenetikPro servings at once",
+      "grade": "Emerging"
     },
     {
-      "claim": "Early research shows ketones act as a signal in your muscles and fat, not only a fuel.",
+      "claim": "Ketones act as a signal in your muscles and fat, not only a fuel.",
       "kind": "benefit",
-      "serving": "with KenetikPro, repeated over a few hours"
+      "serving": "with KenetikPro, repeated over a few hours",
+      "grade": "Emerging"
     },
     {
-      "claim": "Early research shows ketones help lift your mood under mental strain.",
+      "claim": "Ketones help lift your mood under mental strain.",
       "kind": "benefit",
-      "serving": ""
+      "serving": "",
+      "grade": "Emerging"
     },
     {
-      "claim": "Early research shows ketones after hard training help your muscles adapt.",
+      "claim": "Ketones after hard training help your muscles adapt.",
       "kind": "benefit",
-      "serving": "about two cans, or more than one KenetikPro serving, after each session and before sleep"
+      "serving": "about two cans, or more than one KenetikPro serving, after each session and before sleep",
+      "grade": "Emerging"
     },
     {
-      "claim": "Early research shows daily ketones give your brain more fuel.",
+      "claim": "Daily ketones give your brain more fuel.",
       "kind": "benefit",
-      "serving": "two servings a day"
+      "serving": "two servings a day",
+      "grade": "Emerging"
     },
     {
-      "claim": "Early research shows ketones can be taken through long rides without upsetting your stomach.",
+      "claim": "Ketones can be taken through long rides without upsetting your stomach.",
       "kind": "benefit",
-      "serving": "up to about three KenetikPro servings across a 3-hour ride, with carbohydrate"
+      "serving": "up to about three KenetikPro servings across a 3-hour ride, with carbohydrate",
+      "grade": "Emerging"
     },
     {
       "claim": "Ketones are easy on the stomach at an everyday serving.",
       "kind": "safety",
-      "serving": ""
+      "serving": "",
+      "grade": "Strong"
     },
     {
-      "claim": "Early research shows ketones help protect REM sleep after your hardest training days.",
+      "claim": "Ketones help protect REM sleep after your hardest training days.",
       "kind": "benefit",
-      "serving": "with KenetikPro after each session and before bed"
+      "serving": "with KenetikPro after each session and before bed",
+      "grade": "Emerging"
     },
     {
-      "claim": "Early research shows ketones help you get more deep sleep on short nights.",
+      "claim": "Ketones help you get more deep sleep on short nights.",
       "kind": "benefit",
-      "serving": ""
+      "serving": "",
+      "grade": "Emerging"
     },
     {
-      "claim": "Early research shows ketones help hold your thinking when the air is thin.",
+      "claim": "Ketones help hold your thinking when the air is thin.",
       "kind": "benefit",
-      "serving": "two or more KenetikPro servings"
+      "serving": "two or more KenetikPro servings",
+      "grade": "Emerging"
     },
     {
       "claim": "Ketones help keep your blood oxygen up in thin air.",
       "kind": "benefit",
-      "serving": "with KenetikPro"
+      "serving": "with KenetikPro",
+      "grade": "Strong"
     },
     {
-      "claim": "Early research shows ketones help you get more deep sleep on short nights.",
+      "claim": "Ketones help you get more deep sleep on short nights.",
       "kind": "benefit",
-      "serving": ""
+      "serving": "",
+      "grade": "Emerging"
     },
     {
-      "claim": "Early research shows ketones help fuel your brain when blood sugar runs low.",
+      "claim": "Ketones help fuel your brain when blood sugar runs low.",
       "kind": "benefit",
-      "serving": ""
+      "serving": "",
+      "grade": "Emerging"
     },
     {
-      "claim": "Early research shows ketones help hold your thinking through demanding mental work.",
+      "claim": "Ketones help hold your thinking through demanding mental work.",
       "kind": "benefit",
-      "serving": ""
+      "serving": "",
+      "grade": "Emerging"
     },
     {
-      "claim": "Early research shows ketones help protect REM sleep after your hardest training days.",
+      "claim": "Ketones help protect REM sleep after your hardest training days.",
       "kind": "benefit",
-      "serving": "with KenetikPro after each session and before bed"
+      "serving": "with KenetikPro after each session and before bed",
+      "grade": "Emerging"
     },
     {
-      "claim": "Early research shows ketones after hard training help your muscles adapt.",
+      "claim": "Ketones after hard training help your muscles adapt.",
       "kind": "benefit",
-      "serving": "about two cans, or more than one KenetikPro serving, after each session and before sleep"
+      "serving": "about two cans, or more than one KenetikPro serving, after each session and before sleep",
+      "grade": "Emerging"
     },
     {
-      "claim": "Early research shows ketones help limit muscle inflammation after your longest runs.",
+      "claim": "Ketones help limit muscle inflammation after your longest runs.",
       "kind": "benefit",
-      "serving": "a little over one KenetikPro serving before the run, every hour during it and several times the day after"
+      "serving": "a little over one KenetikPro serving before the run, every hour during it and several times the day after",
+      "grade": "Emerging"
     }
   ]
 }
