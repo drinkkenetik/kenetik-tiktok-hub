@@ -384,7 +384,7 @@ function renderClaims(){
   var rule = DATA.claims_rule ? '<p class="pk rule">' + esc(DATA.claims_rule) + '</p>' : '';
   var items = (DATA.claims_on_file || []).map(function(c){
     return '<li>' + esc(c.claim) + (c.grade === 'Emerging' ? ' <span class="sv">Early evidence</span>' : '')
-      + (c.serving ? ' <span class="sv">' + esc('Serving: ' + c.serving) + '</span>' : '') + '</li>';
+      + '</li>';
   });
   return rule + (items.length ? '<details class="howto onfile"><summary>What we have proof for</summary><ul>'
     + items.join('') + '</ul></details>' : '');
