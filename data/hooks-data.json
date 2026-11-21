@@ -2,7 +2,7 @@
   "schema_version": "1.0",
   "updated": "2026-11-15",
   "written_by": "scripts/hooks_hub_extract.py for the first write; since 2026-11-08 every write goes through scripts/hubs_writer.py: the Monday turn writes the machine fields from 7-2, the console writes decisions, and people write the editorial fields with its set, put and apply verbs",
-  "rules_version": "hooks-config@23a3129e · claims@ed672aa5 · reader@4bc1536f",
+  "rules_version": "hooks-config@23a3129e · claims@4d52f2d0 · reader@4bc1536f",
   "footer": "Kenetik Creator Hub · Hook performance from our TikTok Shop and Meta ad campaigns, measured on each video's spoken opening line. Refreshed weekly. Figures are past performance and not a guarantee of what any individual video will earn.",
   "top_now": {
     "window": {
@@ -7230,12 +7230,12 @@
         "how": "quoted from a video that sold inside the proof window"
       },
       "proof": {
-        "videos_made": 1,
-        "converting_videos": 0,
-        "distinct_creators": 0,
-        "revenue_usd": 0.0,
-        "as_of": "2026-10-25",
-        "how": "Counted from the videos whose spoken opening matched this line and were posted between 2026-09-28 and 2026-10-25."
+        "videos_made": "UNKNOWN",
+        "converting_videos": "UNKNOWN",
+        "distinct_creators": "UNKNOWN",
+        "revenue_usd": "UNKNOWN",
+        "as_of": "2026-11-20",
+        "how": "no video has been read against this line yet"
       },
       "rules": {
         "checked_on": "2026-11-01",
@@ -21332,12 +21332,12 @@
         "how": "quoted from a video that sold inside the proof window"
       },
       "proof": {
-        "videos_made": 1,
-        "converting_videos": 1,
-        "distinct_creators": 1,
-        "revenue_usd": 83.82,
-        "as_of": "2026-11-02",
-        "how": "Counted from the videos whose spoken opening matched this line and were posted between 2026-10-06 and 2026-11-02. One creator so far."
+        "videos_made": "UNKNOWN",
+        "converting_videos": "UNKNOWN",
+        "distinct_creators": "UNKNOWN",
+        "revenue_usd": "UNKNOWN",
+        "as_of": "2026-11-20",
+        "how": "no video has been read against this line yet"
       },
       "rules": {
         "checked_on": "2026-11-01",
