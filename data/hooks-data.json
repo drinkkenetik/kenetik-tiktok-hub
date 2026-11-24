@@ -22012,18 +22012,19 @@
         "how": "quoted from a video that outsold a Top 10 card over the turn's window"
       },
       "proof": {
-        "videos_made": "UNKNOWN",
-        "converting_videos": "UNKNOWN",
-        "distinct_creators": "UNKNOWN",
-        "revenue_usd": "UNKNOWN",
-        "as_of": "2026-11-22",
-        "how": "no video has been read against this line yet"
+        "videos_made": 1,
+        "converting_videos": 1,
+        "distinct_creators": 1,
+        "revenue_usd": 174.53,
+        "as_of": "2026-11-23",
+        "how": "Counted from the videos whose spoken opening matched this line and were posted between 2026-10-27 and 2026-11-23. One creator so far."
       },
       "rules": {
         "checked_on": "2026-11-22",
         "passed": true,
         "broken": []
-      }
+      },
+      "angle_id_proposed": "unclassified"
     }
   },
   "tabs": [
@@ -26369,150 +26370,7 @@
       ]
     }
   ],
-  "changes_pending": [
-    {
-      "kind": "hook_swap",
-      "tab": "top-10-now",
-      "in": "h-0722",
-      "out": "h-0274",
-      "owner": "nick",
-      "since": "2026-11-22",
-      "evidence": {
-        "in": {
-          "text": "Your not old, your brain just needs some help. I thought brain fog was just part of getting older, along with the fatigue, but I found out that what I was actually missing was what my brain wanted.",
-          "source": {
-            "kind": "quoted",
-            "creator": "7496079153193585388",
-            "euka_video_id": "7701186068984433950",
-            "video_url": "https://www.tiktok.com/@.outdoorsdad/video/7701186068984433950",
-            "verified_against": "transcript",
-            "verified_on": "2026-11-08",
-            "convention": "a line a creator said, taken from the transcript of this video rather than the caption under it",
-            "how": "quoted from a video that outsold a Top 10 card over the turn's window"
-          },
-          "proof": {
-            "converting_videos": "UNKNOWN",
-            "creators": "UNKNOWN",
-            "revenue_usd": 202.57,
-            "window": {
-              "start": "2026-08-25",
-              "end": "2026-11-22"
-            }
-          },
-          "rules": {
-            "passed": true,
-            "broken": [],
-            "how": "This line passes the checks for an em dash, cart words, Kenetik named as another category, our own words for the work, caffeine named more than once, a claim with no proof on file and a deal in the lead.",
-            "checked_on": "2026-11-22"
-          }
-        },
-        "out": {
-          "text": "“Get rid of that brain fog without caffeine.”",
-          "proof": {
-            "converting_videos": "UNKNOWN",
-            "revenue_usd": 168.11
-          },
-          "why": "its video has $168 in TikTok Shop sales, the least of the ten",
-          "position": 10,
-          "video_id": "7678176777495153951"
-        },
-        "card": {
-          "video_id": "7701186068984433950",
-          "url": "https://www.tiktok.com/@.outdoorsdad/video/7701186068984433950",
-          "image": "https://database.euka.ai/storage/v1/object/public/creator_videos_photos/7701186068984433950.webp",
-          "image_alt": "Creator video",
-          "tag": "",
-          "quote": "“Your not old, your brain just needs some help. I thought brain fog was just part of getting older, along with the fatigue, but I found out that what I was actually missing was what my brain wanted.”",
-          "handle": "@.outdoorsdad",
-          "figure": "$203",
-          "note": "TikTok Shop · 4 orders",
-          "sales": {
-            "figure": "$203",
-            "note": "TikTok Shop · 4 orders",
-            "source": "tiktok_shop",
-            "window": {
-              "start": "2026-08-25",
-              "end": "2026-11-22"
-            },
-            "as_of": "2026-11-22"
-          }
-        },
-        "verified": "transcript",
-        "how": "This video sold $203 on TikTok Shop over the turn's window and is not on the Top 10, which says it lists the ten videos that sold the most. It would take the place of the card whose video has $168 in TikTok Shop sales. Approving it replaces the card and its line together; the card's short tag starts empty for you to write."
-      }
-    },
-    {
-      "kind": "hook_swap",
-      "tab": "top-10-now",
-      "in": "h-0724",
-      "out": "h-0280",
-      "owner": "nick",
-      "since": "2026-11-22",
-      "evidence": {
-        "in": {
-          "text": "I found natural a pill erall I generally feel like I take when I drink this, raise your hand if it's 5pm and you already want to crawl into bed.",
-          "source": {
-            "kind": "quoted",
-            "creator": "7494016730179666949",
-            "euka_video_id": "7704430567168789791",
-            "video_url": "https://www.tiktok.com/@the.fitgirl/video/7704430567168789791",
-            "verified_against": "transcript",
-            "verified_on": "2026-11-22",
-            "convention": "a line a creator said, taken from the transcript of this video rather than the caption under it",
-            "how": "quoted from a video that outsold a Top 10 card over the turn's window"
-          },
-          "proof": {
-            "converting_videos": "UNKNOWN",
-            "creators": "UNKNOWN",
-            "revenue_usd": 174.53,
-            "window": {
-              "start": "2026-08-25",
-              "end": "2026-11-22"
-            }
-          },
-          "rules": {
-            "passed": true,
-            "broken": [],
-            "how": "This line passes the checks for an em dash, cart words, Kenetik named as another category, our own words for the work, caffeine named more than once, a claim with no proof on file and a deal in the lead.",
-            "checked_on": "2026-11-22"
-          }
-        },
-        "out": {
-          "text": "“With that mid-afternoon crash a lot of times we go to reach for more caffeine and then we’re restless.”",
-          "proof": {
-            "converting_videos": "UNKNOWN",
-            "revenue_usd": 174.37
-          },
-          "why": "its video has $174 in TikTok Shop sales, the least of the ten",
-          "position": 9,
-          "video_id": "7693329256230718733"
-        },
-        "card": {
-          "video_id": "7704430567168789791",
-          "url": "https://www.tiktok.com/@the.fitgirl/video/7704430567168789791",
-          "image": "https://database.euka.ai/storage/v1/object/public/creator_videos_photos/7704430567168789791.webp",
-          "image_alt": "Creator video",
-          "tag": "",
-          "quote": "“I found natural a pill erall I generally feel like I take when I drink this, raise your hand if it's 5pm and you already want to crawl into bed.”",
-          "handle": "@the.fitgirl",
-          "figure": "$175",
-          "note": "TikTok Shop · 3 orders",
-          "sales": {
-            "figure": "$175",
-            "note": "TikTok Shop · 3 orders",
-            "source": "tiktok_shop",
-            "window": {
-              "start": "2026-08-25",
-              "end": "2026-11-22"
-            },
-            "as_of": "2026-11-22"
-          }
-        },
-        "verified": "transcript",
-        "how": "This video sold $175 on TikTok Shop over the turn's window and is not on the Top 10, which says it lists the ten videos that sold the most. It would take the place of the card whose video has $174 in TikTok Shop sales. Approving it replaces the card and its line together; the card's short tag starts empty for you to write."
-      }
-    }
-  ],
+  "changes_pending": [],
   "decisions": [
     {
       "kind": "hook_swap",
@@ -31663,6 +31521,28 @@
       "reason": "Today's run can't read any line on this tab, and a figure nobody read is never the weakest, so today's figures don't raise this swap.",
       "by": "the turn",
       "at": "2026-11-16",
+      "owner": "nick"
+    },
+    {
+      "kind": "hook_swap",
+      "tab": "top-10-now",
+      "in": "h-0722",
+      "out": "h-0274",
+      "decision": "withdrawn",
+      "reason": "Today's run can't read any line on this tab, and a figure nobody read is never the weakest, so today's figures don't raise this swap.",
+      "by": "the turn",
+      "at": "2026-11-23",
+      "owner": "nick"
+    },
+    {
+      "kind": "hook_swap",
+      "tab": "top-10-now",
+      "in": "h-0724",
+      "out": "h-0280",
+      "decision": "withdrawn",
+      "reason": "Today's run can't read any line on this tab, and a figure nobody read is never the weakest, so today's figures don't raise this swap.",
+      "by": "the turn",
+      "at": "2026-11-23",
       "owner": "nick"
     }
   ],
