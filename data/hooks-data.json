@@ -693,13 +693,11 @@
         "how": "no video has been read against this line yet"
       },
       "rules": {
-        "checked_on": "2026-11-01",
-        "passed": false,
-        "broken": [
-          "legal_line"
-        ]
+        "checked_on": "2026-11-27",
+        "passed": true,
+        "broken": []
       },
-      "angle_id_proposed": "unclassified"
+      "angle_id_proposed": "caffeine-stopped-working"
     },
     "h-0024": {
       "hook_id": "h-0024",
@@ -1260,13 +1258,11 @@
         "how": "no video has been read against this line yet"
       },
       "rules": {
-        "checked_on": "2026-11-01",
-        "passed": false,
-        "broken": [
-          "legal_line"
-        ]
+        "checked_on": "2026-11-27",
+        "passed": true,
+        "broken": []
       },
-      "angle_id_proposed": "what-it-is"
+      "angle_id_proposed": "caffeine-stopped-working"
     },
     "h-0045": {
       "hook_id": "h-0045",
@@ -1604,13 +1600,11 @@
         "how": "no video has been read against this line yet"
       },
       "rules": {
-        "checked_on": "2026-11-01",
-        "passed": false,
-        "broken": [
-          "legal_line"
-        ]
+        "checked_on": "2026-11-27",
+        "passed": true,
+        "broken": []
       },
-      "angle_id_proposed": "what-it-is"
+      "angle_id_proposed": "unclassified"
     },
     "h-0058": {
       "hook_id": "h-0058",
@@ -1898,13 +1892,11 @@
         "how": "no video has been read against this line yet"
       },
       "rules": {
-        "checked_on": "2026-11-01",
-        "passed": false,
-        "broken": [
-          "legal_line"
-        ]
+        "checked_on": "2026-11-27",
+        "passed": true,
+        "broken": []
       },
-      "angle_id_proposed": "what-it-is"
+      "angle_id_proposed": "unclassified"
     },
     "h-0069": {
       "hook_id": "h-0069",
@@ -2141,13 +2133,11 @@
         "how": "no video has been read against this line yet"
       },
       "rules": {
-        "checked_on": "2026-11-01",
-        "passed": false,
-        "broken": [
-          "legal_line"
-        ]
+        "checked_on": "2026-11-27",
+        "passed": true,
+        "broken": []
       },
-      "angle_id_proposed": "what-it-is"
+      "angle_id_proposed": "unclassified"
     },
     "h-0078": {
       "hook_id": "h-0078",
@@ -2407,13 +2397,11 @@
         "how": "no video has been read against this line yet"
       },
       "rules": {
-        "checked_on": "2026-11-01",
-        "passed": false,
-        "broken": [
-          "legal_line"
-        ]
+        "checked_on": "2026-11-27",
+        "passed": true,
+        "broken": []
       },
-      "angle_id_proposed": "what-it-is"
+      "angle_id_proposed": "unclassified"
     },
     "h-0088": {
       "hook_id": "h-0088",
@@ -2679,13 +2667,11 @@
         "how": "no video has been read against this line yet"
       },
       "rules": {
-        "checked_on": "2026-11-01",
-        "passed": false,
-        "broken": [
-          "legal_line"
-        ]
+        "checked_on": "2026-11-27",
+        "passed": true,
+        "broken": []
       },
-      "angle_id_proposed": "unclassified"
+      "angle_id_proposed": "caffeine-stopped-working"
     },
     "h-0098": {
       "hook_id": "h-0098",
@@ -2946,13 +2932,11 @@
         "how": "no video has been read against this line yet"
       },
       "rules": {
-        "checked_on": "2026-11-01",
-        "passed": false,
-        "broken": [
-          "legal_line"
-        ]
+        "checked_on": "2026-11-27",
+        "passed": true,
+        "broken": []
       },
-      "angle_id_proposed": "what-it-is"
+      "angle_id_proposed": "unclassified"
     },
     "h-0108": {
       "hook_id": "h-0108",
@@ -3213,13 +3197,11 @@
         "how": "no video has been read against this line yet"
       },
       "rules": {
-        "checked_on": "2026-11-01",
-        "passed": false,
-        "broken": [
-          "legal_line"
-        ]
+        "checked_on": "2026-11-27",
+        "passed": true,
+        "broken": []
       },
-      "angle_id_proposed": "unclassified"
+      "angle_id_proposed": "caffeine-stopped-working"
     },
     "h-0118": {
       "hook_id": "h-0118",
@@ -3480,13 +3462,11 @@
         "how": "no video has been read against this line yet"
       },
       "rules": {
-        "checked_on": "2026-11-01",
-        "passed": false,
-        "broken": [
-          "legal_line"
-        ]
+        "checked_on": "2026-11-27",
+        "passed": true,
+        "broken": []
       },
-      "angle_id_proposed": "unclassified"
+      "angle_id_proposed": "caffeine-stopped-working"
     },
     "h-0128": {
       "hook_id": "h-0128",
@@ -3747,11 +3727,9 @@
         "how": "no video has been read against this line yet"
       },
       "rules": {
-        "checked_on": "2026-11-01",
-        "passed": false,
-        "broken": [
-          "legal_line"
-        ]
+        "checked_on": "2026-11-27",
+        "passed": true,
+        "broken": []
       },
       "angle_id_proposed": "caffeine-stopped-working"
     },
@@ -4243,13 +4221,11 @@
         "how": "no video has been read against this line yet"
       },
       "rules": {
-        "checked_on": "2026-11-01",
-        "passed": false,
-        "broken": [
-          "legal_line"
-        ]
+        "checked_on": "2026-11-27",
+        "passed": true,
+        "broken": []
       },
-      "angle_id_proposed": "unclassified"
+      "angle_id_proposed": "caffeine-stopped-working"
     },
     "h-0157": {
       "hook_id": "h-0157",
@@ -4776,13 +4752,11 @@
         "how": "no video has been read against this line yet"
       },
       "rules": {
-        "checked_on": "2026-11-01",
-        "passed": false,
-        "broken": [
-          "legal_line"
-        ]
+        "checked_on": "2026-11-27",
+        "passed": true,
+        "broken": []
       },
-      "angle_id_proposed": "in-the-moment"
+      "angle_id_proposed": "unclassified"
     },
     "h-0177": {
       "hook_id": "h-0177",
@@ -5046,13 +5020,11 @@
         "how": "no video has been read against this line yet"
       },
       "rules": {
-        "checked_on": "2026-11-01",
-        "passed": false,
-        "broken": [
-          "legal_line"
-        ]
+        "checked_on": "2026-11-27",
+        "passed": true,
+        "broken": []
       },
-      "angle_id_proposed": "unclassified"
+      "angle_id_proposed": "caffeine-stopped-working"
     },
     "h-0187": {
       "hook_id": "h-0187",
@@ -5316,13 +5288,11 @@
         "how": "no video has been read against this line yet"
       },
       "rules": {
-        "checked_on": "2026-11-01",
-        "passed": false,
-        "broken": [
-          "legal_line"
-        ]
+        "checked_on": "2026-11-27",
+        "passed": true,
+        "broken": []
       },
-      "angle_id_proposed": "unclassified"
+      "angle_id_proposed": "caffeine-stopped-working"
     },
     "h-0197": {
       "hook_id": "h-0197",
@@ -6118,13 +6088,11 @@
         "how": "no video has been read against this line yet"
       },
       "rules": {
-        "checked_on": "2026-11-01",
-        "passed": false,
-        "broken": [
-          "legal_line"
-        ]
+        "checked_on": "2026-11-27",
+        "passed": true,
+        "broken": []
       },
-      "angle_id_proposed": "unclassified"
+      "angle_id_proposed": "caffeine-stopped-working"
     },
     "h-0227": {
       "hook_id": "h-0227",
@@ -6393,14 +6361,11 @@
         "how": "no video has been read against this line yet"
       },
       "rules": {
-        "checked_on": "2026-11-01",
-        "passed": false,
-        "broken": [
-          "em_dash",
-          "legal_line"
-        ]
+        "checked_on": "2026-11-27",
+        "passed": true,
+        "broken": []
       },
-      "angle_id_proposed": "unclassified"
+      "angle_id_proposed": "caffeine-stopped-working"
     },
     "h-0237": {
       "hook_id": "h-0237",
@@ -7832,13 +7797,11 @@
         "how": "no video has been read against this line yet"
       },
       "rules": {
-        "checked_on": "2026-11-01",
-        "passed": false,
-        "broken": [
-          "legal_line"
-        ]
+        "checked_on": "2026-11-27",
+        "passed": true,
+        "broken": []
       },
-      "angle_id_proposed": "what-it-is"
+      "angle_id_proposed": "unclassified"
     },
     "h-0292": {
       "hook_id": "h-0292",
@@ -9946,13 +9909,11 @@
         "how": "no video has been read against this line yet"
       },
       "rules": {
-        "checked_on": "2026-11-01",
-        "passed": false,
-        "broken": [
-          "legal_line"
-        ]
+        "checked_on": "2026-11-27",
+        "passed": true,
+        "broken": []
       },
-      "angle_id_proposed": "unclassified",
+      "angle_id_proposed": "caffeine-stopped-working",
       "entered": {
         "on": "2026-10-15",
         "tab": "mma",
@@ -21254,13 +21215,11 @@
         "how": "no video has been read against this line yet"
       },
       "rules": {
-        "checked_on": "2026-11-01",
-        "passed": false,
-        "broken": [
-          "legal_line"
-        ]
+        "checked_on": "2026-11-27",
+        "passed": true,
+        "broken": []
       },
-      "angle_id_proposed": "what-it-is"
+      "angle_id_proposed": "unclassified"
     },
     "h-0695": {
       "hook_id": "h-0695",
